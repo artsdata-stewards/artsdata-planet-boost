@@ -38,5 +38,6 @@ jobs:
 
       - name: Test organization data
         run: |
+          sleep 10
           echo "Testing organization: ${{ matrix.org.url }} (Wikidata ID: ${{ matrix.org.artifact }})"
           

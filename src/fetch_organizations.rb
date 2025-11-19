@@ -40,6 +40,8 @@ data = rows.map do |row|
   }
 end
 
+data = data[0..255] # Limit to first 256 rows for testing
+
 File.write("wikidata_orgs.json", JSON.pretty_generate(data))
 
 puts "Saved #{data.size} rows to wikidata_orgs.json"
