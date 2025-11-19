@@ -4,25 +4,55 @@ on:
   workflow_dispatch:
 
 jobs:
+  fetch_organizations:
+    outputs:
+      matrix: ${{ steps.process-matrix.outputs.matrix }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+
+      - name: Run fetch_organizations.rb
+        run: bundle exec ruby src/fetch_organizations.rb
+
+      - name: upload artifact
+        uses: actions/upload-artifact@v5
+        with:
+          name: org-batches
+          path: wikidata_orgs_*.json
+
   dispatch_batches:
     runs-on: ubuntu-latest
+    needs: fetch_organizations
+    env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
       - name: Find batch files
         id: batches
-        run: |
-          FILES=$(ls wikidata_orgs_*.json)
-          echo "files<<EOF" >> $GITHUB_OUTPUT
-          echo "$FILES" >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
+        uses: actions/download-artifact@v5
+        with:
+          name: org-batches
 
-      - name: Dispatch Batch Processor workflows
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Dispatch workflows with file content
         run: |
-          for f in ${{ steps.batches.outputs.files }}; do
-            echo "Dispatching batch for $f"
-            gh workflow run process-batch.yml -f batch_file="$f"
-          done
+            BATCH_DIR="${{ steps.batches.outputs.download-path }}"
+
+            for file in "$BATCH_DIR"/wikidata_orgs_*.json; do
+            echo "Reading: $file"
+
+            # Encode file content in Base64
+            CONTENT=$(base64 -w0 "$file")
+
+            echo "Dispatching with embedded content"
+            gh workflow run process-batch.yml \
+                --ref main \
+                --field batch_content="$CONTENT"
+            done

@@ -3,10 +3,10 @@ name: Process Organization Batch
 on:
   workflow_dispatch:
     inputs:
-      batch_file:
+      batch_content:
         required: true
         type: string
-        description: 'The batch JSON file to process'   
+        description: 'Base64-encoded JSON batch data'
 
 jobs:
   load_json:
@@ -16,10 +16,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Decode batch content
+        run: |
+          echo "${{ github.event.inputs.batch_content }}" | base64 -d > batch.json
+          echo "Decoded batch.json:"
+          cat batch.json
+
       - id: load
         run: |
-          echo "Loading file ${{ github.event.inputs.batch_file }}"
-          MATRIX=$(cat "${{ github.event.inputs.batch_file }}" | jq -c .)
+          echo "Loading Base64 batch content into matrix"
+          MATRIX=$(jq -c . batch.json)
           echo "matrix=${MATRIX}" >> $GITHUB_OUTPUT
 
   run_matrix:
