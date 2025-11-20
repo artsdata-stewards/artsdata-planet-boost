@@ -1,0 +1,3643 @@
+[
+  {
+    "@id": "https://www.ladansesurlesroutes.com/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "La danse sur les routes du Québec - Accueil"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "La DSR représente ses membres et travaille en réseau pour la promotion de la danse au Québec, au Canada et à l’international."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La danse sur les routes"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-10-09T14:12:11+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/wp-content/uploads/2022/12/placeholder-dsr.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "912"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "548"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ladansesurlesroutes.com/"
+      },
+      {
+        "@id": "https://www.ladansesurlesroutes.com/#content"
+      },
+      {
+        "@id": "https://www.ladansesurlesroutes.com/#"
+      },
+      {
+        "@id": "https://www.ladansesurlesroutes.com/#haut"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ladansesurlesroutes.com/#website"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://ladansesurlesroutes.com/#organization"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ladansesurlesroutes.com/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ladansesurlesroutes.com/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2022/12/placeholder-dsr.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-08-11T00:30:50+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-09T14:12:11+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://ladansesurlesroutes.com/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460700"
+      },
+      {
+        "@id": "_:g508300"
+      },
+      {
+        "@id": "_:g640560"
+      },
+      {
+        "@id": "_:g750660"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La danse sur les routes du Québec - Accueil"
+      },
+      {
+        "@value": "La danse sur les routes du Québec - Accueil"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "La DSR représente ses membres et travaille en réseau pour la promotion de la danse au Québec, au Canada et à l’international."
+      },
+      {
+        "@value": "La DSR représente ses membres et travaille en réseau pour la promotion de la danse au Québec, au Canada et à l’international."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      },
+      {
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://ladansesurlesroutes.com/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460740"
+      },
+      {
+        "@id": "_:g476500"
+      },
+      {
+        "@id": "_:g493080"
+      },
+      {
+        "@id": "_:g508340"
+      },
+      {
+        "@id": "_:g524020"
+      },
+      {
+        "@id": "_:g540460"
+      },
+      {
+        "@id": "_:g557540"
+      },
+      {
+        "@id": "_:g574780"
+      },
+      {
+        "@id": "_:g592060"
+      },
+      {
+        "@id": "_:g607800"
+      },
+      {
+        "@id": "_:g624280"
+      },
+      {
+        "@id": "_:g640600"
+      },
+      {
+        "@id": "_:g656260"
+      },
+      {
+        "@id": "_:g672720"
+      },
+      {
+        "@id": "_:g688740"
+      },
+      {
+        "@id": "_:g703540"
+      },
+      {
+        "@id": "_:g718900"
+      },
+      {
+        "@id": "_:g734800"
+      },
+      {
+        "@id": "_:g750700"
+      },
+      {
+        "@id": "_:g766340"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La danse sur les routes"
+      },
+      {
+        "@value": "La danse sur les routes"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      },
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      },
+      {
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ladansesurlesroutes.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ladansesurlesroutes.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La Danse sur les routes"
+      },
+      {
+        "@value": "La Danse sur les routes"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "La DSR"
+      },
+      {
+        "@value": "La DSR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2022/12/placeholder-dsr.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2022/12/placeholder-dsr.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "912"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "548"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      },
+      {
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460700",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ladansesurlesroutes.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508300",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://ladansesurlesroutes.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g640560",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://ladansesurlesroutes.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g750660",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://ladansesurlesroutes.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460740",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g460760"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g460780"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476500",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g476520"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g476540"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493080",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g493100"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g493120"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508340",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g508360"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g508380"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524020",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g524040"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g524060"
+      }
+    ]
+  },
+  {
+    "@id": "_:g540460",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g540480"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g540500"
+      }
+    ]
+  },
+  {
+    "@id": "_:g557540",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g557560"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g557580"
+      }
+    ]
+  },
+  {
+    "@id": "_:g574780",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g574800"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g574820"
+      }
+    ]
+  },
+  {
+    "@id": "_:g592060",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g592080"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g592100"
+      }
+    ]
+  },
+  {
+    "@id": "_:g607800",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g607820"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g607840"
+      }
+    ]
+  },
+  {
+    "@id": "_:g624280",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g624300"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g624320"
+      }
+    ]
+  },
+  {
+    "@id": "_:g640600",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g640620"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g640640"
+      }
+    ]
+  },
+  {
+    "@id": "_:g656260",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g656280"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g656300"
+      }
+    ]
+  },
+  {
+    "@id": "_:g672720",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g672740"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g672760"
+      }
+    ]
+  },
+  {
+    "@id": "_:g688740",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g688760"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g688780"
+      }
+    ]
+  },
+  {
+    "@id": "_:g703540",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g703560"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g703580"
+      }
+    ]
+  },
+  {
+    "@id": "_:g718900",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g718920"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g718940"
+      }
+    ]
+  },
+  {
+    "@id": "_:g734800",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g734820"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g734840"
+      }
+    ]
+  },
+  {
+    "@id": "_:g750700",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g750720"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g750740"
+      }
+    ]
+  },
+  {
+    "@id": "_:g766340",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g766360"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g766380"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2023/05/26_lettres_a_danser_Rolline_Laporte.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2023/05/26_lettres_a_danser_Rolline_Laporte.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1029"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "684"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      },
+      {
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "La Danse sur les routes"
+      },
+      {
+        "@value": "La Danse sur les routes"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460760",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://ladansesurlesroutes.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460780",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ladansesurlesroutes.com/calendrier/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Calendrier - La danse sur les routes"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Représentations à venir Crédit photo Interprètes sur la photo de gauche à droite : Maxime Lepage, Marc-André Poliquin et Alexandre TondoloPhoto : Jean Charles Verchère Le problème avec le rose du Petit Théâtre de Sherbrooke et La [parenthèse]-Christophe Garcia Recherche Public cible Sélectionnez une option Public cible Adulte Ainés Enfance (8-12 ans) Familles Jeunesse Jeunesse (13 […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/calendrier/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La danse sur les routes"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2023-10-16T14:14:19+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/wp-content/uploads/2022/12/bas-page-repertoire.svg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ladansesurlesroutes.com/calendrier/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/calendrier/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/calendrier/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ladansesurlesroutes.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ladansesurlesroutes.com/calendrier/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ladansesurlesroutes.com/calendrier/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2022/12/bas-page-repertoire.svg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-12-06T13:09:11+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-16T14:14:19+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://ladansesurlesroutes.com/calendrier/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g476440"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Calendrier - La danse sur les routes"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/calendrier/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2022/12/bas-page-repertoire.svg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2022/12/bas-page-repertoire.svg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "87"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "24"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476440",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ladansesurlesroutes.com/calendrier/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476520",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://ladansesurlesroutes.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476540",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ladansesurlesroutes.com/activites/programme-de-developpement-de-la-danse/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Programme de développement de la danse - La danse sur les routes"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Programme de développement de la danse Mille batailles de Louise Lecavalier / Fou Glorieux avec Louise Lecavalier et Robert Abubo Photo : André Cornellier Avec le programme de développement de la danse, La DSR soutient 32 diffuseurs pluridisciplinaires en région afin qu’ils développent et pérennisent une série danse dans leur programmation, à laquelle doit s’ajouter […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/activites/programme-de-developpement-de-la-danse/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La danse sur les routes"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-09-25T12:19:48+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/wp-content/uploads/2020/09/programme-developpement-danse-scaled.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "2560"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1723"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ladansesurlesroutes.com/activites/programme-de-developpement-de-la-danse/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/activites/programme-de-developpement-de-la-danse/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/activites/programme-de-developpement-de-la-danse/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ladansesurlesroutes.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ladansesurlesroutes.com/activites/programme-de-developpement-de-la-danse/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ladansesurlesroutes.com/activites/programme-de-developpement-de-la-danse/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2020/09/programme-developpement-danse-scaled.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-08-11T18:03:55+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-25T12:19:48+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://ladansesurlesroutes.com/activites/programme-de-developpement-de-la-danse/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g493000"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Programme de développement de la danse - La danse sur les routes"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/activites/programme-de-developpement-de-la-danse/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2020/09/programme-developpement-danse-scaled.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2020/09/programme-developpement-danse-scaled.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1723"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "Dance Company : Fou Glorieux Title english : BATTLEGROUND Titre français: Mille Batailles Choreographer : Louise Lcavalier Dancers: Louise Lecavalier &amp; Rob Abubo"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493000",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ladansesurlesroutes.com/activites/programme-de-developpement-de-la-danse/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493100",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://ladansesurlesroutes.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493120",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508360",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://ladansesurlesroutes.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508380",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ladansesurlesroutes.com/a-propos/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "À propos - La danse sur les routes"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "À propos Breach de Other Animals / Alexandre Morin avec Alexandre Morin, Noémie Dufour-Campeau, Ivanie Aubin-Malo, Simon Renaud, Jonathan GouletPhoto : Frédéric Chais Nos valeurs En quelques mots Enrichissement L’intervention de La DSR s’inscrit dans une perspective d’enrichissement des connaissances et des pratiques pour accroître et améliorer la diffusion de la danse. Engagement La DSR […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/a-propos/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La danse sur les routes"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-09-24T13:08:31+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/wp-content/uploads/2023/05/26_lettres_a_danser_Rolline_Laporte.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1029"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "684"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ladansesurlesroutes.com/a-propos/#valeurs"
+      },
+      {
+        "@id": "https://www.ladansesurlesroutes.com/a-propos/#histoire"
+      },
+      {
+        "@id": "https://www.ladansesurlesroutes.com/a-propos/#ca"
+      },
+      {
+        "@id": "https://www.ladansesurlesroutes.com/a-propos/#partenaires"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/a-propos/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/a-propos/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ladansesurlesroutes.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ladansesurlesroutes.com/a-propos/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ladansesurlesroutes.com/a-propos/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2022/12/bas-page-repertoire.svg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-08-11T02:21:16+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-24T13:08:31+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://ladansesurlesroutes.com/a-propos/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g523960"
+      },
+      {
+        "@id": "_:g540400"
+      },
+      {
+        "@id": "_:g557480"
+      },
+      {
+        "@id": "_:g574720"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "À propos - La danse sur les routes"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/a-propos/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2022/12/bas-page-repertoire.svg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2022/12/bas-page-repertoire.svg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "87"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "24"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523960",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://ladansesurlesroutes.com/a-propos/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g540400",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://ladansesurlesroutes.com/a-propos/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g557480",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://ladansesurlesroutes.com/a-propos/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g574720",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://ladansesurlesroutes.com/a-propos/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524040",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://ladansesurlesroutes.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524060",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g540480",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://ladansesurlesroutes.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g540500",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g557560",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://ladansesurlesroutes.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g557580",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g574800",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://ladansesurlesroutes.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g574820",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ladansesurlesroutes.com/activites/autochtonie-et-diversite/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Danses autochtones - La danse sur les routes"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "De 2018 à 2020, La DSR a mis sur pied un programme pilote de codéveloppement de compétences en diffusion de la danse pour des artistes qui s’auto-identifient comme membres d’une communauté autochtone ou racisée."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/activites/autochtonie-et-diversite/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La danse sur les routes"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-10-11T18:01:53+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/wp-content/uploads/2020/12/En-tête-site-internet-scaled.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "2560"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1432"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ladansesurlesroutes.com/activites/autochtonie-et-diversite/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/activites/autochtonie-et-diversite/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/activites/autochtonie-et-diversite/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ladansesurlesroutes.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ladansesurlesroutes.com/activites/autochtonie-et-diversite/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ladansesurlesroutes.com/activites/autochtonie-et-diversite/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2020/12/En-tête-site-internet-scaled.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-08-11T18:05:25+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-11T18:01:53+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://ladansesurlesroutes.com/activites/autochtonie-et-diversite/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g591980"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Danses autochtones - La danse sur les routes"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "De 2018 à 2020, La DSR a mis sur pied un programme pilote de codéveloppement de compétences en diffusion de la danse pour des artistes qui s’auto-identifient comme membres d’une communauté autochtone ou racisée."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/activites/autochtonie-et-diversite/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2020/12/En-tête-site-internet-scaled.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2020/12/En-tête-site-internet-scaled.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1432"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g591980",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ladansesurlesroutes.com/activites/autochtonie-et-diversite/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g592080",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://ladansesurlesroutes.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g592100",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ladansesurlesroutes.com/activites/formations/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Les Formations de La DSR - La danse sur les routes"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Activités Les formations Crédit photo D’un souffle commun de Sinha Danse Interprètes sur la photo : Amélia Lamanque, Olivia Jaen Flores, Citlali Germé, Emmanuelle Martin Photo : Vitor Munhoz Formations 2025-2026 Formations à venir Formations passées Public de la formation Sélectionnez une option Checkbox – Formations Artiste et travailleur.euse culturel.le Diffuseur Réinitialiser les filtres S’initier […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/activites/formations/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La danse sur les routes"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-10-08T14:54:15+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/wp-content/uploads/2020/09/Formation.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "2400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1164"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ladansesurlesroutes.com/activites/formations/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/activites/formations/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/activites/formations/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ladansesurlesroutes.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ladansesurlesroutes.com/activites/formations/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ladansesurlesroutes.com/activites/formations/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2020/09/Formation.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-05-26T17:13:05+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-08T14:54:15+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://ladansesurlesroutes.com/activites/formations/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g607720"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Formations de La DSR - La danse sur les routes"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/activites/formations/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2020/09/Formation.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2020/09/Formation.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2400"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1164"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g607720",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ladansesurlesroutes.com/activites/formations/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g607820",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://ladansesurlesroutes.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g607840",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ladansesurlesroutes.com/activites/jouer-dehors/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Jouer Dehors - La danse sur les routes"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Jouer dehors Crédit photo Corps/Paysage Interprètes sur la photo, de gauche à droite: Stacey Désilier, Geneviève Robitaille Photo: Marie Lambin-Gagnon Jouer dehors offre une sélection de 9 projets destinés à être présentés dans l’espace public: parc, centre commercial, centre communautaire, parvis d’église, quai, hall de musée, jardin, forêt, cour d’école, terrain vague ou hall d’une salle de […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/activites/jouer-dehors/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La danse sur les routes"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-10-09T19:11:19+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/wp-content/uploads/2023/10/bandeau_fb_1640-x-629_JD24.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1640"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "629"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ladansesurlesroutes.com/activites/jouer-dehors/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/activites/jouer-dehors/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/activites/jouer-dehors/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ladansesurlesroutes.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ladansesurlesroutes.com/activites/jouer-dehors/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ladansesurlesroutes.com/activites/jouer-dehors/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2023/10/bandeau_fb_1640-x-629_JD24.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-12-12T13:12:40+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-09T19:11:19+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://ladansesurlesroutes.com/activites/jouer-dehors/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g624200"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Jouer Dehors - La danse sur les routes"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/activites/jouer-dehors/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2023/10/bandeau_fb_1640-x-629_JD24.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2023/10/bandeau_fb_1640-x-629_JD24.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1640"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "629"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g624200",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ladansesurlesroutes.com/activites/jouer-dehors/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g624300",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://ladansesurlesroutes.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g624320",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g640620",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://ladansesurlesroutes.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g640640",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ladansesurlesroutes.com/repertoire-des-oeuvres/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Répertoire des membres - Oeuvres - La danse sur les routes"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Répertoire des oeuvres disponibles à la tournée Crédit photo D’os et d’écorce de Sinha Danse Interprètes sur la photo : David Campbell, Citlali Germé-Trevino, François Richard, Roger Sinha, Marie-Ève Lafontaine, Erin O’Loughlin Photo : Vitor Munhoz Recherche Public cible Sélectionnez une option Public cible Adulte Ainés Enfance (8-12 ans) Familles Jeunesse Jeunesse (13 ans et […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/repertoire-des-oeuvres/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La danse sur les routes"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-09-23T14:07:26+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/wp-content/uploads/2023/05/26_lettres_a_danser_Rolline_Laporte.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1029"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "684"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ladansesurlesroutes.com/repertoire-des-oeuvres/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/repertoire-des-oeuvres/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/repertoire-des-oeuvres/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ladansesurlesroutes.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ladansesurlesroutes.com/repertoire-des-oeuvres/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ladansesurlesroutes.com/repertoire-des-oeuvres/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2022/12/bas-page-repertoire.svg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-01-22T16:59:46+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-23T14:07:26+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://ladansesurlesroutes.com/repertoire-des-oeuvres/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g656200"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Répertoire des membres - Oeuvres - La danse sur les routes"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/repertoire-des-oeuvres/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2022/12/bas-page-repertoire.svg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2022/12/bas-page-repertoire.svg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "87"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "24"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g656200",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ladansesurlesroutes.com/repertoire-des-oeuvres/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g656280",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://ladansesurlesroutes.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g656300",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ladansesurlesroutes.com/repertoire-des-diffuseurs/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Répertoire des membres - Diffuseurs - La danse sur les routes"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Répertoire des membres Diffuseurs Crédit photo D’os et d’écorce de Sinha Danse Interprètes sur la photo : David Campbell, Citlali Germé-Trevino, François Richard, Roger Sinha, Marie-Ève Lafontaine, Erin O’Loughlin. Photo : Vitor Munhoz Recherche Régions Sélectionnez Régions Abitibi-Témiscamingue Bas Saint-Laurent Capitale Nationale Centre-du-Québec Chaudière-Appalaches Colombie-Britannique Côte-Nord Estrie Gaspésie-Iles-de-la-Madeleine Lanaudière Laurentides Laval Mauricie Montérégie Montréal Outaouais […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/repertoire-des-diffuseurs/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La danse sur les routes"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-03-24T18:14:35+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/wp-content/uploads/2023/05/26_lettres_a_danser_Rolline_Laporte.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1029"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "684"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ladansesurlesroutes.com/repertoire-des-diffuseurs/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/repertoire-des-diffuseurs/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/repertoire-des-diffuseurs/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ladansesurlesroutes.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ladansesurlesroutes.com/repertoire-des-diffuseurs/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ladansesurlesroutes.com/repertoire-des-diffuseurs/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2022/12/bas-page-repertoire.svg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-12-08T13:50:47+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-24T18:14:35+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://ladansesurlesroutes.com/repertoire-des-diffuseurs/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g672660"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Répertoire des membres - Diffuseurs - La danse sur les routes"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/repertoire-des-diffuseurs/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2022/12/bas-page-repertoire.svg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2022/12/bas-page-repertoire.svg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "87"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "24"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g672660",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ladansesurlesroutes.com/repertoire-des-diffuseurs/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g672740",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://ladansesurlesroutes.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g672760",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ladansesurlesroutes.com/repertoire-des-agents/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Répertoire - Agences et agent.e.s de diffusion - La danse sur les routes"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Répertoire des membres Agences et agent.e.s de diffusion Crédit photo D’os et d’écorce de Sinha Danse Interprètes sur la photo : David Campbell, Citlali Germé-Trevino, François Richard, Roger Sinha, Marie-Ève Lafontaine, Erin O’Loughlin. Photo : Vitor Munhoz Recherche Régions Sélectionnez Régions Abitibi-Témiscamingue Bas Saint-Laurent Capitale Nationale Centre-du-Québec Chaudière-Appalaches Colombie-Britannique Côte-Nord Estrie Gaspésie-Iles-de-la-Madeleine Lanaudière Laurentides Laval […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/repertoire-des-agents/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La danse sur les routes"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-03-24T18:14:25+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/wp-content/uploads/2023/05/26_lettres_a_danser_Rolline_Laporte.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1029"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "684"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ladansesurlesroutes.com/repertoire-des-agents/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/repertoire-des-agents/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/repertoire-des-agents/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ladansesurlesroutes.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ladansesurlesroutes.com/repertoire-des-agents/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ladansesurlesroutes.com/repertoire-des-agents/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2022/12/bas-page-repertoire.svg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-12-08T14:16:58+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-24T18:14:25+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://ladansesurlesroutes.com/repertoire-des-agents/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g688680"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Répertoire - Agences et agent.e.s de diffusion - La danse sur les routes"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/repertoire-des-agents/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2022/12/bas-page-repertoire.svg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2022/12/bas-page-repertoire.svg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "87"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "24"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g688680",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ladansesurlesroutes.com/repertoire-des-agents/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g688760",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://ladansesurlesroutes.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g688780",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ladansesurlesroutes.com/repertoire-des-compagnies/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Répertoire - Compagnies, collectifs et artistes en danse - La danse sur les routes"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Répertoire des membres Compagnies, collectifs et artistes en danse Crédit photo D’os et d’écorce de Sinha Danse Interprètes sur la photo : David Campbell, Citlali Germé-Trevino, François Richard, Roger Sinha, Marie-Ève Lafontaine, Erin O’Loughlin Photo : Vitor Munhoz Recherche Régions Sélectionnez Régions Abitibi-Témiscamingue Bas Saint-Laurent Capitale Nationale Centre-du-Québec Chaudière-Appalaches Colombie-Britannique Côte-Nord Estrie Gaspésie-Iles-de-la-Madeleine Lanaudière Laurentides […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/repertoire-des-compagnies/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La danse sur les routes"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-03-24T18:14:45+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/wp-content/uploads/2023/05/26_lettres_a_danser_Rolline_Laporte.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1029"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "684"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ladansesurlesroutes.com/repertoire-des-compagnies/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/repertoire-des-compagnies/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/repertoire-des-compagnies/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ladansesurlesroutes.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ladansesurlesroutes.com/repertoire-des-compagnies/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ladansesurlesroutes.com/repertoire-des-compagnies/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2022/12/bas-page-repertoire.svg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-12-08T14:38:58+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-24T18:14:45+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://ladansesurlesroutes.com/repertoire-des-compagnies/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g703480"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Répertoire - Compagnies, collectifs et artistes en danse - La danse sur les routes"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/repertoire-des-compagnies/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2022/12/bas-page-repertoire.svg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2022/12/bas-page-repertoire.svg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "87"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "24"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g703480",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ladansesurlesroutes.com/repertoire-des-compagnies/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g703560",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://ladansesurlesroutes.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g703580",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ladansesurlesroutes.com/ressources/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Ressources - La danse sur les routes"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Ressources Vraiment doucement de Victor Quijada avec Ryan Taylor, Daniela Jezerinac, Amara Barner, Brontë Poiré-Prest, Jean Bui, Zack Tang, Sydney Mcmanus Paco Ziel, William Lamoureux. Photo : Marie-Noëlle Pilon Les publications de la DSR Cahier des routes Les Cahiers des routes sont des publications de La danse sur les routes du Québec qui s’adressent aux milieux de la danse et de la diffusion. […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/ressources/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La danse sur les routes"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-09-18T17:34:13+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/wp-content/uploads/2022/09/Couverture-MEDIATION-CULTURELLE-WEB-1-1.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "612"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "792"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/png"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ladansesurlesroutes.com/ressources/#cahier-des-routes"
+      },
+      {
+        "@id": "https://www.ladansesurlesroutes.com/ressources/#rapports"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/ressources/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/ressources/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ladansesurlesroutes.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ladansesurlesroutes.com/ressources/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ladansesurlesroutes.com/ressources/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2022/09/Couverture-MEDIATION-CULTURELLE-WEB-1-1.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-08-12T13:59:15+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-18T17:34:13+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://ladansesurlesroutes.com/ressources/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g718840"
+      },
+      {
+        "@id": "_:g734740"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Ressources - La danse sur les routes"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/ressources/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2022/09/Couverture-MEDIATION-CULTURELLE-WEB-1-1.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-content/uploads/2022/09/Couverture-MEDIATION-CULTURELLE-WEB-1-1.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "612"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "792"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g718840",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://ladansesurlesroutes.com/ressources/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g734740",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://ladansesurlesroutes.com/ressources/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g718920",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://ladansesurlesroutes.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g718940",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g734820",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://ladansesurlesroutes.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g734840",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g750720",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://ladansesurlesroutes.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g750740",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ladansesurlesroutes.com/a-propos/autochtonie-et-diversite-engagement",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Engagement envers les artistes autochtones et de la diversité - La danse sur les routes"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Engagement envers les artistes autochtones et dits de la diversité Contexte En accord avec le plan stratégique, cet engagement a pour objectif d’évoluer vers l’équité pour les créateurs autochtones et dits de la diversité dans une perspective durable. Il s’appuie sur les principes suivants : reconnaître les enjeux d’équité, les effets du colonialisme et la […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/a-propos/autochtonie-et-diversite-engagement/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La danse sur les routes"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2022-03-14T14:46:39+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ladansesurlesroutes.com/wp-content/uploads/2023/05/26_lettres_a_danser_Rolline_Laporte.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1029"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "684"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ladansesurlesroutes.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ladansesurlesroutes.com/a-propos/autochtonie-et-diversite-engagement"
+      }
+    ]
+  },
+  {
+    "@id": "https://ladansesurlesroutes.com/a-propos/autochtonie-et-diversite-engagement/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ladansesurlesroutes.com/a-propos/autochtonie-et-diversite-engagement/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ladansesurlesroutes.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-10-23T16:52:59+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-03-14T14:46:39+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://ladansesurlesroutes.com/a-propos/autochtonie-et-diversite-engagement/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g766260"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Engagement envers les artistes autochtones et de la diversité - La danse sur les routes"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g766260",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ladansesurlesroutes.com/a-propos/autochtonie-et-diversite-engagement/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g766360",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://ladansesurlesroutes.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g766380",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  }
+]
