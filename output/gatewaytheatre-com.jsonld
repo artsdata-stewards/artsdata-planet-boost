@@ -1,0 +1,796 @@
+[
+  {
+    "@id": "https://gatewaytheatre.com",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "en-ca",
+        "@value": "zh_HK"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Gateway Theatre - Richmond and Greater Vancouver Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Gateway Theatre is A Stage for Richmond. We produce stories that tackle the ideas, values and issues which reflect the people of this city."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Gateway Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/GatewayThtr"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-11-19T21:55:21+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/wp-content/uploads/2022/10/GT_homepage-test-1-scaled.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "2560"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1280"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://gatewaytheatre.com"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#website"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#organization"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2022/10/GT_homepage-test-1-scaled.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-09-09T13:13:04+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-19T21:55:21+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460820"
+      },
+      {
+        "@id": "_:g472320"
+      },
+      {
+        "@id": "_:g483780"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Gateway Theatre - Richmond and Greater Vancouver Theatre"
+      },
+      {
+        "@value": "Gateway Theatre - Richmond and Greater Vancouver Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Gateway Theatre is A Stage for Richmond. We produce stories that tackle the ideas, values and issues which reflect the people of this city."
+      },
+      {
+        "@value": "Gateway Theatre is A Stage for Richmond. We produce stories that tackle the ideas, values and issues which reflect the people of this city."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      },
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460860"
+      },
+      {
+        "@id": "_:g472360"
+      },
+      {
+        "@id": "_:g483820"
+      },
+      {
+        "@id": "_:g495380"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Gateway Theatre"
+      },
+      {
+        "@value": "Gateway Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Gateway Theatre is A Stage for Richmond, providing a platform for the whole community to contribute to, and benefit from, the performing arts. It’s a place where we can all learn from each other, see ourselves represented, and take pride in the rich cultural landscape that Richmond has to offer."
+      },
+      {
+        "@value": "Gateway Theatre is A Stage for Richmond, providing a platform for the whole community to contribute to, and benefit from, the performing arts. It’s a place where we can all learn from each other, see ourselves represented, and take pride in the rich cultural landscape that Richmond has to offer."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      },
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/GatewayThtr"
+      },
+      {
+        "@id": "https://www.instagram.com/gatewaythtr/"
+      },
+      {
+        "@id": "https://www.youtube.com/@GatewayThtr"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Gateway Theatre"
+      },
+      {
+        "@value": "Gateway Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2022/10/GT_homepage-test-1-scaled.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2022/10/GT_homepage-test-1-scaled.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1280"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      },
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460820",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.gatewaytheatre.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472320",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://www.gatewaytheatre.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g483780",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://www.gatewaytheatre.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460860",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g460880"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g460900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472360",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g472380"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g472400"
+      }
+    ]
+  },
+  {
+    "@id": "_:g483820",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g483840"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g483860"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495380",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g495400"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g495420"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/09/Gateway_Logos-Arch_DarkBlue-Square.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/09/Gateway_Logos-Arch_DarkBlue-Square.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      },
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Gateway Theatre"
+      },
+      {
+        "@value": "Gateway Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460880",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://www.gatewaytheatre.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460900",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "en-ca",
+        "@value": "zh_HK"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Gateway Theatre - Richmond and Greater Vancouver Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Gateway Theatre is A Stage for Richmond. We produce stories that tackle the ideas, values and issues which reflect the people of this city."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Gateway Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/GatewayThtr"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-11-19T21:55:21+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/wp-content/uploads/2022/10/GT_homepage-test-1-scaled.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "2560"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1280"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://gatewaytheatre.com/#top"
+      },
+      {
+        "@id": "https://gatewaytheatre.com/#see-more"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472380",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://www.gatewaytheatre.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472400",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g483840",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://www.gatewaytheatre.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g483860",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/privacy-policy",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "en-ca",
+        "@value": "zh_HK"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Privacy Policy - Gateway Theatre"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/privacy-policy/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Gateway Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/GatewayThtr"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2023-01-03T19:33:52+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://gatewaytheatre.com/privacy-policy"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/privacy-policy/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/privacy-policy/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-12-29T22:44:53+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-01-03T19:33:52+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://www.gatewaytheatre.com/privacy-policy/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g495320"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Privacy Policy - Gateway Theatre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495320",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.gatewaytheatre.com/privacy-policy/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495400",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://www.gatewaytheatre.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495420",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  }
+]
