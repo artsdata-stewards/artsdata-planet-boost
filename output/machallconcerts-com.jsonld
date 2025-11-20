@@ -1,0 +1,221 @@
+[
+  {
+    "@id": "https://www.machallconcerts.com/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "MacHall Concerts - MacEwan Hall and MacEwan Ballroom Concert Venues"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Home - MacHall Concerts"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://machallconcerts.com/"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://machallconcerts.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.machallconcerts.com/"
+      },
+      {
+        "@id": "https://www.machallconcerts.com/#categorized-events-no-event-6"
+      },
+      {
+        "@id": "https://www.machallconcerts.com/#categorized-events-all"
+      },
+      {
+        "@id": "https://www.machallconcerts.com/#categorized-events-comedy-1"
+      },
+      {
+        "@id": "https://www.machallconcerts.com/#categorized-events-concert-2"
+      },
+      {
+        "@id": "https://www.machallconcerts.com/#categorized-events-education-3"
+      },
+      {
+        "@id": "https://www.machallconcerts.com/#categorized-events-festival-4"
+      },
+      {
+        "@id": "https://www.machallconcerts.com/#categorized-events-live-screening-5"
+      },
+      {
+        "@id": "https://www.machallconcerts.com/#"
+      }
+    ]
+  },
+  {
+    "@id": "https://machallconcerts.com/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://machallconcerts.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "MacEwan Concerts"
+      },
+      {
+        "@value": "MacEwan Concerts"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "MacEwan Hall and MacEwan Ballroom Concert Venues"
+      },
+      {
+        "@value": "MacEwan Hall and MacEwan Ballroom Concert Venues"
+      }
+    ]
+  },
+  {
+    "@id": "https://machallconcerts.com/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://machallconcerts.com/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://machallconcerts.com/#website"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://machallconcerts.com/#breadcrumblist"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-11-14T08:43:32-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-27T11:06:14-06:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.machallconcerts.com/"
+      },
+      {
+        "@id": "https://www.machallconcerts.com/#categorized-events-no-event-6"
+      },
+      {
+        "@id": "https://www.machallconcerts.com/#categorized-events-all"
+      },
+      {
+        "@id": "https://www.machallconcerts.com/#categorized-events-comedy-1"
+      },
+      {
+        "@id": "https://www.machallconcerts.com/#categorized-events-concert-2"
+      },
+      {
+        "@id": "https://www.machallconcerts.com/#categorized-events-education-3"
+      },
+      {
+        "@id": "https://www.machallconcerts.com/#categorized-events-festival-4"
+      },
+      {
+        "@id": "https://www.machallconcerts.com/#categorized-events-live-screening-5"
+      },
+      {
+        "@id": "https://www.machallconcerts.com/#"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Home - MacHall Concerts"
+      },
+      {
+        "@value": "Home - MacHall Concerts"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      },
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://machallconcerts.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://machallconcerts.com/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://machallconcerts.com/#organization"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "MacEwan Concerts"
+      },
+      {
+        "@value": "MacEwan Concerts"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "MacEwan Hall and MacEwan Ballroom Concert Venues"
+      },
+      {
+        "@value": "MacEwan Hall and MacEwan Ballroom Concert Venues"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      },
+      {
+        "@value": "en-CA"
+      }
+    ]
+  }
+]
