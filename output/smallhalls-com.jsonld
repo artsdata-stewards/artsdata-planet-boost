@@ -1,0 +1,507 @@
+[
+  {
+    "@id": "http://www.smallhalls.com/",
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Music. Dance. Storytelling. An exceptional Island experience."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallhalls.com/wp-content/uploads/2020/02/FSH-Logo.png"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Home - PEI Mutual Festival of Small Halls | Prince Edward Island"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallhalls.com/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "PEI Mutual Festival of Small Halls | Prince Edward Island"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-10-29T17:04:34+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://smallhalls.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.smallhalls.com/"
+      },
+      {
+        "@id": "http://www.smallhalls.com/#"
+      }
+    ]
+  },
+  {
+    "@id": "https://smallhalls.com/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://smallhalls.com/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://smallhalls.com/#website"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://smallhalls.com/#organization"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-02-03T17:50:28+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-29T17:04:34+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://smallhalls.com/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460600"
+      },
+      {
+        "@id": "_:g470700"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Home - PEI Mutual Festival of Small Halls | Prince Edward Island"
+      },
+      {
+        "@value": "Home - PEI Mutual Festival of Small Halls | Prince Edward Island"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://smallhalls.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://smallhalls.com/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://smallhalls.com/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460640"
+      },
+      {
+        "@id": "_:g470740"
+      },
+      {
+        "@id": "_:g480800"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "PEI Mutual Festival of Small Halls | Prince Edward Island"
+      },
+      {
+        "@value": "PEI Mutual Festival of Small Halls | Prince Edward Island"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Music. Dance. Storytelling. An exceptional Island experience."
+      },
+      {
+        "@value": "Music. Dance. Storytelling. An exceptional Island experience."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://smallhalls.com/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://smallhalls.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://smallhalls.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://smallhalls.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "PEI Mutual Festival of Small Halls"
+      },
+      {
+        "@value": "PEI Mutual Festival of Small Halls"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460600",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://smallhalls.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470700",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://smallhalls.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460640",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g460660"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g460680"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470740",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g470760"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g470780"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480800",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g480820"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g480840"
+      }
+    ]
+  },
+  {
+    "@id": "https://smallhalls.com/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://smallhalls.com/wp-content/uploads/2020/02/FSH-Logo.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://smallhalls.com/wp-content/uploads/2020/02/FSH-Logo.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1000"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1000"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "PEI Mutual Festival of Small Halls"
+      },
+      {
+        "@value": "PEI Mutual Festival of Small Halls"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460660",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://smallhalls.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460680",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470760",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://smallhalls.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470780",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.smallhalls.com/schedule",
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Music. Dance. Storytelling. An exceptional Island experience."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallhalls.com/wp-content/uploads/2020/02/FSH-Logo.png"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Schedule - PEI Mutual Festival of Small Halls | Prince Edward Island"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallhalls.com/schedule/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "PEI Mutual Festival of Small Halls | Prince Edward Island"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://smallhalls.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.smallhalls.com/schedule"
+      }
+    ]
+  },
+  {
+    "@id": "https://smallhalls.com/schedule/",
+    "@type": [
+      "http://schema.org/CollectionPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://smallhalls.com/schedule/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://smallhalls.com/#website"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://smallhalls.com/schedule/#breadcrumb"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Schedule - PEI Mutual Festival of Small Halls | Prince Edward Island"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480820",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://smallhalls.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480840",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  }
+]
