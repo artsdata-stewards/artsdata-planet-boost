@@ -1,0 +1,316 @@
+[
+  {
+    "@id": "http://www.lspuhall.ca/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Landing Page - Resource Centre for the Arts"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "http://lspuhall.ca/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Resource Centre for the Arts"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-09-24T14:34:33+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "http://lspuhall.ca/wp-content/uploads/2025/09/LSPUHall.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "2201"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1370"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "http://lspuhall.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.lspuhall.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "http://lspuhall.ca/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://lspuhall.ca/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://lspuhall.ca/#website"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "http://lspuhall.ca/#organization"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-09T18:14:23+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-24T14:34:33+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "http://lspuhall.ca/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460660"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Landing Page - Resource Centre for the Arts"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "http://lspuhall.ca/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://lspuhall.ca/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://lspuhall.ca/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460700"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Resource Centre for the Arts"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Resource Centre for the Arts (RCA) operates from the historic LSPU Hall (formerly the Longshoremen’s Protective Union), affectionately referred to as The Hall – which houses a 175-198 seat theatre."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "http://lspuhall.ca/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://lspuhall.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "http://lspuhall.ca/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://lspuhall.ca/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Resource Centre for the Arts"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460660",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "http://lspuhall.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460700",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g460720"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g460740"
+      }
+    ]
+  },
+  {
+    "@id": "http://lspuhall.ca/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://lspuhall.ca/wp-content/uploads/2025/09/favicon.svg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://lspuhall.ca/wp-content/uploads/2025/09/favicon.svg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "32"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Resource Centre for the Arts"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460720",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "http://lspuhall.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460740",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462020",
+    "@type": [
+      "http://schema.org/Blog"
+    ]
+  },
+  {
+    "@id": "http://www.lspuhall.ca/temporary/c6168f42-ba97-4b32-a167-1f37edc0b54b",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/mainContentOfPage": [
+      {
+        "@id": "_:g462020"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.lspuhall.ca/"
+      }
+    ]
+  }
+]
