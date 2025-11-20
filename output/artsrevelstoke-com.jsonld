@@ -1,0 +1,656 @@
+[
+  {
+    "@id": "https://www.artsrevelstoke.com",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Arts Revelstoke - Arts & Entertainment in Revelstoke, BC"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Arts Revelstoke presents festivals, performing arts, music, theatre, ballet, kids shows, community engagement projects, public art, & school programming."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://artsrevelstoke.com/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Arts Revelstoke"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-09-30T09:44:33-07:00"
+      }
+    ],
+    "fb:app_id": [
+      {
+        "@language": "en-us",
+        "@value": "2000311683443117"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://artsrevelstoke.com/wp-content/uploads/arts-revelstoke-performance-series-fusion-02-1024x768.jpg"
+      }
+    ],
+    "https://ogp.me/ns#image:secure_url": [
+      {
+        "@language": "en-us",
+        "@value": "https://artsrevelstoke.com/wp-content/uploads/arts-revelstoke-performance-series-fusion-02-1024x768.jpg"
+      }
+    ],
+    "https://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "800"
+      }
+    ],
+    "https://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "600"
+      }
+    ],
+    "https://ogp.me/ns#image:alt": [
+      {
+        "@language": "en-us",
+        "@value": "LUNA"
+      }
+    ],
+    "https://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2020-11-06T22:53:41-08:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-09-30T09:44:33-07:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://artsrevelstoke.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artsrevelstoke.com"
+      }
+    ]
+  },
+  {
+    "@id": "https://artsrevelstoke.com/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://artsrevelstoke.com"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://facebook.com/artsrevelstoke"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://artsrevelstoke.com/#logo"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Arts Revelstoke"
+      },
+      {
+        "@value": "Arts Revelstoke"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "info@artsrevelstoke.com"
+      },
+      {
+        "@value": "info@artsrevelstoke.com"
+      }
+    ]
+  },
+  {
+    "@id": "https://artsrevelstoke.com/#logo",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://artsrevelstoke.com/wp-content/uploads/AR-Logo-square.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://artsrevelstoke.com/wp-content/uploads/AR-Logo-square.png"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Arts Revelstoke"
+      },
+      {
+        "@value": "Arts Revelstoke"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "2560"
+      },
+      {
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "1920"
+      },
+      {
+        "@value": "1920"
+      }
+    ]
+  },
+  {
+    "@id": "https://artsrevelstoke.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://artsrevelstoke.com"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://artsrevelstoke.com/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460960"
+      },
+      {
+        "@id": "_:g479420"
+      },
+      {
+        "@id": "_:g497960"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Arts Revelstoke"
+      },
+      {
+        "@value": "Arts Revelstoke"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460960",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://artsrevelstoke.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g479420",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://artsrevelstoke.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g497960",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://artsrevelstoke.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://artsrevelstoke.com/wp-content/uploads/arts-revelstoke-performance-series-fusion-02-scaled.jpg",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://artsrevelstoke.com/wp-content/uploads/arts-revelstoke-performance-series-fusion-02-scaled.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "2560"
+      },
+      {
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "1920"
+      },
+      {
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://artsrevelstoke.com/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://artsrevelstoke.com/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-11-06T22:53:41-08:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-30T09:44:33-07:00"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://artsrevelstoke.com/#organization"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://artsrevelstoke.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://artsrevelstoke.com/wp-content/uploads/arts-revelstoke-performance-series-fusion-02-scaled.jpg"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Arts Revelstoke - Arts &amp; Entertainment in Revelstoke, BC"
+      },
+      {
+        "@value": "Arts Revelstoke - Arts &amp; Entertainment in Revelstoke, BC"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://artsrevelstoke.com/#author",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://secure.gravatar.com/avatar/5ef268662aa77e339acd8b23b0c328e5f28becf25d1545383660b26d105529db?s=96&amp;d=mm&amp;r=g"
+      }
+    ],
+    "http://schema.org/worksFor": [
+      {
+        "@id": "https://artsrevelstoke.com/#organization"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Maggie Davis"
+      },
+      {
+        "@value": "Maggie Davis"
+      }
+    ]
+  },
+  {
+    "@id": "https://secure.gravatar.com/avatar/5ef268662aa77e339acd8b23b0c328e5f28becf25d1545383660b26d105529db?s=96&amp;d=mm&amp;r=g",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://secure.gravatar.com/avatar/5ef268662aa77e339acd8b23b0c328e5f28becf25d1545383660b26d105529db?s=96&amp;d=mm&amp;r=g"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Maggie Davis"
+      },
+      {
+        "@value": "Maggie Davis"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://artsrevelstoke.com/#richSnippet",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-11-06T22:53:41-08:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-30T09:44:33-07:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://artsrevelstoke.com/#author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://artsrevelstoke.com/#organization"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://artsrevelstoke.com/#webpage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://artsrevelstoke.com/wp-content/uploads/arts-revelstoke-performance-series-fusion-02-scaled.jpg"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://artsrevelstoke.com/#webpage"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artsrevelstoke.com"
+      },
+      {
+        "@id": "https://www.artsrevelstoke.com/#content"
+      },
+      {
+        "@id": "https://www.artsrevelstoke.com/#"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Arts Revelstoke - Arts &amp; Entertainment in Revelstoke, BC"
+      },
+      {
+        "@value": "Arts Revelstoke - Arts &amp; Entertainment in Revelstoke, BC"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "LUNA,Festival,Art,Music,REVYLive"
+      },
+      {
+        "@value": "LUNA,Festival,Art,Music,REVYLive"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Arts Revelstoke presents festivals, performing arts, music, theatre, ballet, kids shows, community engagement projects, public art, &amp; school programming."
+      },
+      {
+        "@value": "Arts Revelstoke presents festivals, performing arts, music, theatre, ballet, kids shows, community engagement projects, public art, &amp; school programming."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Arts Revelstoke - Arts &amp; Entertainment in Revelstoke, BC"
+      },
+      {
+        "@value": "Arts Revelstoke - Arts &amp; Entertainment in Revelstoke, BC"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artsrevelstoke.com/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Arts Revelstoke - Arts & Entertainment in Revelstoke, BC"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Arts Revelstoke presents festivals, performing arts, music, theatre, ballet, kids shows, community engagement projects, public art, & school programming."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://artsrevelstoke.com/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Arts Revelstoke"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-09-30T09:44:33-07:00"
+      }
+    ],
+    "fb:app_id": [
+      {
+        "@language": "en-us",
+        "@value": "2000311683443117"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://artsrevelstoke.com/wp-content/uploads/arts-revelstoke-performance-series-fusion-02-1024x768.jpg"
+      }
+    ],
+    "https://ogp.me/ns#image:secure_url": [
+      {
+        "@language": "en-us",
+        "@value": "https://artsrevelstoke.com/wp-content/uploads/arts-revelstoke-performance-series-fusion-02-1024x768.jpg"
+      }
+    ],
+    "https://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "800"
+      }
+    ],
+    "https://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "600"
+      }
+    ],
+    "https://ogp.me/ns#image:alt": [
+      {
+        "@language": "en-us",
+        "@value": "LUNA"
+      }
+    ],
+    "https://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2020-11-06T22:53:41-08:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-09-30T09:44:33-07:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://artsrevelstoke.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artsrevelstoke.com/#content"
+      },
+      {
+        "@id": "https://www.artsrevelstoke.com/#"
+      }
+    ]
+  }
+]
