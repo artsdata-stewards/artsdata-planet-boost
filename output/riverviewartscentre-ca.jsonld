@@ -1,0 +1,4578 @@
+[
+  {
+    "@id": "https://riverviewartscentre.ca/buy-tickets/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Buy Tickets @ The Riverview Arts Centre - RAC - Serving Moncton"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Buy Tickets @ The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/buy-tickets/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2021-12-14T22:31:26+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/buy-tickets/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-05-14T13:29:07+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-12-14T22:31:26+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/buy-tickets/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460760"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Buy Tickets @ The Riverview Arts Centre - RAC - Serving Moncton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Buy Tickets @ The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://riverviewartscentre.ca/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460820"
+      },
+      {
+        "@id": "_:g469200"
+      },
+      {
+        "@id": "_:g477920"
+      },
+      {
+        "@id": "_:g485860"
+      },
+      {
+        "@id": "_:g500060"
+      },
+      {
+        "@id": "_:g508760"
+      },
+      {
+        "@id": "_:g517220"
+      },
+      {
+        "@id": "_:g525280"
+      },
+      {
+        "@id": "_:g533580"
+      },
+      {
+        "@id": "_:g541680"
+      },
+      {
+        "@id": "_:g549880"
+      },
+      {
+        "@id": "_:g558140"
+      },
+      {
+        "@id": "_:g566320"
+      },
+      {
+        "@id": "_:g574300"
+      },
+      {
+        "@id": "_:g582440"
+      },
+      {
+        "@id": "_:g590800"
+      },
+      {
+        "@id": "_:g598860"
+      },
+      {
+        "@id": "_:g606980"
+      },
+      {
+        "@id": "_:g615000"
+      },
+      {
+        "@id": "_:g672900"
+      },
+      {
+        "@id": "_:g681960"
+      },
+      {
+        "@id": "_:g690360"
+      },
+      {
+        "@id": "_:g703380"
+      },
+      {
+        "@id": "_:g712260"
+      },
+      {
+        "@id": "_:g720680"
+      },
+      {
+        "@id": "_:g729460"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Where our community comes together"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460760",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/buy-tickets/"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "The Riverview Arts Centre - RAC - Serving Greater Moncton"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2025-11-14T14:17:43+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://riverviewartscentre.ca/#organization"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-05-14T13:07:41+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-14T14:17:43+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g485820"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Riverview Arts Centre - RAC - Serving Greater Moncton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://riverviewartscentre.ca/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://riverviewartscentre.ca/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/TheRiverviewArtsCentre"
+      },
+      {
+        "@id": "https://x.com/RiverviewArts"
+      },
+      {
+        "@id": "https://www.instagram.com/riverviewartscentre/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460820",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g460840"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g460860"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469200",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g469220"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g469240"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477920",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g477940"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g477960"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485860",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g485880"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g485900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g500060",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g500080"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g500100"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508760",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g508780"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g508800"
+      }
+    ]
+  },
+  {
+    "@id": "_:g517220",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g517240"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g517260"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525280",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g525300"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g525320"
+      }
+    ]
+  },
+  {
+    "@id": "_:g533580",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g533600"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g533620"
+      }
+    ]
+  },
+  {
+    "@id": "_:g541680",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g541700"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g541720"
+      }
+    ]
+  },
+  {
+    "@id": "_:g549880",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g549900"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g549920"
+      }
+    ]
+  },
+  {
+    "@id": "_:g558140",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g558160"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g558180"
+      }
+    ]
+  },
+  {
+    "@id": "_:g566320",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g566340"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g566360"
+      }
+    ]
+  },
+  {
+    "@id": "_:g574300",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g574320"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g574340"
+      }
+    ]
+  },
+  {
+    "@id": "_:g582440",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g582460"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g582480"
+      }
+    ]
+  },
+  {
+    "@id": "_:g590800",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g590820"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g590840"
+      }
+    ]
+  },
+  {
+    "@id": "_:g598860",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g598880"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g598900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g606980",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g607000"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g607020"
+      }
+    ]
+  },
+  {
+    "@id": "_:g615000",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g615020"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g615040"
+      }
+    ]
+  },
+  {
+    "@id": "_:g672900",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g672920"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g672940"
+      }
+    ]
+  },
+  {
+    "@id": "_:g681960",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g681980"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g682000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g690360",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g690380"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g690400"
+      }
+    ]
+  },
+  {
+    "@id": "_:g703380",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g703400"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g703420"
+      }
+    ]
+  },
+  {
+    "@id": "_:g712260",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g712280"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g712300"
+      }
+    ]
+  },
+  {
+    "@id": "_:g720680",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g720700"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g720720"
+      }
+    ]
+  },
+  {
+    "@id": "_:g729460",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g729480"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g729500"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-content/uploads/2018/08/cropped-RAC-logo-square.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-content/uploads/2018/08/cropped-RAC-logo-square.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460840",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460860",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/upcoming-events/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Upcoming Events @ Riverview Arts Centre - RAC - Serving Moncton"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Upcoming Events @ Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/upcoming-events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2025-11-14T14:33:49+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/upcoming-events/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-05-14T13:28:45+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-14T14:33:49+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/upcoming-events/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g469140"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Upcoming Events @ Riverview Arts Centre - RAC - Serving Moncton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Upcoming Events @ Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469140",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/upcoming-events/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469220",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469240",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/membership/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Membership - Riverview Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Membership @ Riverview Arts Centre Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/membership/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2024-10-16T10:51:34+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/membership/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-16T10:48:03+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-16T10:51:34+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/membership/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g477860"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Membership - Riverview Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Membership @ Riverview Arts Centre Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477860",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/membership/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477940",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477960",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485820",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485880",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485900",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/about-us/facility/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "The Facility @ The Riverview Arts Centre - RAC - Serving Moncton"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "The Facility @ The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/about-us/facility/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2018-06-11T12:29:37+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/about-us/facility/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-05-14T13:47:17+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-06-11T12:29:37+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/about-us/facility/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g499980"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Facility @ The Riverview Arts Centre - RAC - Serving Moncton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "The Facility @ The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g499980",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/about-us/facility/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g500080",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g500100",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/support-us/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Support Us @ Riverview Arts Centre - RAC - Serving Greater Moncton"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Support Us @ Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/support-us/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2018-06-16T15:51:30+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/support-us/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-05-14T14:36:20+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-06-16T15:51:30+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/support-us/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g508700"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Support Us @ Riverview Arts Centre - RAC - Serving Greater Moncton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Support Us @ Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508700",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/support-us/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508780",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508800",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/about-us/careers/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Careers - Riverview Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/about-us/careers/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2020-06-24T12:01:53+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/about-us/careers/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-04-15T00:42:34+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-06-24T12:01:53+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/about-us/careers/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g517140"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Careers - Riverview Arts Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g517140",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/about-us/careers/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g517240",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g517260",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-culture/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Seniors Connect with Culture - Riverview Arts Centre - Greater Moncton"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Seniors Connect with Culture @ Riverview Arts Centre (RAC) Serving Greater Moncton. Non-Profit Organization located in Riverview High School"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-culture/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2021-09-08T19:17:04+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-culture/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-08-25T17:21:56+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-09-08T19:17:04+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-culture/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g525200"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Seniors Connect with Culture - Riverview Arts Centre - Greater Moncton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Seniors Connect with Culture @ Riverview Arts Centre (RAC) Serving Greater Moncton. Non-Profit Organization located in Riverview High School"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525200",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-culture/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525300",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525320",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-coffee/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Seniors Connect with Coffee - Riverview Arts Centre - Greater Moncton"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Seniors Connect with Coffee @ Riverview Arts Centre (RAC) Serving Greater Moncton. Non-Profit Organization located in Riverview High School"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-coffee/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2021-09-08T19:22:21+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-coffee/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-08-25T17:25:25+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-09-08T19:22:21+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-coffee/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g533500"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Seniors Connect with Coffee - Riverview Arts Centre - Greater Moncton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Seniors Connect with Coffee @ Riverview Arts Centre (RAC) Serving Greater Moncton. Non-Profit Organization located in Riverview High School"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g533500",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-coffee/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g533600",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g533620",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-mentorship/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Seniors Connect with Mentorship - Riverview Arts Centre - Moncton"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Seniors Connect with Mentorship @ Riverview Arts Centre (RAC) Serving Greater Moncton. Non-Profit Organization in Riverview High School"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-mentorship/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2021-09-09T22:50:14+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-mentorship/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-08-25T17:27:08+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-09-09T22:50:14+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-mentorship/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g541600"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Seniors Connect with Mentorship - Riverview Arts Centre - Moncton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Seniors Connect with Mentorship @ Riverview Arts Centre (RAC) Serving Greater Moncton. Non-Profit Organization in Riverview High School"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g541600",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-mentorship/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g541700",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g541720",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-lunch-learns/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Seniors Connect with Lunch & Learns - Riverview Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Seniors Connect with Lunch & Learns @ Riverview Arts Centre (RAC) Serving Greater Moncton. Non-Profit Organization in Riverview High School"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-lunch-learns/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2021-09-09T22:53:09+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-lunch-learns/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-08-25T17:29:39+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-09-09T22:53:09+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-lunch-learns/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g549800"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Seniors Connect with Lunch & Learns - Riverview Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Seniors Connect with Lunch & Learns @ Riverview Arts Centre (RAC) Serving Greater Moncton. Non-Profit Organization in Riverview High School"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g549800",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-lunch-learns/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g549900",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g549920",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-storytime/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Seniors Connect with StoryTime - Riverview Arts Centre - Greater Moncton"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Seniors Connect with StoryTime @ Riverview Arts Centre (RAC) Serving Greater Moncton. Non-Profit Organization in Riverview High School"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-storytime/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2021-09-09T22:57:13+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-storytime/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-08-25T17:23:54+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-09-09T22:57:13+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-storytime/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g558060"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Seniors Connect with StoryTime - Riverview Arts Centre - Greater Moncton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Seniors Connect with StoryTime @ Riverview Arts Centre (RAC) Serving Greater Moncton. Non-Profit Organization in Riverview High School"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g558060",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/seniorsconnect/seniors-connect-with-storytime/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g558160",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g558180",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/covid-19-announcement/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "COVID-19 Announcement - Riverview Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/covid-19-announcement/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2022-09-07T14:32:10+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/covid-19-announcement/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-04-16T15:34:21+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-09-07T14:32:10+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/covid-19-announcement/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g566260"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "COVID-19 Announcement - Riverview Arts Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g566260",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/covid-19-announcement/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g566340",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g566360",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/contact-us/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Contact Us @ The Riverview Arts Centre - RAC - Serving Greater Moncton"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Contact Us @ The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/contact-us/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2022-09-07T15:24:15+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/contact-us/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-05-14T14:36:56+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-09-07T15:24:15+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/contact-us/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g574240"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Contact Us @ The Riverview Arts Centre - RAC - Serving Greater Moncton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Contact Us @ The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g574240",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/contact-us/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g574320",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g574340",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/seniorsconnect/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Seniors Connect - Riverview Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/seniorsconnect/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2022-09-07T23:02:00+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/seniorsconnect/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-08-03T11:51:20+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-09-07T23:02:00+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/seniorsconnect/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g582380"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Seniors Connect - Riverview Arts Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g582380",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/seniorsconnect/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g582460",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g582480",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/about-us/seating/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Seating @ The Riverview Arts Centre - RAC - Serving Greater Moncton"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Seating @ The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/about-us/seating/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2022-09-07T23:06:09+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/about-us/seating/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-05-14T14:35:52+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-09-07T23:06:09+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/about-us/seating/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g590720"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Seating @ The Riverview Arts Centre - RAC - Serving Greater Moncton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Seating @ The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g590720",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/about-us/seating/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g590820",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g590840",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/about-us/faq-frequently-asked-questions/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "FAQ - Frequently Asked Questions @ The Riverview Arts Centre - RAC"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "FAQ - Frequently Asked Questions @ The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/about-us/faq-frequently-asked-questions/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2022-09-07T23:07:42+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/about-us/faq-frequently-asked-questions/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-05-24T13:20:52+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-09-07T23:07:42+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/about-us/faq-frequently-asked-questions/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g598780"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "FAQ - Frequently Asked Questions @ The Riverview Arts Centre - RAC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "FAQ - Frequently Asked Questions @ The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g598780",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/about-us/faq-frequently-asked-questions/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g598880",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g598900",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/about-us/testimonials-2/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Testimonials for The Riverview Arts Centre - RAC - Serving Moncton"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Testimonials for The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/about-us/testimonials-2/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2022-09-07T23:08:20+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/about-us/testimonials-2/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-06-06T15:42:43+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-09-07T23:08:20+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/about-us/testimonials-2/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g606900"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Testimonials for The Riverview Arts Centre - RAC - Serving Moncton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Testimonials for The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g606900",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/about-us/testimonials-2/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g607000",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g607020",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/about-us/photo-gallery/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Photo Gallery for The Riverview Arts Centre - RAC - Serving Moncton"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Photo Gallery for The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/about-us/photo-gallery/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2022-09-07T23:09:02+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/about-us/photo-gallery/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-05-14T13:48:13+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-09-07T23:09:02+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/about-us/photo-gallery/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g614920"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Photo Gallery for The Riverview Arts Centre - RAC - Serving Moncton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Photo Gallery for The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g614920",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/about-us/photo-gallery/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g615020",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g615040",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/about-us/become-a-volunteer/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Become a Volunteer @ The Riverview Arts Centre - RAC"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Become a Volunteer @ The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization RHS @ the Royal Theatre."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/about-us/become-a-volunteer/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2023-03-29T12:17:06+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/about-us/become-a-volunteer/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-05-24T20:56:15+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-03-29T12:17:06+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/about-us/become-a-volunteer/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g672820"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Become a Volunteer @ The Riverview Arts Centre - RAC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Become a Volunteer @ The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization RHS @ the Royal Theatre."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g672820",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/about-us/become-a-volunteer/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g672920",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g672940",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/about-us/media/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Media @ The Riverview Arts Centre - RAC - Serving Greater Moncton"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Media @ The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/about-us/media/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2023-08-12T00:54:32+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/about-us/media/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-05-14T14:37:24+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-08-12T00:54:32+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/about-us/media/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g681880"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Media @ The Riverview Arts Centre - RAC - Serving Greater Moncton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Media @ The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g681880",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/about-us/media/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g681980",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g682000",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/rentals/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Rentals - Riverview Arts Centre - Serving Greater Moncton"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Renting the RAC - Riverview Arts Centre - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/rentals/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2023-10-11T19:27:48+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/rentals/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-05-14T13:30:45+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-11T19:27:48+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/rentals/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g690300"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Rentals - Riverview Arts Centre - Serving Greater Moncton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Renting the RAC - Riverview Arts Centre - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g690300",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/rentals/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g690380",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g690400",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/sponsors/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Sponsors of the Riverview Arts Centre - RAC - Serving Greater Moncton"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Sponsors of the Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/sponsors/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2024-02-12T21:36:43+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/sponsors/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-05-14T14:37:47+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-02-12T21:36:43+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/sponsors/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g703320"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sponsors of the Riverview Arts Centre - RAC - Serving Greater Moncton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Sponsors of the Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g703320",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/sponsors/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g703400",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g703420",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/about-us/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "About Us @ The Riverview Arts Centre - RAC - Serving Greater Moncton"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "About Us @ The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/about-us/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2024-06-07T15:37:06+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/about-us/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-05-14T13:32:40+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-07T15:37:06+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/about-us/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g712200"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "About Us @ The Riverview Arts Centre - RAC - Serving Greater Moncton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "About Us @ The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g712200",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/about-us/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g712280",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g712300",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/about-us/history/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "History of The Riverview Arts Centre - RAC - Serving Greater Moncton"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "History of The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/about-us/history/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2025-03-12T16:43:57+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/wp-content/uploads/2025/01/Competitive-Showcase-2025_-OH9WNqqTp-s6PiMUbtO_.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "608"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/about-us/history/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://riverviewartscentre.ca/about-us/history/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://riverviewartscentre.ca/about-us/history/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-content/uploads/2025/01/Competitive-Showcase-2025_-OH9WNqqTp-s6PiMUbtO_.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-05-24T02:10:42+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-12T16:43:57+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/about-us/history/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g720600"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "History of The Riverview Arts Centre - RAC - Serving Greater Moncton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "History of The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre. Wheelchair Accessibility. Rental Opportunities for Community Entertainment. Shows, Plays, Concerts, Events for our Community."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/about-us/history/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-content/uploads/2025/01/Competitive-Showcase-2025_-OH9WNqqTp-s6PiMUbtO_.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-content/uploads/2025/01/Competitive-Showcase-2025_-OH9WNqqTp-s6PiMUbtO_.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "608"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g720600",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/about-us/history/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g720700",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g720720",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://riverviewartscentre.ca/about-us/board-of-directors/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Board of Directors @ The Riverview Arts Centre - RAC - Serving Greater Moncton"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Board of Directors @ The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/about-us/board-of-directors/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Riverview Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/TheRiverviewArtsCentre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2025-09-29T22:08:46+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://riverviewartscentre.ca/about-us/board-of-directors/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://riverviewartscentre.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-08-07T18:31:18+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-29T22:08:46+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://riverviewartscentre.ca/about-us/board-of-directors/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g729380"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://riverviewartscentre.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Board of Directors @ The Riverview Arts Centre - RAC - Serving Greater Moncton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Board of Directors @ The Riverview Arts Centre - RAC - Serving Greater Moncton. Non-Profit Organization located in Riverview High School @ the Royal Theatre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g729380",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/about-us/board-of-directors/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g729480",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://riverviewartscentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g729500",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  }
+]
