@@ -1,0 +1,2506 @@
+[
+  {
+    "@id": "https://www.fannybaycommunity.com",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Local Events, and Activities"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Discover Fanny Bay Community Association’s events, concerts, classes, and volunteer opportunities. Join us for local programs and activities at Fanny Bay Hall."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://fannybaycommunity.com/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "fannybaycommunity.com"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en",
+        "@value": "2025-11-15T19:52:39-08:00"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2023-10-12T18:50:12-07:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2025-11-15T19:52:39-08:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://fannybaycommunity.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/#person",
+    "@type": [
+      "http://schema.org/Person",
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "fannybaycommunity.com"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://fannybaycommunity.com"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://fannybaycommunity.com/#person"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460940"
+      },
+      {
+        "@id": "_:g547380"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "fannybaycommunity.com"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460940",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://fannybaycommunity.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g547380",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://fannybaycommunity.com/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://fannybaycommunity.com/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-12T18:50:12-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-15T19:52:39-08:00"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://fannybaycommunity.com/#person"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://fannybaycommunity.com/#website"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Local Events, and Activities"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/author/leslee/",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://fannybaycommunity.com/author/leslee/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://secure.gravatar.com/avatar/737c0d3878fde4f2413aec6eff45c96e1bf9024020c30d43c66a8a0c41beded6?s=96&amp;d=mm&amp;r=g"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://fannybaycommunity.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Leslee"
+      }
+    ]
+  },
+  {
+    "@id": "https://secure.gravatar.com/avatar/737c0d3878fde4f2413aec6eff45c96e1bf9024020c30d43c66a8a0c41beded6?s=96&amp;d=mm&amp;r=g",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://secure.gravatar.com/avatar/737c0d3878fde4f2413aec6eff45c96e1bf9024020c30d43c66a8a0c41beded6?s=96&amp;d=mm&amp;r=g"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Leslee"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/#richSnippet",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-12T18:50:12-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-15T19:52:39-08:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://fannybaycommunity.com/author/leslee/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://fannybaycommunity.com/#person"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://fannybaycommunity.com/#webpage"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://fannybaycommunity.com/#webpage"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com"
+      },
+      {
+        "@id": "https://www.fannybaycommunity.com/home"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Local Events, and Activities"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Discover Fanny Bay Community Association’s events, concerts, classes, and volunteer opportunities. Join us for local programs and activities at Fanny Bay Hall."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Local Events, and Activities"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fannybaycommunity.com/home",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Local Events, and Activities"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Discover Fanny Bay Community Association’s events, concerts, classes, and volunteer opportunities. Join us for local programs and activities at Fanny Bay Hall."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://fannybaycommunity.com/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "fannybaycommunity.com"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en",
+        "@value": "2025-11-15T19:52:39-08:00"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2023-10-12T18:50:12-07:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2025-11-15T19:52:39-08:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://fannybaycommunity.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/home"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fannybaycommunity.com/events-calendar",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Events Calendar | Local Gatherings and Activities"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Stay updated with the Fanny Bay Community Association Events Calendar. Explore upcoming gatherings, local activities, and community events."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://fannybaycommunity.com/events-calendar/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "fannybaycommunity.com"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en",
+        "@value": "2025-03-21T18:19:53-07:00"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2023-12-22T11:35:52-08:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2025-03-21T18:19:53-07:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://fannybaycommunity.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/events-calendar"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/events-calendar/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://fannybaycommunity.com/events-calendar/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-12-22T11:35:52-08:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-21T18:19:53-07:00"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://fannybaycommunity.com/#website"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Events Calendar | Local Gatherings and Activities"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/events-calendar/#richSnippet",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-12-22T11:35:52-08:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-21T18:19:53-07:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://fannybaycommunity.com/author/leslee/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://fannybaycommunity.com/#person"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://fannybaycommunity.com/events-calendar/#webpage"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://fannybaycommunity.com/events-calendar/#webpage"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/events-calendar"
+      },
+      {
+        "@id": "https://www.fannybaycommunity.com/events-calendar/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Events Calendar | Local Gatherings and Activities"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Events Calendar"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Stay updated with the Fanny Bay Community Association Events Calendar. Explore upcoming gatherings, local activities, and community events."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Events Calendar | Local Gatherings and Activities"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fannybaycommunity.com/events-calendar/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Events Calendar | Local Gatherings and Activities"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Stay updated with the Fanny Bay Community Association Events Calendar. Explore upcoming gatherings, local activities, and community events."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://fannybaycommunity.com/events-calendar/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "fannybaycommunity.com"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en",
+        "@value": "2025-03-21T18:19:53-07:00"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2023-12-22T11:35:52-08:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2025-03-21T18:19:53-07:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://fannybaycommunity.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/events-calendar/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fannybaycommunity.com/memberships",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Membership | Join Us Today"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Become a part of the Fanny Bay Community Association Membership to enjoy exclusive benefits, event participation, and contribute to community growth."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://fannybaycommunity.com/memberships/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "fannybaycommunity.com"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en",
+        "@value": "2024-10-24T14:53:16-07:00"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2023-10-12T18:52:50-07:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2024-10-24T14:53:16-07:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://fannybaycommunity.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/memberships"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/memberships/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://fannybaycommunity.com/memberships/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-12T18:52:50-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-24T14:53:16-07:00"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://fannybaycommunity.com/#website"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Membership | Join Us Today"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/memberships/#richSnippet",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-12T18:52:50-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-24T14:53:16-07:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://fannybaycommunity.com/author/leslee/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://fannybaycommunity.com/#person"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://fannybaycommunity.com/memberships/#webpage"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://fannybaycommunity.com/memberships/#webpage"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/memberships"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Membership | Join Us Today"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Membership"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Become a part of the Fanny Bay Community Association Membership to enjoy exclusive benefits, event participation, and contribute to community growth."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Membership | Join Us Today"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fannybaycommunity.com/login/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Login - Fanny Bay Community Association"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Login to access documents"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://fannybaycommunity.com/login/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "fannybaycommunity.com"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en",
+        "@value": "2024-10-25T09:58:35-07:00"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2024-10-17T17:59:49-07:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2024-10-25T09:58:35-07:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://fannybaycommunity.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/login/"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/login/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://fannybaycommunity.com/login/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-17T17:59:49-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-25T09:58:35-07:00"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://fannybaycommunity.com/#website"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Login - Fanny Bay Community Association"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/login/#richSnippet",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-17T17:59:49-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-25T09:58:35-07:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://fannybaycommunity.com/author/leslee/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://fannybaycommunity.com/#person"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://fannybaycommunity.com/login/#webpage"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://fannybaycommunity.com/login/#webpage"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/login/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Login - Fanny Bay Community Association"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Login to access documents"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Login - Fanny Bay Community Association"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fannybaycommunity.com/programs-activities",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Programs | Local Activities and Workshops"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Discover Fanny Bay Community Association Programs, including workshops, activities, and services designed to engage and support all residents."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://fannybaycommunity.com/programs-activities/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "fannybaycommunity.com"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en",
+        "@value": "2025-11-15T17:48:54-08:00"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2023-10-12T18:53:49-07:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2025-11-15T17:48:54-08:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://fannybaycommunity.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/programs-activities"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/programs-activities/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://fannybaycommunity.com/programs-activities/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-12T18:53:49-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-15T17:48:54-08:00"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://fannybaycommunity.com/#website"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Programs | Local Activities and Workshops"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/programs-activities/#richSnippet",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-12T18:53:49-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-15T17:48:54-08:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://fannybaycommunity.com/author/leslee/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://fannybaycommunity.com/#person"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://fannybaycommunity.com/programs-activities/#webpage"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://fannybaycommunity.com/programs-activities/#webpage"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/programs-activities"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Programs | Local Activities and Workshops"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Programs"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Discover Fanny Bay Community Association Programs, including workshops, activities, and services designed to engage and support all residents."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Programs | Local Activities and Workshops"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fannybaycommunity.com/rentals",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Rentals | Facilities and Booking Information"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Learn about Fanny Bay Community Association Rentals. Explore available facilities and booking options for events, workshops, and community gatherings."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://fannybaycommunity.com/rentals/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "fannybaycommunity.com"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en",
+        "@value": "2025-10-04T14:56:12-07:00"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2023-10-12T18:55:03-07:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2025-10-04T14:56:12-07:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://fannybaycommunity.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/rentals"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/rentals/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://fannybaycommunity.com/rentals/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-12T18:55:03-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-04T14:56:12-07:00"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://fannybaycommunity.com/#website"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Rentals | Facilities and Booking Information"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/rentals/#richSnippet",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-12T18:55:03-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-04T14:56:12-07:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://fannybaycommunity.com/author/leslee/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://fannybaycommunity.com/#person"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://fannybaycommunity.com/rentals/#webpage"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://fannybaycommunity.com/rentals/#webpage"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/rentals"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Rentals | Facilities and Booking Information"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Rentals"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Learn about Fanny Bay Community Association Rentals. Explore available facilities and booking options for events, workshops, and community gatherings."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Rentals | Facilities and Booking Information"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fannybaycommunity.com/links",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Resources | Community Links and Support"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Access Fanny Bay Community Association Resources for local support, information, and links to essential services and community programs."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://fannybaycommunity.com/links/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "fannybaycommunity.com"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en",
+        "@value": "2025-10-12T14:45:32-07:00"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2023-10-12T18:57:13-07:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2025-10-12T14:45:32-07:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://fannybaycommunity.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/links"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/links/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://fannybaycommunity.com/links/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-12T18:57:13-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-12T14:45:32-07:00"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://fannybaycommunity.com/#website"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Resources | Community Links and Support"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/links/#richSnippet",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-12T18:57:13-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-12T14:45:32-07:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://fannybaycommunity.com/author/leslee/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://fannybaycommunity.com/#person"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://fannybaycommunity.com/links/#webpage"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://fannybaycommunity.com/links/#webpage"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/links"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Resources | Community Links and Support"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Resources"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Access Fanny Bay Community Association Resources for local support, information, and links to essential services and community programs."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Resources | Community Links and Support"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fannybaycommunity.com/contact-us",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Contact Fanny Bay Community Association | Get in Touch"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Use the Contact Fanny Bay Community Association page to reach out for inquiries, feedback, or information about our events and services."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://fannybaycommunity.com/contact-us/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "fannybaycommunity.com"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en",
+        "@value": "2024-10-24T14:55:13-07:00"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2023-10-12T18:53:22-07:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2024-10-24T14:55:13-07:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://fannybaycommunity.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/contact-us"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/contact-us/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://fannybaycommunity.com/contact-us/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-12T18:53:22-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-24T14:55:13-07:00"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://fannybaycommunity.com/#website"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Contact Fanny Bay Community Association | Get in Touch"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/contact-us/#richSnippet",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-12T18:53:22-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-24T14:55:13-07:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://fannybaycommunity.com/author/leslee/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://fannybaycommunity.com/#person"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://fannybaycommunity.com/contact-us/#webpage"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://fannybaycommunity.com/contact-us/#webpage"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/contact-us"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Contact Fanny Bay Community Association | Get in Touch"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "Contact Fanny Bay Community Association"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Use the Contact Fanny Bay Community Association page to reach out for inquiries, feedback, or information about our events and services."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Contact Fanny Bay Community Association | Get in Touch"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fannybaycommunity.com/about-us",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association History | Our Mission and Values"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Learn about the Fanny Bay Community Association History, our mission, and our commitment to building a strong and inclusive community."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://fannybaycommunity.com/about-us/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "fannybaycommunity.com"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en",
+        "@value": "2025-09-19T21:54:00-07:00"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2023-10-12T18:51:28-07:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2025-09-19T21:54:00-07:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://fannybaycommunity.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/about-us"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/about-us/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://fannybaycommunity.com/about-us/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-12T18:51:28-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-19T21:54:00-07:00"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://fannybaycommunity.com/#website"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association History | Our Mission and Values"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/about-us/#richSnippet",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-12T18:51:28-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-19T21:54:00-07:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://fannybaycommunity.com/author/leslee/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://fannybaycommunity.com/#person"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://fannybaycommunity.com/about-us/#webpage"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://fannybaycommunity.com/about-us/#webpage"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/about-us"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association History | Our Mission and Values"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association History"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Learn about the Fanny Bay Community Association History, our mission, and our commitment to building a strong and inclusive community."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association History | Our Mission and Values"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fannybaycommunity.com/board/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Board of Directors | Meet Our Team"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Learn about the Fanny Bay Community Association Board of Directors. Meet the team of dedicated individuals working to shape and support our community."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://fannybaycommunity.com/board/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "fannybaycommunity.com"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en",
+        "@value": "2025-02-10T21:14:52-08:00"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2024-05-16T16:39:07-07:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2025-02-10T21:14:52-08:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://fannybaycommunity.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/board/"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/board/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://fannybaycommunity.com/board/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-16T16:39:07-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-10T21:14:52-08:00"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://fannybaycommunity.com/#website"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Board of Directors | Meet Our Team"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/board/#richSnippet",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-16T16:39:07-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-10T21:14:52-08:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://fannybaycommunity.com/author/leslee/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://fannybaycommunity.com/#person"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://fannybaycommunity.com/board/#webpage"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://fannybaycommunity.com/board/#webpage"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/board/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Board of Directors | Meet Our Team"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Board of Directors"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Learn about the Fanny Bay Community Association Board of Directors. Meet the team of dedicated individuals working to shape and support our community."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Board of Directors | Meet Our Team"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fannybaycommunity.com/fanny-bay-flyer",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Flyer | Local News and Updates"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Explore the Fanny Bay Community Association Flyer for local news, updates, and community stories. Stay informed with our latest newsletter."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://fannybaycommunity.com/fanny-bay-flyer/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "fannybaycommunity.com"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en",
+        "@value": "2025-11-15T18:30:26-08:00"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2023-10-12T18:52:10-07:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2025-11-15T18:30:26-08:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://fannybaycommunity.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/fanny-bay-flyer"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/fanny-bay-flyer/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://fannybaycommunity.com/fanny-bay-flyer/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-12T18:52:10-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-15T18:30:26-08:00"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://fannybaycommunity.com/#website"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Flyer | Local News and Updates"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/fanny-bay-flyer/#richSnippet",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-12T18:52:10-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-15T18:30:26-08:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://fannybaycommunity.com/author/leslee/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://fannybaycommunity.com/#person"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://fannybaycommunity.com/fanny-bay-flyer/#webpage"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://fannybaycommunity.com/fanny-bay-flyer/#webpage"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/fanny-bay-flyer"
+      },
+      {
+        "@id": "https://www.fannybaycommunity.com/fanny-bay-flyer/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Flyer | Local News and Updates"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Flyer"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Explore the Fanny Bay Community Association Flyer for local news, updates, and community stories. Stay informed with our latest newsletter."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Flyer | Local News and Updates"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fannybaycommunity.com/fanny-bay-flyer/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Flyer | Local News and Updates"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Explore the Fanny Bay Community Association Flyer for local news, updates, and community stories. Stay informed with our latest newsletter."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://fannybaycommunity.com/fanny-bay-flyer/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "fannybaycommunity.com"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en",
+        "@value": "2025-11-15T18:30:26-08:00"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2023-10-12T18:52:10-07:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2025-11-15T18:30:26-08:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://fannybaycommunity.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/fanny-bay-flyer/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.fannybaycommunity.com/volunteer-opportunities/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Volunteer Opportunities | Get Involved"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Discover Fanny Bay Community Association Volunteer Opportunities. Join local projects, contribute your time, and make a positive impact."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://fannybaycommunity.com/volunteer-opportunities/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "fannybaycommunity.com"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en",
+        "@value": "2025-09-19T21:57:39-07:00"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en",
+        "@value": "2023-10-12T18:56:44-07:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2025-09-19T21:57:39-07:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://fannybaycommunity.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/volunteer-opportunities/"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/volunteer-opportunities/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://fannybaycommunity.com/volunteer-opportunities/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-12T18:56:44-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-19T21:57:39-07:00"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://fannybaycommunity.com/#website"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Volunteer Opportunities | Get Involved"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://fannybaycommunity.com/volunteer-opportunities/#richSnippet",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-12T18:56:44-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-19T21:57:39-07:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://fannybaycommunity.com/author/leslee/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://fannybaycommunity.com/#person"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://fannybaycommunity.com/volunteer-opportunities/#webpage"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://fannybaycommunity.com/volunteer-opportunities/#webpage"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.fannybaycommunity.com/volunteer-opportunities/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Volunteer Opportunities | Get Involved"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Volunteer Opportunities"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Discover Fanny Bay Community Association Volunteer Opportunities. Join local projects, contribute your time, and make a positive impact."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fanny Bay Community Association Volunteer Opportunities | Get Involved"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  }
+]
