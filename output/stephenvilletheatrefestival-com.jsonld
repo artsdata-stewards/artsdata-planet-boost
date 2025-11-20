@@ -1,0 +1,1109 @@
+[
+  {
+    "@id": "http://www.stephenvilletheatrefestival.com/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Stephenville Theatre Festival"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "STF is the longest-running professional theatre company in the Province of Newfoundland and Labrador. The festival was established in 1979 by Maxim Mazumdar."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://stephenvilletheatrefestival.com/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Stephenville Theatre Festival"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/StephenvilleTheatreFestival"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-11-18T16:10:35+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://stephenvilletheatrefestival.com/wp-content/uploads/2022/05/STF.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "225"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "225"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/png"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.stephenvilletheatrefestival.com/"
+      },
+      {
+        "@id": "http://www.stephenvilletheatrefestival.com/#content"
+      },
+      {
+        "@id": "http://www.stephenvilletheatrefestival.com/#mobile-menu"
+      },
+      {
+        "@id": "http://www.stephenvilletheatrefestival.com/#"
+      },
+      {
+        "@id": "http://www.stephenvilletheatrefestival.com/#header"
+      }
+    ]
+  },
+  {
+    "@id": "https://stephenvilletheatrefestival.com/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/#website"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/#organization"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/wp-content/uploads/2022/05/STF.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-06-14T16:08:07+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-18T16:10:35+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460660"
+      },
+      {
+        "@id": "_:g472980"
+      },
+      {
+        "@id": "_:g485280"
+      },
+      {
+        "@id": "_:g497400"
+      },
+      {
+        "@id": "_:g509720"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Home - Stephenville Theatre Festival"
+      },
+      {
+        "@value": "Home - Stephenville Theatre Festival"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Stephenville Theatre Festival is the longest-running professional theatre company in the Province of Newfoundland and Labrador. The festival was established in 1979 by Maxim Mazumdar."
+      },
+      {
+        "@value": "Stephenville Theatre Festival is the longest-running professional theatre company in the Province of Newfoundland and Labrador. The festival was established in 1979 by Maxim Mazumdar."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://stephenvilletheatrefestival.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460700"
+      },
+      {
+        "@id": "_:g473020"
+      },
+      {
+        "@id": "_:g485320"
+      },
+      {
+        "@id": "_:g497440"
+      },
+      {
+        "@id": "_:g509760"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Stephenville Theatre Festival"
+      },
+      {
+        "@value": "Stephenville Theatre Festival"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "July 18th - August 17th, 2025"
+      },
+      {
+        "@value": "July 18th - August 17th, 2025"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://stephenvilletheatrefestival.com/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/StephenvilleTheatreFestival"
+      },
+      {
+        "@id": "https://x.com/svillefest"
+      },
+      {
+        "@id": "https://www.instagram.com/stephenvilletheatrefestival/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Stephenville Theatre Festival"
+      },
+      {
+        "@value": "Stephenville Theatre Festival"
+      }
+    ]
+  },
+  {
+    "@id": "https://stephenvilletheatrefestival.com/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/wp-content/uploads/2022/05/STF.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/wp-content/uploads/2022/05/STF.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "225"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "225"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Stephenville Theatre Festival"
+      },
+      {
+        "@value": "Stephenville Theatre Festival"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460660",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://stephenvilletheatrefestival.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472980",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://stephenvilletheatrefestival.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485280",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://stephenvilletheatrefestival.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g497400",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://stephenvilletheatrefestival.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g509720",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://stephenvilletheatrefestival.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460700",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g460720"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g460740"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473020",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g473040"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g473060"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485320",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g485340"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g485360"
+      }
+    ]
+  },
+  {
+    "@id": "_:g497440",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g497460"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g497480"
+      }
+    ]
+  },
+  {
+    "@id": "_:g509760",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g509780"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g509800"
+      }
+    ]
+  },
+  {
+    "@id": "https://stephenvilletheatrefestival.com/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/wp-content/uploads/2022/05/STF.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/wp-content/uploads/2022/05/STF.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "225"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "225"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Stephenville Theatre Festival"
+      },
+      {
+        "@value": "Stephenville Theatre Festival"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460720",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://stephenvilletheatrefestival.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460740",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464580",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/wp-content/uploads/2022/05/STF.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "225"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "225"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.stephenvilletheatrefestival.com/temporary/37c66c23-90ed-4633-89b2-bfec632c4ae6",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-06-14T16:08:07+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-06-14T16:08:07+00:00"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g464580"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.stephenvilletheatrefestival.com/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Home"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "http://www.stephenvilletheatrefestival.com/temporary/51b1e1b4-9b01-47bb-a442-4c8710977b8a",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.stephenvilletheatrefestival.com/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.stephenvilletheatrefestival.com/temporary/41fe85de-f8cf-470f-88c1-91b0bd9c4927",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.stephenvilletheatrefestival.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473040",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://stephenvilletheatrefestival.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473060",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476900",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/wp-content/uploads/2022/05/STF.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "225"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "225"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.stephenvilletheatrefestival.com/temporary/40c8b141-2c21-4c15-8f66-6f948bde508a",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-06-14T16:08:07+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-06-14T16:08:07+00:00"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g476900"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.stephenvilletheatrefestival.com/#content"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@value": "Home"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "http://www.stephenvilletheatrefestival.com/temporary/98ea6e48-bf14-4d52-aeb3-bb7d349b71a8",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.stephenvilletheatrefestival.com/#content"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.stephenvilletheatrefestival.com/temporary/2f503784-96a4-410f-bd82-9b662a26063f",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.stephenvilletheatrefestival.com/#content"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485340",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://stephenvilletheatrefestival.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485360",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g489180",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/wp-content/uploads/2022/05/STF.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "225"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "225"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.stephenvilletheatrefestival.com/temporary/96044ca1-e1f8-4599-bbde-9094ccef7812",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-06-14T16:08:07+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-06-14T16:08:07+00:00"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g489180"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.stephenvilletheatrefestival.com/#mobile-menu"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@value": "Home"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "http://www.stephenvilletheatrefestival.com/temporary/312e51a1-77c0-43c3-8730-4b1e0111fa2f",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.stephenvilletheatrefestival.com/#mobile-menu"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.stephenvilletheatrefestival.com/temporary/d1fdb3f0-e3b2-4c83-b24d-0534687c1c2b",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.stephenvilletheatrefestival.com/#mobile-menu"
+      }
+    ]
+  },
+  {
+    "@id": "_:g497460",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://stephenvilletheatrefestival.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g497480",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g501340",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/wp-content/uploads/2022/05/STF.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "225"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "225"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.stephenvilletheatrefestival.com/temporary/4a3d884e-5212-4d94-826c-860bc3b1802a",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-06-14T16:08:07+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-06-14T16:08:07+00:00"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g501340"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.stephenvilletheatrefestival.com/#"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@value": "Home"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "http://www.stephenvilletheatrefestival.com/temporary/12252775-49c5-40fb-910b-19be60b207e3",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.stephenvilletheatrefestival.com/#"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.stephenvilletheatrefestival.com/temporary/8953867a-bc0b-44c6-ac01-fbbe818d2b03",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.stephenvilletheatrefestival.com/#"
+      }
+    ]
+  },
+  {
+    "@id": "_:g509780",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://stephenvilletheatrefestival.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g509800",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g513700",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/wp-content/uploads/2022/05/STF.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "225"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "225"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.stephenvilletheatrefestival.com/temporary/1e0b320f-fc6c-4660-8172-d2b9e4f8442b",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://stephenvilletheatrefestival.com/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-06-14T16:08:07+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-06-14T16:08:07+00:00"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g513700"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.stephenvilletheatrefestival.com/#header"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@value": "Home"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "http://www.stephenvilletheatrefestival.com/temporary/99450a37-f4bf-44e3-9f24-be1539cc4c77",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.stephenvilletheatrefestival.com/#header"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.stephenvilletheatrefestival.com/temporary/8785c55c-c3f4-4918-a3fa-d632579909c0",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.stephenvilletheatrefestival.com/#header"
+      }
+    ]
+  }
+]
