@@ -1,0 +1,580 @@
+[
+  {
+    "@id": "http://citadelcie.com",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Home | Citadel + Compagnie"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "Home"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.citadelcie.com/"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "en-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Led by Artistic Director Laurence Lemieux, Citadel + Compagnie is a Canadian professional dance organization that creates, produces and presents works on local, national, and international scales from its home base in a former Salvation Army Citadel in Toronto."
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Citadel + Compagnie"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/citadelcie/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-11-10T19:53:29+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.citadelcie.com/wp-content/uploads/2024/08/CetC_24-25_FB-banner_seasonlaunch.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1640"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "856"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/png"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.citadelcie.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://citadelcie.com"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.citadelcie.com/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.citadelcie.com/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.citadelcie.com/#website"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://www.citadelcie.com/#organization"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-07-12T17:36:06+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-10T19:53:29+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://www.citadelcie.com/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g461180"
+      },
+      {
+        "@id": "_:g473040"
+      },
+      {
+        "@id": "_:g484860"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Home | Citadel + Compagnie"
+      },
+      {
+        "@value": "Home | Citadel + Compagnie"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Led by Artistic Director Laurence Lemieux, Citadel + Compagnie is a Canadian professional dance organization that creates, produces and presents works on local, national, and international scales from its home base in a former Salvation Army Citadel in Toronto."
+      },
+      {
+        "@value": "Led by Artistic Director Laurence Lemieux, Citadel + Compagnie is a Canadian professional dance organization that creates, produces and presents works on local, national, and international scales from its home base in a former Salvation Army Citadel in Toronto."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      },
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.citadelcie.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.citadelcie.com/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.citadelcie.com/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g461220"
+      },
+      {
+        "@id": "_:g473080"
+      },
+      {
+        "@id": "_:g484900"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Citadel + Compagnie"
+      },
+      {
+        "@value": "Citadel + Compagnie"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Award-winning professional dance"
+      },
+      {
+        "@value": "Award-winning professional dance"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      },
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.citadelcie.com/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.citadelcie.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://www.citadelcie.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.citadelcie.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/citadelcie/"
+      },
+      {
+        "@id": "https://x.com/citadelcie"
+      },
+      {
+        "@id": "https://instagram.com/citadelcie_/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Citadel + Compagnie"
+      },
+      {
+        "@value": "Citadel + Compagnie"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461180",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.citadelcie.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473040",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://www.citadelcie.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g484860",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://www.citadelcie.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461220",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g461240"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g461260"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473080",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g473100"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g473120"
+      }
+    ]
+  },
+  {
+    "@id": "_:g484900",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g484920"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g484940"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.citadelcie.com/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.citadelcie.com/wp-content/uploads/2021/11/citadel-compagnie-logo.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://www.citadelcie.com/wp-content/uploads/2021/11/citadel-compagnie-logo.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "169"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "118"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      },
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Citadel + Compagnie"
+      },
+      {
+        "@value": "Citadel + Compagnie"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461240",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://www.citadelcie.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461260",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://citadelcie.com/",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Home | Citadel + Compagnie"
+      },
+      {
+        "@language": "en-ca",
+        "@value": "Home"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.citadelcie.com/"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#locale:alternate": [
+      {
+        "@language": "en-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Led by Artistic Director Laurence Lemieux, Citadel + Compagnie is a Canadian professional dance organization that creates, produces and presents works on local, national, and international scales from its home base in a former Salvation Army Citadel in Toronto."
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Citadel + Compagnie"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/citadelcie/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-11-10T19:53:29+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.citadelcie.com/wp-content/uploads/2024/08/CetC_24-25_FB-banner_seasonlaunch.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1640"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "856"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/png"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.citadelcie.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://citadelcie.com/#main-content"
+      },
+      {
+        "@id": "http://citadelcie.com/#"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473100",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://www.citadelcie.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473120",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g484920",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://www.citadelcie.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g484940",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  }
+]
