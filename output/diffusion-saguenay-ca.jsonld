@@ -1,0 +1,514 @@
+[
+  {
+    "@id": "https://diffusion.saguenay.ca",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Diffusion Saguenay -"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Diffusion Saguenay offre à la population de nombreux spectacles professionnels dans diverses disciplines : théâtre, danse, musique, chanson et humour."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://diffusionsaguenay.art/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Diffusion Saguenay"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/diffusionsaguenay"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-11-03T14:20:41+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://diffusionsaguenay.art/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://diffusion.saguenay.ca"
+      }
+    ]
+  },
+  {
+    "@id": "https://diffusionsaguenay.art/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://diffusionsaguenay.art/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://diffusionsaguenay.art/#website"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://diffusionsaguenay.art/#organization"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2014-07-14T19:21:32+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-03T14:20:41+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://diffusionsaguenay.art/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460940"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Diffusion Saguenay -"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Diffusion Saguenay offre à la population de nombreux spectacles professionnels dans diverses disciplines : théâtre, danse, musique, chanson et humour."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://diffusionsaguenay.art/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://diffusionsaguenay.art/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://diffusionsaguenay.art/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460980"
+      },
+      {
+        "@id": "_:g474780"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Diffusion Saguenay"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://diffusionsaguenay.art/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://diffusionsaguenay.art/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://diffusionsaguenay.art/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://diffusionsaguenay.art/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/diffusionsaguenay"
+      },
+      {
+        "@id": "https://x.com/diffusionsag"
+      },
+      {
+        "@id": "https://www.youtube.com/channel/UCQS4xkOPcYrGH-ZtrNY04Kg"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Diffusion Saguenay"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460940",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://diffusionsaguenay.art/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460980",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g461000"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g461020"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474780",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g474800"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g474820"
+      }
+    ]
+  },
+  {
+    "@id": "https://diffusionsaguenay.art/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://diffusion.saguenay.ca/wp-content/uploads/2016/06/diffusion_saguenay.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://diffusion.saguenay.ca/wp-content/uploads/2016/06/diffusion_saguenay.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "230"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "71"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "Diffusion Saguenay"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461000",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://diffusionsaguenay.art/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461020",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://diffusion.saguenay.ca/loi-25/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Loi 25 - Diffusion Saguenay"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Le gouvernement du Québec a mis en place la Loi modernisant des dispositions législatives en matière de protection des renseignements personnels, mieux connue sous la Loi 25. Cette loi vise à responsabiliser les entreprises en matière de collecte et de stockage des données personnelles et exige toutes les organisations à décrire la façon dont elles... Lire la suite »"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://diffusionsaguenay.art/loi-25/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Diffusion Saguenay"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/diffusionsaguenay"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2023-09-22T16:04:20+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "http://diffusion.saguenay.ca/wp-content/uploads/2023/05/affichage-site-internet-1024x791.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://diffusionsaguenay.art/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://diffusion.saguenay.ca/loi-25/"
+      }
+    ]
+  },
+  {
+    "@id": "https://diffusionsaguenay.art/loi-25/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://diffusionsaguenay.art/loi-25/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://diffusionsaguenay.art/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://diffusionsaguenay.art/loi-25/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://diffusionsaguenay.art/loi-25/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "http://diffusion.saguenay.ca/wp-content/uploads/2023/05/affichage-site-internet-1024x791.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-09T13:46:07+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-09-22T16:04:20+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://diffusionsaguenay.art/loi-25/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g474720"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Loi 25 - Diffusion Saguenay"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://diffusionsaguenay.art/loi-25/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://diffusion.saguenay.ca/wp-content/uploads/2023/05/affichage-site-internet-1024x791.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "http://diffusion.saguenay.ca/wp-content/uploads/2023/05/affichage-site-internet-1024x791.jpg"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474720",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://diffusionsaguenay.art/loi-25/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474800",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://diffusionsaguenay.art/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474820",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  }
+]
