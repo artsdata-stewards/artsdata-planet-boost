@@ -32,6 +32,7 @@ jobs:
     needs: load_json
     runs-on: ubuntu-latest
     strategy:
+      fail-fast: false
       matrix:
         org: ${{ fromJson(needs.load_json.outputs.matrix) }}
 
