@@ -1,0 +1,3593 @@
+[
+  {
+    "@id": "http://www.yarcplayhouse.com/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Home Page - Th’YARC Playhouse and Arts Centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "We present a wide range of theatre, music, dance, and art events in our theatre, art gallery, and studios. Th’YARC operates year-round, with two permanent members of staff and a community of more than 300 volunteers."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://yarcplayhouse.com/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Th’YARC Playhouse and Arts Centre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/yarcplayhouse/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-07-21T14:06:43+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yarcplayhouse.com/wp-content/uploads/2023/07/home-facebook.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "630"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yarcplayhouse.com/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://yarcplayhouse.com/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://yarcplayhouse.com/#website"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://yarcplayhouse.com/#organization"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://yarcplayhouse.com/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/07/7M2A4138-scaled.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-05T13:14:09+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-21T14:06:43+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://yarcplayhouse.com/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460700"
+      },
+      {
+        "@id": "_:g484300"
+      },
+      {
+        "@id": "_:g507980"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Home Page - Th’YARC Playhouse and Arts Centre"
+      },
+      {
+        "@value": "Home Page - Th’YARC Playhouse and Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "We present a wide range of theatre, music, dance, and art events in our theatre, art gallery, and studios. Th’YARC operates year-round, with two permanent members of staff and a community of more than 300 volunteers."
+      },
+      {
+        "@value": "We present a wide range of theatre, music, dance, and art events in our theatre, art gallery, and studios. Th’YARC operates year-round, with two permanent members of staff and a community of more than 300 volunteers."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://yarcplayhouse.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://yarcplayhouse.com/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://yarcplayhouse.com/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460740"
+      },
+      {
+        "@id": "_:g484340"
+      },
+      {
+        "@id": "_:g508020"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Th’YARC Playhouse and Arts Centre"
+      },
+      {
+        "@value": "Th’YARC Playhouse and Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      },
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://yarcplayhouse.com/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://yarcplayhouse.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://yarcplayhouse.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/yarcplayhouse/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Th’YARC Playhouse and Arts Centre"
+      },
+      {
+        "@value": "Th’YARC Playhouse and Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "https://yarcplayhouse.com/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/07/7M2A4138-scaled.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/07/7M2A4138-scaled.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1707"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460700",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://yarcplayhouse.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g484300",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://yarcplayhouse.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g507980",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://yarcplayhouse.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460740",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g460760"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g460780"
+      }
+    ]
+  },
+  {
+    "@id": "_:g484340",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g484360"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g484380"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508020",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g508040"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g508060"
+      }
+    ]
+  },
+  {
+    "@id": "https://yarcplayhouse.com/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2023/05/YARC-Playhouse-Logo.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2023/05/YARC-Playhouse-Logo.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "415"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "129"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Th’YARC Playhouse and Arts Centre"
+      },
+      {
+        "@value": "Th’YARC Playhouse and Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460760",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://yarcplayhouse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460780",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464100",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g464120"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g464120",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g464140",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.yarcplayhouse.com/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464320",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g464340"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g464340",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g464360",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.yarcplayhouse.com"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464520",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g464540"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g464540",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g464560",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.yarcplayhouse.com"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464720",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g464740"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g464740",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g464760",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.yarcplayhouse.com"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-09 00:00"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464940",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g464960"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g464960",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g464980",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.yarcplayhouse.com/default.asp"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-13 00:00"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465140",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g465160"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g465160",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g465180",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.yarcplayhouse.com"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465340",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g465360"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g465360",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g465380",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.yarcplayhouse.com"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465560",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g465580"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g465580",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g465600",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.yarcplayhouse.com/eventperformances.asp?evt=143"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466500",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/07/7M2A4138-1024x683.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1024"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "683"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/c982eca3-3415-404d-aa3f-9f3918d932b2",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-03T00:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-14T00:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g464100"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/11/20251104_1152351-scaled.jpg"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g464140"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ART EXHIBIT"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "View the exquisite work of Grant Ferris &amp; Sylvia Wardon display in our lobbyNovember 3rd - December 15th, 2025Monday - Friday,  10am-5pm\n[gallery ids=\"2262,2263,2264,2265\"]"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/63fec643-8a68-479c-a5a4-b33db8fe02d9",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-13T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g464320"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/09/A-Twisted-Christmas-Carol-11x17-poster-2-scaled.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g464360"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "A TWISTED CHRISTMAS CAROL"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Join the Fall Farce Family in a zany spoof of \"A Christmas Carol\" with an adult twistNovember 13, 14, 15, 20, 21 &amp; 22, 2025@ 7:30pm \nIt’s Christmas Eve in a small west Texas town, and cantankerous barbecue joint owner Buford Johnson gets in an argument with his wife Darla, tells her he's skipping Christmas, storms out of the restaurant, goes four-wheeling in his pickup, gets hit by a twister, rolls his truck, and goes into a coma. He comes back in his dream where he's visited by ex-business partner, Hank Walker, who plays the ghost of Christmas past, present, and future. Hank takes Buford on a journey similar to Scrooge's in A Christmas Carol, only Texas-style!"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/51ea5c1a-4e30-4dd9-8bfb-ed304b6d387d",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g464520"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/09/TERRA-SPENCER-KIM-DUNN-November-2025-scaled.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g464560"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "TERRA SPENCER &amp; KIM DUNN"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Saturday November 29th, 2025at 7:30pmAn off-the-cuff invitation in a Charlottetown hotel bar, a shared stage in a Canso rink, and a mutual love for questionable jokes…award-winning performers Kim Dunn and Terra Spencer paired up for a run of intimate shows off the beaten path in early 2025. Following the rave reception from that tour and the easy friendship that quickly grew, they are bringing the Backroads to the main stage.Tickets $30(plus service fees)"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/02400d90-9f1e-4946-8682-4474c4044a86",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-05T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-07T14:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g464720"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/10/YDA-Nutcracker-Dec-2025-poster.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g464760"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Presented by the YARMOUTH DANCE ACADEMYFriday December 5th, 2025 @ 7:00pmSaturday December 6th, 2025 @ 7:00pmSunday December 7th, 2025 @ 2:00pm\nAdults $20Youth/Student (12-) $15(plus service fees)"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/44a3323f-535a-4dec-a07d-2a358ad6eda4",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-13T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-13T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g464940"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/08/JON-MULLANE-with-ALL-MOTHER-poster-11x17-1-scaled.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g464980"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "JON MULLANE CHRISTMAS TOUR W/ ALL MOTHER"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Saturday December 13th, 2025 @ 7:30pm Tickets $30 (plus service fees) https://www.youtube.com/watch?v=5B_RuyKfG_c&amp;pp=0gcJCa0JAYcqIYzv\nIn 2020 Jon relocated to his home country of Canada in the seaside town of Mahone Bay, Nova Scotia. In 2021 Jon released his first Holiday album Feels Like Christmas. It features new original songs plus Jon’s previously released Christmas singles. “Christmas songs always seem to bring smiles and hope to people, and it’s really a great time of year for us all to connect musically and spiritually”. Jon will be joined on stage by local favourites ALL MOTHER.  This incredibly talented group of performers, Marc, Jessie and Spencer, will bring their unique sound and incredible harmonies to this feel-good Christmas show."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/f3e58466-e4dd-4199-ad56-cf8b8628c5be",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-30T18:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-30T18:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g465140"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/08/Cinderella-December-2025-scaled.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g465180"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "CINDERELLA"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Presented in association with the Prologue Performing ArtsTuesday December 30th @ 6:00pmTickets $18 adults              $16 youth (12-)(plus service fees)\nPoor Cinderella. All she wants to do is go to the Royal Ball to meet Prince Charming.But her mean Stepmother and stepsisters won’t let her go, so they ruin her dress and leave without her.With the help of her Fairy Godmother, Cinderella gets to go to the castle after all and make the grand entrance she’s always dreamed about. The only catch is that Cinderella must be back by midnight when the spell is broken!The comedic timing is bang on as curfews, lost footwear, and giant pumpkins abound in this fun-filled version of the classic fairy tale from DuffleBag Theatre, especially when members of the audience are invited to star in the show!"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/13949b4e-02d4-4788-b693-943f246bbd32",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-27T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-27T21:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g465340"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/11/Great-Canadian-Comedy-Caravan-March-2026-scaled.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g465380"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Great Canadian Comedy Caravan"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Join Travis Lindsay, Matt Watson and Todd Reid for a hilarious evening of comedy.The Great Canadian Comedy Caravan Tour features some of Canada's top television and film writers, actors and Just For Laughs veterans. We take pride in helping children's charities across Canada.\nFriday March 27th, 2026at 7:30pmTickets $24.50(plus service fees)"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/136980a6-d5f3-49e9-bbcf-4ab8db8af85e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-09T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-10T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g465560"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/09/Brent-Butt-11x17-April-2026-1-scaled.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g465600"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "BRENT BUTT Live in Yarmouth"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Thursday April 9th &amp; Friday April 10th, 2026 @ 7:30pm Tickets $56 (plus service fees) Brent Butt has long been considered one of the funniest people in Canada, with a career in stand-up comedy that stretches into five decades, including numerous appearances at major festivals in multiple countries and being voted Best Male Stand-Up in Canada by his peers in the profession. He also created and starred in two successful sitcoms – CORNER GAS (“Funniest Show on TV” as voted by TV Guide Readers, seen in 60 countries) and HICCUPS (multiple Leo and Writers Guild Awards)."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/e74c0d6b-2fc8-4920-9e5d-4bb0a4fc362f",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://yarcplayhouse.com/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-05T09:14:09-04:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-21T10:06:43-04:00"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g466500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Home Page"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g484360",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://yarcplayhouse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g484380",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487700",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g487720"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g487720",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g487740",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.yarcplayhouse.com/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487920",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g487940"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g487940",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g487960",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.yarcplayhouse.com"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488120",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g488140"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g488140",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g488160",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.yarcplayhouse.com"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488320",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g488340"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g488340",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g488360",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.yarcplayhouse.com"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-09 00:00"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488540",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g488560"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g488560",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g488580",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.yarcplayhouse.com/default.asp"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-13 00:00"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488740",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g488760"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g488760",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g488780",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.yarcplayhouse.com"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488980",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g489000"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g489000",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g489020",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.yarcplayhouse.com"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g489240",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g489260"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g489260",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g489280",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.yarcplayhouse.com/eventperformances.asp?evt=143"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g490200",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/07/7M2A4138-1024x683.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1024"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "683"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/029611d3-7de6-4c79-8539-285ed0e83e9e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-03T00:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-14T00:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g487700"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/11/20251104_1152351-scaled.jpg"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g487740"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/#tbp_content"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "ART EXHIBIT"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "View the exquisite work of Grant Ferris &amp; Sylvia Wardon display in our lobbyNovember 3rd - December 15th, 2025Monday - Friday,  10am-5pm\n[gallery ids=\"2262,2263,2264,2265\"]"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/95c14958-b752-4d01-8a7e-bc79a4f64ecc",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-13T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g487920"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/09/A-Twisted-Christmas-Carol-11x17-poster-2-scaled.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g487960"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/#tbp_content"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A TWISTED CHRISTMAS CAROL"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Join the Fall Farce Family in a zany spoof of \"A Christmas Carol\" with an adult twistNovember 13, 14, 15, 20, 21 &amp; 22, 2025@ 7:30pm \nIt’s Christmas Eve in a small west Texas town, and cantankerous barbecue joint owner Buford Johnson gets in an argument with his wife Darla, tells her he's skipping Christmas, storms out of the restaurant, goes four-wheeling in his pickup, gets hit by a twister, rolls his truck, and goes into a coma. He comes back in his dream where he's visited by ex-business partner, Hank Walker, who plays the ghost of Christmas past, present, and future. Hank takes Buford on a journey similar to Scrooge's in A Christmas Carol, only Texas-style!"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/03f9dfa3-4a2c-4261-838e-324c8b972893",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g488120"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/09/TERRA-SPENCER-KIM-DUNN-November-2025-scaled.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g488160"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/#tbp_content"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "TERRA SPENCER &amp; KIM DUNN"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Saturday November 29th, 2025at 7:30pmAn off-the-cuff invitation in a Charlottetown hotel bar, a shared stage in a Canso rink, and a mutual love for questionable jokes…award-winning performers Kim Dunn and Terra Spencer paired up for a run of intimate shows off the beaten path in early 2025. Following the rave reception from that tour and the easy friendship that quickly grew, they are bringing the Backroads to the main stage.Tickets $30(plus service fees)"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/1b4c6e2a-3594-4ecb-827b-ae03f4c2bce8",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-05T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-07T14:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g488320"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/10/YDA-Nutcracker-Dec-2025-poster.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g488360"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/#tbp_content"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Presented by the YARMOUTH DANCE ACADEMYFriday December 5th, 2025 @ 7:00pmSaturday December 6th, 2025 @ 7:00pmSunday December 7th, 2025 @ 2:00pm\nAdults $20Youth/Student (12-) $15(plus service fees)"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/522f467e-58ac-481c-ad1a-0332aa74b867",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-13T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-13T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g488540"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/08/JON-MULLANE-with-ALL-MOTHER-poster-11x17-1-scaled.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g488580"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/#tbp_content"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "JON MULLANE CHRISTMAS TOUR W/ ALL MOTHER"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Saturday December 13th, 2025 @ 7:30pm Tickets $30 (plus service fees) https://www.youtube.com/watch?v=5B_RuyKfG_c&amp;pp=0gcJCa0JAYcqIYzv\nIn 2020 Jon relocated to his home country of Canada in the seaside town of Mahone Bay, Nova Scotia. In 2021 Jon released his first Holiday album Feels Like Christmas. It features new original songs plus Jon’s previously released Christmas singles. “Christmas songs always seem to bring smiles and hope to people, and it’s really a great time of year for us all to connect musically and spiritually”. Jon will be joined on stage by local favourites ALL MOTHER.  This incredibly talented group of performers, Marc, Jessie and Spencer, will bring their unique sound and incredible harmonies to this feel-good Christmas show."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/ce339db3-fd6d-4bf8-abb1-1c6bc2d43f8d",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-30T18:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-30T18:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g488740"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/08/Cinderella-December-2025-scaled.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g488780"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/#tbp_content"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CINDERELLA"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Presented in association with the Prologue Performing ArtsTuesday December 30th @ 6:00pmTickets $18 adults              $16 youth (12-)(plus service fees)\nPoor Cinderella. All she wants to do is go to the Royal Ball to meet Prince Charming.But her mean Stepmother and stepsisters won’t let her go, so they ruin her dress and leave without her.With the help of her Fairy Godmother, Cinderella gets to go to the castle after all and make the grand entrance she’s always dreamed about. The only catch is that Cinderella must be back by midnight when the spell is broken!The comedic timing is bang on as curfews, lost footwear, and giant pumpkins abound in this fun-filled version of the classic fairy tale from DuffleBag Theatre, especially when members of the audience are invited to star in the show!"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/7d3b5ac2-0a9f-45bb-ae72-24bb31d401ef",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-27T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-27T21:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g488980"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/11/Great-Canadian-Comedy-Caravan-March-2026-scaled.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g489020"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/#tbp_content"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Great Canadian Comedy Caravan"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Join Travis Lindsay, Matt Watson and Todd Reid for a hilarious evening of comedy.The Great Canadian Comedy Caravan Tour features some of Canada's top television and film writers, actors and Just For Laughs veterans. We take pride in helping children's charities across Canada.\nFriday March 27th, 2026at 7:30pmTickets $24.50(plus service fees)"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/79b371c4-acda-41f6-9f1f-08d0b02cc029",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-09T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-10T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g489240"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/09/Brent-Butt-11x17-April-2026-1-scaled.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g489280"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/#tbp_content"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "BRENT BUTT Live in Yarmouth"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Thursday April 9th &amp; Friday April 10th, 2026 @ 7:30pm Tickets $56 (plus service fees) Brent Butt has long been considered one of the funniest people in Canada, with a career in stand-up comedy that stretches into five decades, including numerous appearances at major festivals in multiple countries and being voted Best Male Stand-Up in Canada by his peers in the profession. He also created and starred in two successful sitcoms – CORNER GAS (“Funniest Show on TV” as voted by TV Guide Readers, seen in 60 countries) and HICCUPS (multiple Leo and Writers Guild Awards)."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/8ff67868-3c88-4757-8d65-150b40f739fc",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://yarcplayhouse.com/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-05T09:14:09-04:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-21T10:06:43-04:00"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g490200"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/#tbp_content"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@value": "Home Page"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g508040",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://yarcplayhouse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508060",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g511300",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g511320"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g511320",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g511340",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.yarcplayhouse.com/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g511520",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g511540"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g511540",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g511560",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.yarcplayhouse.com"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g511720",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g511740"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g511740",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g511760",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.yarcplayhouse.com"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g511920",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g511940"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g511940",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g511960",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.yarcplayhouse.com"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-09 00:00"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g512140",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g512160"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g512160",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g512180",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.yarcplayhouse.com/default.asp"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-13 00:00"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g512340",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g512360"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g512360",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g512380",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.yarcplayhouse.com"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g512540",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g512560"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g512560",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g512580",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.yarcplayhouse.com"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g512760",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g512780"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g512780",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g512800",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tickets.yarcplayhouse.com/eventperformances.asp?evt=143"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g513700",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/07/7M2A4138-1024x683.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1024"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "683"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/56dc45d9-79a3-4a04-9d4e-8152c848679e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-03T00:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-14T00:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g511300"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/11/20251104_1152351-scaled.jpg"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g511340"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/#"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "ART EXHIBIT"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "View the exquisite work of Grant Ferris &amp; Sylvia Wardon display in our lobbyNovember 3rd - December 15th, 2025Monday - Friday,  10am-5pm\n[gallery ids=\"2262,2263,2264,2265\"]"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/785c84db-f495-44b1-915d-eeb4d6764667",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-13T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g511520"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/09/A-Twisted-Christmas-Carol-11x17-poster-2-scaled.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g511560"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/#"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A TWISTED CHRISTMAS CAROL"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Join the Fall Farce Family in a zany spoof of \"A Christmas Carol\" with an adult twistNovember 13, 14, 15, 20, 21 &amp; 22, 2025@ 7:30pm \nIt’s Christmas Eve in a small west Texas town, and cantankerous barbecue joint owner Buford Johnson gets in an argument with his wife Darla, tells her he's skipping Christmas, storms out of the restaurant, goes four-wheeling in his pickup, gets hit by a twister, rolls his truck, and goes into a coma. He comes back in his dream where he's visited by ex-business partner, Hank Walker, who plays the ghost of Christmas past, present, and future. Hank takes Buford on a journey similar to Scrooge's in A Christmas Carol, only Texas-style!"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/c6ae1f2c-471e-456f-80af-bd8a481a0c9e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g511720"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/09/TERRA-SPENCER-KIM-DUNN-November-2025-scaled.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g511760"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/#"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "TERRA SPENCER &amp; KIM DUNN"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Saturday November 29th, 2025at 7:30pmAn off-the-cuff invitation in a Charlottetown hotel bar, a shared stage in a Canso rink, and a mutual love for questionable jokes…award-winning performers Kim Dunn and Terra Spencer paired up for a run of intimate shows off the beaten path in early 2025. Following the rave reception from that tour and the easy friendship that quickly grew, they are bringing the Backroads to the main stage.Tickets $30(plus service fees)"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/6ff7bc83-deff-45d0-9e5e-f00bfbff2588",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-05T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-07T14:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g511920"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/10/YDA-Nutcracker-Dec-2025-poster.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g511960"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/#"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Nutcracker"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Presented by the YARMOUTH DANCE ACADEMYFriday December 5th, 2025 @ 7:00pmSaturday December 6th, 2025 @ 7:00pmSunday December 7th, 2025 @ 2:00pm\nAdults $20Youth/Student (12-) $15(plus service fees)"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/b3370905-0494-4a69-aad5-954ff56ab9c6",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-13T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-13T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g512140"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/08/JON-MULLANE-with-ALL-MOTHER-poster-11x17-1-scaled.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g512180"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/#"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "JON MULLANE CHRISTMAS TOUR W/ ALL MOTHER"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Saturday December 13th, 2025 @ 7:30pm Tickets $30 (plus service fees) https://www.youtube.com/watch?v=5B_RuyKfG_c&amp;pp=0gcJCa0JAYcqIYzv\nIn 2020 Jon relocated to his home country of Canada in the seaside town of Mahone Bay, Nova Scotia. In 2021 Jon released his first Holiday album Feels Like Christmas. It features new original songs plus Jon’s previously released Christmas singles. “Christmas songs always seem to bring smiles and hope to people, and it’s really a great time of year for us all to connect musically and spiritually”. Jon will be joined on stage by local favourites ALL MOTHER.  This incredibly talented group of performers, Marc, Jessie and Spencer, will bring their unique sound and incredible harmonies to this feel-good Christmas show."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/c96a5496-4379-4723-aa31-8846be96b422",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-30T18:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-30T18:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g512340"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/08/Cinderella-December-2025-scaled.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g512380"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/#"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CINDERELLA"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Presented in association with the Prologue Performing ArtsTuesday December 30th @ 6:00pmTickets $18 adults              $16 youth (12-)(plus service fees)\nPoor Cinderella. All she wants to do is go to the Royal Ball to meet Prince Charming.But her mean Stepmother and stepsisters won’t let her go, so they ruin her dress and leave without her.With the help of her Fairy Godmother, Cinderella gets to go to the castle after all and make the grand entrance she’s always dreamed about. The only catch is that Cinderella must be back by midnight when the spell is broken!The comedic timing is bang on as curfews, lost footwear, and giant pumpkins abound in this fun-filled version of the classic fairy tale from DuffleBag Theatre, especially when members of the audience are invited to star in the show!"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/ae9d6812-6005-4549-9561-22462abd8b52",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-27T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-27T21:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g512540"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/11/Great-Canadian-Comedy-Caravan-March-2026-scaled.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g512580"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/#"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Great Canadian Comedy Caravan"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Join Travis Lindsay, Matt Watson and Todd Reid for a hilarious evening of comedy.The Great Canadian Comedy Caravan Tour features some of Canada's top television and film writers, actors and Just For Laughs veterans. We take pride in helping children's charities across Canada.\nFriday March 27th, 2026at 7:30pmTickets $24.50(plus service fees)"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/21b67443-a89c-4acf-b1ee-11a2f06c9007",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-09T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-10T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g512760"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yarcplayhouse.com/wp-content/uploads/2025/09/Brent-Butt-11x17-April-2026-1-scaled.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g512800"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/#"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "BRENT BUTT Live in Yarmouth"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Thursday April 9th &amp; Friday April 10th, 2026 @ 7:30pm Tickets $56 (plus service fees) Brent Butt has long been considered one of the funniest people in Canada, with a career in stand-up comedy that stretches into five decades, including numerous appearances at major festivals in multiple countries and being voted Best Male Stand-Up in Canada by his peers in the profession. He also created and starred in two successful sitcoms – CORNER GAS (“Funniest Show on TV” as voted by TV Guide Readers, seen in 60 countries) and HICCUPS (multiple Leo and Writers Guild Awards)."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.yarcplayhouse.com/temporary/0adef016-8127-48f5-b169-d0087b5d96c2",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://yarcplayhouse.com/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-05T09:14:09-04:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-21T10:06:43-04:00"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g513700"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.yarcplayhouse.com/#"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@value": "Home Page"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ]
+  }
+]
