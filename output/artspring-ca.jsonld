@@ -1,0 +1,3492 @@
+[
+  {
+    "@id": "https://www.artspring.ca",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Live Music Salt Spring - ArtSpring, Salt Spring Island Centre for Arts"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "ArtSpring Theatre– Salt Spring Island's premier venue for live music, dance, theatre, exhibitions, workshops – and much more."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://artspring.ca/"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-09-01T15:27:40-07:00"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2015-07-14T14:50:10-07:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-09-01T15:27:40-07:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://artspring.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca"
+      }
+    ]
+  },
+  {
+    "@id": "https://artspring.ca/#organization",
+    "@type": [
+      "http://schema.org/EntertainmentBusiness",
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://artspring.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ArtSpring"
+      },
+      {
+        "@value": "ArtSpring"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-17:00"
+      },
+      {
+        "@value": "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-17:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://artspring.ca/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://artspring.ca"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://artspring.ca/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460820"
+      },
+      {
+        "@id": "_:g479480"
+      },
+      {
+        "@id": "_:g498380"
+      },
+      {
+        "@id": "_:g517120"
+      },
+      {
+        "@id": "_:g536000"
+      },
+      {
+        "@id": "_:g554700"
+      },
+      {
+        "@id": "_:g572920"
+      },
+      {
+        "@id": "_:g591140"
+      },
+      {
+        "@id": "_:g609820"
+      },
+      {
+        "@id": "_:g628500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460820",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://artspring.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g479480",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://artspring.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g498380",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://artspring.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g517120",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://artspring.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g536000",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://artspring.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g554700",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://artspring.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g572920",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://artspring.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g591140",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://artspring.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g609820",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://artspring.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g628500",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://artspring.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://artspring.ca/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://artspring.ca/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2015-07-14T14:50:10-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-01T15:27:40-07:00"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://artspring.ca/#organization"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://artspring.ca/#website"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Live Music Salt Spring - ArtSpring, Salt Spring Island Centre for Arts"
+      },
+      {
+        "@value": "Live Music Salt Spring - ArtSpring, Salt Spring Island Centre for Arts"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://artspring.ca/#author",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://secure.gravatar.com/avatar/ad4181c84fb0b1e0d7d01eba0e4940340e8a861b8dcff6c3dd90a8ef2b4ab98a?s=96&amp;d=mm&amp;r=g"
+      }
+    ],
+    "http://schema.org/worksFor": [
+      {
+        "@id": "https://artspring.ca/#organization"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Jordan Keats"
+      },
+      {
+        "@value": "Jordan Keats"
+      }
+    ]
+  },
+  {
+    "@id": "https://secure.gravatar.com/avatar/ad4181c84fb0b1e0d7d01eba0e4940340e8a861b8dcff6c3dd90a8ef2b4ab98a?s=96&amp;d=mm&amp;r=g",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://secure.gravatar.com/avatar/ad4181c84fb0b1e0d7d01eba0e4940340e8a861b8dcff6c3dd90a8ef2b4ab98a?s=96&amp;d=mm&amp;r=g"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Jordan Keats"
+      },
+      {
+        "@value": "Jordan Keats"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://artspring.ca/#richSnippet",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2015-07-14T14:50:10-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-01T15:27:40-07:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://artspring.ca/#author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://artspring.ca/#organization"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://artspring.ca/#webpage"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://artspring.ca/#webpage"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca"
+      },
+      {
+        "@id": "https://www.artspring.ca/#"
+      },
+      {
+        "@id": "https://www.artspring.ca/#prev"
+      },
+      {
+        "@id": "https://www.artspring.ca/#next"
+      },
+      {
+        "@id": "https://www.artspring.ca/#1"
+      },
+      {
+        "@id": "https://www.artspring.ca/#2"
+      },
+      {
+        "@id": "https://www.artspring.ca/#3"
+      },
+      {
+        "@id": "https://www.artspring.ca/#4"
+      },
+      {
+        "@id": "https://www.artspring.ca/#5"
+      },
+      {
+        "@id": "https://www.artspring.ca/#top"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Live Music Salt Spring - ArtSpring, Salt Spring Island Centre for Arts"
+      },
+      {
+        "@value": "Live Music Salt Spring - ArtSpring, Salt Spring Island Centre for Arts"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "live music Salt Spring"
+      },
+      {
+        "@value": "live music Salt Spring"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "ArtSpring Theatre– Salt Spring Island&#039;s premier venue for live music, dance, theatre, exhibitions, workshops – and much more."
+      },
+      {
+        "@value": "ArtSpring Theatre– Salt Spring Island&#039;s premier venue for live music, dance, theatre, exhibitions, workshops – and much more."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Live Music Salt Spring - ArtSpring, Salt Spring Island Centre for Arts"
+      },
+      {
+        "@value": "Live Music Salt Spring - ArtSpring, Salt Spring Island Centre for Arts"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468320",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Sun Nov 23, 2:30pm | Join the members of the Makana choirs as they celebrate the winter season through song!\nThis term’s concert is all about Winter Spice! From songs of sugar and nutmeg to some exciting music featuring latin rhythms! This concert is a sure way to get you in the mood for the upcoming holiday season!…\n"
+      },
+      {
+        "@language": "en",
+        "@value": "Tue Dec 2, 2:30pm | Bach’s Goldberg Variations—a masterpiece of invention, intricacy, and emotion—takes on new life in this bold reimagining by director and keyboardist Alexander Weimann. Performed by the acclaimed Pacific Baroque Orchestra, this chamber arrangement transforms a solo keyboard icon into a radiant…\n"
+      },
+      {
+        "@language": "en",
+        "@value": "Sat Nov 22, 10am | Strauss’s elegant romance brings the glamour and enchantment of 19th-century Vienna to cinemas worldwide in a sumptuous production by legendary director Otto Schenk that “is as beautiful as one could hope” (The New York Times). Soprano Rachel Willis-Sørensen stars as the title heroine, a young…\n"
+      },
+      {
+        "@language": "en",
+        "@value": "Wed Nov 19, 7:30pm | Experience Leonard Cohen’s music like never before in this rich, multidisciplinary tribute from choreographer Idan Cohen and Ne. Sans Opera & Dance. Blending live performance, contemporary dance, and stunning visual design, this evocative performance stars acclaimed Canadian bass-baritone…\n"
+      },
+      {
+        "@language": "en",
+        "@value": "Performing and visual arts centre, Salt Spring Island, B.C.\nCommunity productions, professional touring artists, exhibitions, workshops & more.\nArtSpring acknowledges the unceded territory and the ancestors of Salt Spring Island, the Coast Salish First Nations peoples of Salt Spring and surrounding areas, who continue…\n"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/event/makana-youth-choirs-fall-concert/"
+      },
+      {
+        "@id": "https://artspring.ca/event/pacific-baroque-orchestra-goldberg-variations/"
+      },
+      {
+        "@id": "https://artspring.ca/event/met-opera-arabella-strauss/"
+      },
+      {
+        "@id": "https://artspring.ca/event/take-this-waltz-celebrating-the-music-of-leonard-cohen/"
+      },
+      {
+        "@id": "https://artspring.ca/event/artspring/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468440",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/03/Copy-of-Theatre-Angel-2.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468460",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/07/Makana-Fall-2025-Registration.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468480",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2023/04/Blue-White-Gradient-Volunteer-Needed-Instagram-Post.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468500",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/08/2025_26-Season_Home-Page-Events-2.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468520",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/08/2025_26-Season_Home-Page_Again.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468540",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/03/Mar2025_HomePg_Donor-500-x-500.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468560",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2022/08/Zoom-background-red-curtain-500x500-1.png"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/1f6d2211-f804-4054-ad89-da24020b1633",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "https://schema.org/image": [
+      {
+        "@id": "_:g468320"
+      },
+      {
+        "@id": "_:g468440"
+      },
+      {
+        "@id": "_:g468460"
+      },
+      {
+        "@id": "_:g468480"
+      },
+      {
+        "@id": "_:g468500"
+      },
+      {
+        "@id": "_:g468520"
+      },
+      {
+        "@id": "_:g468540"
+      },
+      {
+        "@id": "_:g468560"
+      }
+    ],
+    "https://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "EXPLORE & EXPERIENCE"
+      },
+      {
+        "@language": "en",
+        "@value": "ARTSPRING PRESENTS"
+      },
+      {
+        "@language": "en",
+        "@value": "YOUR DONATIONS MATTER"
+      },
+      {
+        "@language": "en",
+        "@value": "ARTSPRING MEMBERSHIP"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/f99cc984-0bd8-47d9-9336-e801b28a9d25",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/00c76001-339d-4017-886c-b88628ad0e48",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@language": "en",
+        "@value": "Live music, dance, theatre, exhibitions, speakers, workshops, and more. From local community productions to international touring artists to the debut of six ArtSpring Roundtable Events, we host some of the Gulf Island’s most spectacular events. Please check OUR CALENDAR for planning your must-attends.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/8dc41052-f1fd-4ce0-a245-5e7739ebb54c",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@language": "en",
+        "@value": "The ArtSpring 2025/26 Season is proud to engage audiences with 32 curated and unforgettable performances from world-class all-Canadian artists this year, many appearing at ArtSpring for the first time. We also introduce three Immersion Experiences to connect audiences on a deeper level with visiting artists. PDF of Season Brochure.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/64b43123-afc0-4526-ad2c-afac88d8a06e",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@language": "en",
+        "@value": "\n\nNOVEMBER NEWSLETTER -- What's on in November\n\nAs the days shorten and the winter rains settle in, November brings a vibrant parade of genre-defying events to draw audiences toward the warm ArtSpring lights. Get ready for a month packed with music, reflection, and powerful visual art! We’re kicking the month off in style with a Halloween Community Dance on November 1st! Creepy crafts, treats, and a costume contest await those who are not ready to say goodbye\n... Read more\n\n\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/6f366b5e-11c1-453a-bf6b-6c1e14152018",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@language": "en",
+        "@value": "ArtSpring donors and sponsors make up an incredible community of passionate people like you – keen to support Salt Spring’s premier venue for local and visiting presenters. Every donation, big or small, makes a difference. Find out how you can help your community arts centre make art and culture available for everyone today and for future generations. Please Donate\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/dca08c6a-d861-4085-ba26-ca06159da0af",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@language": "en",
+        "@value": "Support your community performing and visual arts centre by purchasing an annual ArtSpring membership. Membership runs from September 1 to August 31st, gives you advance purchase on ArtSpring Presents new season sales and a voice at our annual general meeting. Join us today and play your part in ArtSpring’s future. Find out more, or contact the box office 250.537.2102.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/ae6da238-0b7c-4608-9477-77c4ebdc12b1",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@language": "en",
+        "@value": "\n                \n                        \n                            Sign up for the ArtSpring Newsletter\n                            \n\t\t\t\t\t\t\t\"*\" indicates required fields\n                        \n                        Name*\n                            \n                            \n                                                    \n                                                    First\n                                                \n                            \n                            \n                                                    \n                                                    Last\n                                                \n                            \n                        Email\n                            \n                        \n          \n            \n            \n            \n            \n            \n            \n            \n            \n            \n        \n                        Δdocument.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() );\n                        \n\t\t                \n\t\t                \n/* <![CDATA[ */\n gform.initializeOnLoaded( function() {gformInitSpinner( 1, 'https://artspring.ca/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://artspring.ca/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger(\"gform_pre_post_render\", [{ formId: \"1\", currentPage: \"current_page\", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( \"gform_wrapper_1\" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( \"span\" );            visibilitySpan.id = \"gform_visibility_test_1\";            gformWrapperDiv.insertAdjacentElement( \"afterend\", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( \"gform_visibility_test_1\" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [1, current_page] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 1, currentPage: current_page } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} ); \n/* ]]> */\n\n\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/72886a4b-5101-497c-ba30-bf6c3932aa5b",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Live Music Salt Spring - ArtSpring, Salt Spring Island Centre for Arts"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "ArtSpring Theatre– Salt Spring Island's premier venue for live music, dance, theatre, exhibitions, workshops – and much more."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://artspring.ca/"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-09-01T15:27:40-07:00"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2015-07-14T14:50:10-07:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-09-01T15:27:40-07:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://artspring.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#"
+      },
+      {
+        "@id": "https://www.artspring.ca/#prev"
+      },
+      {
+        "@id": "https://www.artspring.ca/#next"
+      },
+      {
+        "@id": "https://www.artspring.ca/#1"
+      },
+      {
+        "@id": "https://www.artspring.ca/#2"
+      },
+      {
+        "@id": "https://www.artspring.ca/#3"
+      },
+      {
+        "@id": "https://www.artspring.ca/#4"
+      },
+      {
+        "@id": "https://www.artspring.ca/#5"
+      },
+      {
+        "@id": "https://www.artspring.ca/#top"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487160",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/description": [
+      {
+        "@value": "Sun Nov 23, 2:30pm | Join the members of the Makana choirs as they celebrate the winter season through song!\nThis term’s concert is all about Winter Spice! From songs of sugar and nutmeg to some exciting music featuring latin rhythms! This concert is a sure way to get you in the mood for the upcoming holiday season!…\n"
+      },
+      {
+        "@value": "Tue Dec 2, 2:30pm | Bach’s Goldberg Variations—a masterpiece of invention, intricacy, and emotion—takes on new life in this bold reimagining by director and keyboardist Alexander Weimann. Performed by the acclaimed Pacific Baroque Orchestra, this chamber arrangement transforms a solo keyboard icon into a radiant…\n"
+      },
+      {
+        "@value": "Sat Nov 22, 10am | Strauss’s elegant romance brings the glamour and enchantment of 19th-century Vienna to cinemas worldwide in a sumptuous production by legendary director Otto Schenk that “is as beautiful as one could hope” (The New York Times). Soprano Rachel Willis-Sørensen stars as the title heroine, a young…\n"
+      },
+      {
+        "@value": "Wed Nov 19, 7:30pm | Experience Leonard Cohen’s music like never before in this rich, multidisciplinary tribute from choreographer Idan Cohen and Ne. Sans Opera & Dance. Blending live performance, contemporary dance, and stunning visual design, this evocative performance stars acclaimed Canadian bass-baritone…\n"
+      },
+      {
+        "@value": "Performing and visual arts centre, Salt Spring Island, B.C.\nCommunity productions, professional touring artists, exhibitions, workshops & more.\nArtSpring acknowledges the unceded territory and the ancestors of Salt Spring Island, the Coast Salish First Nations peoples of Salt Spring and surrounding areas, who continue…\n"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/event/makana-youth-choirs-fall-concert/"
+      },
+      {
+        "@id": "https://artspring.ca/event/pacific-baroque-orchestra-goldberg-variations/"
+      },
+      {
+        "@id": "https://artspring.ca/event/met-opera-arabella-strauss/"
+      },
+      {
+        "@id": "https://artspring.ca/event/take-this-waltz-celebrating-the-music-of-leonard-cohen/"
+      },
+      {
+        "@id": "https://artspring.ca/event/artspring/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487380",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/03/Copy-of-Theatre-Angel-2.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487420",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/07/Makana-Fall-2025-Registration.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487440",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2023/04/Blue-White-Gradient-Volunteer-Needed-Instagram-Post.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487460",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/08/2025_26-Season_Home-Page-Events-2.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487500",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/08/2025_26-Season_Home-Page_Again.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487540",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/03/Mar2025_HomePg_Donor-500-x-500.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487580",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2022/08/Zoom-background-red-curtain-500x500-1.png"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/2cf32312-3071-4c4d-803f-b4ca1f63469f",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "https://schema.org/image": [
+      {
+        "@id": "_:g487160"
+      },
+      {
+        "@id": "_:g487380"
+      },
+      {
+        "@id": "_:g487420"
+      },
+      {
+        "@id": "_:g487440"
+      },
+      {
+        "@id": "_:g487460"
+      },
+      {
+        "@id": "_:g487500"
+      },
+      {
+        "@id": "_:g487540"
+      },
+      {
+        "@id": "_:g487580"
+      }
+    ],
+    "https://schema.org/headline": [
+      {
+        "@value": "EXPLORE & EXPERIENCE"
+      },
+      {
+        "@value": "ARTSPRING PRESENTS"
+      },
+      {
+        "@value": "YOUR DONATIONS MATTER"
+      },
+      {
+        "@value": "ARTSPRING MEMBERSHIP"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/7201eefb-2806-4944-9168-46b7467c14da",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/f429cebd-32d0-43f4-95e7-f8218e83762d",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "Live music, dance, theatre, exhibitions, speakers, workshops, and more. From local community productions to international touring artists to the debut of six ArtSpring Roundtable Events, we host some of the Gulf Island’s most spectacular events. Please check OUR CALENDAR for planning your must-attends.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/be1e4e8d-2ff5-439a-a3ad-82bf4656bee7",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "The ArtSpring 2025/26 Season is proud to engage audiences with 32 curated and unforgettable performances from world-class all-Canadian artists this year, many appearing at ArtSpring for the first time. We also introduce three Immersion Experiences to connect audiences on a deeper level with visiting artists. PDF of Season Brochure.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/8e024ae3-a47e-487b-a25f-39c8cd93f038",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "\n\nNOVEMBER NEWSLETTER -- What's on in November\n\nAs the days shorten and the winter rains settle in, November brings a vibrant parade of genre-defying events to draw audiences toward the warm ArtSpring lights. Get ready for a month packed with music, reflection, and powerful visual art! We’re kicking the month off in style with a Halloween Community Dance on November 1st! Creepy crafts, treats, and a costume contest await those who are not ready to say goodbye\n... Read more\n\n\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/dbd054f4-3568-4140-9724-9e5899ffb3ff",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "ArtSpring donors and sponsors make up an incredible community of passionate people like you – keen to support Salt Spring’s premier venue for local and visiting presenters. Every donation, big or small, makes a difference. Find out how you can help your community arts centre make art and culture available for everyone today and for future generations. Please Donate\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/4d13c658-e992-49e2-9332-32ab74a6ef89",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "Support your community performing and visual arts centre by purchasing an annual ArtSpring membership. Membership runs from September 1 to August 31st, gives you advance purchase on ArtSpring Presents new season sales and a voice at our annual general meeting. Join us today and play your part in ArtSpring’s future. Find out more, or contact the box office 250.537.2102.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/421faaf3-cfad-46b5-8c56-406028df01f6",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "\n                \n                        \n                            Sign up for the ArtSpring Newsletter\n                            \n\t\t\t\t\t\t\t\"*\" indicates required fields\n                        \n                        Name*\n                            \n                            \n                                                    \n                                                    First\n                                                \n                            \n                            \n                                                    \n                                                    Last\n                                                \n                            \n                        Email\n                            \n                        \n          \n            \n            \n            \n            \n            \n            \n            \n            \n            \n        \n                        Δdocument.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() );\n                        \n\t\t                \n\t\t                \n/* <![CDATA[ */\n gform.initializeOnLoaded( function() {gformInitSpinner( 1, 'https://artspring.ca/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://artspring.ca/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger(\"gform_pre_post_render\", [{ formId: \"1\", currentPage: \"current_page\", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( \"gform_wrapper_1\" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( \"span\" );            visibilitySpan.id = \"gform_visibility_test_1\";            gformWrapperDiv.insertAdjacentElement( \"afterend\", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( \"gform_visibility_test_1\" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [1, current_page] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 1, currentPage: current_page } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} ); \n/* ]]> */\n\n\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/f0bfbe07-b11c-41c7-a4b0-192756b8a016",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#"
+      }
+    ]
+  },
+  {
+    "@id": "_:g505740",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/description": [
+      {
+        "@value": "Sun Nov 23, 2:30pm | Join the members of the Makana choirs as they celebrate the winter season through song!\nThis term’s concert is all about Winter Spice! From songs of sugar and nutmeg to some exciting music featuring latin rhythms! This concert is a sure way to get you in the mood for the upcoming holiday season!…\n"
+      },
+      {
+        "@value": "Tue Dec 2, 2:30pm | Bach’s Goldberg Variations—a masterpiece of invention, intricacy, and emotion—takes on new life in this bold reimagining by director and keyboardist Alexander Weimann. Performed by the acclaimed Pacific Baroque Orchestra, this chamber arrangement transforms a solo keyboard icon into a radiant…\n"
+      },
+      {
+        "@value": "Sat Nov 22, 10am | Strauss’s elegant romance brings the glamour and enchantment of 19th-century Vienna to cinemas worldwide in a sumptuous production by legendary director Otto Schenk that “is as beautiful as one could hope” (The New York Times). Soprano Rachel Willis-Sørensen stars as the title heroine, a young…\n"
+      },
+      {
+        "@value": "Wed Nov 19, 7:30pm | Experience Leonard Cohen’s music like never before in this rich, multidisciplinary tribute from choreographer Idan Cohen and Ne. Sans Opera & Dance. Blending live performance, contemporary dance, and stunning visual design, this evocative performance stars acclaimed Canadian bass-baritone…\n"
+      },
+      {
+        "@value": "Performing and visual arts centre, Salt Spring Island, B.C.\nCommunity productions, professional touring artists, exhibitions, workshops & more.\nArtSpring acknowledges the unceded territory and the ancestors of Salt Spring Island, the Coast Salish First Nations peoples of Salt Spring and surrounding areas, who continue…\n"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/event/makana-youth-choirs-fall-concert/"
+      },
+      {
+        "@id": "https://artspring.ca/event/pacific-baroque-orchestra-goldberg-variations/"
+      },
+      {
+        "@id": "https://artspring.ca/event/met-opera-arabella-strauss/"
+      },
+      {
+        "@id": "https://artspring.ca/event/take-this-waltz-celebrating-the-music-of-leonard-cohen/"
+      },
+      {
+        "@id": "https://artspring.ca/event/artspring/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g505960",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/03/Copy-of-Theatre-Angel-2.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g506000",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/07/Makana-Fall-2025-Registration.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g506020",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2023/04/Blue-White-Gradient-Volunteer-Needed-Instagram-Post.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g506040",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/08/2025_26-Season_Home-Page-Events-2.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g506080",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/08/2025_26-Season_Home-Page_Again.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g506120",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/03/Mar2025_HomePg_Donor-500-x-500.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g506160",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2022/08/Zoom-background-red-curtain-500x500-1.png"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/e6d4f47a-90ff-4c9e-a27b-515e6b56eced",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "https://schema.org/image": [
+      {
+        "@id": "_:g505740"
+      },
+      {
+        "@id": "_:g505960"
+      },
+      {
+        "@id": "_:g506000"
+      },
+      {
+        "@id": "_:g506020"
+      },
+      {
+        "@id": "_:g506040"
+      },
+      {
+        "@id": "_:g506080"
+      },
+      {
+        "@id": "_:g506120"
+      },
+      {
+        "@id": "_:g506160"
+      }
+    ],
+    "https://schema.org/headline": [
+      {
+        "@value": "EXPLORE & EXPERIENCE"
+      },
+      {
+        "@value": "ARTSPRING PRESENTS"
+      },
+      {
+        "@value": "YOUR DONATIONS MATTER"
+      },
+      {
+        "@value": "ARTSPRING MEMBERSHIP"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#prev"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/d069d8fb-8adc-48fb-8307-6d53daa23126",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#prev"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/ce84919f-11cf-4949-bc77-e06fe16152f3",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#prev"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "Live music, dance, theatre, exhibitions, speakers, workshops, and more. From local community productions to international touring artists to the debut of six ArtSpring Roundtable Events, we host some of the Gulf Island’s most spectacular events. Please check OUR CALENDAR for planning your must-attends.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/cf92765e-d27f-4ea3-9a11-11e4aa65d494",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#prev"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "The ArtSpring 2025/26 Season is proud to engage audiences with 32 curated and unforgettable performances from world-class all-Canadian artists this year, many appearing at ArtSpring for the first time. We also introduce three Immersion Experiences to connect audiences on a deeper level with visiting artists. PDF of Season Brochure.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/0310cc28-875d-4cb6-bf71-7cffe9517900",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#prev"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "\n\nNOVEMBER NEWSLETTER -- What's on in November\n\nAs the days shorten and the winter rains settle in, November brings a vibrant parade of genre-defying events to draw audiences toward the warm ArtSpring lights. Get ready for a month packed with music, reflection, and powerful visual art! We’re kicking the month off in style with a Halloween Community Dance on November 1st! Creepy crafts, treats, and a costume contest await those who are not ready to say goodbye\n... Read more\n\n\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/439c48a9-8564-4edb-a1e7-612c7f05e6b9",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#prev"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "ArtSpring donors and sponsors make up an incredible community of passionate people like you – keen to support Salt Spring’s premier venue for local and visiting presenters. Every donation, big or small, makes a difference. Find out how you can help your community arts centre make art and culture available for everyone today and for future generations. Please Donate\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/49b0bf52-215d-4cc1-9532-4571067804e0",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#prev"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "Support your community performing and visual arts centre by purchasing an annual ArtSpring membership. Membership runs from September 1 to August 31st, gives you advance purchase on ArtSpring Presents new season sales and a voice at our annual general meeting. Join us today and play your part in ArtSpring’s future. Find out more, or contact the box office 250.537.2102.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/60fdf108-51b2-4c24-8aec-10b8b696037d",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#prev"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "\n                \n                        \n                            Sign up for the ArtSpring Newsletter\n                            \n\t\t\t\t\t\t\t\"*\" indicates required fields\n                        \n                        Name*\n                            \n                            \n                                                    \n                                                    First\n                                                \n                            \n                            \n                                                    \n                                                    Last\n                                                \n                            \n                        Email\n                            \n                        \n          \n            \n            \n            \n            \n            \n            \n            \n            \n            \n        \n                        Δdocument.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() );\n                        \n\t\t                \n\t\t                \n/* <![CDATA[ */\n gform.initializeOnLoaded( function() {gformInitSpinner( 1, 'https://artspring.ca/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://artspring.ca/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger(\"gform_pre_post_render\", [{ formId: \"1\", currentPage: \"current_page\", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( \"gform_wrapper_1\" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( \"span\" );            visibilitySpan.id = \"gform_visibility_test_1\";            gformWrapperDiv.insertAdjacentElement( \"afterend\", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( \"gform_visibility_test_1\" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [1, current_page] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 1, currentPage: current_page } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} ); \n/* ]]> */\n\n\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/2fe1dd85-f1dc-47ec-8d59-bd1a86b62e35",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#prev"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524640",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/description": [
+      {
+        "@value": "Sun Nov 23, 2:30pm | Join the members of the Makana choirs as they celebrate the winter season through song!\nThis term’s concert is all about Winter Spice! From songs of sugar and nutmeg to some exciting music featuring latin rhythms! This concert is a sure way to get you in the mood for the upcoming holiday season!…\n"
+      },
+      {
+        "@value": "Tue Dec 2, 2:30pm | Bach’s Goldberg Variations—a masterpiece of invention, intricacy, and emotion—takes on new life in this bold reimagining by director and keyboardist Alexander Weimann. Performed by the acclaimed Pacific Baroque Orchestra, this chamber arrangement transforms a solo keyboard icon into a radiant…\n"
+      },
+      {
+        "@value": "Sat Nov 22, 10am | Strauss’s elegant romance brings the glamour and enchantment of 19th-century Vienna to cinemas worldwide in a sumptuous production by legendary director Otto Schenk that “is as beautiful as one could hope” (The New York Times). Soprano Rachel Willis-Sørensen stars as the title heroine, a young…\n"
+      },
+      {
+        "@value": "Wed Nov 19, 7:30pm | Experience Leonard Cohen’s music like never before in this rich, multidisciplinary tribute from choreographer Idan Cohen and Ne. Sans Opera & Dance. Blending live performance, contemporary dance, and stunning visual design, this evocative performance stars acclaimed Canadian bass-baritone…\n"
+      },
+      {
+        "@value": "Performing and visual arts centre, Salt Spring Island, B.C.\nCommunity productions, professional touring artists, exhibitions, workshops & more.\nArtSpring acknowledges the unceded territory and the ancestors of Salt Spring Island, the Coast Salish First Nations peoples of Salt Spring and surrounding areas, who continue…\n"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/event/makana-youth-choirs-fall-concert/"
+      },
+      {
+        "@id": "https://artspring.ca/event/pacific-baroque-orchestra-goldberg-variations/"
+      },
+      {
+        "@id": "https://artspring.ca/event/met-opera-arabella-strauss/"
+      },
+      {
+        "@id": "https://artspring.ca/event/take-this-waltz-celebrating-the-music-of-leonard-cohen/"
+      },
+      {
+        "@id": "https://artspring.ca/event/artspring/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524860",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/03/Copy-of-Theatre-Angel-2.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524880",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/07/Makana-Fall-2025-Registration.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524900",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2023/04/Blue-White-Gradient-Volunteer-Needed-Instagram-Post.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524920",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/08/2025_26-Season_Home-Page-Events-2.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524960",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/08/2025_26-Season_Home-Page_Again.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525000",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/03/Mar2025_HomePg_Donor-500-x-500.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525040",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2022/08/Zoom-background-red-curtain-500x500-1.png"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/18294e8b-093d-401f-ba80-55da7cd563e8",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "https://schema.org/image": [
+      {
+        "@id": "_:g524640"
+      },
+      {
+        "@id": "_:g524860"
+      },
+      {
+        "@id": "_:g524880"
+      },
+      {
+        "@id": "_:g524900"
+      },
+      {
+        "@id": "_:g524920"
+      },
+      {
+        "@id": "_:g524960"
+      },
+      {
+        "@id": "_:g525000"
+      },
+      {
+        "@id": "_:g525040"
+      }
+    ],
+    "https://schema.org/headline": [
+      {
+        "@value": "EXPLORE & EXPERIENCE"
+      },
+      {
+        "@value": "ARTSPRING PRESENTS"
+      },
+      {
+        "@value": "YOUR DONATIONS MATTER"
+      },
+      {
+        "@value": "ARTSPRING MEMBERSHIP"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#next"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/b02f5d68-300f-4654-9654-ce88fd674df8",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#next"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/7b5bb8e0-d807-40c6-921c-3c696020a1db",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#next"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "Live music, dance, theatre, exhibitions, speakers, workshops, and more. From local community productions to international touring artists to the debut of six ArtSpring Roundtable Events, we host some of the Gulf Island’s most spectacular events. Please check OUR CALENDAR for planning your must-attends.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/576152ef-57a2-4a6f-b39a-5f86306a9cc4",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#next"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "The ArtSpring 2025/26 Season is proud to engage audiences with 32 curated and unforgettable performances from world-class all-Canadian artists this year, many appearing at ArtSpring for the first time. We also introduce three Immersion Experiences to connect audiences on a deeper level with visiting artists. PDF of Season Brochure.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/e0af0582-db4f-4cd0-bccc-b1e4d0652e25",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#next"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "\n\nNOVEMBER NEWSLETTER -- What's on in November\n\nAs the days shorten and the winter rains settle in, November brings a vibrant parade of genre-defying events to draw audiences toward the warm ArtSpring lights. Get ready for a month packed with music, reflection, and powerful visual art! We’re kicking the month off in style with a Halloween Community Dance on November 1st! Creepy crafts, treats, and a costume contest await those who are not ready to say goodbye\n... Read more\n\n\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/9a37f387-c128-4a41-97c8-286cfdbb41d5",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#next"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "ArtSpring donors and sponsors make up an incredible community of passionate people like you – keen to support Salt Spring’s premier venue for local and visiting presenters. Every donation, big or small, makes a difference. Find out how you can help your community arts centre make art and culture available for everyone today and for future generations. Please Donate\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/4b5fbb92-a5e1-4e34-a0a3-18bf96acd995",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#next"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "Support your community performing and visual arts centre by purchasing an annual ArtSpring membership. Membership runs from September 1 to August 31st, gives you advance purchase on ArtSpring Presents new season sales and a voice at our annual general meeting. Join us today and play your part in ArtSpring’s future. Find out more, or contact the box office 250.537.2102.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/63282c48-a11b-40ae-890e-7210ff028262",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#next"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "\n                \n                        \n                            Sign up for the ArtSpring Newsletter\n                            \n\t\t\t\t\t\t\t\"*\" indicates required fields\n                        \n                        Name*\n                            \n                            \n                                                    \n                                                    First\n                                                \n                            \n                            \n                                                    \n                                                    Last\n                                                \n                            \n                        Email\n                            \n                        \n          \n            \n            \n            \n            \n            \n            \n            \n            \n            \n        \n                        Δdocument.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() );\n                        \n\t\t                \n\t\t                \n/* <![CDATA[ */\n gform.initializeOnLoaded( function() {gformInitSpinner( 1, 'https://artspring.ca/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://artspring.ca/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger(\"gform_pre_post_render\", [{ formId: \"1\", currentPage: \"current_page\", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( \"gform_wrapper_1\" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( \"span\" );            visibilitySpan.id = \"gform_visibility_test_1\";            gformWrapperDiv.insertAdjacentElement( \"afterend\", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( \"gform_visibility_test_1\" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [1, current_page] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 1, currentPage: current_page } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} ); \n/* ]]> */\n\n\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/666b66c4-bc69-42a7-8a57-a61aa7de891d",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#next"
+      }
+    ]
+  },
+  {
+    "@id": "_:g543520",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/description": [
+      {
+        "@value": "Sun Nov 23, 2:30pm | Join the members of the Makana choirs as they celebrate the winter season through song!\nThis term’s concert is all about Winter Spice! From songs of sugar and nutmeg to some exciting music featuring latin rhythms! This concert is a sure way to get you in the mood for the upcoming holiday season!…\n"
+      },
+      {
+        "@value": "Tue Dec 2, 2:30pm | Bach’s Goldberg Variations—a masterpiece of invention, intricacy, and emotion—takes on new life in this bold reimagining by director and keyboardist Alexander Weimann. Performed by the acclaimed Pacific Baroque Orchestra, this chamber arrangement transforms a solo keyboard icon into a radiant…\n"
+      },
+      {
+        "@value": "Sat Nov 22, 10am | Strauss’s elegant romance brings the glamour and enchantment of 19th-century Vienna to cinemas worldwide in a sumptuous production by legendary director Otto Schenk that “is as beautiful as one could hope” (The New York Times). Soprano Rachel Willis-Sørensen stars as the title heroine, a young…\n"
+      },
+      {
+        "@value": "Wed Nov 19, 7:30pm | Experience Leonard Cohen’s music like never before in this rich, multidisciplinary tribute from choreographer Idan Cohen and Ne. Sans Opera & Dance. Blending live performance, contemporary dance, and stunning visual design, this evocative performance stars acclaimed Canadian bass-baritone…\n"
+      },
+      {
+        "@value": "Performing and visual arts centre, Salt Spring Island, B.C.\nCommunity productions, professional touring artists, exhibitions, workshops & more.\nArtSpring acknowledges the unceded territory and the ancestors of Salt Spring Island, the Coast Salish First Nations peoples of Salt Spring and surrounding areas, who continue…\n"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/event/makana-youth-choirs-fall-concert/"
+      },
+      {
+        "@id": "https://artspring.ca/event/pacific-baroque-orchestra-goldberg-variations/"
+      },
+      {
+        "@id": "https://artspring.ca/event/met-opera-arabella-strauss/"
+      },
+      {
+        "@id": "https://artspring.ca/event/take-this-waltz-celebrating-the-music-of-leonard-cohen/"
+      },
+      {
+        "@id": "https://artspring.ca/event/artspring/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g543740",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/03/Copy-of-Theatre-Angel-2.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g543760",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/07/Makana-Fall-2025-Registration.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g543780",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2023/04/Blue-White-Gradient-Volunteer-Needed-Instagram-Post.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g543800",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/08/2025_26-Season_Home-Page-Events-2.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g543840",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/08/2025_26-Season_Home-Page_Again.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g543880",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/03/Mar2025_HomePg_Donor-500-x-500.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g543920",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2022/08/Zoom-background-red-curtain-500x500-1.png"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/ae8408f3-bc1e-4a27-9e76-ccbefb24a7aa",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "https://schema.org/image": [
+      {
+        "@id": "_:g543520"
+      },
+      {
+        "@id": "_:g543740"
+      },
+      {
+        "@id": "_:g543760"
+      },
+      {
+        "@id": "_:g543780"
+      },
+      {
+        "@id": "_:g543800"
+      },
+      {
+        "@id": "_:g543840"
+      },
+      {
+        "@id": "_:g543880"
+      },
+      {
+        "@id": "_:g543920"
+      }
+    ],
+    "https://schema.org/headline": [
+      {
+        "@value": "EXPLORE & EXPERIENCE"
+      },
+      {
+        "@value": "ARTSPRING PRESENTS"
+      },
+      {
+        "@value": "YOUR DONATIONS MATTER"
+      },
+      {
+        "@value": "ARTSPRING MEMBERSHIP"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/09fd16da-5022-4084-bb4c-2829634440c3",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/b8c0de94-773e-4da4-806c-a76ce9886059",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#1"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "Live music, dance, theatre, exhibitions, speakers, workshops, and more. From local community productions to international touring artists to the debut of six ArtSpring Roundtable Events, we host some of the Gulf Island’s most spectacular events. Please check OUR CALENDAR for planning your must-attends.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/3ff650eb-38fd-45cd-aec4-9fc938d9a882",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#1"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "The ArtSpring 2025/26 Season is proud to engage audiences with 32 curated and unforgettable performances from world-class all-Canadian artists this year, many appearing at ArtSpring for the first time. We also introduce three Immersion Experiences to connect audiences on a deeper level with visiting artists. PDF of Season Brochure.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/bf67eab4-aa91-4dc5-91f9-1f8f8cf14d37",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#1"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "\n\nNOVEMBER NEWSLETTER -- What's on in November\n\nAs the days shorten and the winter rains settle in, November brings a vibrant parade of genre-defying events to draw audiences toward the warm ArtSpring lights. Get ready for a month packed with music, reflection, and powerful visual art! We’re kicking the month off in style with a Halloween Community Dance on November 1st! Creepy crafts, treats, and a costume contest await those who are not ready to say goodbye\n... Read more\n\n\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/6eeb44d1-8fca-4413-b2bb-b3f2f84e25a6",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#1"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "ArtSpring donors and sponsors make up an incredible community of passionate people like you – keen to support Salt Spring’s premier venue for local and visiting presenters. Every donation, big or small, makes a difference. Find out how you can help your community arts centre make art and culture available for everyone today and for future generations. Please Donate\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/a8f49507-bc1e-465a-aec5-7fda9f14a0d1",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#1"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "Support your community performing and visual arts centre by purchasing an annual ArtSpring membership. Membership runs from September 1 to August 31st, gives you advance purchase on ArtSpring Presents new season sales and a voice at our annual general meeting. Join us today and play your part in ArtSpring’s future. Find out more, or contact the box office 250.537.2102.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/35da7016-3c77-4956-9bed-52c488e93afa",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#1"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "\n                \n                        \n                            Sign up for the ArtSpring Newsletter\n                            \n\t\t\t\t\t\t\t\"*\" indicates required fields\n                        \n                        Name*\n                            \n                            \n                                                    \n                                                    First\n                                                \n                            \n                            \n                                                    \n                                                    Last\n                                                \n                            \n                        Email\n                            \n                        \n          \n            \n            \n            \n            \n            \n            \n            \n            \n            \n        \n                        Δdocument.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() );\n                        \n\t\t                \n\t\t                \n/* <![CDATA[ */\n gform.initializeOnLoaded( function() {gformInitSpinner( 1, 'https://artspring.ca/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://artspring.ca/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger(\"gform_pre_post_render\", [{ formId: \"1\", currentPage: \"current_page\", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( \"gform_wrapper_1\" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( \"span\" );            visibilitySpan.id = \"gform_visibility_test_1\";            gformWrapperDiv.insertAdjacentElement( \"afterend\", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( \"gform_visibility_test_1\" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [1, current_page] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 1, currentPage: current_page } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} ); \n/* ]]> */\n\n\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/8853dcfb-3793-452f-b10b-15cb1280c52d",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#1"
+      }
+    ]
+  },
+  {
+    "@id": "_:g561740",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/description": [
+      {
+        "@value": "Sun Nov 23, 2:30pm | Join the members of the Makana choirs as they celebrate the winter season through song!\nThis term’s concert is all about Winter Spice! From songs of sugar and nutmeg to some exciting music featuring latin rhythms! This concert is a sure way to get you in the mood for the upcoming holiday season!…\n"
+      },
+      {
+        "@value": "Tue Dec 2, 2:30pm | Bach’s Goldberg Variations—a masterpiece of invention, intricacy, and emotion—takes on new life in this bold reimagining by director and keyboardist Alexander Weimann. Performed by the acclaimed Pacific Baroque Orchestra, this chamber arrangement transforms a solo keyboard icon into a radiant…\n"
+      },
+      {
+        "@value": "Sat Nov 22, 10am | Strauss’s elegant romance brings the glamour and enchantment of 19th-century Vienna to cinemas worldwide in a sumptuous production by legendary director Otto Schenk that “is as beautiful as one could hope” (The New York Times). Soprano Rachel Willis-Sørensen stars as the title heroine, a young…\n"
+      },
+      {
+        "@value": "Wed Nov 19, 7:30pm | Experience Leonard Cohen’s music like never before in this rich, multidisciplinary tribute from choreographer Idan Cohen and Ne. Sans Opera & Dance. Blending live performance, contemporary dance, and stunning visual design, this evocative performance stars acclaimed Canadian bass-baritone…\n"
+      },
+      {
+        "@value": "Performing and visual arts centre, Salt Spring Island, B.C.\nCommunity productions, professional touring artists, exhibitions, workshops & more.\nArtSpring acknowledges the unceded territory and the ancestors of Salt Spring Island, the Coast Salish First Nations peoples of Salt Spring and surrounding areas, who continue…\n"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/event/makana-youth-choirs-fall-concert/"
+      },
+      {
+        "@id": "https://artspring.ca/event/pacific-baroque-orchestra-goldberg-variations/"
+      },
+      {
+        "@id": "https://artspring.ca/event/met-opera-arabella-strauss/"
+      },
+      {
+        "@id": "https://artspring.ca/event/take-this-waltz-celebrating-the-music-of-leonard-cohen/"
+      },
+      {
+        "@id": "https://artspring.ca/event/artspring/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g561960",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/03/Copy-of-Theatre-Angel-2.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g561980",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/07/Makana-Fall-2025-Registration.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g562000",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2023/04/Blue-White-Gradient-Volunteer-Needed-Instagram-Post.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g562020",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/08/2025_26-Season_Home-Page-Events-2.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g562060",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/08/2025_26-Season_Home-Page_Again.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g562100",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/03/Mar2025_HomePg_Donor-500-x-500.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g562140",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2022/08/Zoom-background-red-curtain-500x500-1.png"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/21a69ea7-f3d4-409f-8cd2-d7718be1d6c9",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "https://schema.org/image": [
+      {
+        "@id": "_:g561740"
+      },
+      {
+        "@id": "_:g561960"
+      },
+      {
+        "@id": "_:g561980"
+      },
+      {
+        "@id": "_:g562000"
+      },
+      {
+        "@id": "_:g562020"
+      },
+      {
+        "@id": "_:g562060"
+      },
+      {
+        "@id": "_:g562100"
+      },
+      {
+        "@id": "_:g562140"
+      }
+    ],
+    "https://schema.org/headline": [
+      {
+        "@value": "EXPLORE & EXPERIENCE"
+      },
+      {
+        "@value": "ARTSPRING PRESENTS"
+      },
+      {
+        "@value": "YOUR DONATIONS MATTER"
+      },
+      {
+        "@value": "ARTSPRING MEMBERSHIP"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#2"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/43e9b252-9443-43e3-9a79-4ed993752c40",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#2"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/96638286-596f-4d77-9085-73a08ac275ad",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#2"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "Live music, dance, theatre, exhibitions, speakers, workshops, and more. From local community productions to international touring artists to the debut of six ArtSpring Roundtable Events, we host some of the Gulf Island’s most spectacular events. Please check OUR CALENDAR for planning your must-attends.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/fc8256ce-298f-42de-8c72-72a5ec409e61",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#2"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "The ArtSpring 2025/26 Season is proud to engage audiences with 32 curated and unforgettable performances from world-class all-Canadian artists this year, many appearing at ArtSpring for the first time. We also introduce three Immersion Experiences to connect audiences on a deeper level with visiting artists. PDF of Season Brochure.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/193c8ab4-047a-49c4-9b6c-7448dcc90cc6",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#2"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "\n\nNOVEMBER NEWSLETTER -- What's on in November\n\nAs the days shorten and the winter rains settle in, November brings a vibrant parade of genre-defying events to draw audiences toward the warm ArtSpring lights. Get ready for a month packed with music, reflection, and powerful visual art! We’re kicking the month off in style with a Halloween Community Dance on November 1st! Creepy crafts, treats, and a costume contest await those who are not ready to say goodbye\n... Read more\n\n\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/76952994-c8df-437c-98dd-b23ce62ac4d4",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#2"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "ArtSpring donors and sponsors make up an incredible community of passionate people like you – keen to support Salt Spring’s premier venue for local and visiting presenters. Every donation, big or small, makes a difference. Find out how you can help your community arts centre make art and culture available for everyone today and for future generations. Please Donate\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/23ee0e50-d0fc-4b75-b5b7-d249fdecdf49",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#2"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "Support your community performing and visual arts centre by purchasing an annual ArtSpring membership. Membership runs from September 1 to August 31st, gives you advance purchase on ArtSpring Presents new season sales and a voice at our annual general meeting. Join us today and play your part in ArtSpring’s future. Find out more, or contact the box office 250.537.2102.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/c180ea66-7bc2-4b98-bbab-09db2cb1466c",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#2"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "\n                \n                        \n                            Sign up for the ArtSpring Newsletter\n                            \n\t\t\t\t\t\t\t\"*\" indicates required fields\n                        \n                        Name*\n                            \n                            \n                                                    \n                                                    First\n                                                \n                            \n                            \n                                                    \n                                                    Last\n                                                \n                            \n                        Email\n                            \n                        \n          \n            \n            \n            \n            \n            \n            \n            \n            \n            \n        \n                        Δdocument.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() );\n                        \n\t\t                \n\t\t                \n/* <![CDATA[ */\n gform.initializeOnLoaded( function() {gformInitSpinner( 1, 'https://artspring.ca/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://artspring.ca/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger(\"gform_pre_post_render\", [{ formId: \"1\", currentPage: \"current_page\", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( \"gform_wrapper_1\" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( \"span\" );            visibilitySpan.id = \"gform_visibility_test_1\";            gformWrapperDiv.insertAdjacentElement( \"afterend\", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( \"gform_visibility_test_1\" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [1, current_page] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 1, currentPage: current_page } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} ); \n/* ]]> */\n\n\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/32573440-6cf8-4a96-b5d7-859cee518491",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#2"
+      }
+    ]
+  },
+  {
+    "@id": "_:g579980",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/description": [
+      {
+        "@value": "Sun Nov 23, 2:30pm | Join the members of the Makana choirs as they celebrate the winter season through song!\nThis term’s concert is all about Winter Spice! From songs of sugar and nutmeg to some exciting music featuring latin rhythms! This concert is a sure way to get you in the mood for the upcoming holiday season!…\n"
+      },
+      {
+        "@value": "Tue Dec 2, 2:30pm | Bach’s Goldberg Variations—a masterpiece of invention, intricacy, and emotion—takes on new life in this bold reimagining by director and keyboardist Alexander Weimann. Performed by the acclaimed Pacific Baroque Orchestra, this chamber arrangement transforms a solo keyboard icon into a radiant…\n"
+      },
+      {
+        "@value": "Sat Nov 22, 10am | Strauss’s elegant romance brings the glamour and enchantment of 19th-century Vienna to cinemas worldwide in a sumptuous production by legendary director Otto Schenk that “is as beautiful as one could hope” (The New York Times). Soprano Rachel Willis-Sørensen stars as the title heroine, a young…\n"
+      },
+      {
+        "@value": "Wed Nov 19, 7:30pm | Experience Leonard Cohen’s music like never before in this rich, multidisciplinary tribute from choreographer Idan Cohen and Ne. Sans Opera & Dance. Blending live performance, contemporary dance, and stunning visual design, this evocative performance stars acclaimed Canadian bass-baritone…\n"
+      },
+      {
+        "@value": "Performing and visual arts centre, Salt Spring Island, B.C.\nCommunity productions, professional touring artists, exhibitions, workshops & more.\nArtSpring acknowledges the unceded territory and the ancestors of Salt Spring Island, the Coast Salish First Nations peoples of Salt Spring and surrounding areas, who continue…\n"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/event/makana-youth-choirs-fall-concert/"
+      },
+      {
+        "@id": "https://artspring.ca/event/pacific-baroque-orchestra-goldberg-variations/"
+      },
+      {
+        "@id": "https://artspring.ca/event/met-opera-arabella-strauss/"
+      },
+      {
+        "@id": "https://artspring.ca/event/take-this-waltz-celebrating-the-music-of-leonard-cohen/"
+      },
+      {
+        "@id": "https://artspring.ca/event/artspring/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g580100",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/03/Copy-of-Theatre-Angel-2.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g580120",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/07/Makana-Fall-2025-Registration.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g580140",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2023/04/Blue-White-Gradient-Volunteer-Needed-Instagram-Post.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g580160",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/08/2025_26-Season_Home-Page-Events-2.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g580180",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/08/2025_26-Season_Home-Page_Again.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g580200",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/03/Mar2025_HomePg_Donor-500-x-500.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g580220",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2022/08/Zoom-background-red-curtain-500x500-1.png"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/c2889c76-e4a8-42e5-9102-19dbc6ad6cbe",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "https://schema.org/image": [
+      {
+        "@id": "_:g579980"
+      },
+      {
+        "@id": "_:g580100"
+      },
+      {
+        "@id": "_:g580120"
+      },
+      {
+        "@id": "_:g580140"
+      },
+      {
+        "@id": "_:g580160"
+      },
+      {
+        "@id": "_:g580180"
+      },
+      {
+        "@id": "_:g580200"
+      },
+      {
+        "@id": "_:g580220"
+      }
+    ],
+    "https://schema.org/headline": [
+      {
+        "@value": "EXPLORE & EXPERIENCE"
+      },
+      {
+        "@value": "ARTSPRING PRESENTS"
+      },
+      {
+        "@value": "YOUR DONATIONS MATTER"
+      },
+      {
+        "@value": "ARTSPRING MEMBERSHIP"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#3"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/aaa06c6f-6d45-4c22-8d7b-316203d08a90",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#3"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/2b560c33-c3c5-49eb-9e3b-1e1eed822342",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#3"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "Live music, dance, theatre, exhibitions, speakers, workshops, and more. From local community productions to international touring artists to the debut of six ArtSpring Roundtable Events, we host some of the Gulf Island’s most spectacular events. Please check OUR CALENDAR for planning your must-attends.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/cc1906e9-f83d-4c93-8a5c-20b6cf1ce0e5",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#3"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "The ArtSpring 2025/26 Season is proud to engage audiences with 32 curated and unforgettable performances from world-class all-Canadian artists this year, many appearing at ArtSpring for the first time. We also introduce three Immersion Experiences to connect audiences on a deeper level with visiting artists. PDF of Season Brochure.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/285518bf-63fe-448d-beaf-b451728769f4",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#3"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "\n\nNOVEMBER NEWSLETTER -- What's on in November\n\nAs the days shorten and the winter rains settle in, November brings a vibrant parade of genre-defying events to draw audiences toward the warm ArtSpring lights. Get ready for a month packed with music, reflection, and powerful visual art! We’re kicking the month off in style with a Halloween Community Dance on November 1st! Creepy crafts, treats, and a costume contest await those who are not ready to say goodbye\n... Read more\n\n\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/555205f1-60f5-4915-926b-10cbc58e8e81",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#3"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "ArtSpring donors and sponsors make up an incredible community of passionate people like you – keen to support Salt Spring’s premier venue for local and visiting presenters. Every donation, big or small, makes a difference. Find out how you can help your community arts centre make art and culture available for everyone today and for future generations. Please Donate\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/27d224c1-b719-4dd5-b263-dd14cf0657d7",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#3"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "Support your community performing and visual arts centre by purchasing an annual ArtSpring membership. Membership runs from September 1 to August 31st, gives you advance purchase on ArtSpring Presents new season sales and a voice at our annual general meeting. Join us today and play your part in ArtSpring’s future. Find out more, or contact the box office 250.537.2102.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/eb073fc0-e811-45a3-85cd-2ecf5acab031",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#3"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "\n                \n                        \n                            Sign up for the ArtSpring Newsletter\n                            \n\t\t\t\t\t\t\t\"*\" indicates required fields\n                        \n                        Name*\n                            \n                            \n                                                    \n                                                    First\n                                                \n                            \n                            \n                                                    \n                                                    Last\n                                                \n                            \n                        Email\n                            \n                        \n          \n            \n            \n            \n            \n            \n            \n            \n            \n            \n        \n                        Δdocument.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() );\n                        \n\t\t                \n\t\t                \n/* <![CDATA[ */\n gform.initializeOnLoaded( function() {gformInitSpinner( 1, 'https://artspring.ca/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://artspring.ca/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger(\"gform_pre_post_render\", [{ formId: \"1\", currentPage: \"current_page\", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( \"gform_wrapper_1\" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( \"span\" );            visibilitySpan.id = \"gform_visibility_test_1\";            gformWrapperDiv.insertAdjacentElement( \"afterend\", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( \"gform_visibility_test_1\" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [1, current_page] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 1, currentPage: current_page } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} ); \n/* ]]> */\n\n\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/e744856d-df24-4f0b-829e-957ed9dfd3bd",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#3"
+      }
+    ]
+  },
+  {
+    "@id": "_:g598660",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/description": [
+      {
+        "@value": "Sun Nov 23, 2:30pm | Join the members of the Makana choirs as they celebrate the winter season through song!\nThis term’s concert is all about Winter Spice! From songs of sugar and nutmeg to some exciting music featuring latin rhythms! This concert is a sure way to get you in the mood for the upcoming holiday season!…\n"
+      },
+      {
+        "@value": "Tue Dec 2, 2:30pm | Bach’s Goldberg Variations—a masterpiece of invention, intricacy, and emotion—takes on new life in this bold reimagining by director and keyboardist Alexander Weimann. Performed by the acclaimed Pacific Baroque Orchestra, this chamber arrangement transforms a solo keyboard icon into a radiant…\n"
+      },
+      {
+        "@value": "Sat Nov 22, 10am | Strauss’s elegant romance brings the glamour and enchantment of 19th-century Vienna to cinemas worldwide in a sumptuous production by legendary director Otto Schenk that “is as beautiful as one could hope” (The New York Times). Soprano Rachel Willis-Sørensen stars as the title heroine, a young…\n"
+      },
+      {
+        "@value": "Wed Nov 19, 7:30pm | Experience Leonard Cohen’s music like never before in this rich, multidisciplinary tribute from choreographer Idan Cohen and Ne. Sans Opera & Dance. Blending live performance, contemporary dance, and stunning visual design, this evocative performance stars acclaimed Canadian bass-baritone…\n"
+      },
+      {
+        "@value": "Performing and visual arts centre, Salt Spring Island, B.C.\nCommunity productions, professional touring artists, exhibitions, workshops & more.\nArtSpring acknowledges the unceded territory and the ancestors of Salt Spring Island, the Coast Salish First Nations peoples of Salt Spring and surrounding areas, who continue…\n"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/event/makana-youth-choirs-fall-concert/"
+      },
+      {
+        "@id": "https://artspring.ca/event/pacific-baroque-orchestra-goldberg-variations/"
+      },
+      {
+        "@id": "https://artspring.ca/event/met-opera-arabella-strauss/"
+      },
+      {
+        "@id": "https://artspring.ca/event/take-this-waltz-celebrating-the-music-of-leonard-cohen/"
+      },
+      {
+        "@id": "https://artspring.ca/event/artspring/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g598780",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/03/Copy-of-Theatre-Angel-2.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g598800",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/07/Makana-Fall-2025-Registration.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g598820",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2023/04/Blue-White-Gradient-Volunteer-Needed-Instagram-Post.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g598840",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/08/2025_26-Season_Home-Page-Events-2.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g598860",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/08/2025_26-Season_Home-Page_Again.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g598880",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/03/Mar2025_HomePg_Donor-500-x-500.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g598900",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2022/08/Zoom-background-red-curtain-500x500-1.png"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/6ce711d5-d96e-40ff-8b64-ae99760f3cdc",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "https://schema.org/image": [
+      {
+        "@id": "_:g598660"
+      },
+      {
+        "@id": "_:g598780"
+      },
+      {
+        "@id": "_:g598800"
+      },
+      {
+        "@id": "_:g598820"
+      },
+      {
+        "@id": "_:g598840"
+      },
+      {
+        "@id": "_:g598860"
+      },
+      {
+        "@id": "_:g598880"
+      },
+      {
+        "@id": "_:g598900"
+      }
+    ],
+    "https://schema.org/headline": [
+      {
+        "@value": "EXPLORE & EXPERIENCE"
+      },
+      {
+        "@value": "ARTSPRING PRESENTS"
+      },
+      {
+        "@value": "YOUR DONATIONS MATTER"
+      },
+      {
+        "@value": "ARTSPRING MEMBERSHIP"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#4"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/946a6366-4832-4585-828c-5947f892caa0",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#4"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/a103c5d8-c88e-4d9a-9e01-4b2a1ab4371f",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#4"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "Live music, dance, theatre, exhibitions, speakers, workshops, and more. From local community productions to international touring artists to the debut of six ArtSpring Roundtable Events, we host some of the Gulf Island’s most spectacular events. Please check OUR CALENDAR for planning your must-attends.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/7a931e1b-3749-4470-9538-fe9436f80d1b",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#4"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "The ArtSpring 2025/26 Season is proud to engage audiences with 32 curated and unforgettable performances from world-class all-Canadian artists this year, many appearing at ArtSpring for the first time. We also introduce three Immersion Experiences to connect audiences on a deeper level with visiting artists. PDF of Season Brochure.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/e3d72b2f-812f-417c-88a7-330e1a70e871",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#4"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "\n\nNOVEMBER NEWSLETTER -- What's on in November\n\nAs the days shorten and the winter rains settle in, November brings a vibrant parade of genre-defying events to draw audiences toward the warm ArtSpring lights. Get ready for a month packed with music, reflection, and powerful visual art! We’re kicking the month off in style with a Halloween Community Dance on November 1st! Creepy crafts, treats, and a costume contest await those who are not ready to say goodbye\n... Read more\n\n\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/d544c588-7afb-4680-8b65-d5c3d047b1d9",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#4"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "ArtSpring donors and sponsors make up an incredible community of passionate people like you – keen to support Salt Spring’s premier venue for local and visiting presenters. Every donation, big or small, makes a difference. Find out how you can help your community arts centre make art and culture available for everyone today and for future generations. Please Donate\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/0bb600e4-a3de-4af5-8b38-9131add5a090",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#4"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "Support your community performing and visual arts centre by purchasing an annual ArtSpring membership. Membership runs from September 1 to August 31st, gives you advance purchase on ArtSpring Presents new season sales and a voice at our annual general meeting. Join us today and play your part in ArtSpring’s future. Find out more, or contact the box office 250.537.2102.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/3e50ea70-671b-49dc-b314-90fdedfc60f4",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#4"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "\n                \n                        \n                            Sign up for the ArtSpring Newsletter\n                            \n\t\t\t\t\t\t\t\"*\" indicates required fields\n                        \n                        Name*\n                            \n                            \n                                                    \n                                                    First\n                                                \n                            \n                            \n                                                    \n                                                    Last\n                                                \n                            \n                        Email\n                            \n                        \n          \n            \n            \n            \n            \n            \n            \n            \n            \n            \n        \n                        Δdocument.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() );\n                        \n\t\t                \n\t\t                \n/* <![CDATA[ */\n gform.initializeOnLoaded( function() {gformInitSpinner( 1, 'https://artspring.ca/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://artspring.ca/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger(\"gform_pre_post_render\", [{ formId: \"1\", currentPage: \"current_page\", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( \"gform_wrapper_1\" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( \"span\" );            visibilitySpan.id = \"gform_visibility_test_1\";            gformWrapperDiv.insertAdjacentElement( \"afterend\", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( \"gform_visibility_test_1\" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [1, current_page] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 1, currentPage: current_page } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} ); \n/* ]]> */\n\n\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/a35efbce-6105-4dd0-8f7e-5a9cf1e465de",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#4"
+      }
+    ]
+  },
+  {
+    "@id": "_:g617340",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/description": [
+      {
+        "@value": "Sun Nov 23, 2:30pm | Join the members of the Makana choirs as they celebrate the winter season through song!\nThis term’s concert is all about Winter Spice! From songs of sugar and nutmeg to some exciting music featuring latin rhythms! This concert is a sure way to get you in the mood for the upcoming holiday season!…\n"
+      },
+      {
+        "@value": "Tue Dec 2, 2:30pm | Bach’s Goldberg Variations—a masterpiece of invention, intricacy, and emotion—takes on new life in this bold reimagining by director and keyboardist Alexander Weimann. Performed by the acclaimed Pacific Baroque Orchestra, this chamber arrangement transforms a solo keyboard icon into a radiant…\n"
+      },
+      {
+        "@value": "Sat Nov 22, 10am | Strauss’s elegant romance brings the glamour and enchantment of 19th-century Vienna to cinemas worldwide in a sumptuous production by legendary director Otto Schenk that “is as beautiful as one could hope” (The New York Times). Soprano Rachel Willis-Sørensen stars as the title heroine, a young…\n"
+      },
+      {
+        "@value": "Wed Nov 19, 7:30pm | Experience Leonard Cohen’s music like never before in this rich, multidisciplinary tribute from choreographer Idan Cohen and Ne. Sans Opera & Dance. Blending live performance, contemporary dance, and stunning visual design, this evocative performance stars acclaimed Canadian bass-baritone…\n"
+      },
+      {
+        "@value": "Performing and visual arts centre, Salt Spring Island, B.C.\nCommunity productions, professional touring artists, exhibitions, workshops & more.\nArtSpring acknowledges the unceded territory and the ancestors of Salt Spring Island, the Coast Salish First Nations peoples of Salt Spring and surrounding areas, who continue…\n"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/event/makana-youth-choirs-fall-concert/"
+      },
+      {
+        "@id": "https://artspring.ca/event/pacific-baroque-orchestra-goldberg-variations/"
+      },
+      {
+        "@id": "https://artspring.ca/event/met-opera-arabella-strauss/"
+      },
+      {
+        "@id": "https://artspring.ca/event/take-this-waltz-celebrating-the-music-of-leonard-cohen/"
+      },
+      {
+        "@id": "https://artspring.ca/event/artspring/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g617460",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/03/Copy-of-Theatre-Angel-2.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g617480",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/07/Makana-Fall-2025-Registration.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g617500",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2023/04/Blue-White-Gradient-Volunteer-Needed-Instagram-Post.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g617520",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/08/2025_26-Season_Home-Page-Events-2.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g617540",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/08/2025_26-Season_Home-Page_Again.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g617560",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/03/Mar2025_HomePg_Donor-500-x-500.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g617580",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2022/08/Zoom-background-red-curtain-500x500-1.png"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/1318ee32-c1b5-4ae8-ac51-cc1bad43b103",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "https://schema.org/image": [
+      {
+        "@id": "_:g617340"
+      },
+      {
+        "@id": "_:g617460"
+      },
+      {
+        "@id": "_:g617480"
+      },
+      {
+        "@id": "_:g617500"
+      },
+      {
+        "@id": "_:g617520"
+      },
+      {
+        "@id": "_:g617540"
+      },
+      {
+        "@id": "_:g617560"
+      },
+      {
+        "@id": "_:g617580"
+      }
+    ],
+    "https://schema.org/headline": [
+      {
+        "@value": "EXPLORE & EXPERIENCE"
+      },
+      {
+        "@value": "ARTSPRING PRESENTS"
+      },
+      {
+        "@value": "YOUR DONATIONS MATTER"
+      },
+      {
+        "@value": "ARTSPRING MEMBERSHIP"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#5"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/fac32fa7-2fe5-4220-89d4-0fbbd7047ad6",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#5"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/b1d9a51a-4234-42a1-a919-0e17895760cc",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#5"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "Live music, dance, theatre, exhibitions, speakers, workshops, and more. From local community productions to international touring artists to the debut of six ArtSpring Roundtable Events, we host some of the Gulf Island’s most spectacular events. Please check OUR CALENDAR for planning your must-attends.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/aa74c012-114f-4e5f-bb09-565863d0c058",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#5"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "The ArtSpring 2025/26 Season is proud to engage audiences with 32 curated and unforgettable performances from world-class all-Canadian artists this year, many appearing at ArtSpring for the first time. We also introduce three Immersion Experiences to connect audiences on a deeper level with visiting artists. PDF of Season Brochure.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/35b32932-ef69-4bde-9409-99c3370a5a03",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#5"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "\n\nNOVEMBER NEWSLETTER -- What's on in November\n\nAs the days shorten and the winter rains settle in, November brings a vibrant parade of genre-defying events to draw audiences toward the warm ArtSpring lights. Get ready for a month packed with music, reflection, and powerful visual art! We’re kicking the month off in style with a Halloween Community Dance on November 1st! Creepy crafts, treats, and a costume contest await those who are not ready to say goodbye\n... Read more\n\n\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/c9f7c7ae-b3aa-47f2-a1cf-39378e25c87f",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#5"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "ArtSpring donors and sponsors make up an incredible community of passionate people like you – keen to support Salt Spring’s premier venue for local and visiting presenters. Every donation, big or small, makes a difference. Find out how you can help your community arts centre make art and culture available for everyone today and for future generations. Please Donate\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/ed1ad5db-eaef-4670-bade-adfbe8047621",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#5"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "Support your community performing and visual arts centre by purchasing an annual ArtSpring membership. Membership runs from September 1 to August 31st, gives you advance purchase on ArtSpring Presents new season sales and a voice at our annual general meeting. Join us today and play your part in ArtSpring’s future. Find out more, or contact the box office 250.537.2102.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/43a9fe43-0f26-4137-92df-a70e554b6d80",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#5"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "\n                \n                        \n                            Sign up for the ArtSpring Newsletter\n                            \n\t\t\t\t\t\t\t\"*\" indicates required fields\n                        \n                        Name*\n                            \n                            \n                                                    \n                                                    First\n                                                \n                            \n                            \n                                                    \n                                                    Last\n                                                \n                            \n                        Email\n                            \n                        \n          \n            \n            \n            \n            \n            \n            \n            \n            \n            \n        \n                        Δdocument.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() );\n                        \n\t\t                \n\t\t                \n/* <![CDATA[ */\n gform.initializeOnLoaded( function() {gformInitSpinner( 1, 'https://artspring.ca/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://artspring.ca/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger(\"gform_pre_post_render\", [{ formId: \"1\", currentPage: \"current_page\", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( \"gform_wrapper_1\" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( \"span\" );            visibilitySpan.id = \"gform_visibility_test_1\";            gformWrapperDiv.insertAdjacentElement( \"afterend\", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( \"gform_visibility_test_1\" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [1, current_page] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 1, currentPage: current_page } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} ); \n/* ]]> */\n\n\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/e1b2ddcc-080e-493c-bf1a-de0753162209",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#5"
+      }
+    ]
+  },
+  {
+    "@id": "_:g636020",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/description": [
+      {
+        "@value": "Sun Nov 23, 2:30pm | Join the members of the Makana choirs as they celebrate the winter season through song!\nThis term’s concert is all about Winter Spice! From songs of sugar and nutmeg to some exciting music featuring latin rhythms! This concert is a sure way to get you in the mood for the upcoming holiday season!…\n"
+      },
+      {
+        "@value": "Tue Dec 2, 2:30pm | Bach’s Goldberg Variations—a masterpiece of invention, intricacy, and emotion—takes on new life in this bold reimagining by director and keyboardist Alexander Weimann. Performed by the acclaimed Pacific Baroque Orchestra, this chamber arrangement transforms a solo keyboard icon into a radiant…\n"
+      },
+      {
+        "@value": "Sat Nov 22, 10am | Strauss’s elegant romance brings the glamour and enchantment of 19th-century Vienna to cinemas worldwide in a sumptuous production by legendary director Otto Schenk that “is as beautiful as one could hope” (The New York Times). Soprano Rachel Willis-Sørensen stars as the title heroine, a young…\n"
+      },
+      {
+        "@value": "Wed Nov 19, 7:30pm | Experience Leonard Cohen’s music like never before in this rich, multidisciplinary tribute from choreographer Idan Cohen and Ne. Sans Opera & Dance. Blending live performance, contemporary dance, and stunning visual design, this evocative performance stars acclaimed Canadian bass-baritone…\n"
+      },
+      {
+        "@value": "Performing and visual arts centre, Salt Spring Island, B.C.\nCommunity productions, professional touring artists, exhibitions, workshops & more.\nArtSpring acknowledges the unceded territory and the ancestors of Salt Spring Island, the Coast Salish First Nations peoples of Salt Spring and surrounding areas, who continue…\n"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/event/makana-youth-choirs-fall-concert/"
+      },
+      {
+        "@id": "https://artspring.ca/event/pacific-baroque-orchestra-goldberg-variations/"
+      },
+      {
+        "@id": "https://artspring.ca/event/met-opera-arabella-strauss/"
+      },
+      {
+        "@id": "https://artspring.ca/event/take-this-waltz-celebrating-the-music-of-leonard-cohen/"
+      },
+      {
+        "@id": "https://artspring.ca/event/artspring/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g636140",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/03/Copy-of-Theatre-Angel-2.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g636160",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/07/Makana-Fall-2025-Registration.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g636180",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2023/04/Blue-White-Gradient-Volunteer-Needed-Instagram-Post.png"
+      }
+    ]
+  },
+  {
+    "@id": "_:g636200",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/08/2025_26-Season_Home-Page-Events-2.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g636220",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/08/2025_26-Season_Home-Page_Again.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g636240",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2025/03/Mar2025_HomePg_Donor-500-x-500.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g636260",
+    "@type": [
+      "https://schema.org/ImageObject"
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://artspring.ca/wp-content/uploads/2022/08/Zoom-background-red-curtain-500x500-1.png"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/38532f7c-a066-4fac-9396-e9a240d3e225",
+    "@type": [
+      "https://schema.org/WebPage"
+    ],
+    "https://schema.org/image": [
+      {
+        "@id": "_:g636020"
+      },
+      {
+        "@id": "_:g636140"
+      },
+      {
+        "@id": "_:g636160"
+      },
+      {
+        "@id": "_:g636180"
+      },
+      {
+        "@id": "_:g636200"
+      },
+      {
+        "@id": "_:g636220"
+      },
+      {
+        "@id": "_:g636240"
+      },
+      {
+        "@id": "_:g636260"
+      }
+    ],
+    "https://schema.org/headline": [
+      {
+        "@value": "EXPLORE & EXPERIENCE"
+      },
+      {
+        "@value": "ARTSPRING PRESENTS"
+      },
+      {
+        "@value": "YOUR DONATIONS MATTER"
+      },
+      {
+        "@value": "ARTSPRING MEMBERSHIP"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#top"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/e7790e7d-710c-4d67-ad3c-eb9009f12750",
+    "@type": [
+      "https://schema.org/WPHeader"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#top"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/e1c90569-e84b-4638-80c7-ebf1cebb64e6",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#top"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "Live music, dance, theatre, exhibitions, speakers, workshops, and more. From local community productions to international touring artists to the debut of six ArtSpring Roundtable Events, we host some of the Gulf Island’s most spectacular events. Please check OUR CALENDAR for planning your must-attends.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/5032a55f-6efc-4db4-bd9b-c9c053311029",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#top"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "The ArtSpring 2025/26 Season is proud to engage audiences with 32 curated and unforgettable performances from world-class all-Canadian artists this year, many appearing at ArtSpring for the first time. We also introduce three Immersion Experiences to connect audiences on a deeper level with visiting artists. PDF of Season Brochure.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/d375b667-2f2e-4b03-9582-9ce9ade738dd",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#top"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "\n\nNOVEMBER NEWSLETTER -- What's on in November\n\nAs the days shorten and the winter rains settle in, November brings a vibrant parade of genre-defying events to draw audiences toward the warm ArtSpring lights. Get ready for a month packed with music, reflection, and powerful visual art! We’re kicking the month off in style with a Halloween Community Dance on November 1st! Creepy crafts, treats, and a costume contest await those who are not ready to say goodbye\n... Read more\n\n\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/3348ed2c-3441-410e-9723-7ec790d5b4c3",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#top"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "ArtSpring donors and sponsors make up an incredible community of passionate people like you – keen to support Salt Spring’s premier venue for local and visiting presenters. Every donation, big or small, makes a difference. Find out how you can help your community arts centre make art and culture available for everyone today and for future generations. Please Donate\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/bb45af24-ee02-43e7-af19-7e90faf98e70",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#top"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "Support your community performing and visual arts centre by purchasing an annual ArtSpring membership. Membership runs from September 1 to August 31st, gives you advance purchase on ArtSpring Presents new season sales and a voice at our annual general meeting. Join us today and play your part in ArtSpring’s future. Find out more, or contact the box office 250.537.2102.\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/b0c3c263-3792-46ff-9dee-b1c0712c956b",
+    "@type": [
+      "https://schema.org/CreativeWork"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#top"
+      }
+    ],
+    "https://schema.org/text": [
+      {
+        "@value": "\n                \n                        \n                            Sign up for the ArtSpring Newsletter\n                            \n\t\t\t\t\t\t\t\"*\" indicates required fields\n                        \n                        Name*\n                            \n                            \n                                                    \n                                                    First\n                                                \n                            \n                            \n                                                    \n                                                    Last\n                                                \n                            \n                        Email\n                            \n                        \n          \n            \n            \n            \n            \n            \n            \n            \n            \n            \n        \n                        Δdocument.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() );\n                        \n\t\t                \n\t\t                \n/* <![CDATA[ */\n gform.initializeOnLoaded( function() {gformInitSpinner( 1, 'https://artspring.ca/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://artspring.ca/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger(\"gform_pre_post_render\", [{ formId: \"1\", currentPage: \"current_page\", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( \"gform_wrapper_1\" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( \"span\" );            visibilitySpan.id = \"gform_visibility_test_1\";            gformWrapperDiv.insertAdjacentElement( \"afterend\", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( \"gform_visibility_test_1\" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [1, current_page] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 1, currentPage: current_page } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} ); \n/* ]]> */\n\n\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.artspring.ca/temporary/f605bd7d-b09a-4ee6-8f1d-4c24a421b5d0",
+    "@type": [
+      "https://schema.org/WPFooter"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.artspring.ca/#top"
+      }
+    ]
+  }
+]
