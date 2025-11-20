@@ -1,0 +1,2675 @@
+[
+  {
+    "@id": "http://www.thedancecentre.ca/calendar",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Events Archive - The Dance Centre"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://thedancecentre.ca/calendar/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "The Dance Centre"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://thedancecentre.ca/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://thedancecentre.ca/wp-json/tribe/events/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://thedancecentre.ca/calendar/",
+    "@type": [
+      "http://schema.org/CollectionPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/calendar/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://thedancecentre.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://thedancecentre.ca/calendar/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://thedancecentre.ca/calendar/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2025/11/Shubham-Bhavatu-Poster-2.jpg"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Events Archive - The Dance Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://thedancecentre.ca/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g467900"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Dance Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "The Dance Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://thedancecentre.ca/calendar/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2025/11/Shubham-Bhavatu-Poster-2.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2025/11/Shubham-Bhavatu-Poster-2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1888"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1778"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Screenshot"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467900",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g467920"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g467940"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467920",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://thedancecentre.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467940",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469240",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/venue/scotiabank-dance-centre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g469260"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Scotiabank Dance Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "6046066400"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469260",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "677 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "British Columbia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "V6B 2G6"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469640",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/venue/scotiabank-dance-centre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g469660"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Scotiabank Dance Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "6046066400"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469660",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "677 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "British Columbia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "V6B 2G6"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469760",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/venue/scotiabank-dance-centre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g469780"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Scotiabank Dance Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "6046066400"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469780",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "677 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "British Columbia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "V6B 2G6"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469920",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/venue/scotiabank-dance-centre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g469940"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Scotiabank Dance Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "6046066400"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469940",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "677 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "British Columbia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "V6B 2G6"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470180",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/venue/scotiabank-dance-centre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g470200"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Scotiabank Dance Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "6046066400"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470200",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "677 Davie Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "British Columbia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "V6B 2G6"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/23f7298f-5dde-45d7-a8ee-539cd4db4b93",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2025/06/Action-at-a-Distance-WAIL-photo-David-Cooper-3.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/global-dance-connections-subscriptions-2025-2026/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-15T08:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-18T17:00:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g469240"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Global Dance Connections Subscriptions"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Our Global Dance Connections series features exciting dance works by artists from across Canada. Subscribe to secure your seat and get the best prices! If &lt;a href=&quot;https://thedancecentre.ca/event/global-dance-connections-subscriptions-2025-2026/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/989fed55-aa09-4698-ab01-f12e0783bb61",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2024/08/DSC_8019-e1724716057905.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/creative-movement-for-seniors-fall-2025/2025-10-27/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-27T15:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-27T16:00:00-07:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Creative Movement for Seniors"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Mondays 3-4pm (PST), September 15-December 15, 2025 (no class October 13) Hybrid – In-person &amp; Online via Zoom: Free or by donations Wednesdays 10-11am, September 17-December 17, &lt;a href=&quot;https://thedancecentre.ca/event/creative-movement-for-seniors-fall-2025/2025-10-27/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/71ea188c-3c81-4225-a5e9-b200208e28be",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2024/08/DSC_8019-e1724716057905.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/creative-movement-for-seniors-fall-2025/2025-10-29/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-29T10:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-29T17:00:00-07:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Creative Movement for Seniors"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Mondays 3-4pm (PST), September 15-December 15, 2025 (no class October 13) Hybrid – In-person &amp; Online via Zoom: Free or by donations Wednesdays 10-11am, September 17-December 17, &lt;a href=&quot;https://thedancecentre.ca/event/creative-movement-for-seniors-fall-2025/2025-10-29/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/3533b830-54a2-4fa1-adff-102b0c260679",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/funknsole-street-dance-society/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-30T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-30T22:30:00-07:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Funk&#8217;N&#8217;Sole Street Dance Society"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;As part of the Kinesthesia fall exhibition and performance series, the Surrey Arts Centre studio theatre transforms into a haunted house of hip hop for this Halloween-themed &lt;a href=&quot;https://thedancecentre.ca/event/funknsole-street-dance-society/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/7d1132f0-1069-4395-9d43-43005c155ed8",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/anne-plamondon-productions/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-30T19:30:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-01T17:00:00-07:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Anne Plamondon Productions"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Myokine is inspired by molecules released by the muscles during physical effort, associated with the regeneration of body and mind. The piece explores the connection &lt;a href=&quot;https://thedancecentre.ca/event/anne-plamondon-productions/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/5cd5e0ac-4647-4128-b7f3-0b5d7025ccad",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2025/10/Fall-Studio-Salon-Series.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/studio-salon-series-fall-25/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-01T17:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-01T17:00:00-07:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Co.ERASGA"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Our Studio Salon Series returns, featuring works in progress by three local artists. In-person audience capacity is limited to 40 people.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/e90f6900-139d-4152-97cb-721b382ff543",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2025/08/IMG_1006.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/las-mujeronas/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-01T19:30:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-01T19:30:00-07:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Las Mujeronas"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;We are fierce, confident, trail-blazing women moving through struggles, rebuilding our lives, finding our voices and creating our identities, dreams and passions. This work features &lt;a href=&quot;https://thedancecentre.ca/event/las-mujeronas/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/1531ac60-300a-48ac-9d67-9a747850cd9d",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/mandala-arts-culture-society-2/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-02T18:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-02T22:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Mandala Arts &#038; Culture Society"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;🎉Celebrating 25 years of Mandala Arts &amp; Culture Society Mandala celebrates Founder Jai Govinda\\'s retirement and official launch of his new book &quot;SIMPLY BHARATA NATYAM&quot; &lt;a href=&quot;https://thedancecentre.ca/event/mandala-arts-culture-society-2/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/8ce22ecc-2bf2-43a9-b6aa-f4def2c686f9",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2024/08/DSC_8019-e1724716057905.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/creative-movement-for-seniors-fall-2025/2025-11-03/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-03T15:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-03T16:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Creative Movement for Seniors"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Mondays 3-4pm (PST), September 15-December 15, 2025 (no class October 13) Hybrid – In-person &amp; Online via Zoom: Free or by donations Wednesdays 10-11am, September 17-December 17, &lt;a href=&quot;https://thedancecentre.ca/event/creative-movement-for-seniors-fall-2025/2025-11-03/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/ece4c9d8-03de-43c2-8a92-68e32c76451a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2024/08/DSC_8019-e1724716057905.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/creative-movement-for-seniors-fall-2025/2025-11-05/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-05T10:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-05T17:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Creative Movement for Seniors"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Mondays 3-4pm (PST), September 15-December 15, 2025 (no class October 13) Hybrid – In-person &amp; Online via Zoom: Free or by donations Wednesdays 10-11am, September 17-December 17, &lt;a href=&quot;https://thedancecentre.ca/event/creative-movement-for-seniors-fall-2025/2025-11-05/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/f3666c7d-27fd-4085-8ef6-68ee914c7734",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/ballet-bc-trilogy/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-06T19:30:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-08T19:30:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Ballet BC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Ballet BC presents TRILOGY, introducing a world premiere from an emerging voice, a poetic revival from the company’s Artistic Director, and the return of a &lt;a href=&quot;https://thedancecentre.ca/event/ballet-bc-trilogy/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/1c9f8f12-24e9-4d5a-b898-bd593ad0138f",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2025/08/Oscar1920x1080px-webV2.webp"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/tfm-flamenco/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-06T20:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-08T17:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Oscar: Homage to the Rebel Maestro of Flamenco"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Oscar tells the story of the spectacular life and flamenco works of dancer, choreographer and maestro Oscar Nieto, brought to life by the professional flamenco &lt;a href=&quot;https://thedancecentre.ca/event/tfm-flamenco/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/4e7dc7cc-5e98-4ae4-b5d8-27985b5da8c1",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2024/08/DSC_8019-e1724716057905.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/creative-movement-for-seniors-fall-2025/2025-11-10/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-10T15:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-10T16:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Creative Movement for Seniors"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Mondays 3-4pm (PST), September 15-December 15, 2025 (no class October 13) Hybrid – In-person &amp; Online via Zoom: Free or by donations Wednesdays 10-11am, September 17-December 17, &lt;a href=&quot;https://thedancecentre.ca/event/creative-movement-for-seniors-fall-2025/2025-11-10/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/54db1626-d36b-4412-b5bc-96952660ec19",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2024/08/DSC_8019-e1724716057905.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/creative-movement-for-seniors-fall-2025/2025-11-12/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-12T10:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-12T17:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Creative Movement for Seniors"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Mondays 3-4pm (PST), September 15-December 15, 2025 (no class October 13) Hybrid – In-person &amp; Online via Zoom: Free or by donations Wednesdays 10-11am, September 17-December 17, &lt;a href=&quot;https://thedancecentre.ca/event/creative-movement-for-seniors-fall-2025/2025-11-12/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/30cb8dd1-bb9c-4277-a588-394a96490b1e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/performance-research-project/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-13T20:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-13T20:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Performance Research Project"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Works in progress by Josh Martin, Shion Skye Carter and Lesley Telford with dancers from Performance Research Project Performance Research Project(PRP) is a creative residency &lt;a href=&quot;https://thedancecentre.ca/event/performance-research-project/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/01e33076-74a7-460c-a3d7-0476c11356d3",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/kahawi-dance-theatre/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-14T18:30:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-15T17:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kaha:wi Dance Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Cultch and Urban Ink present The Mush Hole. A heart-opening dance theatre performance that lays bare the lived truths of Canada’s first Indian Residential &lt;a href=&quot;https://thedancecentre.ca/event/kahawi-dance-theatre/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/3999e628-06a4-452a-b82d-b115315924af",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2025/10/ouro.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/ourofest-2025/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-14T20:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-15T20:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "OUROFEST International Street Dance Festival"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;OUROFEST International Street Dance Festival is taking over Massey Theatre, with two nights of street dance, live performance, and community celebration. Presented by OURO Collective &lt;a href=&quot;https://thedancecentre.ca/event/ourofest-2025/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/446ac23c-8501-4ed1-b440-ce5aaef12abc",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/kahawi-dance-theatre/2025-11-15/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-15T14:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-15T17:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kaha:wi Dance Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Cultch and Urban Ink present The Mush Hole. A heart-opening dance theatre performance that lays bare the lived truths of Canada’s first Indian Residential &lt;a href=&quot;https://thedancecentre.ca/event/kahawi-dance-theatre/2025-11-15/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/10194cd6-14b0-4a29-b3c9-25d7cf3e048f",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2025/10/DSC_2420.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/20th-annual-louis-riel-day-celebration/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-15T19:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-15T21:30:00-08:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g469640"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "20th Annual Louis Riel Day Celebration"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;V\\'ni Dansi will once again be returning for the 20th annual Louis Riel Day celebration! Join us for an event filled with dance, culture, and &lt;a href=&quot;https://thedancecentre.ca/event/20th-annual-louis-riel-day-celebration/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/9911b3c6-a215-4693-a758-62ae452237fd",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/take-this-waltz/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-15T19:30:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-16T19:30:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Take This Waltz"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Take This Waltz is an unforgettable evening of music, dance, and stunning visuals. Originally presented in 2022, Chutzpah! and Vancouver Opera invite you to welcome &lt;a href=&quot;https://thedancecentre.ca/event/take-this-waltz/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/1cc2f692-8023-47a5-b7c4-ad72b68c5b15",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/kahawi-dance-theatre/2025-11-16/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-16T14:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-16T17:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kaha:wi Dance Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The Cultch and Urban Ink present The Mush Hole. A heart-opening dance theatre performance that lays bare the lived truths of Canada’s first Indian Residential &lt;a href=&quot;https://thedancecentre.ca/event/kahawi-dance-theatre/2025-11-16/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/4ff95506-1ab9-40ae-af9b-f5ef9eec73d5",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2024/08/DSC_8019-e1724716057905.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/creative-movement-for-seniors-fall-2025/2025-11-17/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-17T15:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-17T16:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Creative Movement for Seniors"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Mondays 3-4pm (PST), September 15-December 15, 2025 (no class October 13) Hybrid – In-person &amp; Online via Zoom: Free or by donations Wednesdays 10-11am, September 17-December 17, &lt;a href=&quot;https://thedancecentre.ca/event/creative-movement-for-seniors-fall-2025/2025-11-17/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/3d9e3a3a-a0d4-453f-8519-549ce9588867",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2025/09/Impetus-cube-sq.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/katria-phothong-mckinnon/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-17T19:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T21:00:00-08:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g469760"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Katria Phothong-McKinnon"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Impetus is an interdisciplinary installation that explores identity, digital existence and cultural preservation through the meeting points of classical Thai dance, Voguing, w*acking and new &lt;a href=&quot;https://thedancecentre.ca/event/katria-phothong-mckinnon/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/41d7c775-f546-4267-a01c-76a0331354e1",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2024/08/DSC_8019-e1724716057905.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/creative-movement-for-seniors-fall-2025/2025-11-19/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-19T10:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-19T17:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Creative Movement for Seniors"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Mondays 3-4pm (PST), September 15-December 15, 2025 (no class October 13) Hybrid – In-person &amp; Online via Zoom: Free or by donations Wednesdays 10-11am, September 17-December 17, &lt;a href=&quot;https://thedancecentre.ca/event/creative-movement-for-seniors-fall-2025/2025-11-19/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/b5676b8d-88fa-4853-b407-acfc9c33eb84",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2025/11/EDAM-November.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/edam-choreographic-series-november-2025/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-19T19:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-19T19:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "EDAM Choreographic Series November 2025"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;EDAM is thrilled to present new work by Isak Enquist, Erika Mitsuhashi, and Peter Bingham. This year’s Choreographic Series marks Peter Bingham’s last Choreographic Series as Artistic Director. &lt;a href=&quot;https://thedancecentre.ca/event/edam-choreographic-series-november-2025/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/1beec7e3-52b9-472d-a0c9-825eb084b995",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/audrey-gaussiran/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T19:30:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T19:30:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Audrey Gaussiran"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Alliance Française Vancouver presents: Combining dance and digital art, MOSAÏCO explores the multiplicity in identity construction. This piece is performed by 5 dancers, primarily from &lt;a href=&quot;https://thedancecentre.ca/event/audrey-gaussiran/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/5a4fae04-f5ac-418b-b07d-ff2be78ffb81",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/sca-fall-repertory/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T19:30:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T17:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "SCA Fall Repertory"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Thirty-six dancers fiercely take and make space for a highly charged evening of Contemporary Dance. Presented by the School for the Contemporary Arts Dance and &lt;a href=&quot;https://thedancecentre.ca/event/sca-fall-repertory/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/302a523f-d63a-4f15-a124-dbae5b45abbc",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/omer-backley-astrachan-and-jana-castillo/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T19:30:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T19:30:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Omer Backley-Astrachan and Jana Castillo"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Chutzpah! presents the North American premiere of Common Place by Australian power-duo dancer/choreographer Omer Backley-Astrachan and multi-award winning dancer Jana Castillo. Drawing on folkloric vernacular, &lt;a href=&quot;https://thedancecentre.ca/event/omer-backley-astrachan-and-jana-castillo/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/f62f090b-3600-49e2-b8af-be052f17a075",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2025/09/BOSSY_HD_0325_46-sq.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/from-the-cypher-to-the-screen/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T17:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T21:30:00-08:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g469920"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "From the Cypher to the Screen"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Presented in partnership with FORM (Festival of Recorded Movement), this street dance event features a cypher competition and film screening. Join us in celebrating local &lt;a href=&quot;https://thedancecentre.ca/event/from-the-cypher-to-the-screen/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/977df351-60f3-4b51-abc2-461bec7c3650",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2025/11/EDAM-November.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/edam-choreographic-series-november-2025/2025-11-21/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T19:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T19:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "EDAM Choreographic Series November 2025"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;EDAM is thrilled to present new work by Isak Enquist, Erika Mitsuhashi, and Peter Bingham. This year’s Choreographic Series marks Peter Bingham’s last Choreographic Series as Artistic Director. &lt;a href=&quot;https://thedancecentre.ca/event/edam-choreographic-series-november-2025/2025-11-21/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/a98acbd3-0d04-44d9-a917-caec1cd43398",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/sca-fall-repertory/2025-11-22/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T14:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T17:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "SCA Fall Repertory"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Thirty-six dancers fiercely take and make space for a highly charged evening of Contemporary Dance. Presented by the School for the Contemporary Arts Dance and &lt;a href=&quot;https://thedancecentre.ca/event/sca-fall-repertory/2025-11-22/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/2c1d89a5-0324-4bc4-8f63-5ef3bbc44558",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2025/10/Simran-Sachar-photo-Marshall-James-To.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/ancestral-echoes-dance-symposium/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T14:30:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T17:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Ancestral Echoes Dance Symposium"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Ancestral Echoes celebrates the dynamic wisdom of dance traditions. The afternoon begins with an activation of the sculptural installation Ephemeral Artifacts, choreographed by Toronto-based artist Brandy Leary &lt;a href=&quot;https://thedancecentre.ca/event/ancestral-echoes-dance-symposium/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/b53c1270-7506-4064-b8a4-99c068f7ffe7",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/coastal-city-ballet-2025/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T19:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T19:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Coastal City Ballet"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;​Step into a world of wonder this holiday season! Bring the whole family to experience the joy and magic of The Fairy Doll, a heartwarming &lt;a href=&quot;https://thedancecentre.ca/event/coastal-city-ballet-2025/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/1550dba0-7c5c-4078-8c84-6b7b71a36f3e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2025/11/EDAM-November.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/edam-choreographic-series-november-2025/2025-11-22/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T19:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T19:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "EDAM Choreographic Series November 2025"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;EDAM is thrilled to present new work by Isak Enquist, Erika Mitsuhashi, and Peter Bingham. This year’s Choreographic Series marks Peter Bingham’s last Choreographic Series as Artistic Director. &lt;a href=&quot;https://thedancecentre.ca/event/edam-choreographic-series-november-2025/2025-11-22/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/9727a4a4-3f88-425e-9e25-b0667179f486",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2025/11/Shubham-Bhavatu-Poster-2.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/dance-as-blessing-shubham-bhavatu/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-23T17:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-23T17:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Dance as Blessing: ‘Shubham Bhavatu’"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Fiana Kawane | Puneet Singh | Akshaya Surve | Curated by Nina Buddhdev Featuring the exceptional talents and gharane-daar taalim (training in the traditional style &lt;a href=&quot;https://thedancecentre.ca/event/dance-as-blessing-shubham-bhavatu/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/f7d56abf-af00-48bd-a0eb-0a973971efab",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2024/08/DSC_8019-e1724716057905.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/creative-movement-for-seniors-fall-2025/2025-11-24/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-24T15:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-24T16:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Creative Movement for Seniors"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Mondays 3-4pm (PST), September 15-December 15, 2025 (no class October 13) Hybrid – In-person &amp; Online via Zoom: Free or by donations Wednesdays 10-11am, September 17-December 17, &lt;a href=&quot;https://thedancecentre.ca/event/creative-movement-for-seniors-fall-2025/2025-11-24/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/f09182b8-7056-441e-ad6d-73ff31537316",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2024/08/DSC_8019-e1724716057905.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/creative-movement-for-seniors-fall-2025/2025-11-26/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-26T10:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-26T17:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Creative Movement for Seniors"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Mondays 3-4pm (PST), September 15-December 15, 2025 (no class October 13) Hybrid – In-person &amp; Online via Zoom: Free or by donations Wednesdays 10-11am, September 17-December 17, &lt;a href=&quot;https://thedancecentre.ca/event/creative-movement-for-seniors-fall-2025/2025-11-26/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/4541e971-720b-479b-a5e0-c0d682b9ef00",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2025/11/EDAM-November.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/edam-choreographic-series-november-2025/2025-11-26/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-26T19:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-26T19:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "EDAM Choreographic Series November 2025"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;EDAM is thrilled to present new work by Isak Enquist, Erika Mitsuhashi, and Peter Bingham. This year’s Choreographic Series marks Peter Bingham’s last Choreographic Series as Artistic Director. &lt;a href=&quot;https://thedancecentre.ca/event/edam-choreographic-series-november-2025/2025-11-26/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/0dfa6286-6169-4f91-9172-5e0e8354d380",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2025/11/EDAM-November.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/edam-choreographic-series-november-2025/2025-11-28/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-28T19:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-28T19:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "EDAM Choreographic Series November 2025"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;EDAM is thrilled to present new work by Isak Enquist, Erika Mitsuhashi, and Peter Bingham. This year’s Choreographic Series marks Peter Bingham’s last Choreographic Series as Artistic Director. &lt;a href=&quot;https://thedancecentre.ca/event/edam-choreographic-series-november-2025/2025-11-28/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/5a1a0313-0132-4290-b4d7-7ff3e5810908",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2025/07/Contra-6-sq.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/eric-cheung/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-28T20:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T21:00:00-08:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g470180"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Eric Cheung"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;The recent Iris Garland Award-winning emerging choreographer and interdisciplinary artist Eric Cheung premieres his debut full-length work, Contra. Set within an ethereal world, Contra merges &lt;a href=&quot;https://thedancecentre.ca/event/eric-cheung/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/cbffcda6-f620-4999-9ea1-a115371acfa0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/hung-dance/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-28T20:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T20:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Hung Dance"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;Presented by Dance House Vancouver with community partner Asian-Canadian Special Events Association Creatures of a feather dance together in Birdy, Hung Dance’s call to the wild. &lt;a href=&quot;https://thedancecentre.ca/event/hung-dance/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thedancecentre.ca/temporary/44a13000-927f-410b-b514-37618414defb",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://thedancecentre.ca/wp-content/uploads/2025/11/EDAM-November.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thedancecentre.ca/event/edam-choreographic-series-november-2025/2025-11-29/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T19:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T19:00:00-08:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thedancecentre.ca/calendar"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "EDAM Choreographic Series November 2025"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "&lt;p&gt;EDAM is thrilled to present new work by Isak Enquist, Erika Mitsuhashi, and Peter Bingham. This year’s Choreographic Series marks Peter Bingham’s last Choreographic Series as Artistic Director. &lt;a href=&quot;https://thedancecentre.ca/event/edam-choreographic-series-november-2025/2025-11-29/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ]
+  }
+]
