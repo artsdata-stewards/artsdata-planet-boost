@@ -1,0 +1,846 @@
+[
+  {
+    "@id": "https://www.monstrartity.com/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "monstrARTity"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Amplifying South Asian arts via festivals, community workshops and mentorships. monstrARTity is an award-winning, Mississauga-based not-for-profit filling systemic cultural and economic gaps in underserved diverse communities."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://monstrartity.com/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "monstrARTity"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/BollywoodMonsterMashup/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-08-26T19:39:17+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://monstrartity.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.monstrartity.com/"
+      },
+      {
+        "@id": "https://www.monstrartity.com/#"
+      }
+    ]
+  },
+  {
+    "@id": "https://monstrartity.com/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://monstrartity.com/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://monstrartity.com/#website"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://monstrartity.com/#organization"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-09T05:40:55+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-26T19:39:17+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://monstrartity.com/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460840"
+      },
+      {
+        "@id": "_:g473920"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "monstrARTity"
+      },
+      {
+        "@value": "monstrARTity"
+      },
+      {
+        "@language": "en",
+        "@value": "Home"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Amplifying South Asian arts via festivals, community workshops and mentorships. monstrARTity is an award-winning, Mississauga-based not-for-profit filling systemic cultural and economic gaps in underserved diverse communities."
+      },
+      {
+        "@value": "Amplifying South Asian arts via festivals, community workshops and mentorships. monstrARTity is an award-winning, Mississauga-based not-for-profit filling systemic cultural and economic gaps in underserved diverse communities."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://monstrartity.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://monstrartity.com/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://monstrartity.com/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460880"
+      },
+      {
+        "@id": "_:g473960"
+      },
+      {
+        "@id": "_:g487080"
+      },
+      {
+        "@id": "_:g499720"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "monstrARTity"
+      },
+      {
+        "@value": "monstrARTity"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Amplifying South Asian arts via festivals, community workshops, and mentorships"
+      },
+      {
+        "@value": "Amplifying South Asian arts via festivals, community workshops, and mentorships"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://monstrartity.com/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://monstrartity.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://monstrartity.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://monstrartity.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/BollywoodMonsterMashup/"
+      },
+      {
+        "@id": "https://x.com/monstrARTity"
+      },
+      {
+        "@id": "https://www.linkedin.com/company/monstrartity-creative-community"
+      },
+      {
+        "@id": "https://www.instagram.com/bollywoodmonstermashup/"
+      },
+      {
+        "@id": "https://www.youtube.com/channel/UCWh5oAwerhFRr52vWritLBw/featured"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "monstrARTity Creative Community"
+      },
+      {
+        "@value": "monstrARTity Creative Community"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "en",
+        "@value": "monstrARTity"
+      },
+      {
+        "@value": "monstrARTity"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460840",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://monstrartity.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473920",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://monstrartity.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460880",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g460900"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g460920"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473960",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g473980"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g474000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487080",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g487100"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g487120"
+      }
+    ]
+  },
+  {
+    "@id": "_:g499720",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g499740"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g499760"
+      }
+    ]
+  },
+  {
+    "@id": "https://monstrartity.com/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://monstrartity.com/wp-content/uploads/2023/05/cropped-Copy-of-MCC-Square-Logo-for-SHG.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://monstrartity.com/wp-content/uploads/2023/05/cropped-Copy-of-MCC-Square-Logo-for-SHG.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "monstrARTity Creative Community"
+      },
+      {
+        "@value": "monstrARTity Creative Community"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460900",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://monstrartity.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460920",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461380",
+    "http://schema.org/url": [
+      {
+        "@id": "https://monstrartity.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "https://www.monstrartity.com/temporary/057e8049-3517-4383-a9b9-2dc9117ba7bc",
+    "@type": [
+      "http://schema.org/AboutPage"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://monstrartity.com/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g461380"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.monstrartity.com/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "MCC - About"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Amplifying South Asian Arts via Festivals, Community Workshops and Mentorships\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\tmonstrARTity is an award-winning, Mississauga-based not-for-profit filling systemic cultural and economic gaps in underserved diverse communities.\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\tCheck Out Our Programs\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\tThe heart of Bollywood music &amp; dance in Canada and features FREE concerts with international Bollywood stars, a food festival, dance performances, shopping, a laser show and more!\n\t\t\t\n\t\t\t\tLearn More\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\tA mentorship program where selected professional artists learn marketing &amp; entrepreneurship skills and meet industry gatekeepers to help them bring their South Asian arts practice to the public.\n\t\t\t\n\t\t\t\tLearn More\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\tHelping teachers fill gaps in South Asian curriculum for youth and helps teachers by providing school children of all backgrounds with hands-on workshops.\n\n\t\t\t\n\t\t\t\tLearn More\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\tInteractive workshops for seniors and fills gaps in cultural and language-specific services with professionally-led arts workshops to reduce feelings of isolation.\n\n\t\t\t\n\t\t\t\tLearn More"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473980",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://monstrartity.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474000",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474460",
+    "http://schema.org/url": [
+      {
+        "@id": "https://monstrartity.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "@type": [
+      "http://schema.org/Organization"
+    ]
+  },
+  {
+    "@id": "https://www.monstrartity.com/temporary/ca65bfe4-0b03-406e-a311-d8556de5d13f",
+    "@type": [
+      "http://schema.org/AboutPage"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://monstrartity.com/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "_:g474460"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.monstrartity.com/#"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@value": "MCC - About"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Amplifying South Asian Arts via Festivals, Community Workshops and Mentorships\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\tmonstrARTity is an award-winning, Mississauga-based not-for-profit filling systemic cultural and economic gaps in underserved diverse communities.\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\tCheck Out Our Programs\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\tThe heart of Bollywood music &amp; dance in Canada and features FREE concerts with international Bollywood stars, a food festival, dance performances, shopping, a laser show and more!\n\t\t\t\n\t\t\t\tLearn More\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\tA mentorship program where selected professional artists learn marketing &amp; entrepreneurship skills and meet industry gatekeepers to help them bring their South Asian arts practice to the public.\n\t\t\t\n\t\t\t\tLearn More\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\tHelping teachers fill gaps in South Asian curriculum for youth and helps teachers by providing school children of all backgrounds with hands-on workshops.\n\n\t\t\t\n\t\t\t\tLearn More\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\tInteractive workshops for seniors and fills gaps in cultural and language-specific services with professionally-led arts workshops to reduce feelings of isolation.\n\n\t\t\t\n\t\t\t\tLearn More"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.monstrartity.com/privacy-policy/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Privacy Policy | monstrARTity"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://monstrartity.com/privacy-policy/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "monstrARTity"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/BollywoodMonsterMashup/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-06-26T18:11:54+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://monstrartity.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.monstrartity.com/privacy-policy/"
+      }
+    ]
+  },
+  {
+    "@id": "https://monstrartity.com/privacy-policy/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://monstrartity.com/privacy-policy/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Privacy Policy | monstrARTity"
+      },
+      {
+        "@language": "en",
+        "@value": "MCC &#8211; Privacy Policy"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://monstrartity.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-29T04:20:49+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-26T18:11:54+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://monstrartity.com/privacy-policy/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g487020"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487020",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://monstrartity.com/privacy-policy/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487100",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://monstrartity.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487120",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.monstrartity.com/cookie-policy/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Cookie Policy | monstrARTity"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://monstrartity.com/cookie-policy/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "monstrARTity"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/BollywoodMonsterMashup/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-06-26T18:11:02+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://monstrartity.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.monstrartity.com/cookie-policy/"
+      }
+    ]
+  },
+  {
+    "@id": "https://monstrartity.com/cookie-policy/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://monstrartity.com/cookie-policy/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Cookie Policy | monstrARTity"
+      },
+      {
+        "@language": "en",
+        "@value": "MCC &#8211; Cookie Policy"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://monstrartity.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-05-29T07:21:22+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-26T18:11:02+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://monstrartity.com/cookie-policy/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g499660"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g499660",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://monstrartity.com/cookie-policy/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g499740",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://monstrartity.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g499760",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  }
+]
