@@ -1,0 +1,387 @@
+[
+  {
+    "@id": "http://www.larleecreekmusic.ca/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Larlee Creek Hullabaloo - Music Festival in New Brunswick"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "The Little Festival that could! The Larlee Creek Hullabaloo is a 4-day New Brunswick Music Festival located in Perth-Andover, New Brunswick."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://larleecreekmusic.ca/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Larlee Creek Hullabaloo"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/LarleeCreekHullabaloo/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-07-16T21:40:57+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://larleecreekmusic.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.larleecreekmusic.ca/"
+      },
+      {
+        "@id": "http://www.larleecreekmusic.ca/#"
+      }
+    ]
+  },
+  {
+    "@id": "https://larleecreekmusic.ca/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://larleecreekmusic.ca/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://larleecreekmusic.ca/#website"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://larleecreekmusic.ca/#organization"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-09-24T15:47:14+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-16T21:40:57+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://larleecreekmusic.ca/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460700"
+      },
+      {
+        "@id": "_:g469180"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Larlee Creek Hullabaloo - Music Festival in New Brunswick"
+      },
+      {
+        "@value": "Larlee Creek Hullabaloo - Music Festival in New Brunswick"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "The Little Festival that could! The Larlee Creek Hullabaloo is a 4-day New Brunswick Music Festival located in Perth-Andover, New Brunswick."
+      },
+      {
+        "@value": "The Little Festival that could! The Larlee Creek Hullabaloo is a 4-day New Brunswick Music Festival located in Perth-Andover, New Brunswick."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://larleecreekmusic.ca/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://larleecreekmusic.ca/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://larleecreekmusic.ca/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460740"
+      },
+      {
+        "@id": "_:g469220"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Larlee Creek Hullabaloo"
+      },
+      {
+        "@value": "Larlee Creek Hullabaloo"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Music Festival"
+      },
+      {
+        "@value": "Music Festival"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://larleecreekmusic.ca/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://larleecreekmusic.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://larleecreekmusic.ca/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://larleecreekmusic.ca/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/LarleeCreekHullabaloo/"
+      },
+      {
+        "@id": "https://www.instagram.com/lchullabaloo/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Larlee Creek Hullabaloo"
+      },
+      {
+        "@value": "Larlee Creek Hullabaloo"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460700",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://larleecreekmusic.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469180",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://larleecreekmusic.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460740",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g460760"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g460780"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469220",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g469240"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g469260"
+      }
+    ]
+  },
+  {
+    "@id": "https://larleecreekmusic.ca/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://larleecreekmusic.ca/wp-content/uploads/2022/12/Larlee-Creek-Logo-512-x-512-2.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://larleecreekmusic.ca/wp-content/uploads/2022/12/Larlee-Creek-Logo-512-x-512-2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Larlee Creek Hullabaloo"
+      },
+      {
+        "@value": "Larlee Creek Hullabaloo"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460760",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://larleecreekmusic.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460780",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469240",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://larleecreekmusic.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469260",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  }
+]
