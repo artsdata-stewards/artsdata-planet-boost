@@ -1,0 +1,1164 @@
+[
+  {
+    "@id": "https://www.uvic.ca/news/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Home - UVic News"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Stay informed with the latest research, news and stories from the University of Victoria."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://news.uvic.ca/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "UVic News"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/universityofvictoria"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-09-04T16:54:47+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://news.uvic.ca/wp-content/uploads/2025/02/uvic-social-media-default.gif"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "625"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/gif"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://news.uvic.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.uvic.ca/news/"
+      }
+    ]
+  },
+  {
+    "@id": "https://news.uvic.ca/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://news.uvic.ca/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://news.uvic.ca/#website"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://news.uvic.ca/#organization"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://news.uvic.ca/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://news.uvic.ca/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://news.uvic.ca/wp-content/uploads/2025/02/uvic-social-media-default.gif"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-10T17:19:35+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-04T16:54:47+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://news.uvic.ca/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g2285360"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Home - UVic News"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Stay informed with the latest research, news and stories from the University of Victoria."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://news.uvic.ca/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://news.uvic.ca/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://news.uvic.ca/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g2285400"
+      },
+      {
+        "@id": "_:g2969560"
+      },
+      {
+        "@id": "_:g2982380"
+      },
+      {
+        "@id": "_:g2994440"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "UVic News"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "News and updates from the University of Victoria"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://news.uvic.ca/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://news.uvic.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://news.uvic.ca/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://news.uvic.ca/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/universityofvictoria"
+      },
+      {
+        "@id": "https://x.com/uvic"
+      },
+      {
+        "@id": "https://www.linkedin.com/school/university-of-victoria"
+      },
+      {
+        "@id": "https://www.youtube.com/uvic"
+      },
+      {
+        "@id": "https://www.instagram.com/universityofvictoria/"
+      },
+      {
+        "@id": "https://bsky.app/profile/uvic.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "University of Victoria"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "en",
+        "@value": "UVic"
+      }
+    ]
+  },
+  {
+    "@id": "https://news.uvic.ca/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://news.uvic.ca/wp-content/uploads/2025/02/uvic-social-media-default.gif"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://news.uvic.ca/wp-content/uploads/2025/02/uvic-social-media-default.gif"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "625"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "UVic wordmark on a dark blue background."
+      }
+    ]
+  },
+  {
+    "@id": "_:g2285360",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://news.uvic.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g2285400",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g2285420"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g2285440"
+      }
+    ]
+  },
+  {
+    "@id": "_:g2969560",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g2969580"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g2969600"
+      }
+    ]
+  },
+  {
+    "@id": "_:g2982380",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g2982400"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g2982420"
+      }
+    ]
+  },
+  {
+    "@id": "_:g2994440",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g2994460"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g2994480"
+      }
+    ]
+  },
+  {
+    "@id": "https://news.uvic.ca/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://news.uvic.ca/wp-content/uploads/2025/04/uvic-mark-square.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://news.uvic.ca/wp-content/uploads/2025/04/uvic-mark-square.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "696"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "696"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "University of Victoria"
+      }
+    ]
+  },
+  {
+    "@id": "_:g2285420",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://news.uvic.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g2285440",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.uvic.ca/news/topics/2025+nature-bee-ceo-wins-alumni-award+media-release",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Nature Bee CEO wins Distinguished Alumni Award - UVic News"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "For Katie Gamble, making an unbee-lievable difference in the world all started at the University of Victoria.  Gamble, founder and CEO of Nature Bee,"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://news.uvic.ca/media-release/nature-bee-ceo-wins-alumni-award/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "UVic News"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/universityofvictoria"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-03-11T21:48:54+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://news.uvic.ca/wp-content/uploads/2025/03/katie-gamble-feature.jpeg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1440"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "810"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://news.uvic.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.uvic.ca/news/topics/2025+nature-bee-ceo-wins-alumni-award+media-release"
+      }
+    ]
+  },
+  {
+    "@id": "https://news.uvic.ca/media-release/nature-bee-ceo-wins-alumni-award/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://news.uvic.ca/media-release/nature-bee-ceo-wins-alumni-award/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://news.uvic.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://news.uvic.ca/media-release/nature-bee-ceo-wins-alumni-award/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://news.uvic.ca/media-release/nature-bee-ceo-wins-alumni-award/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://news.uvic.ca/wp-content/uploads/2025/03/katie-gamble-feature.jpeg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-03T22:00:06+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-11T21:48:54+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://news.uvic.ca/media-release/nature-bee-ceo-wins-alumni-award/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g2969540"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Nature Bee CEO wins Distinguished Alumni Award - UVic News"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "For Katie Gamble, making an unbee-lievable difference in the world all started at the University of Victoria.&nbsp; Gamble, founder and CEO of Nature Bee,"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://news.uvic.ca/media-release/nature-bee-ceo-wins-alumni-award/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://news.uvic.ca/wp-content/uploads/2025/03/katie-gamble-feature.jpeg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://news.uvic.ca/wp-content/uploads/2025/03/katie-gamble-feature.jpeg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1440"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "810"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "UVic Business grad Katie Gamble is the founder of Nature Bee, which produces and sells reusable beeswax food wraps and other sustainable home goods. Photo submitted."
+      }
+    ]
+  },
+  {
+    "@id": "_:g2969540",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://news.uvic.ca/media-release/nature-bee-ceo-wins-alumni-award/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g2969580",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://news.uvic.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g2969600",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.uvic.ca/news/topics/2025+celebrating-women-and-girls-in-science+expert-advisory",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Celebrating women and girls in science - UVic News"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Feb. 11 is the 10th anniversary of the United Nations International Day of Women and Girls in Science. From exciting and impactful research discoveries to"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://news.uvic.ca/expert-advisory/celebrating-women-and-girls-in-science/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "UVic News"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/universityofvictoria"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-03-12T23:23:50+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://news.uvic.ca/wp-content/uploads/2025/02/baum-tremblay-wale.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "960"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "640"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://news.uvic.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.uvic.ca/news/topics/2025+celebrating-women-and-girls-in-science+expert-advisory"
+      }
+    ]
+  },
+  {
+    "@id": "https://news.uvic.ca/expert-advisory/celebrating-women-and-girls-in-science/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://news.uvic.ca/expert-advisory/celebrating-women-and-girls-in-science/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://news.uvic.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://news.uvic.ca/expert-advisory/celebrating-women-and-girls-in-science/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://news.uvic.ca/expert-advisory/celebrating-women-and-girls-in-science/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://news.uvic.ca/wp-content/uploads/2025/02/baum-tremblay-wale.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-06T22:35:11+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-12T23:23:50+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://news.uvic.ca/expert-advisory/celebrating-women-and-girls-in-science/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g2982280"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Celebrating women and girls in science - UVic News"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Feb. 11 is the 10th anniversary of the United Nations International Day of Women and Girls in Science. From exciting and impactful research discoveries to"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://news.uvic.ca/expert-advisory/celebrating-women-and-girls-in-science/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://news.uvic.ca/wp-content/uploads/2025/02/baum-tremblay-wale.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://news.uvic.ca/wp-content/uploads/2025/02/baum-tremblay-wale.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "960"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "640"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Julia Baum, Marie-Ève Tremblay, Janna Wale."
+      }
+    ]
+  },
+  {
+    "@id": "_:g2982280",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://news.uvic.ca/expert-advisory/celebrating-women-and-girls-in-science/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g2982400",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://news.uvic.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g2982420",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.uvic.ca/news/topics/2025+seabed-carbon-storage+media-release",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Seabed carbon storage overlooked in marine protected area planning - UVic News"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Using marine protected areas (MPAs) to preserve natural carbon storage in key areas of the seafloor could be an additional strategy to help limit climate"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://news.uvic.ca/media-release/seabed-carbon-storage/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "UVic News"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/universityofvictoria"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-04-02T17:54:11+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://news.uvic.ca/wp-content/uploads/2025/01/2010-275_960x640.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "960"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "640"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://news.uvic.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.uvic.ca/news/topics/2025+seabed-carbon-storage+media-release"
+      }
+    ]
+  },
+  {
+    "@id": "https://news.uvic.ca/media-release/seabed-carbon-storage/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://news.uvic.ca/media-release/seabed-carbon-storage/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://news.uvic.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://news.uvic.ca/media-release/seabed-carbon-storage/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://news.uvic.ca/media-release/seabed-carbon-storage/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://news.uvic.ca/wp-content/uploads/2025/01/2010-275_960x640.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-17T19:09:19+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-02T17:54:11+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://news.uvic.ca/media-release/seabed-carbon-storage/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g2994420"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Seabed carbon storage overlooked in marine protected area planning - UVic News"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Using marine protected areas (MPAs) to preserve natural carbon storage in key areas of the seafloor could be an additional strategy to help limit climate"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://news.uvic.ca/media-release/seabed-carbon-storage/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://news.uvic.ca/wp-content/uploads/2025/01/2010-275_960x640.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://news.uvic.ca/wp-content/uploads/2025/01/2010-275_960x640.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "960"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "640"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Photo of muddy sediment with animal burrows and tracks in Placentia Bay, Newfoundland in 2006. Contains information licensed under the Open Government Licence – Canada. (Natural Resources Canada)"
+      }
+    ]
+  },
+  {
+    "@id": "_:g2994420",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://news.uvic.ca/media-release/seabed-carbon-storage/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g2994460",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://news.uvic.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g2994480",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  }
+]
