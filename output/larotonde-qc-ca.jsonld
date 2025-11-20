@@ -1,0 +1,950 @@
+[
+  {
+    "@id": "http://www.larotonde.qc.ca/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La Rotonde"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "La Rotonde | Saison danse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.larotonde.qc.ca/"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.larotonde.qc.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.larotonde.qc.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.larotonde.qc.ca/#/schema/WebSite",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.larotonde.qc.ca/"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460740"
+      },
+      {
+        "@id": "_:g469520"
+      },
+      {
+        "@id": "_:g477220"
+      },
+      {
+        "@id": "_:g485860"
+      },
+      {
+        "@id": "_:g494580"
+      },
+      {
+        "@id": "_:g503300"
+      },
+      {
+        "@id": "_:g512060"
+      },
+      {
+        "@id": "_:g520780"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.larotonde.qc.ca/#/schema/Organization"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La Rotonde"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.larotonde.qc.ca/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.larotonde.qc.ca/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.larotonde.qc.ca/#/schema/WebSite"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://www.larotonde.qc.ca/#/schema/BreadcrumbList"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460800"
+      },
+      {
+        "@id": "_:g485920"
+      },
+      {
+        "@id": "_:g494640"
+      },
+      {
+        "@id": "_:g503360"
+      },
+      {
+        "@id": "_:g512120"
+      },
+      {
+        "@id": "_:g520840"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://www.larotonde.qc.ca/#/schema/Organization"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La Rotonde | Saison danse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460740",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g460760"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469520",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g469540"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477220",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g477240"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485860",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g485880"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g494580",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g494600"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g503300",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g503320"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g512060",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g512080"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520780",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g520800"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.larotonde.qc.ca/#/schema/Organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.larotonde.qc.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La Rotonde"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460800",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://www.larotonde.qc.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485920",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://www.larotonde.qc.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g494640",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://www.larotonde.qc.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g503360",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://www.larotonde.qc.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g512120",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://www.larotonde.qc.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520840",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://www.larotonde.qc.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460760",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://www.larotonde.qc.ca/search/{search_term_string}/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.larotonde.qc.ca/tel:+",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La Rotonde"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "TELUS appuie Marquer la danse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Depuis deux ans, le concours Marquer la danse connaît de plus en plus d’adeptes et fait travailler l’imaginaire des jeunes du secondaire qui expérimentent l’écriture chorégraphique avec enthousiasme…"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.larotonde.qc.ca/telus-appuie-marquer-la-danse/"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.larotonde.qc.ca/app/uploads/2013/07/photo-remise-telus.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "2560"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1707"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2013-07-15T14:46:16+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2013-07-15T14:46:16+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.larotonde.qc.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.larotonde.qc.ca/tel:+"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469540",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://www.larotonde.qc.ca/search/{search_term_string}/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.larotonde.qc.ca/telus-appuie-marquer-la-danse/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.larotonde.qc.ca/telus-appuie-marquer-la-danse/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.larotonde.qc.ca/#/schema/WebSite"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://www.larotonde.qc.ca/#/schema/BreadcrumbList"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g469640"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2013-07-15T14:46:16+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2013-07-15T14:46:16+00:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://www.larotonde.qc.ca/#/schema/Person/de1a9eff9cfd1711c93dc4481b112cae"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "TELUS appuie Marquer la danse &#x2d; La Rotonde"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Depuis deux ans, le concours Marquer la danse conna&icirc;t de plus en plus d&rsquo;adeptes et fait travailler l&rsquo;imaginaire des jeunes du secondaire qui exp&eacute;rimentent l&rsquo;&#8230;"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469640",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://www.larotonde.qc.ca/telus-appuie-marquer-la-danse/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.larotonde.qc.ca/#/schema/Person/de1a9eff9cfd1711c93dc4481b112cae",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Marie-Hélène Julien"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.larotonde.qc.ca/a-propos/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La Rotonde"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "À propos"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.larotonde.qc.ca/a-propos/"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.larotonde.qc.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.larotonde.qc.ca/a-propos/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477240",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://www.larotonde.qc.ca/search/{search_term_string}/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.larotonde.qc.ca/a-propos/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.larotonde.qc.ca/a-propos/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.larotonde.qc.ca/#/schema/WebSite"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://www.larotonde.qc.ca/#/schema/BreadcrumbList"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g477300"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "À propos &#x2d; La Rotonde"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477300",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://www.larotonde.qc.ca/a-propos/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.larotonde.qc.ca/tel:+4186495013poste306",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La Rotonde"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "La Rotonde | Saison danse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.larotonde.qc.ca/"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.larotonde.qc.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.larotonde.qc.ca/tel:+4186495013poste306"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485880",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://www.larotonde.qc.ca/search/{search_term_string}/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.larotonde.qc.ca/tel:+4186495013poste320",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La Rotonde"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "La Rotonde | Saison danse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.larotonde.qc.ca/"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.larotonde.qc.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.larotonde.qc.ca/tel:+4186495013poste320"
+      }
+    ]
+  },
+  {
+    "@id": "_:g494600",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://www.larotonde.qc.ca/search/{search_term_string}/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.larotonde.qc.ca/tel:+4186495013poste303",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La Rotonde"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "La Rotonde | Saison danse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.larotonde.qc.ca/"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.larotonde.qc.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.larotonde.qc.ca/tel:+4186495013poste303"
+      }
+    ]
+  },
+  {
+    "@id": "_:g503320",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://www.larotonde.qc.ca/search/{search_term_string}/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.larotonde.qc.ca/tel:+4186495013poste315",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La Rotonde"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "La Rotonde | Saison danse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.larotonde.qc.ca/"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.larotonde.qc.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.larotonde.qc.ca/tel:+4186495013poste315"
+      }
+    ]
+  },
+  {
+    "@id": "_:g512080",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://www.larotonde.qc.ca/search/{search_term_string}/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.larotonde.qc.ca/tel:+4186495013poste316",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "La Rotonde"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "La Rotonde | Saison danse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.larotonde.qc.ca/"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.larotonde.qc.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.larotonde.qc.ca/tel:+4186495013poste316"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520800",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://www.larotonde.qc.ca/search/{search_term_string}/"
+      }
+    ]
+  }
+]
