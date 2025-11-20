@@ -1,0 +1,192 @@
+[
+  {
+    "@id": "https://www.borderlineculture.com/event-details/monkey-junk",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Monkey Junk | borderlineculture"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "<p>Concert</p>"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.borderlineculture.com/event-details/monkey-junk"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "borderlineculture"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471260",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.borderlineculture.com/event-details/monkey-junk"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Demmitt Community Centre"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "Demmitt, AB T0H 1C0, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471280",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-08-09T20:37:01.064Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.borderlineculture.com/event-details/monkey-junk"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g471300"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "en",
+        "@value": "27.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "en",
+        "@value": "27.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "en",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471300",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-08-09T20:37:01.064Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.borderlineculture.com/event-details/monkey-junk"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "MonkeyJunk Advance"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "27"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://www.borderlineculture.com/temporary/040930fb-94b0-457a-8ca4-ae31284b6c62",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-09-27T20:00:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g471260"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g471280"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.borderlineculture.com/event-details/monkey-junk"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Monkey Junk"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  }
+]
