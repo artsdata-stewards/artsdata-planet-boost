@@ -1,0 +1,918 @@
+[
+  {
+    "@id": "https://www.kickinghorseculture.ca",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Engage. Energize. Enrich"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Kicking Horse Culture delivers on a long-range vision to play a central, leadership role in the community by engaging collaborative partnerships to deliver a broad variety of professional cultural programming, arts education, and community arts activities."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://kickinghorseculture.ca/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Kicking Horse Culture"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-09-11T14:40:50-07:00"
+      }
+    ],
+    "fb:app_id": [
+      {
+        "@language": "en-us",
+        "@value": "4606253169412838"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://kickinghorseculture.ca/wp-content/uploads/MG_3492-1024x683.jpg"
+      }
+    ],
+    "https://ogp.me/ns#image:secure_url": [
+      {
+        "@language": "en-us",
+        "@value": "https://kickinghorseculture.ca/wp-content/uploads/MG_3492-1024x683.jpg"
+      }
+    ],
+    "https://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "800"
+      }
+    ],
+    "https://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "534"
+      }
+    ],
+    "https://ogp.me/ns#image:alt": [
+      {
+        "@language": "en-us",
+        "@value": "Golden Events"
+      }
+    ],
+    "https://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2021-06-30T22:23:35-07:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-09-11T14:40:50-07:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://kickinghorseculture.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.kickinghorseculture.ca"
+      }
+    ]
+  },
+  {
+    "@id": "https://kickinghorseculture.ca/#place",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g460960"
+      },
+      {
+        "@id": "_:g478100"
+      },
+      {
+        "@id": "_:g494900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460960",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "516 9 Ave N"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Golden"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "British Columbia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "V0A 1H0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478100",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "516 9 Ave N"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Golden"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "British Columbia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V0A 1H0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g494900",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "516 9 Ave N"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Golden"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "British Columbia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V0A 1H0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://kickinghorseculture.ca/#organization",
+    "@type": [
+      "http://schema.org/ArtGallery",
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://kickinghorseculture.ca"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://facebook.com/khculture"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g460980"
+      },
+      {
+        "@id": "_:g478120"
+      },
+      {
+        "@id": "_:g494920"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://kickinghorseculture.ca/#logo"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://kickinghorseculture.ca/#place"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://kickinghorseculture.ca/#logo"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kicking Horse Culture"
+      },
+      {
+        "@value": "Kicking Horse Culture"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": "info@kickinghorseculture.ca"
+      },
+      {
+        "@value": "info@kickinghorseculture.ca"
+      }
+    ],
+    "http://schema.org/openingHours": [
+      {
+        "@language": "en",
+        "@value": "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday 10:30-17:00"
+      },
+      {
+        "@value": "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday 10:30-17:00"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+1-250-344-6186"
+      },
+      {
+        "@value": "+1-250-344-6186"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460980",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "516 9 Ave N"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Golden"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "British Columbia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "V0A 1H0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478120",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "516 9 Ave N"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Golden"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "British Columbia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V0A 1H0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g494920",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "516 9 Ave N"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Golden"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "British Columbia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V0A 1H0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://kickinghorseculture.ca/#logo",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://kickinghorseculture.ca/wp-content/uploads/kicking-horse-culture-banner-logo-1.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://kickinghorseculture.ca/wp-content/uploads/kicking-horse-culture-banner-logo-1.png"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Kicking Horse Culture"
+      },
+      {
+        "@value": "Kicking Horse Culture"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "1180"
+      },
+      {
+        "@value": "1180"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "96"
+      },
+      {
+        "@value": "96"
+      }
+    ]
+  },
+  {
+    "@id": "https://kickinghorseculture.ca/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://kickinghorseculture.ca"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://kickinghorseculture.ca/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g461000"
+      },
+      {
+        "@id": "_:g478140"
+      },
+      {
+        "@id": "_:g494940"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kicking Horse Culture"
+      },
+      {
+        "@value": "Kicking Horse Culture"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461000",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://kickinghorseculture.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478140",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://kickinghorseculture.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g494940",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://kickinghorseculture.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://kickinghorseculture.ca/wp-content/uploads/MG_3492-scaled.jpg",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://kickinghorseculture.ca/wp-content/uploads/MG_3492-scaled.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "2560"
+      },
+      {
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "1707"
+      },
+      {
+        "@value": "1707"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Golden Events"
+      },
+      {
+        "@value": "Golden Events"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://kickinghorseculture.ca/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://kickinghorseculture.ca/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-06-30T22:23:35-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-11T14:40:50-07:00"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://kickinghorseculture.ca/#organization"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://kickinghorseculture.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://kickinghorseculture.ca/wp-content/uploads/MG_3492-scaled.jpg"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kicking Horse Culture | Golden Events &amp; Activities"
+      },
+      {
+        "@value": "Kicking Horse Culture | Golden Events &amp; Activities"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://kickinghorseculture.ca/#author",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://secure.gravatar.com/avatar/a85d961ad1585e44d34135264ddf4bec522520cc92e7be9d5b58002072540bee?s=96&amp;d=mm&amp;r=g"
+      }
+    ],
+    "http://schema.org/worksFor": [
+      {
+        "@id": "https://kickinghorseculture.ca/#organization"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kicking Horse Culture"
+      },
+      {
+        "@value": "Kicking Horse Culture"
+      }
+    ]
+  },
+  {
+    "@id": "https://secure.gravatar.com/avatar/a85d961ad1585e44d34135264ddf4bec522520cc92e7be9d5b58002072540bee?s=96&amp;d=mm&amp;r=g",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://secure.gravatar.com/avatar/a85d961ad1585e44d34135264ddf4bec522520cc92e7be9d5b58002072540bee?s=96&amp;d=mm&amp;r=g"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Kicking Horse Culture"
+      },
+      {
+        "@value": "Kicking Horse Culture"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://kickinghorseculture.ca/#richSnippet",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-06-30T22:23:35-07:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-11T14:40:50-07:00"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://kickinghorseculture.ca/#author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://kickinghorseculture.ca/#organization"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://kickinghorseculture.ca/#webpage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://kickinghorseculture.ca/wp-content/uploads/MG_3492-scaled.jpg"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://kickinghorseculture.ca/#webpage"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.kickinghorseculture.ca"
+      },
+      {
+        "@id": "https://www.kickinghorseculture.ca/#content"
+      },
+      {
+        "@id": "https://www.kickinghorseculture.ca/#"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Kicking Horse Culture | Golden Events &amp; Activities"
+      },
+      {
+        "@value": "Kicking Horse Culture | Golden Events &amp; Activities"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "Golden Events"
+      },
+      {
+        "@value": "Golden Events"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Kicking Horse Culture delivers on a long-range vision to play a central, leadership role in the community by engaging collaborative partnerships to deliver a broad variety of professional cultural programming, arts education, and community arts activities."
+      },
+      {
+        "@value": "Kicking Horse Culture delivers on a long-range vision to play a central, leadership role in the community by engaging collaborative partnerships to deliver a broad variety of professional cultural programming, arts education, and community arts activities."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Kicking Horse Culture | Golden Events &amp; Activities"
+      },
+      {
+        "@value": "Kicking Horse Culture | Golden Events &amp; Activities"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      },
+      {
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.kickinghorseculture.ca/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Engage. Energize. Enrich"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Kicking Horse Culture delivers on a long-range vision to play a central, leadership role in the community by engaging collaborative partnerships to deliver a broad variety of professional cultural programming, arts education, and community arts activities."
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://kickinghorseculture.ca/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Kicking Horse Culture"
+      }
+    ],
+    "https://ogp.me/ns#updated_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-09-11T14:40:50-07:00"
+      }
+    ],
+    "fb:app_id": [
+      {
+        "@language": "en-us",
+        "@value": "4606253169412838"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://kickinghorseculture.ca/wp-content/uploads/MG_3492-1024x683.jpg"
+      }
+    ],
+    "https://ogp.me/ns#image:secure_url": [
+      {
+        "@language": "en-us",
+        "@value": "https://kickinghorseculture.ca/wp-content/uploads/MG_3492-1024x683.jpg"
+      }
+    ],
+    "https://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "800"
+      }
+    ],
+    "https://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "534"
+      }
+    ],
+    "https://ogp.me/ns#image:alt": [
+      {
+        "@language": "en-us",
+        "@value": "Golden Events"
+      }
+    ],
+    "https://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2021-06-30T22:23:35-07:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-09-11T14:40:50-07:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://kickinghorseculture.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.kickinghorseculture.ca/#content"
+      },
+      {
+        "@id": "https://www.kickinghorseculture.ca/#"
+      }
+    ]
+  }
+]
