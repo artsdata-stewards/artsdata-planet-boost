@@ -1,0 +1,429 @@
+[
+  {
+    "@id": "http://www.nlfolk.com/",
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://nlfolk.com/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Newfoundland and Labrador Folk Arts Society"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "The Newfoundland and Labrador Folk Arts Society (NLFAS) is a charitable organization located in St. John’s, Newfoundland, Canada whose mandate is the promotion and preservation of the traditional folk arts of the province."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://nlfolk.com/wp-content/themes/ns_theme/images/front_folk_festival.jpg"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Newfoundland and Labrador Folk Arts Society"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/Nlfolkfestival/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-10-16T17:14:07+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://nlfolk.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.nlfolk.com/"
+      }
+    ]
+  },
+  {
+    "@id": "https://nlfolk.com/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nlfolk.com/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://nlfolk.com/#website"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://nlfolk.com/#organization"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2018-03-21T17:42:56+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-16T17:14:07+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://nlfolk.com/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460680"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Newfoundland and Labrador Folk Arts Society"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "NL Folk Arts Society presents educational and cultural events providing artists with an opportunity to showcase their work and engage youth and the general public in the transmission of intangible cultural heritage."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://nlfolk.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nlfolk.com/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://nlfolk.com/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460720"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Newfoundland &amp; Labrador Folk Arts Society"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "The Newfoundland and Labrador Folk Arts Society (NLFAS) is a charitable organization located in St. John’s, Newfoundland, Canada whose mandate is the promotion and preservation of the traditional folk arts of the province."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://nlfolk.com/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nlfolk.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://nlfolk.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://nlfolk.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/Nlfolkfestival/"
+      },
+      {
+        "@id": "https://x.com/nlfolk"
+      },
+      {
+        "@id": "https://www.instagram.com/nlfolk/"
+      },
+      {
+        "@id": "https://www.youtube.com/channel/UCNrgcMuJeGJLkz_c6KOtrmg"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Newfoundland & Labrador Folk Arts Society"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460680",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://nlfolk.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460720",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g460740"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g460760"
+      }
+    ]
+  },
+  {
+    "@id": "https://nlfolk.com/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nlfolk.com/wp-content/uploads/2020/10/header_logo.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://nlfolk.com/wp-content/uploads/2020/10/header_logo.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "300"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "200"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Newfoundland & Labrador Folk Arts Society"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460740",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "en",
+        "@value": "https://nlfolk.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460760",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "en",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.nlfolk.com/temporary/de9c6e5c-4a6b-428f-8209-7f8b487e3a84",
+    "@type": [
+      "https://www.schema.org/SiteNavigationElement"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.nlfolk.com/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.nlfolk.com/temporary/a79faed0-aece-4fce-b4e4-0c01d41256bd",
+    "@type": [
+      "https://www.schema.org/SiteNavigationElement"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.nlfolk.com/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.nlfolk.com/temporary/dd2cfc59-a4e2-469f-8d58-496090431487",
+    "@type": [
+      "https://www.schema.org/SiteNavigationElement"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.nlfolk.com/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.nlfolk.com/temporary/8c83cc40-3ea7-43dd-90c8-e4a80d8c86f9",
+    "@type": [
+      "https://www.schema.org/SiteNavigationElement"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.nlfolk.com/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.nlfolk.com/temporary/42452f3b-08e2-4555-8156-bdde320d9824",
+    "@type": [
+      "https://www.schema.org/SiteNavigationElement"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.nlfolk.com/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.nlfolk.com/temporary/ce47395d-48d9-414a-877b-2db5bf773d3d",
+    "@type": [
+      "https://www.schema.org/SiteNavigationElement"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.nlfolk.com/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.nlfolk.com/temporary/cd35cb95-9ef1-46a0-aa12-0cca4d43fa41",
+    "@type": [
+      "https://www.schema.org/SiteNavigationElement"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.nlfolk.com/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.nlfolk.com/temporary/913fb5d2-75d0-48fd-a6f4-4fc8cf1b8714",
+    "@type": [
+      "https://www.schema.org/SiteNavigationElement"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.nlfolk.com/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.nlfolk.com/temporary/b7c5b39d-9d1d-4216-8d28-874ee93147a1",
+    "@type": [
+      "https://www.schema.org/SiteNavigationElement"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.nlfolk.com/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.nlfolk.com/temporary/0812d354-954d-46be-a7b1-8527d1c5d680",
+    "@type": [
+      "https://www.schema.org/SiteNavigationElement"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.nlfolk.com/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.nlfolk.com/temporary/732e5ef0-d7fa-4739-bcad-befce8e9cec3",
+    "@type": [
+      "https://www.schema.org/SiteNavigationElement"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.nlfolk.com/"
+      }
+    ]
+  }
+]
