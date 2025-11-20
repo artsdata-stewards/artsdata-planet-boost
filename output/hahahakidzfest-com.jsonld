@@ -1,0 +1,388 @@
+[
+  {
+    "@id": "https://www.hahahakidzfest.com/product/membership-individual/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.hahahakidzfest.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.hahahakidzfest.com/product/membership-individual/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.hahahakidzfest.com/product/membership-individual/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.hahahakidzfest.com/wp-content/uploads/2023/12/cropped-Kidzfest-Favicon-512x512-2.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "219"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g489440"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.hahahakidzfest.com/product/membership-individual/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Membership Individual"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "This is to become a member of the Ha Ha Ha Kidzfest society. Membership is annual and ends August 31st of each year.\r\n\r\nPlease note that contact information during billing process will also be used as membership registration.\r\n\r\n&amp;nbsp;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g489440",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/priceSpecification": [
+      {
+        "@id": "_:g489460"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.hahahakidzfest.com/product/membership-individual/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g489480"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g489460",
+    "@type": [
+      "http://schema.org/UnitPriceSpecification"
+    ],
+    "http://schema.org/valueAddedTaxIncluded": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "10.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g489480",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.hahahakidzfest.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "HaHaHa Penticton Kidzfest"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.hahahakidzfest.com/product/membership-organization/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.hahahakidzfest.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.hahahakidzfest.com/product/membership-organization/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.hahahakidzfest.com/product/membership-organization/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.hahahakidzfest.com/wp-content/uploads/2023/12/cropped-Kidzfest-Favicon-512x512-2.png"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2254"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g505640"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.hahahakidzfest.com/product/membership-organization/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Society Membership - Organization"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "This is to become a member of the Ha Ha Ha Kidzfest society. Membership is annual and ends August 31st of each year.\r\n\r\nPlease note that contact information during billing process will also be used as membership registration."
+      }
+    ]
+  },
+  {
+    "@id": "_:g505640",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/priceSpecification": [
+      {
+        "@id": "_:g505660"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.hahahakidzfest.com/product/membership-organization/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g505680"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g505660",
+    "@type": [
+      "http://schema.org/UnitPriceSpecification"
+    ],
+    "http://schema.org/valueAddedTaxIncluded": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "20.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g505680",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.hahahakidzfest.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "HaHaHa Penticton Kidzfest"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.hahahakidzfest.com/ufaq/can-i-bring-my-pet-to-kidzfest/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.hahahakidzfest.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.hahahakidzfest.com/ufaq/can-i-bring-my-pet-to-kidzfest/"
+      },
+      {
+        "@id": "https://www.hahahakidzfest.com/ufaq/can-i-bring-my-pet-to-kidzfest/#respond"
+      }
+    ]
+  },
+  {
+    "@id": "_:g732440",
+    "@type": [
+      "http://schema.org/Question"
+    ],
+    "http://schema.org/acceptedAnswer": [
+      {
+        "@id": "_:g732460"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Can I bring my pet to Kidzfest?"
+      }
+    ]
+  },
+  {
+    "@id": "_:g732460",
+    "@type": [
+      "http://schema.org/Answer"
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g732480"
+      }
+    ],
+    "http://schema.org/text": [
+      {
+        "@value": "Only certified service animals are allowed on the Kidzfest site. Please leave other pets at home."
+      }
+    ]
+  },
+  {
+    "@id": "_:g732480",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "kidzfestadmin"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.hahahakidzfest.com/temporary/072312d4-c5e7-45c0-a90c-bf1a29550bf6",
+    "@type": [
+      "http://schema.org/FAQPage"
+    ],
+    "http://schema.org/mainEntity": [
+      {
+        "@id": "_:g732440"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.hahahakidzfest.com/ufaq/can-i-bring-my-pet-to-kidzfest/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g745220",
+    "@type": [
+      "http://schema.org/Question"
+    ],
+    "http://schema.org/acceptedAnswer": [
+      {
+        "@id": "_:g745240"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Can I bring my pet to Kidzfest?"
+      }
+    ]
+  },
+  {
+    "@id": "_:g745240",
+    "@type": [
+      "http://schema.org/Answer"
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "_:g745260"
+      }
+    ],
+    "http://schema.org/text": [
+      {
+        "@value": "Only certified service animals are allowed on the Kidzfest site. Please leave other pets at home."
+      }
+    ]
+  },
+  {
+    "@id": "_:g745260",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "kidzfestadmin"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.hahahakidzfest.com/temporary/0d41e431-85f8-46f9-8669-9983ce2470d5",
+    "@type": [
+      "http://schema.org/FAQPage"
+    ],
+    "http://schema.org/mainEntity": [
+      {
+        "@id": "_:g745220"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.hahahakidzfest.com/ufaq/can-i-bring-my-pet-to-kidzfest/#respond"
+      }
+    ]
+  }
+]
