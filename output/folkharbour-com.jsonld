@@ -1,0 +1,1874 @@
+[
+  {
+    "@id": "https://www.folkharbour.com/product/26-and-over-membership/",
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "http://www.magiclampsoftware.net/wp-content/themes/magiclampsoftware/images/magiclampsoftware.jpg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "https://www.folkharbour.com/wp-content/uploads/2018/06/Store-Membership-26-Over-1.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.folkharbour.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "26 and Over Membership"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.folkharbour.com/product/26-and-over-membership/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "An annual membership to the Lunenburg Folk Harbour Society includes the following: • The right to vote at our annual AGM and run for office in the Society • Invitations and free admission to specia…"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2018-06-12T15:00:11+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2024-12-13T19:21:01+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Folk Harbour"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "289"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "288"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en-us",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkharbour.com/product/26-and-over-membership/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com/product/26-and-over-membership/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.folkharbour.com/wp-content/uploads/2018/06/Store-Membership-26-Over-1.jpg"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2343"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g486540"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkharbour.com/product/26-and-over-membership/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "26 and Over Membership"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "An annual membership to the Lunenburg Folk Harbour Society includes the following:\r\n\r\n• The right to vote at our annual AGM and run for office in the Society\r\n• Invitations and free admission to special members’ events\r\n• Monthly electronic newsletter"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486540",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/priceSpecification": [
+      {
+        "@id": "_:g486560"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com/product/26-and-over-membership/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g486580"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486560",
+    "@type": [
+      "http://schema.org/UnitPriceSpecification"
+    ],
+    "http://schema.org/valueAddedTaxIncluded": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "20.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486580",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk Harbour"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkharbour.com/product/25-and-under-membership/",
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "http://www.magiclampsoftware.net/wp-content/themes/magiclampsoftware/images/magiclampsoftware.jpg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "https://www.folkharbour.com/wp-content/uploads/2018/06/Store-Membership-25-Under.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.folkharbour.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "25 and Under Membership"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.folkharbour.com/product/25-and-under-membership/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Visit the post for more."
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2024-12-13T19:30:52+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2024-12-13T19:26:19+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Folk Harbour"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "288"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "288"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en-us",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkharbour.com/product/25-and-under-membership/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com/product/25-and-under-membership/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.folkharbour.com/wp-content/uploads/2018/06/Store-Membership-25-Under.jpg"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2344"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g497300"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkharbour.com/product/25-and-under-membership/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "25 and Under Membership"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "An annual membership to the Lunenburg Folk Harbour Society includes the following:\n• The right to vote at our annual AGM and run for office in the Society\n• Invitations and free admission to special members’ events\n• Monthly electronic newsletter"
+      }
+    ]
+  },
+  {
+    "@id": "_:g497300",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/priceSpecification": [
+      {
+        "@id": "_:g497320"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com/product/25-and-under-membership/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g497340"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g497320",
+    "@type": [
+      "http://schema.org/UnitPriceSpecification"
+    ],
+    "http://schema.org/valueAddedTaxIncluded": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "10.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g497340",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk Harbour"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkharbour.com/product/5-donation/",
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "http://www.magiclampsoftware.net/wp-content/themes/magiclampsoftware/images/magiclampsoftware.jpg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "https://www.folkharbour.com/wp-content/uploads/2018/06/Donnation-Button-5.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.folkharbour.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "$5 Donation"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.folkharbour.com/product/5-donation/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Add a $5 Donation to your purchase."
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2018-06-12T14:43:08+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2018-06-12T14:50:16+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Folk Harbour"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "289"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "288"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en-us",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkharbour.com/product/5-donation/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com/product/5-donation/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.folkharbour.com/wp-content/uploads/2018/06/Donnation-Button-5.jpg"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2335"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g632100"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkharbour.com/product/5-donation/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "$5 Donation"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Add a $5 Donation to your purchase."
+      }
+    ]
+  },
+  {
+    "@id": "_:g632100",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/priceSpecification": [
+      {
+        "@id": "_:g632120"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com/product/5-donation/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g632140"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g632120",
+    "@type": [
+      "http://schema.org/UnitPriceSpecification"
+    ],
+    "http://schema.org/valueAddedTaxIncluded": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "5.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g632140",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk Harbour"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkharbour.com/product/10-donation/",
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "http://www.magiclampsoftware.net/wp-content/themes/magiclampsoftware/images/magiclampsoftware.jpg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "https://www.folkharbour.com/wp-content/uploads/2018/06/Donnation-Button-10.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.folkharbour.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "$10 Donation"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.folkharbour.com/product/10-donation/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Add a $10 Donation to your cart."
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2018-06-12T14:53:29+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2018-06-12T14:53:29+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Folk Harbour"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "289"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "288"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en-us",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkharbour.com/product/10-donation/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com/product/10-donation/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.folkharbour.com/wp-content/uploads/2018/06/Donnation-Button-10.jpg"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2337"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g642560"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkharbour.com/product/10-donation/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "$10 Donation"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Add a $10 Donation to your cart."
+      }
+    ]
+  },
+  {
+    "@id": "_:g642560",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/priceSpecification": [
+      {
+        "@id": "_:g642580"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com/product/10-donation/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g642600"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g642580",
+    "@type": [
+      "http://schema.org/UnitPriceSpecification"
+    ],
+    "http://schema.org/valueAddedTaxIncluded": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "10.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g642600",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk Harbour"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkharbour.com/product/50-donation/",
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "http://www.magiclampsoftware.net/wp-content/themes/magiclampsoftware/images/magiclampsoftware.jpg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "https://www.folkharbour.com/wp-content/uploads/2018/06/Applause-100.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.folkharbour.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "$50 Donation"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.folkharbour.com/product/50-donation/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Add a $50 Applause Donation to your order."
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2018-06-12T14:55:13+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2018-06-12T14:55:13+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Folk Harbour"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "298"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "298"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en-us",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkharbour.com/product/50-donation/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com/product/50-donation/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.folkharbour.com/wp-content/uploads/2018/06/Applause-100.jpg"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2338"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g653220"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkharbour.com/product/50-donation/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "$50 Donation"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Add a $50 Applause Donation to your order."
+      }
+    ]
+  },
+  {
+    "@id": "_:g653220",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/priceSpecification": [
+      {
+        "@id": "_:g653240"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com/product/50-donation/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g653260"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g653240",
+    "@type": [
+      "http://schema.org/UnitPriceSpecification"
+    ],
+    "http://schema.org/valueAddedTaxIncluded": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "50.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g653260",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk Harbour"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkharbour.com/product/150-donation/",
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "http://www.magiclampsoftware.net/wp-content/themes/magiclampsoftware/images/magiclampsoftware.jpg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "https://www.folkharbour.com/wp-content/uploads/2018/06/Whistle-100.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.folkharbour.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "$150 Donation"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.folkharbour.com/product/150-donation/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Add a $150 Whistle Donation to your order."
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2018-06-12T14:56:20+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2018-06-12T14:56:21+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Folk Harbour"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "297"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "298"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en-us",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkharbour.com/product/150-donation/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com/product/150-donation/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.folkharbour.com/wp-content/uploads/2018/06/Whistle-100.jpg"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2339"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g663980"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkharbour.com/product/150-donation/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "$150 Donation"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Add a $150 Whistle Donation to your order."
+      }
+    ]
+  },
+  {
+    "@id": "_:g663980",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/priceSpecification": [
+      {
+        "@id": "_:g664000"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com/product/150-donation/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g664020"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g664000",
+    "@type": [
+      "http://schema.org/UnitPriceSpecification"
+    ],
+    "http://schema.org/valueAddedTaxIncluded": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "150.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g664020",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk Harbour"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkharbour.com/product/300-donation/",
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "http://www.magiclampsoftware.net/wp-content/themes/magiclampsoftware/images/magiclampsoftware.jpg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "https://www.folkharbour.com/wp-content/uploads/2018/06/Cheer-100.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.folkharbour.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "$300 Donation"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.folkharbour.com/product/300-donation/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Add a $300 Cheer Donation to your order."
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2018-06-12T14:57:11+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2018-06-12T14:57:11+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Folk Harbour"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "298"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "298"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en-us",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkharbour.com/product/300-donation/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com/product/300-donation/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.folkharbour.com/wp-content/uploads/2018/06/Cheer-100.jpg"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2340"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g674660"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkharbour.com/product/300-donation/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "$300 Donation"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Add a $300 Cheer Donation to your order."
+      }
+    ]
+  },
+  {
+    "@id": "_:g674660",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/priceSpecification": [
+      {
+        "@id": "_:g674680"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com/product/300-donation/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g674700"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g674680",
+    "@type": [
+      "http://schema.org/UnitPriceSpecification"
+    ],
+    "http://schema.org/valueAddedTaxIncluded": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "300.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g674700",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk Harbour"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkharbour.com/product/500-donation/",
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "http://www.magiclampsoftware.net/wp-content/themes/magiclampsoftware/images/magiclampsoftware.jpg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "https://www.folkharbour.com/wp-content/uploads/2018/06/Standing-O-100.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.folkharbour.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "$500 Donation"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.folkharbour.com/product/500-donation/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Add a $500 Standing Ovation Donation to your order."
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2018-06-12T14:58:02+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2018-06-12T14:58:02+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Folk Harbour"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "297"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "298"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en-us",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkharbour.com/product/500-donation/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com/product/500-donation/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.folkharbour.com/wp-content/uploads/2018/06/Standing-O-100.jpg"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2341"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g685400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkharbour.com/product/500-donation/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "$500 Donation"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Add a $500 Standing Ovation Donation to your order."
+      }
+    ]
+  },
+  {
+    "@id": "_:g685400",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/priceSpecification": [
+      {
+        "@id": "_:g685420"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com/product/500-donation/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g685440"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g685420",
+    "@type": [
+      "http://schema.org/UnitPriceSpecification"
+    ],
+    "http://schema.org/valueAddedTaxIncluded": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "500.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g685440",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk Harbour"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkharbour.com/product/1000-donation/",
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "http://www.magiclampsoftware.net/wp-content/themes/magiclampsoftware/images/magiclampsoftware.jpg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "https://www.folkharbour.com/wp-content/uploads/2018/06/Encore-100.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.folkharbour.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "$1000 Donation"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.folkharbour.com/product/1000-donation/"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Add a $1000 Encore Donation to your order."
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2018-06-12T14:58:55+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2018-06-12T14:58:56+00:00"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Folk Harbour"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "298"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "298"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en-us",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.folkharbour.com/product/1000-donation/#product",
+    "@type": [
+      "http://schema.org/Product"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com/product/1000-donation/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.folkharbour.com/wp-content/uploads/2018/06/Encore-100.jpg"
+      }
+    ],
+    "http://schema.org/sku": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2342"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g696120"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.folkharbour.com/product/1000-donation/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "$1000 Donation"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Add a $1000 Encore Donation to your order."
+      }
+    ]
+  },
+  {
+    "@id": "_:g696120",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/priceSpecification": [
+      {
+        "@id": "_:g696140"
+      }
+    ],
+    "http://schema.org/priceValidUntil": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com/product/1000-donation/"
+      }
+    ],
+    "http://schema.org/seller": [
+      {
+        "@id": "_:g696160"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g696140",
+    "@type": [
+      "http://schema.org/UnitPriceSpecification"
+    ],
+    "http://schema.org/valueAddedTaxIncluded": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-31"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "1000.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g696160",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.folkharbour.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Folk Harbour"
+      }
+    ]
+  }
+]
