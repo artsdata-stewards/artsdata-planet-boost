@@ -1,12 +1,12 @@
 [
   {
-    "@id": "_:g503800",
+    "@id": "_:g510400",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g503820"
+        "@id": "_:g510420"
       }
     ],
     "http://schema.org/name": [
@@ -17,7 +17,7 @@
     ]
   },
   {
-    "@id": "_:g503820",
+    "@id": "_:g510420",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -53,7 +53,7 @@
     ]
   },
   {
-    "@id": "_:g503840",
+    "@id": "_:g510440",
     "@type": [
       "http://schema.org/AggregateOffer"
     ],
@@ -65,7 +65,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g503860"
+        "@id": "_:g510460"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -99,7 +99,7 @@
     ]
   },
   {
-    "@id": "_:g503860",
+    "@id": "_:g510460",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "@id": "_:g503880",
+    "@id": "_:g510480",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -122,7 +122,7 @@
     ]
   },
   {
-    "@id": "_:g503900",
+    "@id": "_:g510500",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -179,7 +179,7 @@
     "article:modified_time": [
       {
         "@language": "fr-ca",
-        "@value": "2025-11-19T18:17:13+00:00"
+        "@value": "2025-11-20T17:01:05+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -243,7 +243,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T18:17:13+00:00"
+        "@value": "2025-11-20T17:01:05+00:00"
       }
     ],
     "http://schema.org/breadcrumb": [
@@ -253,7 +253,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g503940"
+        "@id": "_:g510560"
       }
     ],
     "http://schema.org/name": [
@@ -287,100 +287,97 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g504040"
+        "@id": "_:g510660"
       },
       {
-        "@id": "_:g736180"
+        "@id": "_:g525580"
       },
       {
-        "@id": "_:g750860"
+        "@id": "_:g747540"
       },
       {
-        "@id": "_:g765460"
+        "@id": "_:g762100"
       },
       {
-        "@id": "_:g778700"
+        "@id": "_:g776560"
       },
       {
-        "@id": "_:g791760"
+        "@id": "_:g789760"
       },
       {
-        "@id": "_:g804780"
+        "@id": "_:g802640"
       },
       {
-        "@id": "_:g817960"
+        "@id": "_:g815520"
       },
       {
-        "@id": "_:g831200"
+        "@id": "_:g828440"
       },
       {
-        "@id": "_:g844240"
+        "@id": "_:g841540"
       },
       {
-        "@id": "_:g857160"
+        "@id": "_:g854360"
       },
       {
-        "@id": "_:g6475260"
+        "@id": "_:g867160"
       },
       {
-        "@id": "_:g6489980"
+        "@id": "_:g6430220"
       },
       {
-        "@id": "_:g6504920"
+        "@id": "_:g6444820"
       },
       {
-        "@id": "_:g6526900"
+        "@id": "_:g6459540"
       },
       {
-        "@id": "_:g6541440"
+        "@id": "_:g6481320"
       },
       {
-        "@id": "_:g6556360"
+        "@id": "_:g6495900"
       },
       {
-        "@id": "_:g6570900"
+        "@id": "_:g6510740"
       },
       {
-        "@id": "_:g6586040"
+        "@id": "_:g6525100"
       },
       {
-        "@id": "_:g6600580"
+        "@id": "_:g6540060"
       },
       {
-        "@id": "_:g6642280"
+        "@id": "_:g6581400"
       },
       {
-        "@id": "_:g6663380"
+        "@id": "_:g6638180"
       },
       {
-        "@id": "_:g6714160"
+        "@id": "_:g6652560"
       },
       {
-        "@id": "_:g6728600"
+        "@id": "_:g6666600"
       },
       {
-        "@id": "_:g6742860"
+        "@id": "_:g6680760"
       },
       {
-        "@id": "_:g6757060"
+        "@id": "_:g6694840"
       },
       {
-        "@id": "_:g6771240"
+        "@id": "_:g6709320"
       },
       {
-        "@id": "_:g6785500"
+        "@id": "_:g6723460"
       },
       {
-        "@id": "_:g6799620"
+        "@id": "_:g6737540"
       },
       {
-        "@id": "_:g6814220"
+        "@id": "_:g6751640"
       },
       {
-        "@id": "_:g6828420"
-      },
-      {
-        "@id": "_:g6842520"
+        "@id": "_:g6765440"
       }
     ],
     "http://schema.org/name": [
@@ -437,7 +434,7 @@
     ]
   },
   {
-    "@id": "_:g503940",
+    "@id": "_:g510560",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -449,519 +446,503 @@
     ]
   },
   {
-    "@id": "_:g504040",
+    "@id": "_:g510660",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g504060"
+        "@id": "_:g510680"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g504080"
+        "@id": "_:g510700"
       }
     ]
   },
   {
-    "@id": "_:g736180",
+    "@id": "_:g525580",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g736200"
+        "@id": "_:g525600"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g736220"
+        "@id": "_:g525620"
       }
     ]
   },
   {
-    "@id": "_:g750860",
+    "@id": "_:g747540",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g750880"
+        "@id": "_:g747560"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g750900"
+        "@id": "_:g747580"
       }
     ]
   },
   {
-    "@id": "_:g765460",
+    "@id": "_:g762100",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g765480"
+        "@id": "_:g762120"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g765500"
+        "@id": "_:g762140"
       }
     ]
   },
   {
-    "@id": "_:g778700",
+    "@id": "_:g776560",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g778720"
+        "@id": "_:g776580"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g778740"
+        "@id": "_:g776600"
       }
     ]
   },
   {
-    "@id": "_:g791760",
+    "@id": "_:g789760",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g791780"
+        "@id": "_:g789780"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g791800"
+        "@id": "_:g789800"
       }
     ]
   },
   {
-    "@id": "_:g804780",
+    "@id": "_:g802640",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g804800"
+        "@id": "_:g802660"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g804820"
+        "@id": "_:g802680"
       }
     ]
   },
   {
-    "@id": "_:g817960",
+    "@id": "_:g815520",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g817980"
+        "@id": "_:g815540"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g818000"
+        "@id": "_:g815560"
       }
     ]
   },
   {
-    "@id": "_:g831200",
+    "@id": "_:g828440",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g831220"
+        "@id": "_:g828460"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g831240"
+        "@id": "_:g828480"
       }
     ]
   },
   {
-    "@id": "_:g844240",
+    "@id": "_:g841540",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g844260"
+        "@id": "_:g841560"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g844280"
+        "@id": "_:g841580"
       }
     ]
   },
   {
-    "@id": "_:g857160",
+    "@id": "_:g854360",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g857180"
+        "@id": "_:g854380"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g857200"
+        "@id": "_:g854400"
       }
     ]
   },
   {
-    "@id": "_:g6475260",
+    "@id": "_:g867160",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g6475280"
+        "@id": "_:g867180"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g6475300"
+        "@id": "_:g867200"
       }
     ]
   },
   {
-    "@id": "_:g6489980",
+    "@id": "_:g6430220",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g6490000"
+        "@id": "_:g6430240"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g6490020"
+        "@id": "_:g6430260"
       }
     ]
   },
   {
-    "@id": "_:g6504920",
+    "@id": "_:g6444820",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g6504940"
+        "@id": "_:g6444840"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g6504960"
+        "@id": "_:g6444860"
       }
     ]
   },
   {
-    "@id": "_:g6526900",
+    "@id": "_:g6459540",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g6526920"
+        "@id": "_:g6459560"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g6526940"
+        "@id": "_:g6459580"
       }
     ]
   },
   {
-    "@id": "_:g6541440",
+    "@id": "_:g6481320",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g6541460"
+        "@id": "_:g6481340"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g6541480"
+        "@id": "_:g6481360"
       }
     ]
   },
   {
-    "@id": "_:g6556360",
+    "@id": "_:g6495900",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g6556380"
+        "@id": "_:g6495920"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g6556400"
+        "@id": "_:g6495940"
       }
     ]
   },
   {
-    "@id": "_:g6570900",
+    "@id": "_:g6510740",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g6570920"
+        "@id": "_:g6510760"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g6570940"
+        "@id": "_:g6510780"
       }
     ]
   },
   {
-    "@id": "_:g6586040",
+    "@id": "_:g6525100",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g6586060"
+        "@id": "_:g6525120"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g6586080"
+        "@id": "_:g6525140"
       }
     ]
   },
   {
-    "@id": "_:g6600580",
+    "@id": "_:g6540060",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g6600600"
+        "@id": "_:g6540080"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g6600620"
+        "@id": "_:g6540100"
       }
     ]
   },
   {
-    "@id": "_:g6642280",
+    "@id": "_:g6581400",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g6642300"
+        "@id": "_:g6581420"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g6642320"
+        "@id": "_:g6581440"
       }
     ]
   },
   {
-    "@id": "_:g6663380",
+    "@id": "_:g6638180",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g6663400"
+        "@id": "_:g6638200"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g6663420"
+        "@id": "_:g6638220"
       }
     ]
   },
   {
-    "@id": "_:g6714160",
+    "@id": "_:g6652560",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g6714180"
+        "@id": "_:g6652580"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g6714200"
+        "@id": "_:g6652600"
       }
     ]
   },
   {
-    "@id": "_:g6728600",
+    "@id": "_:g6666600",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g6728620"
+        "@id": "_:g6666620"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g6728640"
+        "@id": "_:g6666640"
       }
     ]
   },
   {
-    "@id": "_:g6742860",
+    "@id": "_:g6680760",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g6742880"
+        "@id": "_:g6680780"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g6742900"
+        "@id": "_:g6680800"
       }
     ]
   },
   {
-    "@id": "_:g6757060",
+    "@id": "_:g6694840",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g6757080"
+        "@id": "_:g6694860"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g6757100"
+        "@id": "_:g6694880"
       }
     ]
   },
   {
-    "@id": "_:g6771240",
+    "@id": "_:g6709320",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g6771260"
+        "@id": "_:g6709340"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g6771280"
+        "@id": "_:g6709360"
       }
     ]
   },
   {
-    "@id": "_:g6785500",
+    "@id": "_:g6723460",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g6785520"
+        "@id": "_:g6723480"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g6785540"
+        "@id": "_:g6723500"
       }
     ]
   },
   {
-    "@id": "_:g6799620",
+    "@id": "_:g6737540",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g6799640"
+        "@id": "_:g6737560"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g6799660"
+        "@id": "_:g6737580"
       }
     ]
   },
   {
-    "@id": "_:g6814220",
+    "@id": "_:g6751640",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g6814240"
+        "@id": "_:g6751660"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g6814260"
+        "@id": "_:g6751680"
       }
     ]
   },
   {
-    "@id": "_:g6828420",
+    "@id": "_:g6765440",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g6828440"
+        "@id": "_:g6765460"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g6828460"
+        "@id": "_:g6765480"
       }
     ]
   },
   {
-    "@id": "_:g6842520",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g6842540"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@id": "_:g6842560"
-      }
-    ]
-  },
-  {
-    "@id": "_:g504060",
+    "@id": "_:g510680",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -973,7 +954,7 @@
     ]
   },
   {
-    "@id": "_:g504080",
+    "@id": "_:g510700",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -991,7 +972,7 @@
     ]
   },
   {
-    "@id": "https://odyscene.com/temporary/3b330eb8-2537-4f3e-8646-6f2d9a77edfc",
+    "@id": "https://odyscene.com/temporary/2a9034df-b7f7-4aef-8feb-9529f7ecdbb4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1009,7 +990,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g503800"
+        "@id": "_:g510400"
       }
     ],
     "http://schema.org/image": [
@@ -1019,17 +1000,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g503840"
+        "@id": "_:g510440"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g503880"
+        "@id": "_:g510480"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g503900"
+        "@id": "_:g510500"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1061,13 +1042,13 @@
     ]
   },
   {
-    "@id": "_:g735940",
+    "@id": "_:g525320",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g735960"
+        "@id": "_:g525340"
       }
     ],
     "http://schema.org/name": [
@@ -1078,7 +1059,7 @@
     ]
   },
   {
-    "@id": "_:g735960",
+    "@id": "_:g525340",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1114,7 +1095,435 @@
     ]
   },
   {
-    "@id": "_:g735980",
+    "@id": "_:g525360",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-06T12:00:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g525380"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "41.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "36.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "2"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525380",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://odyscene.tuxedobillet.com/main/pascal-cameron-un-spectacle"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525400",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Pascal Cameron"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525420",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://odyscene.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Odyscène"
+      }
+    ]
+  },
+  {
+    "@id": "https://odyscene.com/programmation/pascal-cameron-un-spectacle/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Pascal Cameron - Odyscène"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Pascal Cameron présente son premier one man show un spectacle. qui est une représentation humoristique qui veut parler à tout le monde et de tout le monde.  Par contre, il est important de noter que c'est un spectacle d'humour, donc les propos de cette représentation seraient inappropriés au Parlement ou à des funérailles mais plus que correct dans un pool party, Noël, un accouchement, la St-Jean ou à crier à travers la fenêtre de ton char quand tu es pogné dans le trafic.  De plus, un spectacle. a comme objectif premier de faire rire. Fack, va pas me citer comme preuve quand tu t'obstines avec du monde  «Pascal Cameron a dit ça l'autre jour ». J'ai aucun diplôme sauf celui du meilleur livreur de journaux de la Montérégie 1999. (Après, j'ai lâché ma job pour me retirer au sommet)  Un spectacle. c'est un show de stand up traditionnel avec des blagues fraiches.   "
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://odyscene.com/programmation/pascal-cameron-un-spectacle/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Odyscène"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2025-11-20T17:01:07+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://odyscene.com/wp-content/uploads/2023/11/pascal-cameron.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "951"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "652"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://odyscene.com/programmation/pascal-cameron-un-spectacle/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://odyscene.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://odyscene.com/programmation/pascal-cameron-un-spectacle/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://odyscene.com/programmation/pascal-cameron-un-spectacle/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://odyscene.com/wp-content/uploads/2023/11/pascal-cameron.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-16T21:03:58+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T17:01:07+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://odyscene.com/programmation/pascal-cameron-un-spectacle/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g525480"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Pascal Cameron - Odyscène"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Pascal Cameron présente son premier one man show un spectacle. qui est une représentation humoristique qui veut parler à tout le monde et de tout le monde. Par contre, il est important de noter que c'est un spectacle d'humour, donc les propos de cette représentation seraient inappropriés au Parlement ou à des funérailles mais plus que correct dans un pool party, Noël, un accouchement, la St-Jean ou à crier à travers la fenêtre de ton char quand tu es pogné dans le trafic. De plus, un spectacle. a comme objectif premier de faire rire. Fack, va pas me citer comme preuve quand tu t'obstines avec du monde  «Pascal Cameron a dit ça l'autre jour ». J'ai aucun diplôme sauf celui du meilleur livreur de journaux de la Montérégie 1999. (Après, j'ai lâché ma job pour me retirer au sommet) Un spectacle. c'est un show de stand up traditionnel avec des blagues fraiches. &nbsp;"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://odyscene.com/programmation/pascal-cameron-un-spectacle/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://odyscene.com/wp-content/uploads/2023/11/pascal-cameron.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://odyscene.com/wp-content/uploads/2023/11/pascal-cameron.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "951"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "652"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "Pascal Cameron à Sainte-Thérèse"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525480",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://odyscene.com/programmation/pascal-cameron-un-spectacle/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525600",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://odyscene.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525620",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://odyscene.com/temporary/24aff141-0db0-4edb-87cb-aeb54164c373",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-23T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-23T20:00:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g525320"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://odyscene.com/wp-content/uploads/2023/11/pascal-cameron.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g525360"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g525400"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g525420"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://odyscene.com/programmation/pascal-cameron-un-spectacle/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Pascal Cameron"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Pascal Cameron présente son premier one man show un spectacle. qui est une représentation humoristique qui veut parler à tout le monde et de tout le monde. Par contre, il est important de noter que c&rsquo;est un spectacle d&rsquo;humour, donc les..."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g747300",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g747320"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Cabaret BMO"
+      }
+    ]
+  },
+  {
+    "@id": "_:g747320",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "57, rue Turgeon"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Sainte-Thérèse"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J7E 3H4"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g747340",
     "@type": [
       "http://schema.org/AggregateOffer"
     ],
@@ -1126,7 +1535,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g736000"
+        "@id": "_:g747360"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -1160,7 +1569,7 @@
     ]
   },
   {
-    "@id": "_:g736000",
+    "@id": "_:g747360",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1171,7 +1580,7 @@
     ]
   },
   {
-    "@id": "_:g736020",
+    "@id": "_:g747380",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -1183,7 +1592,7 @@
     ]
   },
   {
-    "@id": "_:g736040",
+    "@id": "_:g747400",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1240,7 +1649,7 @@
     "article:modified_time": [
       {
         "@language": "fr-ca",
-        "@value": "2025-11-19T17:01:05+00:00"
+        "@value": "2025-11-20T17:01:05+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -1304,7 +1713,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T17:01:05+00:00"
+        "@value": "2025-11-20T17:01:05+00:00"
       }
     ],
     "http://schema.org/breadcrumb": [
@@ -1314,7 +1723,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g736080"
+        "@id": "_:g747440"
       }
     ],
     "http://schema.org/name": [
@@ -1371,7 +1780,7 @@
     ]
   },
   {
-    "@id": "_:g736080",
+    "@id": "_:g747440",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -1383,7 +1792,7 @@
     ]
   },
   {
-    "@id": "_:g736200",
+    "@id": "_:g747560",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -1395,7 +1804,7 @@
     ]
   },
   {
-    "@id": "_:g736220",
+    "@id": "_:g747580",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -1413,7 +1822,7 @@
     ]
   },
   {
-    "@id": "https://odyscene.com/temporary/e5f875d5-5925-4743-8fa8-e2c6d6a2464c",
+    "@id": "https://odyscene.com/temporary/01ee3a40-b03d-456d-87d1-50058097d295",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1431,7 +1840,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g735940"
+        "@id": "_:g747300"
       }
     ],
     "http://schema.org/image": [
@@ -1441,17 +1850,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g735980"
+        "@id": "_:g747340"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g736020"
+        "@id": "_:g747380"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g736040"
+        "@id": "_:g747400"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1483,13 +1892,13 @@
     ]
   },
   {
-    "@id": "_:g750600",
+    "@id": "_:g761840",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g750620"
+        "@id": "_:g761860"
       }
     ],
     "http://schema.org/name": [
@@ -1500,7 +1909,7 @@
     ]
   },
   {
-    "@id": "_:g750620",
+    "@id": "_:g761860",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1536,7 +1945,7 @@
     ]
   },
   {
-    "@id": "_:g750640",
+    "@id": "_:g761880",
     "@type": [
       "http://schema.org/AggregateOffer"
     ],
@@ -1548,7 +1957,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g750660"
+        "@id": "_:g761900"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -1582,7 +1991,7 @@
     ]
   },
   {
-    "@id": "_:g750660",
+    "@id": "_:g761900",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1593,7 +2002,7 @@
     ]
   },
   {
-    "@id": "_:g750680",
+    "@id": "_:g761920",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -1605,7 +2014,7 @@
     ]
   },
   {
-    "@id": "_:g750700",
+    "@id": "_:g761940",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1662,7 +2071,7 @@
     "article:modified_time": [
       {
         "@language": "fr-ca",
-        "@value": "2025-11-19T17:01:06+00:00"
+        "@value": "2025-11-20T17:01:06+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -1726,7 +2135,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T17:01:06+00:00"
+        "@value": "2025-11-20T17:01:06+00:00"
       }
     ],
     "http://schema.org/breadcrumb": [
@@ -1736,7 +2145,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g750760"
+        "@id": "_:g762000"
       }
     ],
     "http://schema.org/name": [
@@ -1799,7 +2208,7 @@
     ]
   },
   {
-    "@id": "_:g750760",
+    "@id": "_:g762000",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -1811,7 +2220,7 @@
     ]
   },
   {
-    "@id": "_:g750880",
+    "@id": "_:g762120",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -1823,7 +2232,7 @@
     ]
   },
   {
-    "@id": "_:g750900",
+    "@id": "_:g762140",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -1841,7 +2250,7 @@
     ]
   },
   {
-    "@id": "https://odyscene.com/temporary/cd924324-9d1d-40e7-8347-fe38e8406613",
+    "@id": "https://odyscene.com/temporary/c0e1e00c-3ebe-44f7-80bb-5081ea6bfa6d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1859,7 +2268,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g750600"
+        "@id": "_:g761840"
       }
     ],
     "http://schema.org/image": [
@@ -1869,17 +2278,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g750640"
+        "@id": "_:g761880"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g750680"
+        "@id": "_:g761920"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g750700"
+        "@id": "_:g761940"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2036,7 +2445,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g765360"
+        "@id": "_:g776460"
       }
     ],
     "http://schema.org/name": [
@@ -2109,7 +2518,7 @@
     ]
   },
   {
-    "@id": "_:g765360",
+    "@id": "_:g776460",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -2149,7 +2558,7 @@
     ]
   },
   {
-    "@id": "_:g765480",
+    "@id": "_:g776580",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -2161,7 +2570,7 @@
     ]
   },
   {
-    "@id": "_:g765500",
+    "@id": "_:g776600",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -2304,7 +2713,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g778600"
+        "@id": "_:g789660"
       }
     ],
     "http://schema.org/name": [
@@ -2355,7 +2764,7 @@
     ]
   },
   {
-    "@id": "_:g778600",
+    "@id": "_:g789660",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -2367,7 +2776,7 @@
     ]
   },
   {
-    "@id": "_:g778720",
+    "@id": "_:g789780",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -2379,7 +2788,7 @@
     ]
   },
   {
-    "@id": "_:g778740",
+    "@id": "_:g789800",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -2522,7 +2931,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g791660"
+        "@id": "_:g802540"
       }
     ],
     "http://schema.org/name": [
@@ -2579,7 +2988,7 @@
     ]
   },
   {
-    "@id": "_:g791660",
+    "@id": "_:g802540",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -2591,7 +3000,7 @@
     ]
   },
   {
-    "@id": "_:g791780",
+    "@id": "_:g802660",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -2603,7 +3012,7 @@
     ]
   },
   {
-    "@id": "_:g791800",
+    "@id": "_:g802680",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -2746,7 +3155,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g804680"
+        "@id": "_:g815420"
       }
     ],
     "http://schema.org/name": [
@@ -2797,7 +3206,7 @@
     ]
   },
   {
-    "@id": "_:g804680",
+    "@id": "_:g815420",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -2809,7 +3218,7 @@
     ]
   },
   {
-    "@id": "_:g804800",
+    "@id": "_:g815540",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -2821,7 +3230,7 @@
     ]
   },
   {
-    "@id": "_:g804820",
+    "@id": "_:g815560",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -2964,7 +3373,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g817860"
+        "@id": "_:g828340"
       }
     ],
     "http://schema.org/name": [
@@ -3021,7 +3430,7 @@
     ]
   },
   {
-    "@id": "_:g817860",
+    "@id": "_:g828340",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -3033,7 +3442,7 @@
     ]
   },
   {
-    "@id": "_:g817980",
+    "@id": "_:g828460",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -3045,7 +3454,7 @@
     ]
   },
   {
-    "@id": "_:g818000",
+    "@id": "_:g828480",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -3188,7 +3597,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g831100"
+        "@id": "_:g841440"
       }
     ],
     "http://schema.org/name": [
@@ -3239,7 +3648,7 @@
     ]
   },
   {
-    "@id": "_:g831100",
+    "@id": "_:g841440",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -3251,7 +3660,7 @@
     ]
   },
   {
-    "@id": "_:g831220",
+    "@id": "_:g841560",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -3263,7 +3672,7 @@
     ]
   },
   {
-    "@id": "_:g831240",
+    "@id": "_:g841580",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -3406,7 +3815,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g844140"
+        "@id": "_:g854260"
       }
     ],
     "http://schema.org/name": [
@@ -3457,7 +3866,7 @@
     ]
   },
   {
-    "@id": "_:g844140",
+    "@id": "_:g854260",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -3469,7 +3878,7 @@
     ]
   },
   {
-    "@id": "_:g844260",
+    "@id": "_:g854380",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -3481,7 +3890,7 @@
     ]
   },
   {
-    "@id": "_:g844280",
+    "@id": "_:g854400",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -3624,7 +4033,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g857060"
+        "@id": "_:g867060"
       }
     ],
     "http://schema.org/name": [
@@ -3675,7 +4084,7 @@
     ]
   },
   {
-    "@id": "_:g857060",
+    "@id": "_:g867060",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -3687,7 +4096,7 @@
     ]
   },
   {
-    "@id": "_:g857180",
+    "@id": "_:g867180",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -3699,7 +4108,7 @@
     ]
   },
   {
-    "@id": "_:g857200",
+    "@id": "_:g867200",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -3717,13 +4126,13 @@
     ]
   },
   {
-    "@id": "_:g6475000",
+    "@id": "_:g6429960",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g6475020"
+        "@id": "_:g6429980"
       }
     ],
     "http://schema.org/name": [
@@ -3734,7 +4143,7 @@
     ]
   },
   {
-    "@id": "_:g6475020",
+    "@id": "_:g6429980",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3770,7 +4179,7 @@
     ]
   },
   {
-    "@id": "_:g6475040",
+    "@id": "_:g6430000",
     "@type": [
       "http://schema.org/AggregateOffer"
     ],
@@ -3782,7 +4191,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6475060"
+        "@id": "_:g6430020"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -3816,7 +4225,7 @@
     ]
   },
   {
-    "@id": "_:g6475060",
+    "@id": "_:g6430020",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3827,7 +4236,7 @@
     ]
   },
   {
-    "@id": "_:g6475080",
+    "@id": "_:g6430040",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -3839,7 +4248,7 @@
     ]
   },
   {
-    "@id": "_:g6475100",
+    "@id": "_:g6430060",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -3896,7 +4305,7 @@
     "article:modified_time": [
       {
         "@language": "fr-ca",
-        "@value": "2025-11-19T17:01:08+00:00"
+        "@value": "2025-11-20T17:01:07+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -3960,7 +4369,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T17:01:08+00:00"
+        "@value": "2025-11-20T17:01:07+00:00"
       }
     ],
     "http://schema.org/breadcrumb": [
@@ -3970,7 +4379,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g6475160"
+        "@id": "_:g6430120"
       }
     ],
     "http://schema.org/name": [
@@ -4033,7 +4442,7 @@
     ]
   },
   {
-    "@id": "_:g6475160",
+    "@id": "_:g6430120",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -4045,7 +4454,7 @@
     ]
   },
   {
-    "@id": "_:g6475280",
+    "@id": "_:g6430240",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -4057,7 +4466,7 @@
     ]
   },
   {
-    "@id": "_:g6475300",
+    "@id": "_:g6430260",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -4075,7 +4484,7 @@
     ]
   },
   {
-    "@id": "https://odyscene.com/temporary/5c78854b-30ad-4efc-a5cc-14023eb9bada",
+    "@id": "https://odyscene.com/temporary/a2aae7e0-689e-4778-832a-e8e755960d7f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4093,7 +4502,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g6475000"
+        "@id": "_:g6429960"
       }
     ],
     "http://schema.org/image": [
@@ -4103,17 +4512,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6475040"
+        "@id": "_:g6430000"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g6475080"
+        "@id": "_:g6430040"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g6475100"
+        "@id": "_:g6430060"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4145,13 +4554,13 @@
     ]
   },
   {
-    "@id": "_:g6489720",
+    "@id": "_:g6444560",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g6489740"
+        "@id": "_:g6444580"
       }
     ],
     "http://schema.org/name": [
@@ -4162,7 +4571,7 @@
     ]
   },
   {
-    "@id": "_:g6489740",
+    "@id": "_:g6444580",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4198,7 +4607,7 @@
     ]
   },
   {
-    "@id": "_:g6489760",
+    "@id": "_:g6444600",
     "@type": [
       "http://schema.org/AggregateOffer"
     ],
@@ -4210,7 +4619,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6489780"
+        "@id": "_:g6444620"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -4244,7 +4653,7 @@
     ]
   },
   {
-    "@id": "_:g6489780",
+    "@id": "_:g6444620",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4255,7 +4664,7 @@
     ]
   },
   {
-    "@id": "_:g6489800",
+    "@id": "_:g6444640",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -4267,7 +4676,7 @@
     ]
   },
   {
-    "@id": "_:g6489820",
+    "@id": "_:g6444660",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -4324,7 +4733,7 @@
     "article:modified_time": [
       {
         "@language": "fr-ca",
-        "@value": "2025-11-19T17:01:09+00:00"
+        "@value": "2025-11-20T17:01:08+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -4388,7 +4797,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T17:01:09+00:00"
+        "@value": "2025-11-20T17:01:08+00:00"
       }
     ],
     "http://schema.org/breadcrumb": [
@@ -4398,7 +4807,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g6489880"
+        "@id": "_:g6444720"
       }
     ],
     "http://schema.org/name": [
@@ -4455,7 +4864,7 @@
     ]
   },
   {
-    "@id": "_:g6489880",
+    "@id": "_:g6444720",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -4467,7 +4876,7 @@
     ]
   },
   {
-    "@id": "_:g6490000",
+    "@id": "_:g6444840",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -4479,7 +4888,7 @@
     ]
   },
   {
-    "@id": "_:g6490020",
+    "@id": "_:g6444860",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -4497,7 +4906,7 @@
     ]
   },
   {
-    "@id": "https://odyscene.com/temporary/0963786d-7ce8-49de-80f8-054ab50dc7a9",
+    "@id": "https://odyscene.com/temporary/479281e0-5c97-4bef-a5ac-7f018a3f1438",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4515,7 +4924,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g6489720"
+        "@id": "_:g6444560"
       }
     ],
     "http://schema.org/image": [
@@ -4525,17 +4934,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6489760"
+        "@id": "_:g6444600"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g6489800"
+        "@id": "_:g6444640"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g6489820"
+        "@id": "_:g6444660"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4567,13 +4976,13 @@
     ]
   },
   {
-    "@id": "_:g6504680",
+    "@id": "_:g6459280",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g6504700"
+        "@id": "_:g6459300"
       }
     ],
     "http://schema.org/name": [
@@ -4584,7 +4993,7 @@
     ]
   },
   {
-    "@id": "_:g6504700",
+    "@id": "_:g6459300",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4620,7 +5029,7 @@
     ]
   },
   {
-    "@id": "_:g6504720",
+    "@id": "_:g6459320",
     "@type": [
       "http://schema.org/AggregateOffer"
     ],
@@ -4632,7 +5041,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6504740"
+        "@id": "_:g6459340"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -4666,7 +5075,7 @@
     ]
   },
   {
-    "@id": "_:g6504740",
+    "@id": "_:g6459340",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4677,7 +5086,7 @@
     ]
   },
   {
-    "@id": "_:g6504760",
+    "@id": "_:g6459360",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -4689,7 +5098,7 @@
     ]
   },
   {
-    "@id": "_:g6504780",
+    "@id": "_:g6459380",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -4746,7 +5155,7 @@
     "article:modified_time": [
       {
         "@language": "fr-ca",
-        "@value": "2025-11-19T17:01:09+00:00"
+        "@value": "2025-11-20T17:01:08+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -4810,7 +5219,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T17:01:09+00:00"
+        "@value": "2025-11-20T17:01:08+00:00"
       }
     ],
     "http://schema.org/breadcrumb": [
@@ -4820,7 +5229,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g6504820"
+        "@id": "_:g6459440"
       }
     ],
     "http://schema.org/name": [
@@ -4883,7 +5292,7 @@
     ]
   },
   {
-    "@id": "_:g6504820",
+    "@id": "_:g6459440",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -4895,7 +5304,7 @@
     ]
   },
   {
-    "@id": "_:g6504940",
+    "@id": "_:g6459560",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -4907,7 +5316,7 @@
     ]
   },
   {
-    "@id": "_:g6504960",
+    "@id": "_:g6459580",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -4925,7 +5334,7 @@
     ]
   },
   {
-    "@id": "https://odyscene.com/temporary/4b03c8a1-5bad-4fa4-9d6b-bda2482e889d",
+    "@id": "https://odyscene.com/temporary/24c537bf-68e4-444d-979c-de7d010d534d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4943,7 +5352,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g6504680"
+        "@id": "_:g6459280"
       }
     ],
     "http://schema.org/image": [
@@ -4953,17 +5362,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6504720"
+        "@id": "_:g6459320"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g6504760"
+        "@id": "_:g6459360"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g6504780"
+        "@id": "_:g6459380"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4995,13 +5404,13 @@
     ]
   },
   {
-    "@id": "_:g6526660",
+    "@id": "_:g6481080",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g6526680"
+        "@id": "_:g6481100"
       }
     ],
     "http://schema.org/name": [
@@ -5012,7 +5421,7 @@
     ]
   },
   {
-    "@id": "_:g6526680",
+    "@id": "_:g6481100",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5048,7 +5457,7 @@
     ]
   },
   {
-    "@id": "_:g6526700",
+    "@id": "_:g6481120",
     "@type": [
       "http://schema.org/AggregateOffer"
     ],
@@ -5060,7 +5469,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6526720"
+        "@id": "_:g6481140"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -5094,7 +5503,7 @@
     ]
   },
   {
-    "@id": "_:g6526720",
+    "@id": "_:g6481140",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -5105,7 +5514,7 @@
     ]
   },
   {
-    "@id": "_:g6526740",
+    "@id": "_:g6481160",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -5117,7 +5526,7 @@
     ]
   },
   {
-    "@id": "_:g6526760",
+    "@id": "_:g6481180",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -5174,7 +5583,7 @@
     "article:modified_time": [
       {
         "@language": "fr-ca",
-        "@value": "2025-11-19T17:01:06+00:00"
+        "@value": "2025-11-20T17:01:06+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -5238,7 +5647,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T17:01:06+00:00"
+        "@value": "2025-11-20T17:01:06+00:00"
       }
     ],
     "http://schema.org/breadcrumb": [
@@ -5248,7 +5657,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g6526800"
+        "@id": "_:g6481220"
       }
     ],
     "http://schema.org/name": [
@@ -5305,7 +5714,7 @@
     ]
   },
   {
-    "@id": "_:g6526800",
+    "@id": "_:g6481220",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -5317,7 +5726,7 @@
     ]
   },
   {
-    "@id": "_:g6526920",
+    "@id": "_:g6481340",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -5329,7 +5738,7 @@
     ]
   },
   {
-    "@id": "_:g6526940",
+    "@id": "_:g6481360",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -5347,7 +5756,7 @@
     ]
   },
   {
-    "@id": "https://odyscene.com/temporary/734ccd78-6636-4f9e-9356-417078b93e0a",
+    "@id": "https://odyscene.com/temporary/9ce7000a-8321-48e2-ba7a-021c3e39a40d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5365,7 +5774,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g6526660"
+        "@id": "_:g6481080"
       }
     ],
     "http://schema.org/image": [
@@ -5375,17 +5784,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6526700"
+        "@id": "_:g6481120"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g6526740"
+        "@id": "_:g6481160"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g6526760"
+        "@id": "_:g6481180"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5417,13 +5826,13 @@
     ]
   },
   {
-    "@id": "_:g6541180",
+    "@id": "_:g6495640",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g6541200"
+        "@id": "_:g6495660"
       }
     ],
     "http://schema.org/name": [
@@ -5434,7 +5843,7 @@
     ]
   },
   {
-    "@id": "_:g6541200",
+    "@id": "_:g6495660",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5470,7 +5879,7 @@
     ]
   },
   {
-    "@id": "_:g6541220",
+    "@id": "_:g6495680",
     "@type": [
       "http://schema.org/AggregateOffer"
     ],
@@ -5482,7 +5891,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6541240"
+        "@id": "_:g6495700"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -5516,7 +5925,7 @@
     ]
   },
   {
-    "@id": "_:g6541240",
+    "@id": "_:g6495700",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -5527,7 +5936,7 @@
     ]
   },
   {
-    "@id": "_:g6541260",
+    "@id": "_:g6495720",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -5539,7 +5948,7 @@
     ]
   },
   {
-    "@id": "_:g6541280",
+    "@id": "_:g6495740",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -5596,7 +6005,7 @@
     "article:modified_time": [
       {
         "@language": "fr-ca",
-        "@value": "2025-11-19T17:01:06+00:00"
+        "@value": "2025-11-20T17:01:06+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -5660,7 +6069,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T17:01:06+00:00"
+        "@value": "2025-11-20T17:01:06+00:00"
       }
     ],
     "http://schema.org/breadcrumb": [
@@ -5670,7 +6079,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g6541340"
+        "@id": "_:g6495800"
       }
     ],
     "http://schema.org/name": [
@@ -5733,7 +6142,7 @@
     ]
   },
   {
-    "@id": "_:g6541340",
+    "@id": "_:g6495800",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -5745,7 +6154,7 @@
     ]
   },
   {
-    "@id": "_:g6541460",
+    "@id": "_:g6495920",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -5757,7 +6166,7 @@
     ]
   },
   {
-    "@id": "_:g6541480",
+    "@id": "_:g6495940",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -5775,7 +6184,7 @@
     ]
   },
   {
-    "@id": "https://odyscene.com/temporary/7528faf5-c609-4be7-bda8-3578d6449ccb",
+    "@id": "https://odyscene.com/temporary/88fdd39e-33e1-457a-b015-71f8654d6f39",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5793,7 +6202,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g6541180"
+        "@id": "_:g6495640"
       }
     ],
     "http://schema.org/image": [
@@ -5803,17 +6212,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6541220"
+        "@id": "_:g6495680"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g6541260"
+        "@id": "_:g6495720"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g6541280"
+        "@id": "_:g6495740"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5845,13 +6254,13 @@
     ]
   },
   {
-    "@id": "_:g6556120",
+    "@id": "_:g6510500",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g6556140"
+        "@id": "_:g6510520"
       }
     ],
     "http://schema.org/name": [
@@ -5862,7 +6271,7 @@
     ]
   },
   {
-    "@id": "_:g6556140",
+    "@id": "_:g6510520",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5898,7 +6307,7 @@
     ]
   },
   {
-    "@id": "_:g6556160",
+    "@id": "_:g6510540",
     "@type": [
       "http://schema.org/AggregateOffer"
     ],
@@ -5910,7 +6319,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6556180"
+        "@id": "_:g6510560"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -5928,7 +6337,7 @@
     "http://schema.org/lowPrice": [
       {
         "@language": "fr",
-        "@value": "31.00"
+        "@value": "32.00"
       }
     ],
     "http://schema.org/offerCount": [
@@ -5944,7 +6353,7 @@
     ]
   },
   {
-    "@id": "_:g6556180",
+    "@id": "_:g6510560",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -5955,7 +6364,7 @@
     ]
   },
   {
-    "@id": "_:g6556200",
+    "@id": "_:g6510580",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -5967,7 +6376,7 @@
     ]
   },
   {
-    "@id": "_:g6556220",
+    "@id": "_:g6510600",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -6024,7 +6433,7 @@
     "article:modified_time": [
       {
         "@language": "fr-ca",
-        "@value": "2025-11-19T17:01:06+00:00"
+        "@value": "2025-11-20T18:31:08+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -6088,7 +6497,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T17:01:06+00:00"
+        "@value": "2025-11-20T18:31:08+00:00"
       }
     ],
     "http://schema.org/breadcrumb": [
@@ -6098,7 +6507,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g6556260"
+        "@id": "_:g6510640"
       }
     ],
     "http://schema.org/name": [
@@ -6161,7 +6570,7 @@
     ]
   },
   {
-    "@id": "_:g6556260",
+    "@id": "_:g6510640",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -6173,7 +6582,7 @@
     ]
   },
   {
-    "@id": "_:g6556380",
+    "@id": "_:g6510760",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -6185,7 +6594,7 @@
     ]
   },
   {
-    "@id": "_:g6556400",
+    "@id": "_:g6510780",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -6203,7 +6612,7 @@
     ]
   },
   {
-    "@id": "https://odyscene.com/temporary/f7700d8a-dc38-42bf-9433-9821ab1d43e7",
+    "@id": "https://odyscene.com/temporary/9403301f-9ffa-45d7-b6e8-f48fc34cab2d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6221,7 +6630,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g6556120"
+        "@id": "_:g6510500"
       }
     ],
     "http://schema.org/image": [
@@ -6231,17 +6640,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6556160"
+        "@id": "_:g6510540"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g6556200"
+        "@id": "_:g6510580"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g6556220"
+        "@id": "_:g6510600"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -6273,13 +6682,13 @@
     ]
   },
   {
-    "@id": "_:g6570660",
+    "@id": "_:g6524860",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g6570680"
+        "@id": "_:g6524880"
       }
     ],
     "http://schema.org/name": [
@@ -6290,7 +6699,7 @@
     ]
   },
   {
-    "@id": "_:g6570680",
+    "@id": "_:g6524880",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6326,7 +6735,7 @@
     ]
   },
   {
-    "@id": "_:g6570700",
+    "@id": "_:g6524900",
     "@type": [
       "http://schema.org/AggregateOffer"
     ],
@@ -6338,7 +6747,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6570720"
+        "@id": "_:g6524920"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -6372,7 +6781,7 @@
     ]
   },
   {
-    "@id": "_:g6570720",
+    "@id": "_:g6524920",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -6383,7 +6792,7 @@
     ]
   },
   {
-    "@id": "_:g6570740",
+    "@id": "_:g6524940",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -6395,7 +6804,7 @@
     ]
   },
   {
-    "@id": "_:g6570760",
+    "@id": "_:g6524960",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -6452,7 +6861,7 @@
     "article:modified_time": [
       {
         "@language": "fr-ca",
-        "@value": "2025-11-19T17:01:08+00:00"
+        "@value": "2025-11-20T17:01:08+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -6516,7 +6925,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T17:01:08+00:00"
+        "@value": "2025-11-20T17:01:08+00:00"
       }
     ],
     "http://schema.org/breadcrumb": [
@@ -6526,7 +6935,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g6570800"
+        "@id": "_:g6525000"
       }
     ],
     "http://schema.org/name": [
@@ -6589,7 +6998,7 @@
     ]
   },
   {
-    "@id": "_:g6570800",
+    "@id": "_:g6525000",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -6601,7 +7010,7 @@
     ]
   },
   {
-    "@id": "_:g6570920",
+    "@id": "_:g6525120",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -6613,7 +7022,7 @@
     ]
   },
   {
-    "@id": "_:g6570940",
+    "@id": "_:g6525140",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -6631,7 +7040,7 @@
     ]
   },
   {
-    "@id": "https://odyscene.com/temporary/ee88cba1-12da-45bb-9f1a-7f0cd44a77ab",
+    "@id": "https://odyscene.com/temporary/b38b9767-745b-4808-885b-c28c23bbc8e2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6649,7 +7058,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g6570660"
+        "@id": "_:g6524860"
       }
     ],
     "http://schema.org/image": [
@@ -6659,17 +7068,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6570700"
+        "@id": "_:g6524900"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g6570740"
+        "@id": "_:g6524940"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g6570760"
+        "@id": "_:g6524960"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -6701,13 +7110,13 @@
     ]
   },
   {
-    "@id": "_:g6585800",
+    "@id": "_:g6539820",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g6585820"
+        "@id": "_:g6539840"
       }
     ],
     "http://schema.org/name": [
@@ -6718,7 +7127,7 @@
     ]
   },
   {
-    "@id": "_:g6585820",
+    "@id": "_:g6539840",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6754,7 +7163,7 @@
     ]
   },
   {
-    "@id": "_:g6585840",
+    "@id": "_:g6539860",
     "@type": [
       "http://schema.org/AggregateOffer"
     ],
@@ -6766,7 +7175,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6585860"
+        "@id": "_:g6539880"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -6800,7 +7209,7 @@
     ]
   },
   {
-    "@id": "_:g6585860",
+    "@id": "_:g6539880",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -6811,7 +7220,7 @@
     ]
   },
   {
-    "@id": "_:g6585880",
+    "@id": "_:g6539900",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -6823,7 +7232,7 @@
     ]
   },
   {
-    "@id": "_:g6585900",
+    "@id": "_:g6539920",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -6880,7 +7289,7 @@
     "article:modified_time": [
       {
         "@language": "fr-ca",
-        "@value": "2025-11-19T17:01:07+00:00"
+        "@value": "2025-11-20T17:01:06+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -6944,7 +7353,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T17:01:07+00:00"
+        "@value": "2025-11-20T17:01:06+00:00"
       }
     ],
     "http://schema.org/breadcrumb": [
@@ -6954,7 +7363,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g6585940"
+        "@id": "_:g6539960"
       }
     ],
     "http://schema.org/name": [
@@ -7017,7 +7426,7 @@
     ]
   },
   {
-    "@id": "_:g6585940",
+    "@id": "_:g6539960",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -7029,7 +7438,7 @@
     ]
   },
   {
-    "@id": "_:g6586060",
+    "@id": "_:g6540080",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -7041,7 +7450,7 @@
     ]
   },
   {
-    "@id": "_:g6586080",
+    "@id": "_:g6540100",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -7059,7 +7468,7 @@
     ]
   },
   {
-    "@id": "https://odyscene.com/temporary/3a635a33-5ab7-4f08-b35e-9ff7ae5d8a29",
+    "@id": "https://odyscene.com/temporary/cb1c577e-a443-4562-913a-2091c51ca68d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7077,7 +7486,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g6585800"
+        "@id": "_:g6539820"
       }
     ],
     "http://schema.org/image": [
@@ -7087,17 +7496,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6585840"
+        "@id": "_:g6539860"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g6585880"
+        "@id": "_:g6539900"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g6585900"
+        "@id": "_:g6539920"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7129,13 +7538,13 @@
     ]
   },
   {
-    "@id": "_:g6600320",
+    "@id": "_:g6581140",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g6600340"
+        "@id": "_:g6581160"
       }
     ],
     "http://schema.org/name": [
@@ -7146,7 +7555,7 @@
     ]
   },
   {
-    "@id": "_:g6600340",
+    "@id": "_:g6581160",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7182,435 +7591,7 @@
     ]
   },
   {
-    "@id": "_:g6600360",
-    "@type": [
-      "http://schema.org/AggregateOffer"
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-06-13T12:00:00"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g6600380"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/highPrice": [
-      {
-        "@language": "fr",
-        "@value": "30.00"
-      }
-    ],
-    "http://schema.org/lowPrice": [
-      {
-        "@language": "fr",
-        "@value": "27.00"
-      }
-    ],
-    "http://schema.org/offerCount": [
-      {
-        "@language": "fr",
-        "@value": "2"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6600380",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://odyscene.tuxedobillet.com/main/beer-dance"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6600400",
-    "@type": [
-      "http://schema.org/PerformingGroup"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "_:g6600420",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://odyscene.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Odyscène"
-      }
-    ]
-  },
-  {
-    "@id": "https://odyscene.com/programmation/beer-dance/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-ca",
-        "@value": "fr_CA"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-ca",
-        "@value": "Beer Dance - Odyscène"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-ca",
-        "@value": "BEER DANCE! est la réincarnation directe du légendaire groupe Opened Fist. Avec leurs anciens membres ainsi que des nouveaux musiciens passionnés, BEER DANCE! amène le party SYSTEM OF A DOWN! sur la scène du Cabaret BMO!"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://odyscene.com/programmation/beer-dance/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-ca",
-        "@value": "Odyscène"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-ca",
-        "@value": "2025-11-19T17:01:06+00:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://odyscene.com/wp-content/uploads/2025/06/hommage-system-of-a-down-site-web-1.png"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-ca",
-        "@value": "951"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-ca",
-        "@value": "652"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-ca",
-        "@value": "image/png"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://odyscene.com/programmation/beer-dance/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://odyscene.com/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://odyscene.com/programmation/beer-dance/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://odyscene.com/programmation/beer-dance/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://odyscene.com/wp-content/uploads/2025/06/hommage-system-of-a-down-site-web-1.png"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-06-10T20:12:49+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T17:01:06+00:00"
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://odyscene.com/programmation/beer-dance/#breadcrumb"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "_:g6600460"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Beer Dance - Odyscène"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "BEER DANCE! est la réincarnation directe du légendaire groupe Opened Fist. Avec leurs anciens membres ainsi que des nouveaux musiciens passionnés, BEER DANCE! amène le party SYSTEM OF A DOWN! sur la scène du Cabaret BMO!"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://odyscene.com/programmation/beer-dance/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://odyscene.com/wp-content/uploads/2025/06/hommage-system-of-a-down-site-web-1.png"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://odyscene.com/wp-content/uploads/2025/06/hommage-system-of-a-down-site-web-1.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "951"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "652"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ],
-    "http://schema.org/caption": [
-      {
-        "@language": "fr",
-        "@value": "Spectacle de Beer Dance - Hommage System of a Down à Sainte-Thérèse"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6600460",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "fr",
-        "@value": "https://odyscene.com/programmation/beer-dance/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6600600",
-    "@type": [
-      "http://schema.org/EntryPoint"
-    ],
-    "http://schema.org/urlTemplate": [
-      {
-        "@language": "fr",
-        "@value": "https://odyscene.com/?s={search_term_string}"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6600620",
-    "@type": [
-      "http://schema.org/PropertyValueSpecification"
-    ],
-    "http://schema.org/valueRequired": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
-        "@value": "true"
-      }
-    ],
-    "http://schema.org/valueName": [
-      {
-        "@language": "fr",
-        "@value": "search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "https://odyscene.com/temporary/696cacd4-e719-4ee3-9a53-87269fda21df",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-12-13T20:00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-12-13T20:00:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g6600320"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://odyscene.com/wp-content/uploads/2025/06/hommage-system-of-a-down-site-web-1.png"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g6600360"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g6600400"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g6600420"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://odyscene.com/programmation/beer-dance/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Beer Dance"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "BEER DANCE! est la réincarnation directe du légendaire groupe Opened Fist. Avec leurs anciens membres ainsi que des nouveaux musiciens passionnés, BEER DANCE! amène le party SYSTEM OF A DOWN! sur la scène du Cabaret BMO!"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6642020",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g6642040"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Cabaret BMO"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6642040",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "57, rue Turgeon"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Sainte-Thérèse"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "J7E 3H4"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "fr",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6642060",
+    "@id": "_:g6581180",
     "@type": [
       "http://schema.org/AggregateOffer"
     ],
@@ -7622,7 +7603,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6642080"
+        "@id": "_:g6581200"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -7656,7 +7637,7 @@
     ]
   },
   {
-    "@id": "_:g6642080",
+    "@id": "_:g6581200",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -7667,7 +7648,7 @@
     ]
   },
   {
-    "@id": "_:g6642100",
+    "@id": "_:g6581220",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -7679,7 +7660,7 @@
     ]
   },
   {
-    "@id": "_:g6642120",
+    "@id": "_:g6581240",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -7736,7 +7717,7 @@
     "article:modified_time": [
       {
         "@language": "fr-ca",
-        "@value": "2025-11-19T17:01:08+00:00"
+        "@value": "2025-11-20T17:01:08+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -7800,7 +7781,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T17:01:08+00:00"
+        "@value": "2025-11-20T17:01:08+00:00"
       }
     ],
     "http://schema.org/breadcrumb": [
@@ -7810,7 +7791,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g6642180"
+        "@id": "_:g6581300"
       }
     ],
     "http://schema.org/name": [
@@ -7867,7 +7848,7 @@
     ]
   },
   {
-    "@id": "_:g6642180",
+    "@id": "_:g6581300",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -7879,7 +7860,7 @@
     ]
   },
   {
-    "@id": "_:g6642300",
+    "@id": "_:g6581420",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -7891,7 +7872,7 @@
     ]
   },
   {
-    "@id": "_:g6642320",
+    "@id": "_:g6581440",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -7909,7 +7890,7 @@
     ]
   },
   {
-    "@id": "https://odyscene.com/temporary/78fc3416-7139-450c-a0d9-7dc606bbc1a0",
+    "@id": "https://odyscene.com/temporary/70c277c9-3820-4c5e-a0c4-ffc4ea6114a3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7927,7 +7908,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g6642020"
+        "@id": "_:g6581140"
       }
     ],
     "http://schema.org/image": [
@@ -7937,17 +7918,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6642060"
+        "@id": "_:g6581180"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g6642100"
+        "@id": "_:g6581220"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g6642120"
+        "@id": "_:g6581240"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7979,441 +7960,13 @@
     ]
   },
   {
-    "@id": "_:g6663140",
+    "@id": "_:g6637900",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g6663160"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Cabaret BMO"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6663160",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "57, rue Turgeon"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Sainte-Thérèse"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "J7E 3H4"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "fr",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6663180",
-    "@type": [
-      "http://schema.org/AggregateOffer"
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2023-05-08T12:00:00"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g6663200"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/highPrice": [
-      {
-        "@language": "fr",
-        "@value": "35.00"
-      }
-    ],
-    "http://schema.org/lowPrice": [
-      {
-        "@language": "fr",
-        "@value": "25.00"
-      }
-    ],
-    "http://schema.org/offerCount": [
-      {
-        "@language": "fr",
-        "@value": "3"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6663200",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://odyscene.tuxedobillet.com/main/francis-degrandpre-se-laisser-aller"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6663220",
-    "@type": [
-      "http://schema.org/PerformingGroup"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Francis DeGranpré"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6663240",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://odyscene.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Odyscène"
-      }
-    ]
-  },
-  {
-    "@id": "https://odyscene.com/programmation/francis-degrandpre/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-ca",
-        "@value": "fr_CA"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-ca",
-        "@value": "Francis DeGrandpré - Odyscène"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-ca",
-        "@value": "En moins de trois ans, l’auteur-compositeur-interprète Francis Degrandpré est passé de l’ami qui chante au bord du feu à un artiste accompli qui fait lever les foules aux quatre coins de la province. Avec un son new country francophone unique et une voix grave et profonde qui n’a rien à envier aux plus grands artistes country, Francis se démarque sur la scène musicale québécoise avec ses thèmes rassembleurs de chasse, de pêche, de nature et de bon temps entre amis. Francis fait maintenant chanter les fans de country par milliers avec ses propres chansons et son deuxième album Se laisser aller, paru en septembre 2024, promet de faire voyager sa musique encore plus loin! Il a remporté en 2023 le Félix de l’Album Country de l’année à l’ADISQ et a été récompensé trois fois lors du Gala Country pour Chanson de l’année, Album country contemporain et Auteur-compositeur de l’année."
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://odyscene.com/programmation/francis-degrandpre/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-ca",
-        "@value": "Odyscène"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-ca",
-        "@value": "2025-11-19T17:01:08+00:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://odyscene.com/wp-content/uploads/2025/05/francis-desgrandpre-site-web.png"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-ca",
-        "@value": "951"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-ca",
-        "@value": "652"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-ca",
-        "@value": "image/png"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://odyscene.com/programmation/francis-degrandpre/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://odyscene.com/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://odyscene.com/programmation/francis-degrandpre/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://odyscene.com/programmation/francis-degrandpre/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://odyscene.com/wp-content/uploads/2025/05/francis-desgrandpre-site-web.png"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2023-04-18T20:59:10+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T17:01:08+00:00"
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://odyscene.com/programmation/francis-degrandpre/#breadcrumb"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "_:g6663280"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Francis DeGrandpré - Odyscène"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "En moins de trois ans, l’auteur-compositeur-interprète Francis Degrandpré est passé de l’ami qui chante au bord du feu à un artiste accompli qui fait lever les foules aux quatre coins de la province. Avec un son new country francophone unique et une voix grave et profonde qui n’a rien à envier aux plus grands artistes country, Francis se démarque sur la scène musicale québécoise avec ses thèmes rassembleurs de chasse, de pêche, de nature et de bon temps entre amis. Francis fait maintenant chanter les fans de country par milliers avec ses propres chansons et son deuxième album Se laisser aller, paru en septembre 2024, promet de faire voyager sa musique encore plus loin! Il a remporté en 2023 le Félix de l’Album Country de l’année à l’ADISQ et a été récompensé trois fois lors du Gala Country pour Chanson de l’année, Album country contemporain et Auteur-compositeur de l’année."
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://odyscene.com/programmation/francis-degrandpre/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://odyscene.com/wp-content/uploads/2025/05/francis-desgrandpre-site-web.png"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://odyscene.com/wp-content/uploads/2025/05/francis-desgrandpre-site-web.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "951"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "652"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ],
-    "http://schema.org/caption": [
-      {
-        "@language": "fr",
-        "@value": "Spectacle de Francis Degrandpré à Sainte-Thérèse"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6663280",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "fr",
-        "@value": "https://odyscene.com/programmation/francis-degrandpre/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6663400",
-    "@type": [
-      "http://schema.org/EntryPoint"
-    ],
-    "http://schema.org/urlTemplate": [
-      {
-        "@language": "fr",
-        "@value": "https://odyscene.com/?s={search_term_string}"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6663420",
-    "@type": [
-      "http://schema.org/PropertyValueSpecification"
-    ],
-    "http://schema.org/valueRequired": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
-        "@value": "true"
-      }
-    ],
-    "http://schema.org/valueName": [
-      {
-        "@language": "fr",
-        "@value": "search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "https://odyscene.com/temporary/7caca7ce-8f3e-4e00-9d18-999bc1878c2a",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-24T20:00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-24T20:00:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g6663140"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://odyscene.com/wp-content/uploads/2025/05/francis-desgrandpre-site-web.png"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g6663180"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g6663220"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g6663240"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://odyscene.com/programmation/francis-degrandpre/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Francis DeGrandpré"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "En moins de trois ans, l’auteur-compositeur-interprète Francis Degrandpré est passé de l’ami qui chante au bord du feu à un artiste accompli qui fait lever les foules aux quatre coins de la province. Avec un son new country francophone unique..."
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6713880",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g6713900"
+        "@id": "_:g6637920"
       }
     ],
     "http://schema.org/name": [
@@ -8424,7 +7977,7 @@
     ]
   },
   {
-    "@id": "_:g6713900",
+    "@id": "_:g6637920",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -8460,1285 +8013,7 @@
     ]
   },
   {
-    "@id": "_:g6713920",
-    "@type": [
-      "http://schema.org/AggregateOffer"
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-11-08T12:00:00"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g6713940"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/highPrice": [
-      {
-        "@language": "fr",
-        "@value": "63.00"
-      }
-    ],
-    "http://schema.org/lowPrice": [
-      {
-        "@language": "fr",
-        "@value": "47.00"
-      }
-    ],
-    "http://schema.org/offerCount": [
-      {
-        "@language": "fr",
-        "@value": "3"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6713940",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://odyscene.tuxedobillet.com/main/abbamania"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6713960",
-    "@type": [
-      "http://schema.org/PerformingGroup"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "_:g6713980",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://odyscene.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Odyscène"
-      }
-    ]
-  },
-  {
-    "@id": "https://odyscene.com/programmation/abbamania/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-ca",
-        "@value": "fr_CA"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-ca",
-        "@value": "ABBAMANIA - Hommage à ABBA - Odyscène"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-ca",
-        "@value": "Abbamania est la première production mondiale d’Abba. Cette distribution entièrement canadienne vient de l'Ontario au Canada et a joué plus de 200 spectacles par an depuis 1999. Ils ont donné plus de concerts qu'Elvis, les Beatles, Madonna et Michael Jackson réunis. Le casting est composé de musiciens et de chanteurs de studio au chant époustouflant et au look authentique. Écoutez tous les succès de « Waterloo à Dancing Queen ». Chaque chanson est reproduite note pour note, exactement comme les enregistrements originaux.   Abbamania s'est produit au cours des 18 dernières années à des concerts à guichets fermés, avec le London Symphony, le San Diego Symphony, le Boston Symphony, le Vancouver Symphony, le Denver Symphony, le Calgary Symphony et le Montreal Symphony, pour n'en citer que quelques-uns.   Cette production est composée de musiciens de studio qui recréent Abba en concert. Chaque chanson a été recréée note pour note, son pour son pour faire de ce spectacle la production Abba la plus authentique que vous ayez jamais entendue.     C'est la seule production d'Abba à jouer pour le casting de Mama Mia.   Abbamania s'est produit de la Malaisie au Mexique et des îles Caïmans au Canada.   Les personnages principaux, Steve Mcrae dans le rôle de Benny, Angela Seeger dans le rôle d'Agnetha, Amberley Beatty dans le rôle d'Anni-Frid et Daryl Thistel dans le rôle de Bjorn.   Écoutez tous les succès de « Waterloo, S.O.S à Dancing Queen »  * Veuillez noter que des spectateurs pourraient se tenir debout dans l’espace situé entre le parterre et la scène.   "
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://odyscene.com/programmation/abbamania/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-ca",
-        "@value": "Odyscène"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-ca",
-        "@value": "2025-11-19T17:01:07+00:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://odyscene.com/wp-content/uploads/2024/11/abbamania.png"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-ca",
-        "@value": "1000"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-ca",
-        "@value": "686"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-ca",
-        "@value": "image/png"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://odyscene.com/programmation/abbamania/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://odyscene.com/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://odyscene.com/programmation/abbamania/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://odyscene.com/programmation/abbamania/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://odyscene.com/wp-content/uploads/2024/11/abbamania.png"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-11-05T16:51:18+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T17:01:07+00:00"
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://odyscene.com/programmation/abbamania/#breadcrumb"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "_:g6714040"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "ABBAMANIA - Hommage à ABBA - Odyscène"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Abbamania est la première production mondiale d’Abba. Cette distribution entièrement canadienne vient de l'Ontario au Canada et a joué plus de 200 spectacles par an depuis 1999. Ils ont donné plus de concerts qu'Elvis, les Beatles, Madonna et Michael Jackson réunis. Le casting est composé de musiciens et de chanteurs de studio au chant époustouflant et au look authentique. Écoutez tous les succès de « Waterloo à Dancing Queen ». Chaque chanson est reproduite note pour note, exactement comme les enregistrements originaux.  Abbamania s'est produit au cours des 18 dernières années à des concerts à guichets fermés, avec le London Symphony, le San Diego Symphony, le Boston Symphony, le Vancouver Symphony, le Denver Symphony, le Calgary Symphony et le Montreal Symphony, pour n'en citer que quelques-uns.  Cette production est composée de musiciens de studio qui recréent Abba en concert. Chaque chanson a été recréée note pour note, son pour son pour faire de ce spectacle la production Abba la plus authentique que vous ayez jamais entendue.    C'est la seule production d'Abba à jouer pour le casting de Mama Mia.  Abbamania s'est produit de la Malaisie au Mexique et des îles Caïmans au Canada.  Les personnages principaux, Steve Mcrae dans le rôle de Benny, Angela Seeger dans le rôle d'Agnetha, Amberley Beatty dans le rôle d'Anni-Frid et Daryl Thistel dans le rôle de Bjorn.  Écoutez tous les succès de « Waterloo, S.O.S à Dancing Queen » * Veuillez noter que des spectateurs pourraient se tenir debout dans l’espace situé entre le parterre et la scène.  "
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://odyscene.com/programmation/abbamania/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://odyscene.com/wp-content/uploads/2024/11/abbamania.png"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://odyscene.com/wp-content/uploads/2024/11/abbamania.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1000"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "686"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ],
-    "http://schema.org/caption": [
-      {
-        "@language": "fr",
-        "@value": "Les artistes interprétant les succès du groupe Abba dans le spectacle Abbamania"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6714040",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "fr",
-        "@value": "https://odyscene.com/programmation/abbamania/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6714180",
-    "@type": [
-      "http://schema.org/EntryPoint"
-    ],
-    "http://schema.org/urlTemplate": [
-      {
-        "@language": "fr",
-        "@value": "https://odyscene.com/?s={search_term_string}"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6714200",
-    "@type": [
-      "http://schema.org/PropertyValueSpecification"
-    ],
-    "http://schema.org/valueRequired": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
-        "@value": "true"
-      }
-    ],
-    "http://schema.org/valueName": [
-      {
-        "@language": "fr",
-        "@value": "search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "https://odyscene.com/temporary/c71d710c-d47e-408e-85c9-a1b5d56471c3",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-20T20:00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-20T20:00:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g6713880"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://odyscene.com/wp-content/uploads/2024/11/abbamania.png"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g6713920"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g6713960"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g6713980"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://odyscene.com/programmation/abbamania/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "ABBAMANIA &#8211; Hommage à ABBA"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Abbamania est la première production mondiale d’Abba. Cette distribution entièrement canadienne vient de l&rsquo;Ontario au Canada et a joué plus de 200 spectacles par an depuis 1999. Ils ont donné plus de concerts qu&rsquo;Elvis, les Beatles, Madonna et Michael Jackson..."
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6728360",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g6728380"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Cabaret BMO"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6728380",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "57, rue Turgeon"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Sainte-Thérèse"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "J7E 3H4"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "fr",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6728400",
-    "@type": [
-      "http://schema.org/AggregateOffer"
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-03-22T12:00:00"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g6728420"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/highPrice": [
-      {
-        "@language": "fr",
-        "@value": "40.00"
-      }
-    ],
-    "http://schema.org/lowPrice": [
-      {
-        "@language": "fr",
-        "@value": "35.00"
-      }
-    ],
-    "http://schema.org/offerCount": [
-      {
-        "@language": "fr",
-        "@value": "2"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6728420",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://odyscene.tuxedobillet.com/main/silvi-tourigny-en-feu"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6728440",
-    "@type": [
-      "http://schema.org/PerformingGroup"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "_:g6728460",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://odyscene.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Odyscène"
-      }
-    ]
-  },
-  {
-    "@id": "https://odyscene.com/programmation/sylvi-tourigny/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-ca",
-        "@value": "fr_CA"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-ca",
-        "@value": "Silvi Tourigny - Odyscène"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-ca",
-        "@value": "L’humoriste Silvi Tourigny s'apprête à brûler les planches avec son premier spectacle solo, En feu! Ce one-woman-show est une plongée hilarante dans son vécu, mais surtout dans ses envies, celles d’une femme libérée et assumée. Au cours des dernières années, il s'en est passé des choses dans sa vie : une maison, un enfant, une moto, une séparation, une autre maison, des rencontres douteuses, une autre relation et c’est sans compter sa passion beaucoup trop intense pour les animaux! Silvi et sa fidèle acolyte, Carole, sont plus enflammées que jamais et prêtes à non seulement vous faire rire, mais également à vous donner le goût de danser! Avec son naturel désarmant, la rouquine fait souffler un vent d'énergie et d'humour qui séduit à grands éclats de rire.     Comme dirait Carole : « Pas besoin de t’avertir que tu vas avoir du fun parce que Silvi est EN FEU!!! »"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://odyscene.com/programmation/sylvi-tourigny/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-ca",
-        "@value": "Odyscène"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-ca",
-        "@value": "2025-11-19T17:01:07+00:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://odyscene.com/wp-content/uploads/2024/03/silvi-tourigny-site-web.png"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-ca",
-        "@value": "951"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-ca",
-        "@value": "652"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-ca",
-        "@value": "image/png"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://odyscene.com/programmation/sylvi-tourigny/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://odyscene.com/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://odyscene.com/programmation/sylvi-tourigny/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://odyscene.com/programmation/sylvi-tourigny/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://odyscene.com/wp-content/uploads/2024/03/silvi-tourigny-site-web.png"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-03-18T15:25:45+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T17:01:07+00:00"
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://odyscene.com/programmation/sylvi-tourigny/#breadcrumb"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "_:g6728500"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Silvi Tourigny - Odyscène"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "L’humoriste Silvi Tourigny s'apprête à brûler les planches avec son premier spectacle solo, En feu! Ce one-woman-show est une plongée hilarante dans son vécu, mais surtout dans ses envies, celles d’une femme libérée et assumée. Au cours des dernières années, il s'en est passé des choses dans sa vie : une maison, un enfant, une moto, une séparation, une autre maison, des rencontres douteuses, une autre relation et c’est sans compter sa passion beaucoup trop intense pour les animaux! Silvi et sa fidèle acolyte, Carole, sont plus enflammées que jamais et prêtes à non seulement vous faire rire, mais également à vous donner le goût de danser! Avec son naturel désarmant, la rouquine fait souffler un vent d'énergie et d'humour qui séduit à grands éclats de rire. &nbsp; Comme dirait Carole : « Pas besoin de t’avertir que tu vas avoir du fun parce que Silvi est EN FEU!!! »"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://odyscene.com/programmation/sylvi-tourigny/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://odyscene.com/wp-content/uploads/2024/03/silvi-tourigny-site-web.png"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://odyscene.com/wp-content/uploads/2024/03/silvi-tourigny-site-web.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "951"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "652"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ],
-    "http://schema.org/caption": [
-      {
-        "@language": "fr",
-        "@value": "Spectacle de Silvi Tourigny à Sainte-Thérèse le 20 novembre 2025"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6728500",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "fr",
-        "@value": "https://odyscene.com/programmation/sylvi-tourigny/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6728620",
-    "@type": [
-      "http://schema.org/EntryPoint"
-    ],
-    "http://schema.org/urlTemplate": [
-      {
-        "@language": "fr",
-        "@value": "https://odyscene.com/?s={search_term_string}"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6728640",
-    "@type": [
-      "http://schema.org/PropertyValueSpecification"
-    ],
-    "http://schema.org/valueRequired": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
-        "@value": "true"
-      }
-    ],
-    "http://schema.org/valueName": [
-      {
-        "@language": "fr",
-        "@value": "search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "https://odyscene.com/temporary/674ab2dd-171f-4026-a02e-409b227b5bc9",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-20T20:00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-26T20:00:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g6728360"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://odyscene.com/wp-content/uploads/2024/03/silvi-tourigny-site-web.png"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g6728400"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g6728440"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g6728460"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://odyscene.com/programmation/sylvi-tourigny/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Silvi Tourigny"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "L’humoriste Silvi Tourigny s&rsquo;apprête à brûler les planches avec son premier spectacle solo, En feu! Ce one-woman-show est une plongée hilarante dans son vécu, mais surtout dans ses envies, celles d’une femme libérée et assumée. Au cours des dernières années,..."
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6742620",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g6742640"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Cabaret BMO"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6742640",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "57, rue Turgeon"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Sainte-Thérèse"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "J7E 3H4"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "fr",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6742660",
-    "@type": [
-      "http://schema.org/AggregateOffer"
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2017-12-20T06:00:00"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g6742680"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/highPrice": [
-      {
-        "@language": "fr",
-        "@value": "39.00"
-      }
-    ],
-    "http://schema.org/lowPrice": [
-      {
-        "@language": "fr",
-        "@value": "30.00"
-      }
-    ],
-    "http://schema.org/offerCount": [
-      {
-        "@language": "fr",
-        "@value": "3"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6742680",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://odyscene.tuxedobillet.com/main/martin-vachon-ahh-Caramel"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6742700",
-    "@type": [
-      "http://schema.org/PerformingGroup"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Martin Vachon"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6742720",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://odyscene.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Odyscène"
-      }
-    ]
-  },
-  {
-    "@id": "https://odyscene.com/programmation/martin-vachon/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-ca",
-        "@value": "fr_CA"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-ca",
-        "@value": "Martin Vachon - Odyscène"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-ca",
-        "@value": "Après un passage remarqué à l’émission Big Brother Célébrités et l’animation de la quotidienne Combien tu m’aimes? sur Noovo, l’humoriste Martin Vachon revient sur scène avec son deuxième spectacle Ahh Caramel… Ce one-man-show offre un savoureux mélange d’anecdotes sucrées nappées d’un généreux coulis d’autodérision, alors que Martin s’inspire de sa vie qui est un perpétuel spectacle qui ne demande qu’à se faire raconter. Avec une énergie tout aussi débordante que contagieuse, Martin offre un stand up délicieux avec une haute teneur en rire qui enchantera vos papilles auditives! Le tout nouveau Vachon… vous allez vous régaler! 100 % de plaisir, 0 % de culpabilité! P-S : Même les diabétiques peuvent se le permettre!"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://odyscene.com/programmation/martin-vachon/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-ca",
-        "@value": "Odyscène"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-ca",
-        "@value": "2025-11-19T17:01:07+00:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://odyscene.com/wp-content/uploads/2023/11/martin-vachon-768x572-1.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-ca",
-        "@value": "768"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-ca",
-        "@value": "572"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-ca",
-        "@value": "image/jpeg"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://odyscene.com/programmation/martin-vachon/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://odyscene.com/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://odyscene.com/programmation/martin-vachon/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://odyscene.com/programmation/martin-vachon/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://odyscene.com/wp-content/uploads/2023/11/martin-vachon-768x572-1.jpg"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2023-11-16T21:00:00+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T17:01:07+00:00"
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://odyscene.com/programmation/martin-vachon/#breadcrumb"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "_:g6742760"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Martin Vachon - Odyscène"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Après un passage remarqué à l’émission Big Brother Célébrités et l’animation de la quotidienne Combien tu m’aimes? sur Noovo, l’humoriste Martin Vachon revient sur scène avec son deuxième spectacle Ahh Caramel… Ce one-man-show offre un savoureux mélange d’anecdotes sucrées nappées d’un généreux coulis d’autodérision, alors que Martin s’inspire de sa vie qui est un perpétuel spectacle qui ne demande qu’à se faire raconter. Avec une énergie tout aussi débordante que contagieuse, Martin offre un stand up délicieux avec une haute teneur en rire qui enchantera vos papilles auditives! Le tout nouveau Vachon… vous allez vous régaler! 100 % de plaisir, 0 % de culpabilité! P-S : Même les diabétiques peuvent se le permettre!"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://odyscene.com/programmation/martin-vachon/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://odyscene.com/wp-content/uploads/2023/11/martin-vachon-768x572-1.jpg"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://odyscene.com/wp-content/uploads/2023/11/martin-vachon-768x572-1.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "768"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "572"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6742760",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "fr",
-        "@value": "https://odyscene.com/programmation/martin-vachon/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6742880",
-    "@type": [
-      "http://schema.org/EntryPoint"
-    ],
-    "http://schema.org/urlTemplate": [
-      {
-        "@language": "fr",
-        "@value": "https://odyscene.com/?s={search_term_string}"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6742900",
-    "@type": [
-      "http://schema.org/PropertyValueSpecification"
-    ],
-    "http://schema.org/valueRequired": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
-        "@value": "true"
-      }
-    ],
-    "http://schema.org/valueName": [
-      {
-        "@language": "fr",
-        "@value": "search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "https://odyscene.com/temporary/295e1a54-6335-4c94-b727-2cfd9dc191fe",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-21T20:00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-21T20:00:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g6742620"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://odyscene.com/wp-content/uploads/2023/11/martin-vachon-768x572-1.jpg"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g6742660"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g6742700"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g6742720"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://odyscene.com/programmation/martin-vachon/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Martin Vachon"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Après un passage remarqué à l’émission Big Brother Célébrités et l’animation de la quotidienne Combien tu m’aimes? sur Noovo, l’humoriste Martin Vachon revient sur scène avec son deuxième spectacle Ahh Caramel… Ce one-man-show offre un savoureux mélange d’anecdotes sucrées nappées..."
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6756800",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g6756820"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Théâtre Lionel-Groulx"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6756820",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "100, rue Duquet"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Sainte-Thérèse"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "J7E 3G6"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "fr",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g6756840",
+    "@id": "_:g6637940",
     "@type": [
       "http://schema.org/AggregateOffer"
     ],
@@ -9750,7 +8025,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6756860"
+        "@id": "_:g6637960"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -9784,7 +8059,7 @@
     ]
   },
   {
-    "@id": "_:g6756860",
+    "@id": "_:g6637960",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -9795,7 +8070,7 @@
     ]
   },
   {
-    "@id": "_:g6756880",
+    "@id": "_:g6637980",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -9807,7 +8082,7 @@
     ]
   },
   {
-    "@id": "_:g6756900",
+    "@id": "_:g6638000",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -9864,7 +8139,7 @@
     "article:modified_time": [
       {
         "@language": "fr-ca",
-        "@value": "2025-11-19T17:01:09+00:00"
+        "@value": "2025-11-20T17:01:08+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -9928,7 +8203,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T17:01:09+00:00"
+        "@value": "2025-11-20T17:01:08+00:00"
       }
     ],
     "http://schema.org/breadcrumb": [
@@ -9938,7 +8213,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g6756960"
+        "@id": "_:g6638080"
       }
     ],
     "http://schema.org/name": [
@@ -10001,7 +8276,7 @@
     ]
   },
   {
-    "@id": "_:g6756960",
+    "@id": "_:g6638080",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -10013,7 +8288,7 @@
     ]
   },
   {
-    "@id": "_:g6757080",
+    "@id": "_:g6638200",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -10025,7 +8300,7 @@
     ]
   },
   {
-    "@id": "_:g6757100",
+    "@id": "_:g6638220",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -10043,7 +8318,7 @@
     ]
   },
   {
-    "@id": "https://odyscene.com/temporary/2207c403-c7fd-479f-af1e-7c18b40f62f4",
+    "@id": "https://odyscene.com/temporary/95f762e6-6ab6-485a-a0f4-abcfd3017059",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10061,7 +8336,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g6756800"
+        "@id": "_:g6637900"
       }
     ],
     "http://schema.org/image": [
@@ -10071,17 +8346,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6756840"
+        "@id": "_:g6637940"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g6756880"
+        "@id": "_:g6637980"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g6756900"
+        "@id": "_:g6638000"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -10113,13 +8388,13 @@
     ]
   },
   {
-    "@id": "_:g6770980",
+    "@id": "_:g6652300",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g6771000"
+        "@id": "_:g6652320"
       }
     ],
     "http://schema.org/name": [
@@ -10130,7 +8405,7 @@
     ]
   },
   {
-    "@id": "_:g6771000",
+    "@id": "_:g6652320",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -10166,7 +8441,429 @@
     ]
   },
   {
-    "@id": "_:g6771020",
+    "@id": "_:g6652340",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2017-12-20T06:00:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g6652360"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "39.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "30.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6652360",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://odyscene.tuxedobillet.com/main/martin-vachon-ahh-Caramel"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6652380",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Martin Vachon"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6652400",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://odyscene.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Odyscène"
+      }
+    ]
+  },
+  {
+    "@id": "https://odyscene.com/programmation/martin-vachon/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Martin Vachon - Odyscène"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Après un passage remarqué à l’émission Big Brother Célébrités et l’animation de la quotidienne Combien tu m’aimes? sur Noovo, l’humoriste Martin Vachon revient sur scène avec son deuxième spectacle Ahh Caramel… Ce one-man-show offre un savoureux mélange d’anecdotes sucrées nappées d’un généreux coulis d’autodérision, alors que Martin s’inspire de sa vie qui est un perpétuel spectacle qui ne demande qu’à se faire raconter. Avec une énergie tout aussi débordante que contagieuse, Martin offre un stand up délicieux avec une haute teneur en rire qui enchantera vos papilles auditives! Le tout nouveau Vachon… vous allez vous régaler! 100 % de plaisir, 0 % de culpabilité! P-S : Même les diabétiques peuvent se le permettre!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://odyscene.com/programmation/martin-vachon/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Odyscène"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2025-11-20T17:01:07+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://odyscene.com/wp-content/uploads/2023/11/martin-vachon-768x572-1.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "768"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "572"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://odyscene.com/programmation/martin-vachon/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://odyscene.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://odyscene.com/programmation/martin-vachon/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://odyscene.com/programmation/martin-vachon/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://odyscene.com/wp-content/uploads/2023/11/martin-vachon-768x572-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-16T21:00:00+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T17:01:07+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://odyscene.com/programmation/martin-vachon/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g6652460"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Martin Vachon - Odyscène"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Après un passage remarqué à l’émission Big Brother Célébrités et l’animation de la quotidienne Combien tu m’aimes? sur Noovo, l’humoriste Martin Vachon revient sur scène avec son deuxième spectacle Ahh Caramel… Ce one-man-show offre un savoureux mélange d’anecdotes sucrées nappées d’un généreux coulis d’autodérision, alors que Martin s’inspire de sa vie qui est un perpétuel spectacle qui ne demande qu’à se faire raconter. Avec une énergie tout aussi débordante que contagieuse, Martin offre un stand up délicieux avec une haute teneur en rire qui enchantera vos papilles auditives! Le tout nouveau Vachon… vous allez vous régaler! 100 % de plaisir, 0 % de culpabilité! P-S : Même les diabétiques peuvent se le permettre!"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://odyscene.com/programmation/martin-vachon/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://odyscene.com/wp-content/uploads/2023/11/martin-vachon-768x572-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://odyscene.com/wp-content/uploads/2023/11/martin-vachon-768x572-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "768"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "572"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6652460",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://odyscene.com/programmation/martin-vachon/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6652580",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://odyscene.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6652600",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://odyscene.com/temporary/15ec6438-2ee1-41d1-8a31-a598a263a2cf",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-21T20:00:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g6652300"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://odyscene.com/wp-content/uploads/2023/11/martin-vachon-768x572-1.jpg"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g6652340"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g6652380"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g6652400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://odyscene.com/programmation/martin-vachon/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Martin Vachon"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Après un passage remarqué à l’émission Big Brother Célébrités et l’animation de la quotidienne Combien tu m’aimes? sur Noovo, l’humoriste Martin Vachon revient sur scène avec son deuxième spectacle Ahh Caramel… Ce one-man-show offre un savoureux mélange d’anecdotes sucrées nappées..."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6666340",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g6666360"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Cabaret BMO"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6666360",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "57, rue Turgeon"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Sainte-Thérèse"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J7E 3H4"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6666380",
     "@type": [
       "http://schema.org/AggregateOffer"
     ],
@@ -10178,7 +8875,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6771040"
+        "@id": "_:g6666400"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -10212,7 +8909,7 @@
     ]
   },
   {
-    "@id": "_:g6771040",
+    "@id": "_:g6666400",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -10223,7 +8920,7 @@
     ]
   },
   {
-    "@id": "_:g6771060",
+    "@id": "_:g6666420",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -10235,7 +8932,7 @@
     ]
   },
   {
-    "@id": "_:g6771080",
+    "@id": "_:g6666440",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -10292,7 +8989,7 @@
     "article:modified_time": [
       {
         "@language": "fr-ca",
-        "@value": "2025-11-19T17:01:06+00:00"
+        "@value": "2025-11-20T17:01:06+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -10356,7 +9053,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T17:01:06+00:00"
+        "@value": "2025-11-20T17:01:06+00:00"
       }
     ],
     "http://schema.org/breadcrumb": [
@@ -10366,7 +9063,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g6771140"
+        "@id": "_:g6666500"
       }
     ],
     "http://schema.org/name": [
@@ -10429,7 +9126,7 @@
     ]
   },
   {
-    "@id": "_:g6771140",
+    "@id": "_:g6666500",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -10441,7 +9138,7 @@
     ]
   },
   {
-    "@id": "_:g6771260",
+    "@id": "_:g6666620",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -10453,7 +9150,7 @@
     ]
   },
   {
-    "@id": "_:g6771280",
+    "@id": "_:g6666640",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -10471,7 +9168,7 @@
     ]
   },
   {
-    "@id": "https://odyscene.com/temporary/a2d17582-080d-487b-abef-7cbf027d539b",
+    "@id": "https://odyscene.com/temporary/5fed8c84-b667-4c98-a254-7fa503cd6c13",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10489,7 +9186,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g6770980"
+        "@id": "_:g6666340"
       }
     ],
     "http://schema.org/image": [
@@ -10499,17 +9196,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6771020"
+        "@id": "_:g6666380"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g6771060"
+        "@id": "_:g6666420"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g6771080"
+        "@id": "_:g6666440"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -10541,13 +9238,13 @@
     ]
   },
   {
-    "@id": "_:g6785240",
+    "@id": "_:g6680480",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g6785260"
+        "@id": "_:g6680500"
       }
     ],
     "http://schema.org/name": [
@@ -10558,7 +9255,7 @@
     ]
   },
   {
-    "@id": "_:g6785260",
+    "@id": "_:g6680500",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -10594,7 +9291,7 @@
     ]
   },
   {
-    "@id": "_:g6785280",
+    "@id": "_:g6680520",
     "@type": [
       "http://schema.org/AggregateOffer"
     ],
@@ -10606,7 +9303,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6785300"
+        "@id": "_:g6680540"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -10640,7 +9337,7 @@
     ]
   },
   {
-    "@id": "_:g6785300",
+    "@id": "_:g6680540",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -10651,7 +9348,7 @@
     ]
   },
   {
-    "@id": "_:g6785320",
+    "@id": "_:g6680560",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -10663,7 +9360,7 @@
     ]
   },
   {
-    "@id": "_:g6785340",
+    "@id": "_:g6680580",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -10720,7 +9417,7 @@
     "article:modified_time": [
       {
         "@language": "fr-ca",
-        "@value": "2025-11-19T17:01:08+00:00"
+        "@value": "2025-11-20T17:01:07+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -10784,7 +9481,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T17:01:08+00:00"
+        "@value": "2025-11-20T17:01:07+00:00"
       }
     ],
     "http://schema.org/breadcrumb": [
@@ -10794,7 +9491,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g6785400"
+        "@id": "_:g6680660"
       }
     ],
     "http://schema.org/name": [
@@ -10851,7 +9548,7 @@
     ]
   },
   {
-    "@id": "_:g6785400",
+    "@id": "_:g6680660",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -10863,7 +9560,7 @@
     ]
   },
   {
-    "@id": "_:g6785520",
+    "@id": "_:g6680780",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -10875,7 +9572,7 @@
     ]
   },
   {
-    "@id": "_:g6785540",
+    "@id": "_:g6680800",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -10893,7 +9590,7 @@
     ]
   },
   {
-    "@id": "https://odyscene.com/temporary/fc6a52c9-685b-4aeb-8d98-7874af96fedc",
+    "@id": "https://odyscene.com/temporary/f6d0c4ad-e71c-4e46-a136-72504e39352c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10911,7 +9608,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g6785240"
+        "@id": "_:g6680480"
       }
     ],
     "http://schema.org/image": [
@@ -10921,17 +9618,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6785280"
+        "@id": "_:g6680520"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g6785320"
+        "@id": "_:g6680560"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g6785340"
+        "@id": "_:g6680580"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -10963,13 +9660,13 @@
     ]
   },
   {
-    "@id": "_:g6799380",
+    "@id": "_:g6694600",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g6799400"
+        "@id": "_:g6694620"
       }
     ],
     "http://schema.org/name": [
@@ -10980,7 +9677,7 @@
     ]
   },
   {
-    "@id": "_:g6799400",
+    "@id": "_:g6694620",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -11016,7 +9713,7 @@
     ]
   },
   {
-    "@id": "_:g6799420",
+    "@id": "_:g6694640",
     "@type": [
       "http://schema.org/AggregateOffer"
     ],
@@ -11028,7 +9725,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6799440"
+        "@id": "_:g6694660"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -11062,7 +9759,7 @@
     ]
   },
   {
-    "@id": "_:g6799440",
+    "@id": "_:g6694660",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -11073,7 +9770,7 @@
     ]
   },
   {
-    "@id": "_:g6799460",
+    "@id": "_:g6694680",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -11085,7 +9782,7 @@
     ]
   },
   {
-    "@id": "_:g6799480",
+    "@id": "_:g6694700",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -11142,7 +9839,7 @@
     "article:modified_time": [
       {
         "@language": "fr-ca",
-        "@value": "2025-11-19T17:01:06+00:00"
+        "@value": "2025-11-20T17:01:06+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -11206,7 +9903,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T17:01:06+00:00"
+        "@value": "2025-11-20T17:01:06+00:00"
       }
     ],
     "http://schema.org/breadcrumb": [
@@ -11216,7 +9913,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g6799520"
+        "@id": "_:g6694740"
       }
     ],
     "http://schema.org/name": [
@@ -11279,7 +9976,7 @@
     ]
   },
   {
-    "@id": "_:g6799520",
+    "@id": "_:g6694740",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -11291,7 +9988,7 @@
     ]
   },
   {
-    "@id": "_:g6799640",
+    "@id": "_:g6694860",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -11303,7 +10000,7 @@
     ]
   },
   {
-    "@id": "_:g6799660",
+    "@id": "_:g6694880",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -11321,7 +10018,7 @@
     ]
   },
   {
-    "@id": "https://odyscene.com/temporary/b0e73547-0d15-4c5a-9f6b-9f881fd111e5",
+    "@id": "https://odyscene.com/temporary/363a93fe-60d2-4992-8ce1-d41c20795e6b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -11339,7 +10036,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g6799380"
+        "@id": "_:g6694600"
       }
     ],
     "http://schema.org/image": [
@@ -11349,17 +10046,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6799420"
+        "@id": "_:g6694640"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g6799460"
+        "@id": "_:g6694680"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g6799480"
+        "@id": "_:g6694700"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -11391,13 +10088,13 @@
     ]
   },
   {
-    "@id": "_:g6813980",
+    "@id": "_:g6709080",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g6814000"
+        "@id": "_:g6709100"
       }
     ],
     "http://schema.org/name": [
@@ -11408,7 +10105,7 @@
     ]
   },
   {
-    "@id": "_:g6814000",
+    "@id": "_:g6709100",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -11444,7 +10141,7 @@
     ]
   },
   {
-    "@id": "_:g6814020",
+    "@id": "_:g6709120",
     "@type": [
       "http://schema.org/AggregateOffer"
     ],
@@ -11456,7 +10153,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6814040"
+        "@id": "_:g6709140"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -11490,7 +10187,7 @@
     ]
   },
   {
-    "@id": "_:g6814040",
+    "@id": "_:g6709140",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -11501,7 +10198,7 @@
     ]
   },
   {
-    "@id": "_:g6814060",
+    "@id": "_:g6709160",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -11513,7 +10210,7 @@
     ]
   },
   {
-    "@id": "_:g6814080",
+    "@id": "_:g6709180",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -11570,7 +10267,7 @@
     "article:modified_time": [
       {
         "@language": "fr-ca",
-        "@value": "2025-11-19T17:01:06+00:00"
+        "@value": "2025-11-20T17:01:06+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -11634,7 +10331,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T17:01:06+00:00"
+        "@value": "2025-11-20T17:01:06+00:00"
       }
     ],
     "http://schema.org/breadcrumb": [
@@ -11644,7 +10341,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g6814120"
+        "@id": "_:g6709220"
       }
     ],
     "http://schema.org/name": [
@@ -11707,7 +10404,7 @@
     ]
   },
   {
-    "@id": "_:g6814120",
+    "@id": "_:g6709220",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -11719,7 +10416,7 @@
     ]
   },
   {
-    "@id": "_:g6814240",
+    "@id": "_:g6709340",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -11731,7 +10428,7 @@
     ]
   },
   {
-    "@id": "_:g6814260",
+    "@id": "_:g6709360",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -11749,7 +10446,7 @@
     ]
   },
   {
-    "@id": "https://odyscene.com/temporary/00bf8a3d-e527-4e38-b252-059e948b2f1d",
+    "@id": "https://odyscene.com/temporary/7c19c629-20a5-4b04-ad2d-5193cb9a11e5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -11767,7 +10464,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g6813980"
+        "@id": "_:g6709080"
       }
     ],
     "http://schema.org/image": [
@@ -11777,17 +10474,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6814020"
+        "@id": "_:g6709120"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g6814060"
+        "@id": "_:g6709160"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g6814080"
+        "@id": "_:g6709180"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -11819,13 +10516,13 @@
     ]
   },
   {
-    "@id": "_:g6828160",
+    "@id": "_:g6723200",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g6828180"
+        "@id": "_:g6723220"
       }
     ],
     "http://schema.org/name": [
@@ -11836,7 +10533,7 @@
     ]
   },
   {
-    "@id": "_:g6828180",
+    "@id": "_:g6723220",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -11872,7 +10569,7 @@
     ]
   },
   {
-    "@id": "_:g6828200",
+    "@id": "_:g6723240",
     "@type": [
       "http://schema.org/AggregateOffer"
     ],
@@ -11884,7 +10581,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6828220"
+        "@id": "_:g6723260"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -11918,7 +10615,7 @@
     ]
   },
   {
-    "@id": "_:g6828220",
+    "@id": "_:g6723260",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -11929,7 +10626,7 @@
     ]
   },
   {
-    "@id": "_:g6828240",
+    "@id": "_:g6723280",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -11941,7 +10638,7 @@
     ]
   },
   {
-    "@id": "_:g6828260",
+    "@id": "_:g6723300",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -11998,7 +10695,7 @@
     "article:modified_time": [
       {
         "@language": "fr-ca",
-        "@value": "2025-11-19T17:01:08+00:00"
+        "@value": "2025-11-20T17:01:08+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -12062,7 +10759,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T17:01:08+00:00"
+        "@value": "2025-11-20T17:01:08+00:00"
       }
     ],
     "http://schema.org/breadcrumb": [
@@ -12072,7 +10769,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g6828320"
+        "@id": "_:g6723360"
       }
     ],
     "http://schema.org/name": [
@@ -12135,7 +10832,7 @@
     ]
   },
   {
-    "@id": "_:g6828320",
+    "@id": "_:g6723360",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -12147,7 +10844,7 @@
     ]
   },
   {
-    "@id": "_:g6828440",
+    "@id": "_:g6723480",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -12159,7 +10856,7 @@
     ]
   },
   {
-    "@id": "_:g6828460",
+    "@id": "_:g6723500",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -12177,7 +10874,7 @@
     ]
   },
   {
-    "@id": "https://odyscene.com/temporary/9d9dffa1-0e78-4251-85ed-76f8ed436a97",
+    "@id": "https://odyscene.com/temporary/ac099ac9-f70f-4eaf-a52b-bf8a47335b74",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -12195,7 +10892,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g6828160"
+        "@id": "_:g6723200"
       }
     ],
     "http://schema.org/image": [
@@ -12205,17 +10902,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6828200"
+        "@id": "_:g6723240"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g6828240"
+        "@id": "_:g6723280"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g6828260"
+        "@id": "_:g6723300"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -12247,13 +10944,13 @@
     ]
   },
   {
-    "@id": "_:g6842260",
+    "@id": "_:g6737280",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g6842280"
+        "@id": "_:g6737300"
       }
     ],
     "http://schema.org/name": [
@@ -12264,7 +10961,7 @@
     ]
   },
   {
-    "@id": "_:g6842280",
+    "@id": "_:g6737300",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -12300,7 +10997,7 @@
     ]
   },
   {
-    "@id": "_:g6842300",
+    "@id": "_:g6737320",
     "@type": [
       "http://schema.org/AggregateOffer"
     ],
@@ -12312,7 +11009,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6842320"
+        "@id": "_:g6737340"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -12346,7 +11043,7 @@
     ]
   },
   {
-    "@id": "_:g6842320",
+    "@id": "_:g6737340",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -12357,7 +11054,7 @@
     ]
   },
   {
-    "@id": "_:g6842340",
+    "@id": "_:g6737360",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -12369,7 +11066,7 @@
     ]
   },
   {
-    "@id": "_:g6842360",
+    "@id": "_:g6737380",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -12426,7 +11123,7 @@
     "article:modified_time": [
       {
         "@language": "fr-ca",
-        "@value": "2025-11-19T17:01:08+00:00"
+        "@value": "2025-11-20T17:01:07+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -12490,7 +11187,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-19T17:01:08+00:00"
+        "@value": "2025-11-20T17:01:07+00:00"
       }
     ],
     "http://schema.org/breadcrumb": [
@@ -12500,7 +11197,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g6842420"
+        "@id": "_:g6737440"
       }
     ],
     "http://schema.org/name": [
@@ -12557,7 +11254,7 @@
     ]
   },
   {
-    "@id": "_:g6842420",
+    "@id": "_:g6737440",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -12569,7 +11266,7 @@
     ]
   },
   {
-    "@id": "_:g6842540",
+    "@id": "_:g6737560",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -12581,7 +11278,7 @@
     ]
   },
   {
-    "@id": "_:g6842560",
+    "@id": "_:g6737580",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -12599,7 +11296,7 @@
     ]
   },
   {
-    "@id": "https://odyscene.com/temporary/6b92bcd3-9095-4eee-b128-915a0962030d",
+    "@id": "https://odyscene.com/temporary/bd114f26-ebdd-4635-9ddd-4e9d8b2ead95",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -12617,7 +11314,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g6842260"
+        "@id": "_:g6737280"
       }
     ],
     "http://schema.org/image": [
@@ -12627,17 +11324,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g6842300"
+        "@id": "_:g6737320"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g6842340"
+        "@id": "_:g6737360"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g6842360"
+        "@id": "_:g6737380"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -12655,6 +11352,856 @@
       {
         "@language": "fr",
         "@value": "PLUMITIF discret Depuis des siècles, depuis de nombreuses années, sur les scènes des cabarets et des théâtres, Plume Latraverse a traîné sa carcasse, sa guitare et ses chansons… Entraîné dans une mission ménestrelle sans issue, missionnaire autoroutier et souterrain à..."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6751400",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g6751420"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Cabaret BMO"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6751420",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "57, rue Turgeon"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Sainte-Thérèse"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J7E 3H4"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6751440",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-03T11:00:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g6751460"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "9.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "10.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6751460",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://odyscene.tuxedobillet.com/main/cine-groulx-film-surprise"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6751480",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g6751500",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://odyscene.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Odyscène"
+      }
+    ]
+  },
+  {
+    "@id": "https://odyscene.com/programmation/cine-groulx-film-surprise/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Ciné-Groulx : MILLE SECRETS MILLE DANGERS - Odyscène"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "MILLE SECRETS MILLE DANGERS de Philippe Falardeau Canada (Québec). 2025. 119 min. (G) Avec Neil Elias, Hassan Mahbouda, Rose-Marie Perreault.  Alain se marie avec Virginie. La journée sera grandiose, mais Alain a mal au ventre. Une colère sourde gronde en lui. Il craint les retrouvailles de ses parents dont le divorce orageux a troublé son enfance. Son cousin Édouard, véritable frère, a promis aux mariés de les parader dans une Mustang décapotable. Sauf que le jour du mariage, Édouard a la tête ailleurs. Il fomente un projet nébuleux et veut absolument en parler à Alain. « Avec MILLE SECRETS MILLE DANGERS, Philippe Falardeau adapte avec finesse, humanité et drôlerie le roman à succès d’Alain Farah. » (François Lévesque, Le Devoir)"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://odyscene.com/programmation/cine-groulx-film-surprise/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Odyscène"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2025-11-20T17:01:06+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://odyscene.com/wp-content/uploads/2025/09/mille-secrets-mille-dangers-1.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "951"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "652"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://odyscene.com/programmation/cine-groulx-film-surprise/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://odyscene.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://odyscene.com/programmation/cine-groulx-film-surprise/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://odyscene.com/programmation/cine-groulx-film-surprise/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://odyscene.com/wp-content/uploads/2025/09/mille-secrets-mille-dangers-1.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-02T16:50:17+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T17:01:06+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://odyscene.com/programmation/cine-groulx-film-surprise/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g6751540"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ciné-Groulx : MILLE SECRETS MILLE DANGERS - Odyscène"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "MILLE SECRETS MILLE DANGERS de Philippe Falardeau Canada (Québec). 2025. 119 min. (G) Avec Neil Elias, Hassan Mahbouda, Rose-Marie Perreault. Alain se marie avec Virginie. La journée sera grandiose, mais Alain a mal au ventre. Une colère sourde gronde en lui. Il craint les retrouvailles de ses parents dont le divorce orageux a troublé son enfance. Son cousin Édouard, véritable frère, a promis aux mariés de les parader dans une Mustang décapotable. Sauf que le jour du mariage, Édouard a la tête ailleurs. Il fomente un projet nébuleux et veut absolument en parler à Alain. « Avec MILLE SECRETS MILLE DANGERS, Philippe Falardeau adapte avec finesse, humanité et drôlerie le roman à succès d’Alain Farah. » (François Lévesque, Le Devoir)"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://odyscene.com/programmation/cine-groulx-film-surprise/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://odyscene.com/wp-content/uploads/2025/09/mille-secrets-mille-dangers-1.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://odyscene.com/wp-content/uploads/2025/09/mille-secrets-mille-dangers-1.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "951"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "652"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6751540",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://odyscene.com/programmation/cine-groulx-film-surprise/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6751660",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://odyscene.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6751680",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://odyscene.com/temporary/2b50dc96-af36-446f-bf85-7393162008e6",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-03T19:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-03T19:00:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g6751400"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://odyscene.com/wp-content/uploads/2025/09/mille-secrets-mille-dangers-1.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g6751440"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g6751480"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g6751500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://odyscene.com/programmation/cine-groulx-film-surprise/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ciné-Groulx : MILLE SECRETS MILLE DANGERS"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "MILLE SECRETS MILLE DANGERS de Philippe Falardeau Canada (Québec). 2025. 119 min. (G) Avec Neil Elias, Hassan Mahbouda, Rose-Marie Perreault. Alain se marie avec Virginie. La journée sera grandiose, mais Alain a mal au ventre. Une colère sourde gronde en..."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6765200",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g6765220"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Cabaret BMO"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6765220",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "57, rue Turgeon"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Sainte-Thérèse"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J7E 3H4"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6765240",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-04T12:00:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g6765260"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "35.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "27.00"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "fr",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6765260",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://odyscene.tuxedobillet.com/main/jf-otis-en-rodage"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6765280",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g6765300",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://odyscene.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Odyscène"
+      }
+    ]
+  },
+  {
+    "@id": "https://odyscene.com/programmation/jf-otis-2/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "JF Otis - Odyscène"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "JF est un gars de Rimouski qui prend d’excellentes mauvaises décisions. Bachelier en administration des affaires devenu humoriste, il dit que ce fut une décision qui l’a rendu heureux mais qui a rendu ses parents… nerveux. La meilleure décision qu’il a prise selon lui après avoir commencé à faire des vidéos sur internet et s’acheter un lave vaisselle. L'improvisation est un élément important de son stand-up. Chaque représentation devient alors unique, mais toujours aussi efficace. Lorsqu'il est sur scène, on a envie d’écouter et de rire avec ce « gros nounours ». L’assistance est placée dans une ambiance festive, comme si l’on était tous autour d’un feu de camp en compagnie d’un vieil ami racontant des anecdotes sans queue ni tête à nous en faire renverser notre verre ! En entendant ses histoires vous allez être découragés ou encore vous allez le juger mais une chose est sûre, vous allez rire."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://odyscene.com/programmation/jf-otis-2/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Odyscène"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2025-11-20T17:01:06+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://odyscene.com/wp-content/uploads/2025/03/jf-otis-site-web.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "951"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "652"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://odyscene.com/programmation/jf-otis-2/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://odyscene.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://odyscene.com/programmation/jf-otis-2/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://odyscene.com/programmation/jf-otis-2/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://odyscene.com/wp-content/uploads/2025/03/jf-otis-site-web.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-31T20:18:55+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-20T17:01:06+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://odyscene.com/programmation/jf-otis-2/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g6765340"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "JF Otis - Odyscène"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "JF est un gars de Rimouski qui prend d’excellentes mauvaises décisions. Bachelier en administration des affaires devenu humoriste, il dit que ce fut une décision qui l’a rendu heureux mais qui a rendu ses parents… nerveux. La meilleure décision qu’il a prise selon lui après avoir commencé à faire des vidéos sur internet et s’acheter un lave vaisselle. L'improvisation est un élément important de son stand-up. Chaque représentation devient alors unique, mais toujours aussi efficace. Lorsqu'il est sur scène, on a envie d’écouter et de rire avec ce « gros nounours ». L’assistance est placée dans une ambiance festive, comme si l’on était tous autour d’un feu de camp en compagnie d’un vieil ami racontant des anecdotes sans queue ni tête à nous en faire renverser notre verre ! En entendant ses histoires vous allez être découragés ou encore vous allez le juger mais une chose est sûre, vous allez rire."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://odyscene.com/programmation/jf-otis-2/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://odyscene.com/wp-content/uploads/2025/03/jf-otis-site-web.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://odyscene.com/wp-content/uploads/2025/03/jf-otis-site-web.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "951"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "652"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "Spectacle de JF Otis à Sainte-Thérèse le 5 décembre 2025"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6765340",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://odyscene.com/programmation/jf-otis-2/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6765460",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://odyscene.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g6765480",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://odyscene.com/temporary/cd0aa6a8-8862-4e1b-b08f-e4609d35a290",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-05T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-05T20:00:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g6765200"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://odyscene.com/wp-content/uploads/2025/03/jf-otis-site-web.png"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g6765240"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g6765280"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g6765300"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://odyscene.com/programmation/jf-otis-2/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "JF Otis"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "JF est un gars de Rimouski qui prend d’excellentes mauvaises décisions. Bachelier en administration des affaires devenu humoriste, il dit que ce fut une décision qui l’a rendu heureux mais qui a rendu ses parents… nerveux. La meilleure décision qu’il..."
       }
     ],
     "http://schema.org/eventAttendanceMode": [
