@@ -1,5 +1,354 @@
 [
   {
+    "@id": "https://mcwaterloo.com/",
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://mcwaterloo.com/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Maison de la culture de Waterloo"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Accueil | Salle de spectacle - Cantons-de-l'Est"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "La Maison de la Culture de Waterloo est une salle de spectacle qui propose des performances musicales, des soirées d’humour et des pièces de théâtre."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://mcwaterloo.com/wp-content/uploads/2023/05/MCW_SEO-1.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:secure_url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://mcwaterloo.com/wp-content/uploads/2023/05/MCW_SEO-1.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "2400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1260"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": "Lettres MCW avec photos de Katherine Levac, Dominique Fils-Aimé et Aswell"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://mcwaterloo.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://mcwaterloo.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464920",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "fr",
+        "@value": "customer support"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.mcwaterloo.com/temporary/47b7bf3d-4aa5-424f-b99d-391a93785a72",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://mcwaterloo.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://mcwaterloo.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Maison de la culture de Waterloo"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Maison de la culture de Waterloo"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://mcwaterloo.com",
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://mcwaterloo.com/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Maison de la culture de Waterloo"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Accueil | Salle de spectacle - Cantons-de-l'Est"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "La Maison de la Culture de Waterloo est une salle de spectacle qui propose des performances musicales, des soirées d’humour et des pièces de théâtre."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://mcwaterloo.com/wp-content/uploads/2023/05/MCW_SEO-1.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:secure_url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://mcwaterloo.com/wp-content/uploads/2023/05/MCW_SEO-1.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "2400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1260"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "fr-fr",
+        "@value": "Lettres MCW avec photos de Katherine Levac, Dominique Fils-Aimé et Aswell"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://mcwaterloo.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.mcwaterloo.com/temporary/e07aace4-34a9-41a4-8c9f-8d37a1e66dcc",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://mcwaterloo.com"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://mcwaterloo.com/wp-content/uploads/2023/05/MCW_Logo_Complet_RVB.png"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/MaisondelaCulturedeWaterloo"
+      },
+      {
+        "@id": "https://www.instagram.com/maisondelaculturedewaterloo/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://mcwaterloo.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Maison de la culture de Waterloo"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Maison de la culture de Waterloo"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Maison de la culture de Waterloo"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "_:g464920"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515180",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "fr",
+        "@value": "customer support"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.mcwaterloo.com/temporary/65caa734-bc5c-4a6d-af60-3b1f4009a0b3",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://mcwaterloo.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://mcwaterloo.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Maison de la culture de Waterloo"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Maison de la culture de Waterloo"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.mcwaterloo.com/temporary/3fa5592a-4a1b-4fb1-893a-9207956da08f",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://mcwaterloo.com"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://mcwaterloo.com/wp-content/uploads/2023/05/MCW_Logo_Complet_RVB.png"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/MaisondelaCulturedeWaterloo"
+      },
+      {
+        "@id": "https://www.instagram.com/maisondelaculturedewaterloo/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://mcwaterloo.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Maison de la culture de Waterloo"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "Maison de la culture de Waterloo"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Maison de la culture de Waterloo"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "_:g515180"
+      }
+    ]
+  },
+  {
     "@id": "https://www.mcwaterloo.com",
     "http://ogp.me/ns#url": [
       {
@@ -79,7 +428,7 @@
     ]
   },
   {
-    "@id": "_:g460800",
+    "@id": "_:g522060",
     "@type": [
       "http://schema.org/ContactPoint"
     ],
@@ -91,7 +440,7 @@
     ]
   },
   {
-    "@id": "https://www.mcwaterloo.com/temporary/1e08cd7c-46a6-4c94-ac83-a0fc4fb74d14",
+    "@id": "https://www.mcwaterloo.com/temporary/a2d3b76a-6fca-47e0-8855-50dad085f790",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -125,7 +474,7 @@
     ]
   },
   {
-    "@id": "https://www.mcwaterloo.com/temporary/ad100b3d-57cc-4373-bf8a-c1c39cd04dc9",
+    "@id": "https://www.mcwaterloo.com/temporary/7f647792-72ee-4af6-92cc-400ea2f61339",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -172,7 +521,7 @@
     ],
     "http://schema.org/contactPoint": [
       {
-        "@id": "_:g460800"
+        "@id": "_:g522060"
       }
     ]
   }
