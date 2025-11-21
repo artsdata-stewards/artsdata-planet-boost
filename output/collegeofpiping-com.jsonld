@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://www.collegeofpiping.com",
+    "@id": "https://collegeofpiping.com/college-of-piping-board-members/",
     "https://api.w.org/": [
       {
         "@id": "https://collegeofpiping.com/wp-json/"
@@ -9,30 +9,55 @@
     "http://ogp.me/ns#type": [
       {
         "@language": "en-us",
-        "@value": "website"
+        "@value": "article"
       }
     ],
     "http://ogp.me/ns#url": [
       {
         "@language": "en-us",
-        "@value": "https://collegeofpiping.com/"
+        "@value": "https://collegeofpiping.com/college-of-piping-board-members/"
       }
     ],
     "http://ogp.me/ns#title": [
       {
         "@language": "en-us",
-        "@value": "Landing Page | The College of Piping And Celtic Performing Arts of Canada"
+        "@value": "College of Piping Board Members | The College of Piping And Celtic Performing Arts of Canada"
       }
     ],
     "http://ogp.me/ns#description": [
       {
         "@language": "en-us",
-        "@value": "The College of Piping and Celtic Performing Arts of Canada, located in Summerside, Prince Edward Island, is dedicated to preserving Celtic music and culture ..."
+        "@value": "Kevin Dyment - ChairKevin MacAdam - Vice ChairJamie MacKay - Past ChairKristen MacDonald - Treasurer/SecretaryMegan ButlerRowan CaseleyJonathon GradyPeter M ..."
       }
     ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+    "http://ogp.me/ns#image": [
       {
-        "@id": "https://www.collegeofpiping.com"
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2024/12/AdobeStock_550140158.jpeg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "6048"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "4024"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-02-25T11:36:08"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "petergallant"
       }
     ]
   },
@@ -71,7 +96,100 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g461220"
+        "@id": "_:g461260"
+      },
+      {
+        "@id": "_:g469400"
+      },
+      {
+        "@id": "_:g477680"
+      },
+      {
+        "@id": "_:g484100"
+      },
+      {
+        "@id": "_:g491740"
+      },
+      {
+        "@id": "_:g499960"
+      },
+      {
+        "@id": "_:g508160"
+      },
+      {
+        "@id": "_:g516360"
+      },
+      {
+        "@id": "_:g524420"
+      },
+      {
+        "@id": "_:g532660"
+      },
+      {
+        "@id": "_:g540900"
+      },
+      {
+        "@id": "_:g549140"
+      },
+      {
+        "@id": "_:g557320"
+      },
+      {
+        "@id": "_:g565700"
+      },
+      {
+        "@id": "_:g574000"
+      },
+      {
+        "@id": "_:g582180"
+      },
+      {
+        "@id": "_:g590360"
+      },
+      {
+        "@id": "_:g598340"
+      },
+      {
+        "@id": "_:g606460"
+      },
+      {
+        "@id": "_:g614640"
+      },
+      {
+        "@id": "_:g624180"
+      },
+      {
+        "@id": "_:g632420"
+      },
+      {
+        "@id": "_:g641000"
+      },
+      {
+        "@id": "_:g649200"
+      },
+      {
+        "@id": "_:g657380"
+      },
+      {
+        "@id": "_:g665960"
+      },
+      {
+        "@id": "_:g674180"
+      },
+      {
+        "@id": "_:g682440"
+      },
+      {
+        "@id": "_:g690660"
+      },
+      {
+        "@id": "_:g699760"
+      },
+      {
+        "@id": "_:g707840"
+      },
+      {
+        "@id": "_:g716380"
       }
     ],
     "http://schema.org/name": [
@@ -88,7 +206,7 @@
     ]
   },
   {
-    "@id": "_:g461220",
+    "@id": "_:g461260",
     "@type": [
       "http://schema.org/SearchAction"
     ],
@@ -106,6 +224,764 @@
     ]
   },
   {
+    "@id": "_:g469400",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477680",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g484100",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g491740",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g499960",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g508160",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516360",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524420",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g532660",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g540900",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g549140",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g557320",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g565700",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g574000",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g582180",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g590360",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g598340",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g606460",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g614640",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g624180",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g632420",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g641000",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g649200",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g657380",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g665960",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g674180",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g682440",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g690660",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g699760",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g707840",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g716380",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://collegeofpiping.com/search/{search_term_string}/"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/author/petergallant/#schema-author",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/author/petergallant/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Peter Gallant"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/college-of-piping-board-members/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/college-of-piping-board-members/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/college-of-piping-board-members/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2024/12/AdobeStock_550140158.jpeg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "4024"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "6048"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Symbols of Scotland - wollen tartan textile and handmade musical instrument bagpipes, close up"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/d25c9773-7840-4c31-9a4e-7e41f2893c4d",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/college-of-piping-board-members/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/petergallant/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-24T13:51:31"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-25T11:36:08"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/college-of-piping-board-members/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2024/12/AdobeStock_550140158.jpeg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/college-of-piping-board-members/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "College of Piping Board Members | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Kevin Dyment - ChairKevin MacAdam - Vice ChairJamie MacKay - Past ChairKristen MacDonald - Treasurer/SecretaryMegan ButlerRowan CaseleyJonathon GradyPeter M ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "College of Piping Board Members"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/privacy-policy",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/privacy-policy/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Privacy Policy | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "The College of Piping and the Scott MacAulay Performing Arts Centre (referred to as 'us', 'we', or 'our') are committed to pro ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2025/01/AdobeStock_194166190.jpeg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "4272"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "2848"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-01-03T13:26:27"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.collegeofpiping.com/privacy-policy"
+      }
+    ]
+  },
+  {
     "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author",
     "@type": [
       "http://schema.org/Person"
@@ -119,6 +995,216 @@
       {
         "@language": "en",
         "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/privacy-policy/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/privacy-policy/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/privacy-policy/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/privacy-policy/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Privacy Policy | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "The College of Piping and the Scott MacAulay Performing Arts Centre (referred to as 'us', 'we', or 'our') are committed to pro ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2025/01/AdobeStock_194166190.jpeg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "4272"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "2848"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-01-03T13:26:27"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/privacy-policy/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2025/01/AdobeStock_194166190.jpeg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2848"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "4272"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Privacy Policy word on the torn paper."
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/ebeeb35e-f847-450b-9000-7b8fa9b84c0d",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/privacy-policy/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-04T09:53:16"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-03T13:26:27"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/privacy-policy/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2025/01/AdobeStock_194166190.jpeg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.collegeofpiping.com/privacy-policy"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Privacy Policy | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "The College of Piping and the Scott MacAulay Performing Arts Centre (referred to as &#039;us&#039;, &#039;we&#039;, or &#039;our&#039;) are committed to pro ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Privacy Policy"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Landing Page | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "The College of Piping and Celtic Performing Arts of Canada, located in Summerside, Prince Edward Island, is dedicated to preserving Celtic music and culture ..."
       }
     ]
   },
@@ -144,7 +1230,4725 @@
     ]
   },
   {
-    "@id": "https://www.collegeofpiping.com/temporary/4fd6324e-db24-400b-b51a-6a820a5599bf",
+    "@id": "https://www.collegeofpiping.com/temporary/3eaf4a09-e494-425d-847f-de4342ce57fe",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-23T08:01:27"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-30T19:24:21"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Landing Page | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "The College of Piping and Celtic Performing Arts of Canada, located in Summerside, Prince Edward Island, is dedicated to preserving Celtic music and culture ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Landing Page"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/services/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/services/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Services | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Divi Builder Page Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tincidunt mollis ante non volutpat. Nam consequat diam nec leo rutrum t ..."
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2017-02-22T08:03:25"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Anonymous"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/author/#schema-author",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/author/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/services/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/services/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/5f18a70a-7fc6-4fb5-9a72-ecde5b00be05",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/services/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-04T13:08:41"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2017-02-22T08:03:25"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/services/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Services | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Divi Builder Page Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tincidunt mollis ante non volutpat. Nam consequat diam nec leo rutrum t ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Services"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/thank-you/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/thank-you/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Thank you! | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Thank You for Your Support Thank you for choosing to support the College of Piping. Your donation helps us continue providing quality education, exceptional ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2019/08/thankyou-e1583266702851.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "792"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "455"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2019-08-07T23:56:15"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/thank-you/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/thank-you/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/thank-you/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2019/08/thankyou-e1583266702851.png"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "455"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "792"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/6293cb4f-35d5-4638-886b-8e5c57d2264a",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/thank-you/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-03T19:34:51"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-08-07T23:56:15"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/thank-you/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2019/08/thankyou-e1583266702851.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/thank-you/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Thank you! | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Thank You for Your Support Thank you for choosing to support the College of Piping. Your donation helps us continue providing quality education, exceptional ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Thank you!"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/bc58f0df-10f9-407c-87c0-0e50e64dabec",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/privacy-policy/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-04T09:53:16"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-03T13:26:27"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/privacy-policy/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2025/01/AdobeStock_194166190.jpeg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/privacy-policy/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Privacy Policy | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "The College of Piping and the Scott MacAulay Performing Arts Centre (referred to as &#039;us&#039;, &#039;we&#039;, or &#039;our&#039;) are committed to pro ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Privacy Policy"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/summer-2024-at-scot-macaulay-performing-arts-centre/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/summer-2024-at-scot-macaulay-performing-arts-centre/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Summer 2024 Video | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Summer of 2024"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2023/10/MacAulay_Centre_CollegofPiping_Jan2023-4.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1125"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2023-10-02T12:57:58"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/summer-2024-at-scot-macaulay-performing-arts-centre/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/summer-2024-at-scot-macaulay-performing-arts-centre/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/summer-2024-at-scot-macaulay-performing-arts-centre/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2023/10/MacAulay_Centre_CollegofPiping_Jan2023-4.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1125"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1500"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/8da659ba-56eb-4c9d-827f-e51d193dbfbb",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/summer-2024-at-scot-macaulay-performing-arts-centre/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-05T17:21:54"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-02T12:57:58"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/summer-2024-at-scot-macaulay-performing-arts-centre/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2023/10/MacAulay_Centre_CollegofPiping_Jan2023-4.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/summer-2024-at-scot-macaulay-performing-arts-centre/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Summer 2024 Video | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Summer of 2024"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Summer 2024 Video"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/giftshop/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/giftshop/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Gift Shop - Online Store | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Thank you for your continued support over many wonderful years."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2020/06/IMG_3794-e1592504794157.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "3447"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "2983"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2020-06-16T11:49:35"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/giftshop/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/giftshop/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/giftshop/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2020/06/IMG_3794-e1592504794157.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2983"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3447"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/3451cb0a-edfd-4494-aec6-a512c97f72bd",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/giftshop/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-05T17:24:55"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-06-16T11:49:35"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/giftshop/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2020/06/IMG_3794-e1592504794157.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/giftshop/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Gift Shop - Online Store | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Thank you for your continued support over many wonderful years."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Gift Shop &#8211; Online Store"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/become-a-student/international/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/become-a-student/international/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "International | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "International Students Pipers, drummers, and dancers from around the world have been coming to The College of Piping since its opening as part of the intern ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2020/02/IMG_3969.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "792"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "528"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2019-06-21T13:34:40"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/become-a-student/international/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/become-a-student/international/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/become-a-student/international/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2020/02/IMG_3969.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "528"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "792"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/66cacb3c-28bd-4cb3-b3f0-b01149999341",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/become-a-student/international/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-05T18:36:19"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-06-21T13:34:40"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/become-a-student/international/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2020/02/IMG_3969.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/become-a-student/international/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "International | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "International Students Pipers, drummers, and dancers from around the world have been coming to The College of Piping since its opening as part of the intern ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "International"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/become-a-student/other-educational-programs/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/become-a-student/other-educational-programs/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Other Educational Programs | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Other Programs Summer Studies Our summer programs run weekly from July through the end of August. Pipers, drummers, and dancers can sign up for as many week ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2019/07/Education_Become_student.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1280"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "741"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2019-06-21T13:36:39"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/become-a-student/other-educational-programs/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/become-a-student/other-educational-programs/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/become-a-student/other-educational-programs/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2019/07/Education_Become_student.png"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "741"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1280"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/f875f5ad-d1ad-443a-afb3-db1193b51ff4",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/become-a-student/other-educational-programs/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-05T18:36:23"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-06-21T13:36:39"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/become-a-student/other-educational-programs/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2019/07/Education_Become_student.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/become-a-student/other-educational-programs/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Other Educational Programs | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Other Programs Summer Studies Our summer programs run weekly from July through the end of August. Pipers, drummers, and dancers can sign up for as many week ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Other Educational Programs"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/become-a-student/upei-degree/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/become-a-student/upei-degree/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "UPEI Degree | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "UPEI Music Degree UPEI Music Degree; Certificate in Highland Piping The Certificate in Highland Bagpipes is designed for students who wish to specialize in ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2025/01/656fb41203d63bc60f2162d5_1-UPEI_286_SE.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "2400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "2000"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2019-06-21T13:36:16"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/become-a-student/upei-degree/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/become-a-student/upei-degree/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/become-a-student/upei-degree/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2025/01/656fb41203d63bc60f2162d5_1-UPEI_286_SE.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2000"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2400"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/c78adf6e-67ba-46a3-951b-d32f106e92c1",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/become-a-student/upei-degree/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-05T18:36:27"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-06-21T13:36:16"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/become-a-student/upei-degree/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2025/01/656fb41203d63bc60f2162d5_1-UPEI_286_SE.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/become-a-student/upei-degree/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "UPEI Degree | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "UPEI Music Degree UPEI Music Degree; Certificate in Highland Piping The Certificate in Highland Bagpipes is designed for students who wish to specialize in  ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "UPEI Degree"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/band/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/band/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Pipe Band | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Pipe Band History History The College of Piping Pipe Band’s history traces back to the Summerside Presbyterian Pipe Band, which existed from 1963 to 1969 be ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2020/01/bandBanner2.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "860"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "574"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2019-06-21T12:29:46"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/band/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/band/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/band/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2020/01/bandBanner2.png"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "574"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "860"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/2ba4e2fd-fd77-4a7c-a9cf-1e3c8a204d80",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/band/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-14T18:26:45"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-06-21T12:29:46"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/band/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2020/01/bandBanner2.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/band/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Pipe Band | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Pipe Band History History The College of Piping Pipe Band’s history traces back to the Summerside Presbyterian Pipe Band, which existed from 1963 to 1969 be ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Pipe Band"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/become-a-student/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/become-a-student/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Become a Student | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "The College offers regular curricula in the Great Highland Bagpipe, Pipe Band Drumming, Highland Dance, Step Dance, Fiddling, and, this year, Theatre and Ar ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2019/07/Become_student.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "860"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "573"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2019-06-21T12:35:42"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/become-a-student/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/become-a-student/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/become-a-student/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2019/07/Become_student.png"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "573"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "860"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/a88cbc5d-007a-4dd2-acaf-81ce7d07a8b9",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/become-a-student/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-05T17:18:55"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-06-21T12:35:42"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/become-a-student/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2019/07/Become_student.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/become-a-student/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Become a Student | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "The College offers regular curricula in the Great Highland Bagpipe, Pipe Band Drumming, Highland Dance, Step Dance, Fiddling, and, this year, Theatre and Ar ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Become a Student"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/learn",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/learn/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Learn | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Education – 2025/2026 Registration The College offers regular curricula in: Great Highland Bagpipe Snare Drumming Intro to Dance Acrobatic Dance Ballet Jazz ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2019/07/Education_learn.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "792"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "527"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2019-06-21T13:05:37"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.collegeofpiping.com/learn"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/learn/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/learn/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/learn/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/learn/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Learn | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Education – 2025/2026 Registration The College offers regular curricula in: Great Highland Bagpipe Snare Drumming Intro to Dance Acrobatic Dance Ballet Jazz ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2019/07/Education_learn.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "792"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "527"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2019-06-21T13:05:37"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/learn/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2019/07/Education_learn.png"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "527"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "792"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/97186319-5382-413a-bbdf-4ff197a868cd",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/learn/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-15T17:06:11"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-06-21T13:05:37"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/learn/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2019/07/Education_learn.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.collegeofpiping.com/learn"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Learn | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Education – 2025/2026 Registration The College offers regular curricula in: Great Highland Bagpipe Snare Drumming Intro to Dance Acrobatic Dance Ballet Jazz ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Learn"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/become-a-student/high-school-credits/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/become-a-student/high-school-credits/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "High School Credits | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "High School Credits High School Graduation Credits from The College of Piping and Celtic Performing Arts of Canada The College of Piping programs can count ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2021/04/pipe-bags.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "960"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "720"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2019-07-02T13:40:47"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/become-a-student/high-school-credits/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/become-a-student/high-school-credits/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/become-a-student/high-school-credits/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2021/04/pipe-bags.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "720"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "960"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/8148ba2a-18c3-4641-ac1a-acddac32a25f",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/become-a-student/high-school-credits/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-14T13:37:46"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-07-02T13:40:47"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/become-a-student/high-school-credits/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2021/04/pipe-bags.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/become-a-student/high-school-credits/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "High School Credits | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "High School Credits High School Graduation Credits from The College of Piping and Celtic Performing Arts of Canada The College of Piping programs can count  ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "High School Credits"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/hire/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/hire/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Hire a Performer | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Our talented professionals are available to make sure events are extra special! Whether you are looking for pipers, drummers, dancers or a whole band – we h ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2020/11/IMG-4254-e1605034853839.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1439"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1047"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2019-06-21T13:13:20"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/hire/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/hire/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/hire/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2020/11/IMG-4254-e1605034853839.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1047"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1439"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/f2524fed-a8f4-4c2e-93f7-8efb26c595f7",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/hire/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-21T14:29:57"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-06-21T13:13:20"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/hire/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2020/11/IMG-4254-e1605034853839.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/hire/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Hire a Performer | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Our talented professionals are available to make sure events are extra special! Whether you are looking for pipers, drummers, dancers or a whole band – we h ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Hire a Performer"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/dance-class-registration/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/dance-class-registration/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Dance Class Registration | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2019/07/HighlandDance-1.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "792"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "528"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-02-28T08:53:50"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/dance-class-registration/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/dance-class-registration/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/dance-class-registration/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2019/07/HighlandDance-1.png"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "528"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "792"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/85ae4986-5e08-460e-ad05-e7a9f87db902",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/dance-class-registration/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-28T10:21:27"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-28T08:53:50"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/dance-class-registration/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2019/07/HighlandDance-1.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/dance-class-registration/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Dance Class Registration | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Dance Class Registration"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/online/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/online/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "The College of Piping Mandate | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "MANDATE Based in Summerside, Prince Edward Island, The College of Piping and Celtic Performing Arts of Canada has developed a world-class reputation as an i ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2021/06/step.jpeg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "2048"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1365"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2019-06-21T13:32:20"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/online/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/online/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/online/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2021/06/step.jpeg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1365"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2048"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/03c1b002-938d-410c-8666-e2cdd2c1ad04",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/online/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-13T07:51:37"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-06-21T13:32:20"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/online/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2021/06/step.jpeg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/online/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "The College of Piping Mandate | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "MANDATE Based in Summerside, Prince Edward Island, The College of Piping and Celtic Performing Arts of Canada has developed a world-class reputation as an i ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The College of Piping Mandate"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/history/founding-directors/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/history/founding-directors/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Founding Director | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "With profound sadness, The College of Piping & Celtic Performing Arts of Canada announced the passing of its Director, Scott MacAulay, on September 10, ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2025/01/fab0907fb49b1e0929a785b280e2a029.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1280"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "641"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2019-06-21T12:58:19"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/history/founding-directors/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/history/founding-directors/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/history/founding-directors/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2025/01/fab0907fb49b1e0929a785b280e2a029.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "641"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1280"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/cf910b2e-0c70-449c-a805-ab1c3543f5c8",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/history/founding-directors/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-13T10:50:47"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-06-21T12:58:19"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/history/founding-directors/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2025/01/fab0907fb49b1e0929a785b280e2a029.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/history/founding-directors/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Founding Director | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "With profound sadness, The College of Piping &amp; Celtic Performing Arts of Canada announced the passing of its Director, Scott MacAulay, on September 10,  ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Founding Director"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/faculty-staff/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/faculty-staff/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Faculty & Staff | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "See James' BIO See Peter's BIO See Kylie's BIO See Chris' BIO See Samantha M's BIO See Samantha L's BIO SEE LAURA'S BIO S ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2024/12/COP-1.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "2560"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "2064"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2024-12-31T17:35:53"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/faculty-staff/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/faculty-staff/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/faculty-staff/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2024/12/COP-1.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2064"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/b96b8660-4f70-4a1b-8dc7-e407ed535f72",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/faculty-staff/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-03T11:46:52"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-31T17:35:53"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/faculty-staff/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2024/12/COP-1.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/faculty-staff/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Faculty &amp; Staff | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "See James&#039; BIO See Peter&#039;s BIO See Kylie&#039;s BIO See Chris&#039; BIO See Samantha M&#039;s BIO See Samantha L&#039;s BIO SEE LAURA&#039;S BIO S ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Faculty &amp; Staff"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/the-atlantic-canada-piobaireachd-challenge/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/the-atlantic-canada-piobaireachd-challenge/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "The Atlantic Canada Piobaireachd Challenge | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "2025 Atlantic Canada Piobaireachd Challenge Saturday, April 26th, 2025 Hosted and organized by The College of Piping and Celtic Performing Arts of Canada in ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2021/04/pipe-bags.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "960"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "720"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2021-04-15T15:09:13"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/the-atlantic-canada-piobaireachd-challenge/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/the-atlantic-canada-piobaireachd-challenge/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/the-atlantic-canada-piobaireachd-challenge/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2021/04/pipe-bags.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "720"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "960"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/47b0df9e-90a0-49ba-98e4-7db91c1e2b16",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/the-atlantic-canada-piobaireachd-challenge/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-23T08:35:49"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-04-15T15:09:13"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/the-atlantic-canada-piobaireachd-challenge/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2021/04/pipe-bags.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/the-atlantic-canada-piobaireachd-challenge/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "The Atlantic Canada Piobaireachd Challenge | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "2025 Atlantic Canada Piobaireachd Challenge Saturday, April 26th, 2025 Hosted and organized by The College of Piping and Celtic Performing Arts of Canada in ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Atlantic Canada Piobaireachd Challenge"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/scholarships-awards/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/scholarships-awards/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Scholarships & Awards | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "All disciplines offer awards to recognize excellence, encourage further study and development, and assist parents with tuition costs. For more information a ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2019/07/Education_Scholarship.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "2403"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1873"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2019-06-21T13:09:25"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/scholarships-awards/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/scholarships-awards/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/scholarships-awards/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2019/07/Education_Scholarship.png"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1873"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2403"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/b0f095ab-e492-4ab1-84f2-bf2b4b2ce79e",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/scholarships-awards/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-30T14:46:03"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-06-21T13:09:25"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/scholarships-awards/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2019/07/Education_Scholarship.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/scholarships-awards/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Scholarships & Awards | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "All disciplines offer awards to recognize excellence, encourage further study and development, and assist parents with tuition costs. For more information a ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Scholarships &#038; Awards"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/donations/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/donations/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Donations | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Donations Support the College of Piping By supporting the College of Piping, you're helping us continue providing high-quality education, exceptional p ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2019/07/Donations-1.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "792"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "527"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2019-06-21T13:40:18"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/donations/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/donations/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/donations/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2019/07/Donations-1.png"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "527"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "792"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/af5d896d-93b1-4906-9347-1e5417ba458d",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/donations/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-30T14:49:06"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-06-21T13:40:18"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/donations/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2019/07/Donations-1.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/donations/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Donations | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Donations Support the College of Piping By supporting the College of Piping, you&#039;re helping us continue providing high-quality education, exceptional p ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Donations"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/sponsorship/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/sponsorship/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Sponsorship | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Sponsorship Invest in Success Corporate partnerships sustain The College of Piping and Celtic Performing Arts of Canada’s position as a vibrant and innovati ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2019/07/DSC_2986.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "3600"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "2403"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2019-06-21T13:39:50"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/sponsorship/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/sponsorship/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/sponsorship/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2019/07/DSC_2986.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2403"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3600"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/91ee0f3a-bae7-407d-8c9c-677dbdab84a3",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/sponsorship/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-30T14:49:51"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-06-21T13:39:50"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/sponsorship/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2019/07/DSC_2986.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/sponsorship/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Sponsorship | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Sponsorship Invest in Success Corporate partnerships sustain The College of Piping and Celtic Performing Arts of Canada’s position as a vibrant and innovati ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sponsorship"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/contact/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/contact/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Contact | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "The College of Piping and Celtic Performing Arts619 Water Street EastSummerside, PE C1N 4H8 Phone: 902-436-5377 Toll Free: 1-877-BAGPIPE (1-877-224-7473)Fax ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2025/03/3-2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1080"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-01-03T19:39:46"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/contact/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/contact/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/contact/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2025/03/3-2.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/b73e6256-eefb-4bd6-8dde-911f4b6279a5",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/contact/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-03T16:45:26"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-03T19:39:46"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/contact/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2025/03/3-2.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/contact/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Contact | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "The College of Piping and Celtic Performing Arts619 Water Street EastSummerside, PE C1N 4H8 Phone: 902-436-5377 Toll Free: 1-877-BAGPIPE (1-877-224-7473)Fax ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Contact"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/gold-rush-50-50/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/gold-rush-50-50/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Gold Rush 50/50 | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Important Notes: • Ensure your number is written clearly. If it could be confusing when viewed upside down, underline it for clarity.• There is no advantage ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2024/12/AdobeStock_1122136440.jpeg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "2688"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1792"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2019-08-27T12:49:02"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/gold-rush-50-50/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/gold-rush-50-50/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/gold-rush-50-50/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2024/12/AdobeStock_1122136440.jpeg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1792"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2688"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/d271b692-55b6-48a7-b42c-b95d030233bc",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/gold-rush-50-50/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-29T14:12:12"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-08-27T12:49:02"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/gold-rush-50-50/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2024/12/AdobeStock_1122136440.jpeg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/gold-rush-50-50/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Gold Rush 50/50 | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Important Notes: • Ensure your number is written clearly. If it could be confusing when viewed upside down, underline it for clarity.• There is no advantage ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Gold Rush 50/50"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/0ecd639f-bf9c-4e29-9da0-0c940e3743af",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/learn/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-15T17:06:11"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-06-21T13:05:37"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/learn/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2019/07/Education_learn.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/learn/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Learn | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Education – 2025/2026 Registration The College offers regular curricula in: Great Highland Bagpipe Snare Drumming Intro to Dance Acrobatic Dance Ballet Jazz ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Learn"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/dance-pd-days/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/dance-pd-days/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Dance PD Days | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Students who register for PD Dance Day will experience a variety of dance styles offered at the college, including step, ballet, jazz, conditioning, and muc ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2021/06/hip-hop.jpeg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1440"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1434"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2019-06-21T13:34:16"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/dance-pd-days/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/dance-pd-days/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/dance-pd-days/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2021/06/hip-hop.jpeg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1434"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1440"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/a4811027-e92e-4141-b004-b671f8487cc8",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/dance-pd-days/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-20T09:32:40"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-06-21T13:34:16"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/dance-pd-days/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2021/06/hip-hop.jpeg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/dance-pd-days/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Dance PD Days | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Students who register for PD Dance Day will experience a variety of dance styles offered at the college, including step, ballet, jazz, conditioning, and muc ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Dance PD Days"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/history/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/history/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "History | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "How the College of Piping Began Anthropologist Margaret Meade once said, “Never doubt that a small group of thoughtful, committed citizens can change the wo ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2020/11/IMG-4254-e1605034853839.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1439"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1047"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2019-06-13T12:14:14"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/history/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/history/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/history/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2020/11/IMG-4254-e1605034853839.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1047"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1439"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/75c242ee-a585-4a56-bf71-a15d6b94083c",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/history/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-07T15:15:23"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-06-13T12:14:14"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/history/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2020/11/IMG-4254-e1605034853839.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/history/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "History | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "How the College of Piping Began Anthropologist Margaret Meade once said, “Never doubt that a small group of thoughtful, committed citizens can change the wo ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "History"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/youre-subsribed/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/youre-subsribed/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "You're Subsribed! | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Thank you for subscribing to The College of Piping and Celtic Performing Arts of Canada. Your journey into the world of Celtic arts begins here. As a subscr ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2025/10/hq720-1.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "686"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "386"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-10-23T07:49:48"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/youre-subsribed/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/youre-subsribed/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/youre-subsribed/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2025/10/hq720-1.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "386"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "686"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/2426b1bb-adf4-4405-8a7b-5b9fed4f8013",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/youre-subsribed/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-23T07:49:52"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-23T07:49:48"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/youre-subsribed/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2025/10/hq720-1.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/youre-subsribed/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "You're Subsribed! | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Thank you for subscribing to The College of Piping and Celtic Performing Arts of Canada. Your journey into the world of Celtic arts begins here. As a subscr ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "You&#8217;re Subsribed!"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/home/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/home/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Home | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Born from a passionate community and the vision of a world-renowned piper. Today, we continue to inspire and educate, carrying on the rich traditions of pip ..."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/wp-content/uploads/2025/02/College-photo-e1740581235988.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "2048"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1307"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2017-02-18T18:55:05"
+      }
+    ],
+    "article:author": [
+      {
+        "@language": "en-us",
+        "@value": "Eric Rodgerson"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/home/#schema-webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-website"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/home/"
+      }
+    ]
+  },
+  {
+    "@id": "https://collegeofpiping.com/home/#schema-article-image",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2025/02/College-photo-e1740581235988.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1307"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2048"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/bb036eb6-2edf-4e85-9100-5abb6a3a5bc8",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://collegeofpiping.com/home/#schema-webpage"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://collegeofpiping.com/author/kmiadmin/#schema-author"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://collegeofpiping.com/#schema-publishing-organization"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-24T12:55:29"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2017-02-18T18:55:05"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://collegeofpiping.com/home/#schema-article-image"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://collegeofpiping.com/wp-content/uploads/2025/02/College-photo-e1740581235988.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://collegeofpiping.com/home/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Home | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Born from a passionate community and the vision of a world-renowned piper. Today, we continue to inspire and educate, carrying on the rich traditions of pip ..."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Home"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com",
+    "https://api.w.org/": [
+      {
+        "@id": "https://collegeofpiping.com/wp-json/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://collegeofpiping.com/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Landing Page | The College of Piping And Celtic Performing Arts of Canada"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "The College of Piping and Celtic Performing Arts of Canada, located in Summerside, Prince Edward Island, is dedicated to preserving Celtic music and culture ..."
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.collegeofpiping.com"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.collegeofpiping.com/temporary/def3f0f0-b926-43c4-8e7e-7434b3d8e2bb",
     "@type": [
       "http://schema.org/Article"
     ],
