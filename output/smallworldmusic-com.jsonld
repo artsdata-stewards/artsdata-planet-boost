@@ -114,17 +114,11 @@
       {
         "@language": "en",
         "@value": "Small World Music"
-      },
-      {
-        "@value": "Small World Music"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "SWM"
-      },
-      {
         "@value": "SWM"
       }
     ]
@@ -262,9 +256,6 @@
         "@id": "https://smallworldmusic.com"
       },
       {
-        "@id": "https://smallworldmusic.com/#upcomingEventSlider"
-      },
-      {
         "@id": "https://smallworldmusic.com/"
       }
     ],
@@ -272,26 +263,17 @@
       {
         "@language": "en",
         "@value": "Home - Small World Music"
-      },
-      {
-        "@value": "Home - Small World Music"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "UPCOMING EVENTS Nov 25, 2025 DakhaBrakha Jan 17, 2026 FRÄNDER Feb 13, 2026 Orchestral Qawwali Project Featuring Abi Sampa & Rushil Ranjan"
-      },
-      {
-        "@value": "UPCOMING EVENTS Nov 25, 2025 DakhaBrakha Jan 17, 2026 FRÄNDER Feb 13, 2026 Orchestral Qawwali Project Featuring Abi Sampa & Rushil Ranjan"
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "en",
-        "@value": "en-US"
-      },
-      {
         "@value": "en-US"
       }
     ]
@@ -315,26 +297,17 @@
       {
         "@language": "en",
         "@value": "Small World Music"
-      },
-      {
-        "@value": "Small World Music"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "SWM"
-      },
-      {
-        "@value": "SWM"
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "en",
-        "@value": "en-US"
-      },
-      {
         "@value": "en-US"
       }
     ]
@@ -432,6 +405,9 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://smallworldmusic.com/events/"
+      },
+      {
+        "@id": "http://www.smallworldmusic.com/events"
       }
     ],
     "http://schema.org/name": [
@@ -444,6 +420,69 @@
       {
         "@language": "en",
         "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.smallworldmusic.com/events",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Small World Music - SWM"
+      },
+      {
+        "@language": "en-us",
+        "@value": "Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      },
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Events - Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/events/"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2020-02-15T17:40:35+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2020-02-15T17:40:35+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://smallworldmusic.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.smallworldmusic.com/events"
       }
     ]
   },
@@ -1886,32 +1925,11 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://smallworldmusic.com/projects/"
-      },
-      {
-        "@id": "https://smallworldmusic.com/projects/#engagingAudience"
-      },
-      {
-        "@id": "https://smallworldmusic.com/projects/#enablingArtist"
-      },
-      {
-        "@id": "https://smallworldmusic.com/projects/#connectingIndustry"
-      },
-      {
-        "@id": "https://smallworldmusic.com/projects#enablingArtist"
-      },
-      {
-        "@id": "https://smallworldmusic.com/projects#engagingAudience"
-      },
-      {
-        "@id": "https://smallworldmusic.com/projects#connectingIndustry"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Projects - Small World Music"
-      },
-      {
         "@value": "Projects - Small World Music"
       }
     ],
@@ -1919,17 +1937,11 @@
       {
         "@language": "en",
         "@value": "Engaging Audiences Celebrating diversity and empowering communities for new experiences via year-round programming and special events.SWM SeriesSWM FestivalEnabling Artists Supporting career sustainability for emerging, marginalized and underrepresented artists through our programs and operations. Enabling equity for culturally diverse artists and their work.Small World CentreSWM IncubatorConnecting Industry Initiatives and events that reflect the diverse music sector"
-      },
-      {
-        "@value": "Engaging Audiences Celebrating diversity and empowering communities for new experiences via year-round programming and special events.SWM SeriesSWM FestivalEnabling Artists Supporting career sustainability for emerging, marginalized and underrepresented artists through our programs and operations. Enabling equity for culturally diverse artists and their work.Small World CentreSWM IncubatorConnecting Industry Initiatives and events that reflect the diverse music sector"
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "en",
-        "@value": "en-US"
-      },
-      {
         "@value": "en-US"
       }
     ]
@@ -3036,6 +3048,9 @@
       },
       {
         "@id": "https://smallworldmusic.com/emergence/"
+      },
+      {
+        "@id": "http://www.smallworldmusic.com/emergence"
       }
     ],
     "http://schema.org/name": [
@@ -3403,6 +3418,355 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://smallworldmusic.com/emergence/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.smallworldmusic.com/emergence",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Small World Music - SWM"
+      },
+      {
+        "@language": "en-us",
+        "@value": "Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      },
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Small World Music Incubator - Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "SMALL WORLD MUSIC INCUBATOR105 Artists in our Community156 days of Professional Development188 Performing Opportunities143 Mentorship Opportunities10 Industry conferences and eventsThe Small World Music Incubator is a program designed to support professional musicians from diverse backgrounds in the Greater Toronto Area, particularly those from immigrant, newcomer, and underrepresented communities. It provides participants with professional development, mentorship,"
+      },
+      {
+        "@language": "en-us",
+        "@value": "SMALL WORLD MUSIC INCUBATOR105 Artists in our Community156 days of Professional Development188 Performing Opportunities143 Mentorship Opportunities10 Industry conferences and eventsThe Small World Music Incubator is a program designed to support professional musicians from diverse backgrounds in the Greater Toronto Area, particularly those from immigrant, newcomer, and underrepresented communities. It provides participants with professional development, mentorship, networking opportunities, and resources to…"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/incubator/"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2020-03-14T00:56:07+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-11-19T19:34:06+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://smallworldmusic.com/wp-json/"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Incubator-web-banner-1800x720.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/A.V.E-e1754596625277-776x776.jpg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Ajhani-scaled-e1754596697970-1707x1707.jpg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Andrea-2-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Aniqa-Dear-e1754597066717-500x500.jpg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Bahar-scaled-e1754597745660-500x500.jpg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/David-Park-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Fedor-Bondar-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Lina-Chao-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Mir-Kashif-Iqbal-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Ori-Chacon-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Radhika-Bhaskar-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Saghi-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Sam-r-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Shalva-Lucas-Makharashvili-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Static-River-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Tarek-Funk-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Tarek-K-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/xoco-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Yalda-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/NGCamille-20250815-FSSMRCG-78-1024x683.jpg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/folk-music-ontario-scaled-60x60.webp"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/wavelengthmusic-220x45.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/08/BAO.svg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/NWIA-130x29.jpg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2020/06/factor.svg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2020/06/CCFA.svg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2024/06/OC-ENlogo.svg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/ON_POS_LOGO_RGB-138x35.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2020/06/oac.svg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/city-of-toronto-logo-vector-e1604506373349-113x40.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2020/06/tac.svg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2021/01/metcalf-logo.svg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/RBCFND_LogoDes_H_rgbPE-1-137x50.jpg"
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Incubator-web-banner-1800x720.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/A.V.E-e1754596625277-776x776.jpg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Ajhani-scaled-e1754596697970-1707x1707.jpg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Andrea-2-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Aniqa-Dear-e1754597066717-500x500.jpg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Bahar-scaled-e1754597745660-500x500.jpg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/David-Park-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Fedor-Bondar-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Lina-Chao-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Mir-Kashif-Iqbal-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Ori-Chacon-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Radhika-Bhaskar-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Saghi-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Sam-r-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Shalva-Lucas-Makharashvili-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Static-River-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Tarek-Funk-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Tarek-K-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/xoco-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/Yalda-500x500.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/NGCamille-20250815-FSSMRCG-78-1024x683.jpg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/folk-music-ontario-scaled-60x60.webp"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/wavelengthmusic-220x45.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/08/BAO.svg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/NWIA-130x29.jpg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2020/06/factor.svg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2020/06/CCFA.svg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2024/06/OC-ENlogo.svg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/ON_POS_LOGO_RGB-138x35.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2020/06/oac.svg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/city-of-toronto-logo-vector-e1604506373349-113x40.png"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2020/06/tac.svg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2021/01/metcalf-logo.svg"
+      },
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2025/11/RBCFND_LogoDes_H_rgbPE-1-137x50.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.smallworldmusic.com/emergence"
       }
     ]
   },
@@ -4073,29 +4437,11 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://smallworldmusic.com/about/"
-      },
-      {
-        "@id": "https://smallworldmusic.com/about/#teamSection"
-      },
-      {
-        "@id": "https://smallworldmusic.com/about/#bogSection"
-      },
-      {
-        "@id": "https://smallworldmusic.com/about/#historySection"
-      },
-      {
-        "@id": "https://smallworldmusic.com/about/#Annual-report"
-      },
-      {
-        "@id": "https://smallworldmusic.com/about/#supporters"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "About - Small World Music"
-      },
-      {
         "@value": "About - Small World Music"
       }
     ],
@@ -4103,17 +4449,11 @@
       {
         "@language": "en",
         "@value": "AboutSmall World’s Vision BREAKING DOWN WALLS THROUGH THE POWER OF MUSIC For more than two decades, Small World Music has been celebrating cultural diversity and showcasing a range of local, domestic, and international talent to audiences across the Greater Toronto Area. Our vision goes beyond simply presenting culturally-diverse artists to include finding ways of working"
-      },
-      {
-        "@value": "AboutSmall World’s Vision BREAKING DOWN WALLS THROUGH THE POWER OF MUSIC For more than two decades, Small World Music has been celebrating cultural diversity and showcasing a range of local, domestic, and international talent to audiences across the Greater Toronto Area. Our vision goes beyond simply presenting culturally-diverse artists to include finding ways of working"
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "en",
-        "@value": "en-US"
-      },
-      {
         "@value": "en-US"
       }
     ]
@@ -5026,6 +5366,206 @@
     ]
   },
   {
+    "@id": "http://www.smallworldmusic.com/policy",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Small World Music - SWM"
+      },
+      {
+        "@language": "en-us",
+        "@value": "Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      },
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Anti-Harassment & Anti-Discrimination Policy - Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Health and Safety and Anti-Harrassment & Anti-Oppression Policy Health and Safety The health and safety of every artist, professional, and member of the wider SWM family is our highest priority, and requires the participation of every member of this community. We are extremely excited to reunite at in-person live events, but we are also"
+      },
+      {
+        "@language": "en-us",
+        "@value": "  Health and Safety and Anti-Harrassment & Anti-Oppression Policy  Health and Safety The health and safety of every artist, professional, and member of the wider SWM family is our highest priority, and requires the participation of every member of this community. We are extremely excited to reunite at in-person live events, but we are also wary that we do so…"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/policy/"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2021-03-09T23:11:16+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2023-01-10T20:50:31+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://smallworldmusic.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.smallworldmusic.com/policy"
+      }
+    ]
+  },
+  {
+    "@id": "https://smallworldmusic.com/policy/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://smallworldmusic.com/policy/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://smallworldmusic.com/#website"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://smallworldmusic.com/policy/#breadcrumblist"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-03-09T18:11:16-05:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-01-10T15:50:31-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.smallworldmusic.com/policy"
+      },
+      {
+        "@id": "https://smallworldmusic.com/policy/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Anti-Harassment & Anti-Discrimination Policy - Small World Music"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Health and Safety and Anti-Harrassment & Anti-Oppression Policy Health and Safety The health and safety of every artist, professional, and member of the wider SWM family is our highest priority, and requires the participation of every member of this community. We are extremely excited to reunite at in-person live events, but we are also"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://smallworldmusic.com/policy/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Small World Music - SWM"
+      },
+      {
+        "@language": "en-us",
+        "@value": "Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      },
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Anti-Harassment & Anti-Discrimination Policy - Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Health and Safety and Anti-Harrassment & Anti-Oppression Policy Health and Safety The health and safety of every artist, professional, and member of the wider SWM family is our highest priority, and requires the participation of every member of this community. We are extremely excited to reunite at in-person live events, but we are also"
+      },
+      {
+        "@language": "en-us",
+        "@value": "  Health and Safety and Anti-Harrassment & Anti-Oppression Policy  Health and Safety The health and safety of every artist, professional, and member of the wider SWM family is our highest priority, and requires the participation of every member of this community. We are extremely excited to reunite at in-person live events, but we are also wary that we do so…"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/policy/"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2021-03-09T23:11:16+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2023-01-10T20:50:31+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://smallworldmusic.com/wp-json/"
+      }
+    ]
+  },
+  {
     "@id": "https://smallworldmusic.com/contactus/",
     "https://ogp.me/ns#locale": [
       {
@@ -5140,6 +5680,147 @@
       {
         "@language": "en",
         "@value": "Contact DetailsSmall World MusicGeneral Inquiriesinfo@smallworldmusic.comBox OfficeTicket and Box Office Inquiriesboxoffice@smallworldmusic.comIncubatorGeneral Inquiriesconnect@smallworldmusic.comCentreBooking Inquiriesvenue@smallworldmusic.comGlobal Toronto Music FestivalGeneral Inquiriesinfo@globaltorontomusic.comCentre LocationSmall World Centre180 Shaw Street, Studio 101Toronto, ON M6J 2W5Office Location Small World Music180 Shaw Street, Unit 305Toronto, ON M6J 2W5Charitable #: 88078 7213 RR001Ph: 416 536 5439Fax: 416 536 9715Not what you are looking for?Message our Team members"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.smallworldmusic.com/careers",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Small World Music - SWM"
+      },
+      {
+        "@language": "en-us",
+        "@value": "Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      },
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Join Our Team - Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Join Our TeamABOUT SMALL WORLD MUSIC:Small World Music (SWM) is a registered Canadian charitable organization, founded in 1997. For 26 years, SWM has championed equity and diversity as a pioneer presenter of global cultural music in the Canadian landscape. Our vision remains, “Breaking down walls through the power of music”. We channel the transformative power"
+      },
+      {
+        "@language": "en-us",
+        "@value": "Join Our TeamABOUT SMALL WORLD MUSIC:Small World Music (SWM) is a registered Canadian charitable organization, founded in 1997. For 26 years, SWM has championed equity and diversity as a pioneer presenter of global cultural music in the Canadian landscape. Our vision remains, “Breaking down walls through the power of music”. We channel the transformative power of music to drive social…"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/careers/"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2021-03-08T20:31:48+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2024-08-19T13:52:06+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://smallworldmusic.com/wp-json/"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2024/05/join-our-team.png"
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en-us",
+        "@value": "|!|vcvUploadUrl|!|/2024/05/join-our-team.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.smallworldmusic.com/careers"
+      }
+    ]
+  },
+  {
+    "@id": "https://smallworldmusic.com/careers/#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://smallworldmusic.com/careers/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://smallworldmusic.com/#website"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://smallworldmusic.com/careers/#breadcrumblist"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-03-08T15:31:48-05:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-08-19T09:52:06-04:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.smallworldmusic.com/careers"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Join Our Team - Small World Music"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Join Our TeamABOUT SMALL WORLD MUSIC:Small World Music (SWM) is a registered Canadian charitable organization, founded in 1997. For 26 years, SWM has championed equity and diversity as a pioneer presenter of global cultural music in the Canadian landscape. Our vision remains, “Breaking down walls through the power of music”. We channel the transformative power"
       }
     ],
     "http://schema.org/inLanguage": [
@@ -5781,6 +6462,9 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://smallworldmusic.com/shows/house-of-waters/"
+      },
+      {
+        "@id": "http://smallworldmusic.com/shows/house-of-waters/"
       }
     ],
     "http://schema.org/name": [
@@ -5822,6 +6506,91 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": "540"
+      }
+    ]
+  },
+  {
+    "@id": "http://smallworldmusic.com/shows/house-of-waters/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Small World Music - SWM"
+      },
+      {
+        "@language": "en-us",
+        "@value": "Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      },
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "House of Waters - Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Presented by Small World Music In partnership with and Lula Music and Arts Centre Join us for an evening of jazz exploration, into a world with no musical boundaries. House of Waters is a trio that incorporates elements of West-African, jazz, psychedelic, indie rock, classical and world music into their astonishingly unique"
+      },
+      {
+        "@language": "en-us",
+        "@value": "Presented by Small World Music   In partnership with and Lula Music and Arts Centre   Join us for an evening of jazz exploration, into a world with no musical boundaries.    House of Waters is a trio that incorporates elements of West-African, jazz, psychedelic, indie rock, classical and world music into their astonishingly unique sound.   Nominated for the…"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/shows/house-of-waters/"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-08-25T15:05:20+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-10-21T15:15:43+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://smallworldmusic.com/wp-json/"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/wp-content/uploads/2025/10/Series-2025_House-of-Waters-eventpage_updated.png"
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/wp-content/uploads/2025/10/Series-2025_House-of-Waters-eventpage_updated.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://smallworldmusic.com/shows/house-of-waters/"
       }
     ]
   },
@@ -6288,6 +7057,9 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://smallworldmusic.com/shows/in-conversation-with-pt-shantanu-bhattacharyya/"
+      },
+      {
+        "@id": "http://smallworldmusic.com/shows/in-conversation-with-pt-shantanu-bhattacharyya/"
       }
     ],
     "http://schema.org/name": [
@@ -6329,6 +7101,91 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": "1080"
+      }
+    ]
+  },
+  {
+    "@id": "http://smallworldmusic.com/shows/in-conversation-with-pt-shantanu-bhattacharyya/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Small World Music - SWM"
+      },
+      {
+        "@language": "en-us",
+        "@value": "Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      },
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "In Conversation with Pt. Shantanu Bhattacharyya - Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Presented by Small World Music In partnership with Raag Mala Toronto, Toronto Indo Jazz Festival ISHQ Festival calls the audience to join in an intimate discussion with renowned vocalist Pandit Shantanu Bhattacharyya, moderated by musician and educator Andrew Kay. Shantanu Bhattacharyya will be joined by multi-instrumentalist and scholar Jonathan Kay, who spent over a decade in"
+      },
+      {
+        "@language": "en-us",
+        "@value": "Presented by Small World Music   In partnership with Raag Mala Toronto, Toronto Indo Jazz Festival  ISHQ Festival calls the audience to join in an intimate discussion with renowned vocalist Pandit Shantanu Bhattacharyya, moderated by musician and educator Andrew Kay.  Shantanu Bhattacharyya will be joined by multi-instrumentalist and scholar Jonathan Kay, who spent over a decade in Kolkata living and studying under…"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/shows/in-conversation-with-pt-shantanu-bhattacharyya/"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-09-09T19:27:15+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-10-21T21:27:21+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://smallworldmusic.com/wp-json/"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/wp-content/uploads/2025/10/Shantanu-website.png"
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/wp-content/uploads/2025/10/Shantanu-website.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://smallworldmusic.com/shows/in-conversation-with-pt-shantanu-bhattacharyya/"
       }
     ]
   },
@@ -8980,6 +9837,9 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://smallworldmusic.com/shows/afraaz-mulji-hinad-alshuhuf/"
+      },
+      {
+        "@id": "http://smallworldmusic.com/shows/afraaz-mulji-hinad-alshuhuf/"
       }
     ],
     "http://schema.org/name": [
@@ -9021,6 +9881,91 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": "1080"
+      }
+    ]
+  },
+  {
+    "@id": "http://smallworldmusic.com/shows/afraaz-mulji-hinad-alshuhuf/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Small World Music - SWM"
+      },
+      {
+        "@language": "en-us",
+        "@value": "Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      },
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Afraaz Mulji - Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Presented by Small World Music From our Incubator Program to centre stage! About the Artists: Afraaz Mulji Through a captivating musical journey, Ostad Afraaz Mulji explores the Sufi concept of Fana and the Daoist philosophy of Freedom from Form. This experience, described by Afraaz as “Transmigration of the Soul” draws upon all the worlds traditions"
+      },
+      {
+        "@language": "en-us",
+        "@value": "Presented by Small World Music  From our Incubator Program to centre stage!  About the Artists:  Afraaz Mulji Through a captivating musical journey, Ostad Afraaz Mulji explores the Sufi concept of Fana and the Daoist philosophy of Freedom from Form. This experience, described by Afraaz as “Transmigration of the Soul” draws upon all the worlds traditions of knowledge & wisdom, and…"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/shows/afraaz-mulji-hinad-alshuhuf/"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-05-26T14:51:36+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-07-29T16:09:55+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://smallworldmusic.com/wp-json/"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/wp-content/uploads/2025/05/Series-2025_Afraaz-Mulji-eventpage_updated.png"
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/wp-content/uploads/2025/05/Series-2025_Afraaz-Mulji-eventpage_updated.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://smallworldmusic.com/shows/afraaz-mulji-hinad-alshuhuf/"
       }
     ]
   },
@@ -9825,6 +10770,9 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://smallworldmusic.com/shows/arooj-aftab/"
+      },
+      {
+        "@id": "http://smallworldmusic.com/shows/arooj-aftab/"
       }
     ],
     "http://schema.org/name": [
@@ -9866,6 +10814,91 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": "1440"
+      }
+    ]
+  },
+  {
+    "@id": "http://smallworldmusic.com/shows/arooj-aftab/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Small World Music - SWM"
+      },
+      {
+        "@language": "en-us",
+        "@value": "Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      },
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Arooj Aftab - Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Presented by Small World Music and Toronto Jazz Fest Declared \"the coolest rock star in the world right now,\" by UNCUT magazine, Arooj Aftab has earned her position at the vanguard of creative music for her embrace of risk and nonconformity. In 2024, she released her fourth solo album, Night Reign (Verve), to universal acclaim,"
+      },
+      {
+        "@language": "en-us",
+        "@value": "Presented by Small World Music and Toronto Jazz Fest  Declared \"the coolest rock star in the world right now,\" by UNCUT magazine, Arooj Aftab has earned her position at the vanguard of creative music for her embrace of risk and nonconformity.  In 2024, she released her fourth solo album, Night Reign (Verve), to universal acclaim, earning a Grammy nomination for…"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/shows/arooj-aftab/"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-02-11T14:56:32+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-03-17T12:35:41+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://smallworldmusic.com/wp-json/"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/wp-content/uploads/2025/03/S25_Arooj-eventpage_updated_02-scaled.jpg"
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/wp-content/uploads/2025/03/S25_Arooj-eventpage_updated_02-scaled.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://smallworldmusic.com/shows/arooj-aftab/"
       }
     ]
   },
@@ -12818,6 +13851,9 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://smallworldmusic.com/shows/celebration-of-zakir-hussain/"
+      },
+      {
+        "@id": "http://smallworldmusic.com/shows/celebration-of-zakir-hussain/"
       }
     ],
     "http://schema.org/name": [
@@ -12859,6 +13895,91 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": "1080"
+      }
+    ]
+  },
+  {
+    "@id": "http://smallworldmusic.com/shows/celebration-of-zakir-hussain/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Small World Music - SWM"
+      },
+      {
+        "@language": "en-us",
+        "@value": "Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      },
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "A Celebration of Zakir Hussain | 6pm - Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Presented by Small World Music Join some of Zakir's preeminent students in an intimate recital as we celebrate his birthday. Ustad Zakir Hussain was recognized for many things - being one of history's greatest Indian music performers, opening the ears of Western audiences, collaborating with innumerable artists across cultural lines - and more. But behind"
+      },
+      {
+        "@language": "en-us",
+        "@value": "Presented by Small World Music  Join some of Zakir's preeminent students in an intimate recital as we celebrate his birthday.  Ustad Zakir Hussain was recognized for many things - being one of history's greatest Indian music performers, opening the ears of Western audiences, collaborating with innumerable artists across cultural lines - and more. But behind the scenes, he was also…"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/shows/celebration-of-zakir-hussain/"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-02-11T18:12:38+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-02-19T16:13:18+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://smallworldmusic.com/wp-json/"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/wp-content/uploads/2025/02/S25_A-Celebration-of-Zakir-Hussain-eventpage.png"
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/wp-content/uploads/2025/02/S25_A-Celebration-of-Zakir-Hussain-eventpage.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://smallworldmusic.com/shows/celebration-of-zakir-hussain/"
       }
     ]
   },
@@ -12990,6 +14111,9 @@
       },
       {
         "@id": "https://smallworldmusic.com/shows/celebration-of-zakir-hussain-2"
+      },
+      {
+        "@id": "http://smallworldmusic.com/shows/celebration-of-zakir-hussain-2"
       }
     ],
     "http://schema.org/name": [
@@ -13116,6 +14240,91 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://smallworldmusic.com/shows/celebration-of-zakir-hussain-2"
+      }
+    ]
+  },
+  {
+    "@id": "http://smallworldmusic.com/shows/celebration-of-zakir-hussain-2",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Small World Music - SWM"
+      },
+      {
+        "@language": "en-us",
+        "@value": "Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      },
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "A Celebration of Zakir Hussain | 2pm - Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Presented by Small World Music Join some of Zakir's preeminent students in an intimate recital as we celebrate his birthday. Ustad Zakir Hussain was recognized for many things - being one of history's greatest Indian music performers, opening the ears of Western audiences, collaborating with innumerable artists across cultural lines - and more. But behind"
+      },
+      {
+        "@language": "en-us",
+        "@value": "Presented by Small World Music  Join some of Zakir's preeminent students in an intimate recital as we celebrate his birthday.  Ustad Zakir Hussain was recognized for many things - being one of history's greatest Indian music performers, opening the ears of Western audiences, collaborating with innumerable artists across cultural lines - and more. But behind the scenes, he was also…"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/shows/celebration-of-zakir-hussain-2/"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-02-19T16:11:44+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-02-19T16:11:44+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://smallworldmusic.com/wp-json/"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/wp-content/uploads/2025/02/S25_Zakir-Hussain-second-show-eventpage.png"
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/wp-content/uploads/2025/02/S25_Zakir-Hussain-second-show-eventpage.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://smallworldmusic.com/shows/celebration-of-zakir-hussain-2"
       }
     ]
   },
@@ -13417,6 +14626,9 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://smallworldmusic.com/shows/tayow/"
+      },
+      {
+        "@id": "http://smallworldmusic.com/shows/tayow/"
       }
     ],
     "http://schema.org/name": [
@@ -13458,6 +14670,91 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": "1080"
+      }
+    ]
+  },
+  {
+    "@id": "http://smallworldmusic.com/shows/tayow/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Small World Music - SWM"
+      },
+      {
+        "@language": "en-us",
+        "@value": "Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      },
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "TAYOW: Rhythms of the New Revolution - Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Presented by Small World Music Join us as we celebrate Black Futures Month and Valentine's Day with TAYOW! Prepare for an evening of love and liberation. This special performance will take you on a journey through Afro-diasporic rhythms, soulful grooves, and powerful storytelling, all brought to life by TAYOW's captivating vocals. The band"
+      },
+      {
+        "@language": "en-us",
+        "@value": "Presented by Small World Music    Join us as we celebrate Black Futures Month and Valentine's Day with TAYOW! Prepare for an evening of love and liberation.    This special performance will take you on a journey through Afro-diasporic rhythms, soulful grooves, and powerful storytelling, all brought to life by TAYOW's captivating vocals. The band will have you up on…"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/shows/tayow/"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-01-28T14:54:40+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-02-11T17:39:41+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://smallworldmusic.com/wp-json/"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/wp-content/uploads/2025/01/Series-2025_Tayow-eventpage.png"
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/wp-content/uploads/2025/01/Series-2025_Tayow-eventpage.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://smallworldmusic.com/shows/tayow/"
       }
     ]
   },
@@ -13924,6 +15221,9 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://smallworldmusic.com/shows/oldnewyear/"
+      },
+      {
+        "@id": "http://smallworldmusic.com/shows/oldnewyear/"
       }
     ],
     "http://schema.org/name": [
@@ -13965,6 +15265,91 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": "1080"
+      }
+    ]
+  },
+  {
+    "@id": "http://smallworldmusic.com/shows/oldnewyear/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Small World Music - SWM"
+      },
+      {
+        "@language": "en-us",
+        "@value": "Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      },
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Old New Year’s with DIVKA & Nizo’s Balkan Brass Band - Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Presented by Small World Music and DROM Taberna Celebrate Orthodox New Year with an unforgettable night of myth, magic and brass! The evening starts with traditional Ukrainian Koliada - as dynamic duo DIVKA guides you through an otherworldly soundscape with haunting harmonies. Together, they seamlessly blend deep-rooted folk traditions with contemporary melodies as generations of"
+      },
+      {
+        "@language": "en-us",
+        "@value": "Presented by Small World Music and DROM Taberna  Celebrate Orthodox New Year with an unforgettable night of myth, magic and brass! The evening starts with traditional Ukrainian Koliada - as dynamic duo DIVKA guides you through an otherworldly soundscape with haunting harmonies. Together, they seamlessly blend deep-rooted folk traditions with contemporary melodies as generations of femme power collide. To kick…"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/shows/oldnewyear/"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-01-07T16:25:20+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-01-22T20:10:51+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://smallworldmusic.com/wp-json/"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/wp-content/uploads/2025/01/Series_2025_OldNewYear-eventpage.png"
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/wp-content/uploads/2025/01/Series_2025_OldNewYear-eventpage.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://smallworldmusic.com/shows/oldnewyear/"
       }
     ]
   },
@@ -27123,137 +28508,6 @@
     ]
   },
   {
-    "@id": "https://smallworldmusic.com/projects",
-    "https://ogp.me/ns#locale": [
-      {
-        "@language": "en-us",
-        "@value": "en_US"
-      }
-    ],
-    "https://ogp.me/ns#site_name": [
-      {
-        "@language": "en-us",
-        "@value": "Small World Music - SWM"
-      },
-      {
-        "@language": "en-us",
-        "@value": "Small World Music"
-      }
-    ],
-    "https://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "article"
-      },
-      {
-        "@language": "en-us",
-        "@value": "website"
-      }
-    ],
-    "https://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "Projects - Small World Music"
-      }
-    ],
-    "https://ogp.me/ns#description": [
-      {
-        "@language": "en-us",
-        "@value": "Engaging Audiences Celebrating diversity and empowering communities for new experiences via year-round programming and special events.SWM SeriesSWM FestivalEnabling Artists Supporting career sustainability for emerging, marginalized and underrepresented artists through our programs and operations. Enabling equity for culturally diverse artists and their work.Small World CentreSWM IncubatorConnecting Industry Initiatives and events that reflect the diverse music sector"
-      },
-      {
-        "@language": "en-us",
-        "@value": "Engaging Audiences Celebrating diversity and empowering communities for new experiences via year-round programming and special events.SWM SeriesSWM FestivalEnabling Artists Supporting career sustainability for emerging, marginalized and underrepresented artists through our programs and operations. Enabling equity for culturally diverse artists and their work.Small World CentreSWM IncubatorConnecting Industry Initiatives and events that reflect the diverse music sector of one of the world's…"
-      }
-    ],
-    "https://ogp.me/ns#url": [
-      {
-        "@language": "en-us",
-        "@value": "https://smallworldmusic.com/projects/"
-      }
-    ],
-    "article:published_time": [
-      {
-        "@language": "en-us",
-        "@value": "2020-03-13T23:56:53+00:00"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "en-us",
-        "@value": "2025-01-09T17:14:53+00:00"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://smallworldmusic.com/wp-json/"
-      }
-    ],
-    "https://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "|!|vcvUploadUrl|!|/2025/01/Series-website-600x450.png"
-      },
-      {
-        "@language": "en-us",
-        "@value": "|!|vcvUploadUrl|!|/2025/01/SWMF-23_SWMF-web-banner-600x450.png"
-      },
-      {
-        "@language": "en-us",
-        "@value": "|!|vcvUploadUrl|!|/2025/01/SWC-600x600-1-600x370.jpg"
-      },
-      {
-        "@language": "en-us",
-        "@value": "|!|vcvUploadUrl|!|/2025/01/Screenshot-2023-01-13-at-8.15.32-AM-600x370.png"
-      },
-      {
-        "@language": "en-us",
-        "@value": "|!|vcvUploadUrl|!|/2025/01/gtmf-logo-600x400.png"
-      },
-      {
-        "@language": "en-us",
-        "@value": "|!|vcvUploadUrl|!|/2025/01/Going-Global-Logo-600x400.png"
-      }
-    ],
-    "twitter:image": [
-      {
-        "@language": "en-us",
-        "@value": "|!|vcvUploadUrl|!|/2025/01/Series-website-600x450.png"
-      },
-      {
-        "@language": "en-us",
-        "@value": "|!|vcvUploadUrl|!|/2025/01/SWMF-23_SWMF-web-banner-600x450.png"
-      },
-      {
-        "@language": "en-us",
-        "@value": "|!|vcvUploadUrl|!|/2025/01/SWC-600x600-1-600x370.jpg"
-      },
-      {
-        "@language": "en-us",
-        "@value": "|!|vcvUploadUrl|!|/2025/01/Screenshot-2023-01-13-at-8.15.32-AM-600x370.png"
-      },
-      {
-        "@language": "en-us",
-        "@value": "|!|vcvUploadUrl|!|/2025/01/gtmf-logo-600x400.png"
-      },
-      {
-        "@language": "en-us",
-        "@value": "|!|vcvUploadUrl|!|/2025/01/Going-Global-Logo-600x400.png"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://smallworldmusic.com/projects#enablingArtist"
-      },
-      {
-        "@id": "https://smallworldmusic.com/projects#engagingAudience"
-      },
-      {
-        "@id": "https://smallworldmusic.com/projects#connectingIndustry"
-      }
-    ]
-  },
-  {
     "@id": "https://smallworldmusic.com/alandavis",
     "https://ogp.me/ns#locale": [
       {
@@ -27373,17 +28627,11 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://smallworldmusic.com/alandavis"
-      },
-      {
-        "@id": "https://smallworldmusic.com/alandavis/#view-condolences"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Alan Davis Memorial - Small World Music"
-      },
-      {
         "@value": "Alan Davis Memorial - Small World Music"
       }
     ],
@@ -27391,98 +28639,12 @@
       {
         "@language": "en",
         "@value": "View condolencesIn Loving Memory of Alan DavisFounder, Small World Music22 Sep 1961 – 25 Jun 2025Alan dedicated his life to building bridges through music. One of his greatest legacies will remain Small World Music, which he founded in 1997 with a vision to celebrate the rich cultural diversity of Toronto through the universal language of"
-      },
-      {
-        "@value": "View condolencesIn Loving Memory of Alan DavisFounder, Small World Music22 Sep 1961 – 25 Jun 2025Alan dedicated his life to building bridges through music. One of his greatest legacies will remain Small World Music, which he founded in 1997 with a vision to celebrate the rich cultural diversity of Toronto through the universal language of"
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "en",
         "@value": "en-US"
-      },
-      {
-        "@value": "en-US"
-      }
-    ]
-  },
-  {
-    "@id": "https://smallworldmusic.com/alandavis/",
-    "https://ogp.me/ns#locale": [
-      {
-        "@language": "en-us",
-        "@value": "en_US"
-      }
-    ],
-    "https://ogp.me/ns#site_name": [
-      {
-        "@language": "en-us",
-        "@value": "Small World Music - SWM"
-      },
-      {
-        "@language": "en-us",
-        "@value": "Small World Music"
-      }
-    ],
-    "https://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "article"
-      },
-      {
-        "@language": "en-us",
-        "@value": "website"
-      }
-    ],
-    "https://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "Alan Davis Memorial - Small World Music"
-      }
-    ],
-    "https://ogp.me/ns#description": [
-      {
-        "@language": "en-us",
-        "@value": "View condolencesIn Loving Memory of Alan DavisFounder, Small World Music22 Sep 1961 – 25 Jun 2025Alan dedicated his life to building bridges through music. One of his greatest legacies will remain Small World Music, which he founded in 1997 with a vision to celebrate the rich cultural diversity of Toronto through the universal language of"
-      },
-      {
-        "@language": "en-us",
-        "@value": "View condolencesIn Loving Memory of Alan DavisFounder, Small World Music22 Sep 1961 – 25 Jun 2025Alan dedicated his life to building bridges through music. One of his greatest legacies will remain Small World Music, which he founded in 1997 with a vision to celebrate the rich cultural diversity of Toronto through the universal language of music.His mission was simple but…"
-      }
-    ],
-    "https://ogp.me/ns#url": [
-      {
-        "@language": "en-us",
-        "@value": "https://smallworldmusic.com/alandavis/"
-      }
-    ],
-    "article:published_time": [
-      {
-        "@language": "en-us",
-        "@value": "2025-06-25T14:15:31+00:00"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "en-us",
-        "@value": "2025-09-24T18:34:32+00:00"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://smallworldmusic.com/wp-json/"
-      }
-    ],
-    "https://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "|!|vcvUploadUrl|!|/2025/09/Alan_Davis_Memorial-959x1024.png"
-      }
-    ],
-    "twitter:image": [
-      {
-        "@language": "en-us",
-        "@value": "|!|vcvUploadUrl|!|/2025/09/Alan_Davis_Memorial-959x1024.png"
       }
     ]
   },
@@ -27813,130 +28975,6 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://smallworldmusic.com/asian-music-series-page/page/4/"
-      }
-    ]
-  },
-  {
-    "@id": "https://smallworldmusic.com/policy/",
-    "https://ogp.me/ns#locale": [
-      {
-        "@language": "en-us",
-        "@value": "en_US"
-      }
-    ],
-    "https://ogp.me/ns#site_name": [
-      {
-        "@language": "en-us",
-        "@value": "Small World Music - SWM"
-      },
-      {
-        "@language": "en-us",
-        "@value": "Small World Music"
-      }
-    ],
-    "https://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "article"
-      },
-      {
-        "@language": "en-us",
-        "@value": "website"
-      }
-    ],
-    "https://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "Anti-Harassment & Anti-Discrimination Policy - Small World Music"
-      }
-    ],
-    "https://ogp.me/ns#description": [
-      {
-        "@language": "en-us",
-        "@value": "Health and Safety and Anti-Harrassment & Anti-Oppression Policy Health and Safety The health and safety of every artist, professional, and member of the wider SWM family is our highest priority, and requires the participation of every member of this community. We are extremely excited to reunite at in-person live events, but we are also"
-      },
-      {
-        "@language": "en-us",
-        "@value": "  Health and Safety and Anti-Harrassment & Anti-Oppression Policy  Health and Safety The health and safety of every artist, professional, and member of the wider SWM family is our highest priority, and requires the participation of every member of this community. We are extremely excited to reunite at in-person live events, but we are also wary that we do so…"
-      }
-    ],
-    "https://ogp.me/ns#url": [
-      {
-        "@language": "en-us",
-        "@value": "https://smallworldmusic.com/policy/"
-      }
-    ],
-    "article:published_time": [
-      {
-        "@language": "en-us",
-        "@value": "2021-03-09T23:11:16+00:00"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "en-us",
-        "@value": "2023-01-10T20:50:31+00:00"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://smallworldmusic.com/wp-json/"
-      }
-    ]
-  },
-  {
-    "@id": "https://smallworldmusic.com/policy/#webpage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://smallworldmusic.com/policy/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://smallworldmusic.com/#website"
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://smallworldmusic.com/policy/#breadcrumblist"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2021-03-09T18:11:16-05:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2023-01-10T15:50:31-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://smallworldmusic.com/policy/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Anti-Harassment & Anti-Discrimination Policy - Small World Music"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Health and Safety and Anti-Harrassment & Anti-Oppression Policy Health and Safety The health and safety of every artist, professional, and member of the wider SWM family is our highest priority, and requires the participation of every member of this community. We are extremely excited to reunite at in-person live events, but we are also"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-US"
       }
     ]
   },
@@ -32163,6 +33201,9 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://smallworldmusic.com/shows/hamza-akram-qawwal-and-brothers/"
+      },
+      {
+        "@id": "http://smallworldmusic.com/shows/hamza-akram-qawwal-and-brothers/"
       }
     ],
     "http://schema.org/name": [
@@ -32193,6 +33234,91 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": "486184"
+      }
+    ]
+  },
+  {
+    "@id": "http://smallworldmusic.com/shows/hamza-akram-qawwal-and-brothers/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Small World Music - SWM"
+      },
+      {
+        "@language": "en-us",
+        "@value": "Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      },
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Hamza Akram Qawwal and Brothers – SOLD OUT - Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "2019-04-198:30 pm-10:00 pmAga Khan Museum$37.50 - $50$37.50 - $50https://ticketing.agakhanmuseum.org/single/SYOS.aspx?p=13252Presented by Aga Khan Museum in association with Small World Music Society and part of the 17th Annual Asian Music Series. Hamza Akram is currently only 26 years of age, but holds within a sea of talent. He was born in Karachi Pakistan on 1st July 1992"
+      },
+      {
+        "@language": "en-us",
+        "@value": "2019-04-198:30 pm-10:00 pmAga Khan Museum$37.50 - $50$37.50 - $50https://ticketing.agakhanmuseum.org/single/SYOS.aspx?p=13252Presented by Aga Khan Museum in association with Small World Music Society and part of the 17th Annual Asian Music Series. Hamza Akram is currently only 26 years of age, but holds within a sea of talent. He was born in Karachi Pakistan on 1st July 1992 to his luck into a…"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/shows/hamza-akram-qawwal-and-brothers/"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2019-03-10T20:53:11+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2020-11-23T14:11:30+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://smallworldmusic.com/wp-json/"
+      }
+    ],
+    "https://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": ""
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en-us",
+        "@value": ""
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://smallworldmusic.com/shows/hamza-akram-qawwal-and-brothers/"
       }
     ]
   },
@@ -37100,6 +38226,180 @@
     "http://schema.org/url": [
       {
         "@id": "https://smallworldmusic.com/wp-content/uploads/marcato/GlobalVillage.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "http://smallworldmusic.com/asian-music-series/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Small World Music - SWM"
+      },
+      {
+        "@language": "en-us",
+        "@value": "Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      },
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Asian-Music-Series - Small World Music"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://smallworldmusic.com/asian-music-series/"
+      }
+    ],
+    "article:published_time": [
+      {
+        "@language": "en-us",
+        "@value": "2020-06-27T18:50:05+00:00"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2020-06-27T18:50:05+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://smallworldmusic.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://smallworldmusic.com/asian-music-series/"
+      }
+    ]
+  },
+  {
+    "@id": "https://smallworldmusic.com/asian-music-series/#itempage",
+    "@type": [
+      "http://schema.org/ItemPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://smallworldmusic.com/asian-music-series/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://smallworldmusic.com/#website"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://smallworldmusic.com/asian-music-series/#breadcrumblist"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://smallworldmusic.com/author/anasraza/#author"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://smallworldmusic.com/author/anasraza/#author"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-06-27T14:50:05-04:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-06-27T14:50:05-04:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://smallworldmusic.com/asian-music-series/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Asian-Music-Series - Small World Music"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://smallworldmusic.com/author/anasraza/#author",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://smallworldmusic.com/author/anasraza/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://smallworldmusic.com/asian-music-series/#authorImage"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "anasraza"
+      }
+    ]
+  },
+  {
+    "@id": "https://smallworldmusic.com/asian-music-series/#authorImage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://secure.gravatar.com/avatar/36dbf66f7203460d69efd7c36cd8ec754b25c259af3a2c0a6a049af5dfa856a5?s=96&d=mm&r=g"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "96"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "96"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "anasraza"
       }
     ]
   }
