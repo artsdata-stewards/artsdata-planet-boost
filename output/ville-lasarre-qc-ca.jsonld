@@ -80,9 +80,6 @@
       {
         "@language": "fr",
         "@value": "Ville de La Sarre"
-      },
-      {
-        "@value": "Ville de La Sarre"
       }
     ]
   },
@@ -105,17 +102,11 @@
       {
         "@language": "fr",
         "@value": "Ville de La Sarre"
-      },
-      {
-        "@value": "Ville de La Sarre"
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "fr",
-        "@value": "fr-CA"
-      },
-      {
         "@value": "fr-CA"
       }
     ]
@@ -138,20 +129,11 @@
     "http://schema.org/potentialAction": [
       {
         "@id": "_:g460980"
-      },
-      {
-        "@id": "_:g478180"
-      },
-      {
-        "@id": "_:g495280"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Ville de La Sarre"
-      },
-      {
         "@value": "Ville de La Sarre"
       }
     ],
@@ -159,17 +141,11 @@
       {
         "@language": "fr",
         "@value": "Ville de La Sarre"
-      },
-      {
-        "@value": "Ville de La Sarre"
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "fr",
-        "@value": "fr-CA"
-      },
-      {
         "@value": "fr-CA"
       }
     ]
@@ -188,38 +164,6 @@
     "http://schema.org/query-input": [
       {
         "@language": "fr",
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g478180",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://www.lasarre.ca/?s={search_term_string}"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g495280",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://www.lasarre.ca/?s={search_term_string}"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
         "@value": "required name=search_term_string"
       }
     ]
@@ -260,17 +204,11 @@
       {
         "@language": "fr",
         "@value": "Ville centre de l’Abitibi-Ouest | Ville de La Sarre"
-      },
-      {
-        "@value": "Ville centre de l’Abitibi-Ouest | Ville de La Sarre"
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "fr",
-        "@value": "fr-CA"
-      },
-      {
         "@value": "fr-CA"
       }
     ]
@@ -304,9 +242,6 @@
       {
         "@language": "fr",
         "@value": "vortexf"
-      },
-      {
-        "@value": "vortexf"
       }
     ]
   },
@@ -324,17 +259,11 @@
       {
         "@language": "fr",
         "@value": "vortexf"
-      },
-      {
-        "@value": "vortexf"
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "fr",
-        "@value": "fr-CA"
-      },
-      {
         "@value": "fr-CA"
       }
     ]
@@ -379,20 +308,11 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.ville.lasarre.qc.ca"
-      },
-      {
-        "@id": "https://www.ville.lasarre.qc.ca/#main-content"
-      },
-      {
-        "@id": "https://www.ville.lasarre.qc.ca/#"
       }
     ],
     "http://schema.org/headline": [
       {
         "@language": "fr",
-        "@value": "Ville centre de l’Abitibi-Ouest | Ville de La Sarre"
-      },
-      {
         "@value": "Ville centre de l’Abitibi-Ouest | Ville de La Sarre"
       }
     ],
@@ -400,17 +320,11 @@
       {
         "@language": "fr",
         "@value": "Ville de la Sarre,services en ligne,carte interactive,un monde de possibilité"
-      },
-      {
-        "@value": "Ville de la Sarre,services en ligne,carte interactive,un monde de possibilité"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Découvrez La Sarre, située en l&#039;Abitibi-Témiscamingue. Une ville accueillante offrant une belle qualité de vie. Informations pratiques disponibles."
-      },
-      {
         "@value": "Découvrez La Sarre, située en l&#039;Abitibi-Témiscamingue. Une ville accueillante offrant une belle qualité de vie. Informations pratiques disponibles."
       }
     ],
@@ -418,88 +332,12 @@
       {
         "@language": "fr",
         "@value": "Ville centre de l’Abitibi-Ouest | Ville de La Sarre"
-      },
-      {
-        "@value": "Ville centre de l’Abitibi-Ouest | Ville de La Sarre"
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "fr",
         "@value": "fr-CA"
-      },
-      {
-        "@value": "fr-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.ville.lasarre.qc.ca/",
-    "https://ogp.me/ns#locale": [
-      {
-        "@language": "fr-ca",
-        "@value": "fr_CA"
-      }
-    ],
-    "https://ogp.me/ns#type": [
-      {
-        "@language": "fr-ca",
-        "@value": "website"
-      }
-    ],
-    "https://ogp.me/ns#title": [
-      {
-        "@language": "fr-ca",
-        "@value": "Ville centre de l’Abitibi-Ouest | Ville de La Sarre"
-      }
-    ],
-    "https://ogp.me/ns#description": [
-      {
-        "@language": "fr-ca",
-        "@value": "Découvrez La Sarre, située en l'Abitibi-Témiscamingue. Une ville accueillante offrant une belle qualité de vie. Informations pratiques disponibles."
-      }
-    ],
-    "https://ogp.me/ns#url": [
-      {
-        "@language": "fr-ca",
-        "@value": "https://www.lasarre.ca/"
-      }
-    ],
-    "https://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-ca",
-        "@value": "Ville de La Sarre"
-      }
-    ],
-    "https://ogp.me/ns#updated_time": [
-      {
-        "@language": "fr-ca",
-        "@value": "2025-04-29T18:11:50-04:00"
-      }
-    ],
-    "article:published_time": [
-      {
-        "@language": "fr-ca",
-        "@value": "2022-08-18T19:34:38-04:00"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-ca",
-        "@value": "2025-04-29T18:11:50-04:00"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://www.lasarre.ca/wp-json/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.ville.lasarre.qc.ca/#main-content"
-      },
-      {
-        "@id": "https://www.ville.lasarre.qc.ca/#"
       }
     ]
   }
