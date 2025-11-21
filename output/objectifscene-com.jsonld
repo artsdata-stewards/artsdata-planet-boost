@@ -61,7 +61,7 @@
     ]
   },
   {
-    "@id": "https://www.objectifscene.com/temporary/77587cc1-9385-406a-8bdf-e86d1c7884a3",
+    "@id": "https://www.objectifscene.com/temporary/84caf357-1d66-4feb-9814-21ba4e71dc52",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -94,7 +94,7 @@
     ]
   },
   {
-    "@id": "https://www.objectifscene.com/temporary/fa643d78-5da5-4a96-96a0-d676ffac2492",
+    "@id": "https://www.objectifscene.com/temporary/d4f22873-b81b-41bf-a9c4-6e7dfa8807b6",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -177,7 +177,67 @@
     ]
   },
   {
-    "@id": "https://www.objectifscene.com/",
+    "@id": "https://www.objectifscene.com/temporary/a6e208cd-2707-4f80-9d7e-0257d0cee9b0",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.objectifscene.com/slsj"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/objectifsceneSLSJ/"
+      },
+      {
+        "@id": "https://twitter.com/ObjectifScene"
+      },
+      {
+        "@id": "https://www.instagram.com/objectifscene/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.objectifscene.com/slsj/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Objectif Scène"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.objectifscene.com/temporary/7977de8c-5d31-4578-9eb8-349d4225fc43",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.objectifscene.com/slsj/wp-content/uploads/2018/03/Objectifs-Scène.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.objectifscene.com/slsj/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://i0.wp.com/www.objectifscene.com/slsj/wp-content/uploads/2018/02/cropped-logo-Objectif-Scène2.png?fit=910%2C300&ssl=1"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.objectifscene.com/slsj/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.objectifscene.com/slsj",
     "http://ogp.me/ns#title": [
       {
         "@language": "fr-fr",
@@ -233,12 +293,12 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.objectifscene.com/#main"
+        "@id": "http://www.objectifscene.com/slsj"
       }
     ]
   },
   {
-    "@id": "https://www.objectifscene.com/temporary/6215386a-d053-45fc-a9ab-d3031b03c41d",
+    "@id": "https://www.objectifscene.com/temporary/dc304475-7df1-4752-bfb2-e40488ac6b82",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -260,66 +320,7 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.objectifscene.com/#main"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Objectif Scène"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.objectifscene.com/temporary/5e6c4673-a96e-424e-adbf-304ec36c86a0",
-    "@type": [
-      "http://schema.org/WebSite"
-    ],
-    "http://schema.org/image": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://www.objectifscene.com/slsj/wp-content/uploads/2018/03/Objectifs-Scène.jpg"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.objectifscene.com/slsj/"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://i0.wp.com/www.objectifscene.com/slsj/wp-content/uploads/2018/02/cropped-logo-Objectif-Scène2.png?fit=910%2C300&ssl=1"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.objectifscene.com/#main"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.objectifscene.com/temporary/d2967d72-0a48-4e3d-80a6-d72efba2ef23",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.objectifscene.com/slsj"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.facebook.com/objectifsceneSLSJ/"
-      },
-      {
-        "@id": "https://twitter.com/ObjectifScene"
-      },
-      {
-        "@id": "https://www.instagram.com/objectifscene/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.objectifscene.com/slsj/"
+        "@id": "http://www.objectifscene.com/slsj"
       }
     ],
     "http://schema.org/name": [
@@ -330,7 +331,7 @@
     ]
   },
   {
-    "@id": "https://www.objectifscene.com/temporary/6e6705cc-5d61-4da9-b862-544d1601b342",
+    "@id": "https://www.objectifscene.com/temporary/95d3d3e9-98a9-4e10-b335-d9da7683bd44",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -352,7 +353,7 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.objectifscene.com/slsj/"
+        "@id": "http://www.objectifscene.com/slsj"
       }
     ]
   }
