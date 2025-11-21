@@ -69,9 +69,6 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "http://www.harvestjazzandblues.com/"
-      },
-      {
-        "@id": "http://www.harvestjazzandblues.com/#primary"
       }
     ]
   },
@@ -98,9 +95,6 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Harvest Music Festival"
-      },
-      {
         "@value": "Harvest Music Festival"
       }
     ]
@@ -163,17 +157,11 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "http://www.harvestjazzandblues.com/"
-      },
-      {
-        "@id": "http://www.harvestjazzandblues.com/#primary"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "HOME - Harvest Music Festival"
-      },
-      {
         "@value": "HOME - Harvest Music Festival"
       }
     ],
@@ -181,17 +169,11 @@
       {
         "@language": "en",
         "@value": "Music festival September 9- 14, 2025 Fredericton, NB 2025 patron survey TIckets/passes Lineup LATEST NEWS VIEW ALL OUR PARTNERSBRING HARVEST TO LIFE SPONSORS Funding Partners Presenting SPONSORS Triple Platinum"
-      },
-      {
-        "@value": "Music festival September 9- 14, 2025 Fredericton, NB 2025 patron survey TIckets/passes Lineup LATEST NEWS VIEW ALL OUR PARTNERSBRING HARVEST TO LIFE SPONSORS Funding Partners Presenting SPONSORS Triple Platinum"
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "en",
-        "@value": "en-CA"
-      },
-      {
         "@value": "en-CA"
       }
     ]
@@ -214,26 +196,17 @@
     "http://schema.org/potentialAction": [
       {
         "@id": "_:g466100"
-      },
-      {
-        "@id": "_:g476720"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
         "@value": "Harvest Music Festival"
-      },
-      {
-        "@value": "Harvest Music Festival"
       }
     ],
     "http://schema.org/inLanguage": [
       {
         "@language": "en",
-        "@value": "en-CA"
-      },
-      {
         "@value": "en-CA"
       }
     ]
@@ -256,22 +229,6 @@
     ]
   },
   {
-    "@id": "_:g476720",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g476740"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
     "@id": "_:g466120",
     "@type": [
       "http://schema.org/EntryPoint"
@@ -279,17 +236,6 @@
     "http://schema.org/urlTemplate": [
       {
         "@language": "en",
-        "@value": "https://harvestmusicfest.ca/?s={search_term_string}"
-      }
-    ]
-  },
-  {
-    "@id": "_:g476740",
-    "@type": [
-      "http://schema.org/EntryPoint"
-    ],
-    "http://schema.org/urlTemplate": [
-      {
         "@value": "https://harvestmusicfest.ca/?s={search_term_string}"
       }
     ]
