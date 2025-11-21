@@ -1,5 +1,262 @@
 [
   {
+    "@id": "https://www.dansencorps.ca",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "École DansEncorps School | Moncton | Dance Studio Danse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Située au cœur du centre-ville de Moncton, notre école est fièrement établie depuis 1979 dans le magnifique Centre culturel Aberdeen. L'école de danse DansEncorps propose une gamme variée de cours, allant du ballet au contemporain, en passant par le jazz, le hip-hop, la danse créative pour les enfants de 3 à 5 ans, ainsi que des cours de barre et de pilates."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/bbc27b_c2ddbea3db51485a999dfec7640fae47%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/bbc27b_c2ddbea3db51485a999dfec7640fae47%7Emv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "2500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "1330"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.dansencorps.ca"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "École DansEncorps"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "fr",
+        "@value": "Dansencorps"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463400",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Moncton"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "E1C 4X5"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "140 Botsford Street"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.dansencorps.ca/temporary/b70a55ee-2d3a-42e4-a867-42c2677687ed",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.dansencorps.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static.wixstatic.com/media/bbc27b_7ca4318ebb7e4a5fa819c5a73e0bba48~mv2_d_3300_2550_s_4_2.jpg"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g463400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.dansencorps.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "DansEncorps"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "(506) 855-0998"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.dansencorps.ca/temporary/34e612a8-600b-42cd-a548-3d95058d045f",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.dansencorps.ca"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.dansencorps.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "École DansEncorps "
+      }
+    ]
+  },
+  {
+    "@id": "http://www.dansencorps.ca/temporary/6696f356-ae91-4162-996e-abaf616187fa",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.votre-site-web.com"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://www.votre-site-web.com/url-vers-votre-logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.dansencorps.ca"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.dansencorps.ca/acceuil",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "DansEncorps | New Brunswick | Art"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Fondée en 1979, DansEncorps demeure l’un des centres de danse parmi les plus importants en Atlantique."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://static.wixstatic.com/media/bbc27b_c2ddbea3db51485a999dfec7640fae47%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/bbc27b_c2ddbea3db51485a999dfec7640fae47%7Emv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr",
+        "@value": "2500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr",
+        "@value": "1330"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.dansencorps.ca/acceuil"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "École DansEncorps"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "fb:admins": [
+      {
+        "@language": "fr",
+        "@value": "Dansencorps"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.dansencorps.ca/acceuil"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.dansencorps.ca/temporary/cc3ae2be-fb76-42b2-af46-7790a053bfd1",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.votre-site-web.com"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://www.votre-site-web.com/url-vers-votre-logo.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.dansencorps.ca/acceuil"
+      }
+    ]
+  },
+  {
     "@id": "http://www.dansencorps.ca/",
     "http://ogp.me/ns#title": [
       {
@@ -62,7 +319,7 @@
     ]
   },
   {
-    "@id": "_:g460780",
+    "@id": "_:g511680",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -98,7 +355,7 @@
     ]
   },
   {
-    "@id": "http://www.dansencorps.ca/temporary/bdd2ca6b-1dda-40cf-bbc4-3f2348a900a2",
+    "@id": "http://www.dansencorps.ca/temporary/1994e495-ee10-4197-a5dc-15169513c878",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
@@ -114,7 +371,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g460780"
+        "@id": "_:g511680"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -136,7 +393,7 @@
     ]
   },
   {
-    "@id": "http://www.dansencorps.ca/temporary/a5e818a9-5beb-43f7-8722-51faf0841daa",
+    "@id": "http://www.dansencorps.ca/temporary/27d25c3c-aec4-476d-aa61-2678f9fb5cf7",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -158,7 +415,7 @@
     ]
   },
   {
-    "@id": "http://www.dansencorps.ca/temporary/64ac1d6b-0d4e-44ce-8a1e-09efce728987",
+    "@id": "http://www.dansencorps.ca/temporary/016d240f-30cf-46ed-932b-e720ae58cff6",
     "@type": [
       "http://schema.org/Organization"
     ],
