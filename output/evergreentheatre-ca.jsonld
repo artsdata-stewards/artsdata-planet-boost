@@ -1,5 +1,803 @@
 [
   {
+    "@id": "https://evergreentheatre.ca/annual_membership/",
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/annual_membership/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Membership | Evergreen Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Membership Membership benefits: One FREE TICKET to ANY show of your choice! (Can be up to $45. Value) Discounts on most shows plus the occasional free show. Advance notice of all shows with 1st option"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/annual_membership/"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en-us",
+        "@value": "Membership | Evergreen Theatre"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en-us",
+        "@value": "Membership Membership benefits: One FREE TICKET to ANY show of your choice! (Can be up to $45. Value) Discounts on most shows plus the occasional free show. Advance notice of all shows with 1st option to purchase. A few added treats. An Additional Benefit- you will be supporting"
+      }
+    ],
+    "twitter:domain": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en-us",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:creator": [
+      {
+        "@language": "en-us",
+        "@value": "@twitter"
+      }
+    ],
+    "twitter:site": [
+      {
+        "@language": "en-us",
+        "@value": "@twitter"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/annual_membership/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/annual_membership/"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "_:g461260"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-09-05T16:52:34+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-03T18:41:14+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g461280"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://evergreentheatre.ca#person"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://evergreentheatre.ca/annual_membership/#Organization"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://evergreentheatre.ca/annual_membership/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Membership Membership benefits: One FREE TICKET to ANY show of your choice! (Can be up to $45. Value) Discounts on most shows plus the occasional free show. Advance notice of all shows with 1st option to purchase. A few added treats. An Additional Benefit- you will be supporting your local Theatre! The Evergreen"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461260",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/annual_membership/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461280",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://evergreentheatre.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://evergreentheatre.ca#person",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://evergreentheatre.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Ingrid van den Hurk"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/annual_membership/#Organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/annual_membership/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://evergreentheatre.ca/annual_membership/#logo"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "https://evergreentheatre.ca/annual_membership/#contactpoint"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://evergreentheatre.ca/annual_membership/#address"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/evergreentheatre"
+      },
+      {
+        "@id": "https://twitter.com/twitter"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "To offer quality professional performing arts with an emphasis on music.\r\nTo provide cultural enrichment, and social and volunteer opportunities for our rural community.\r\nTo provide a performance venue, meeting, and workshop space for the use of the local community."
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/annual_membership/#logo",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-content/uploads/2022/07/Logo-Evergreen-Grey-Green.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "870"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/annual_membership/#contactpoint",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+19028256834"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/annual_membership/#address",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "1941 Stronach Mtn. Road "
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "East Margaretsville "
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Annapolis Valley / Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "B0P 1R0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/",
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre | Life music venue in the Annapolis valley"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen theatre has developed from a local amateur talent event to a professional venue. It is known across Nova Scotia, and further afield, as a surprising jewel in the travelling performance"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre | Life music venue in the Annapolis valley"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen theatre has developed from a local amateur talent event to a professional venue. It is known across Nova Scotia, and further afield, as a surprising jewel in the travelling performance circuit around the Maritimes., The Evergreen Theatre would like to acknowledge that"
+      }
+    ],
+    "twitter:domain": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en-us",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:creator": [
+      {
+        "@language": "en-us",
+        "@value": "@twitter"
+      }
+    ],
+    "twitter:site": [
+      {
+        "@language": "en-us",
+        "@value": "@twitter"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://evergreentheatre.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca#Organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://evergreentheatre.ca#logo"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "https://evergreentheatre.ca#contactpoint"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://evergreentheatre.ca#address"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/evergreentheatre"
+      },
+      {
+        "@id": "https://twitter.com/twitter"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "To offer quality professional performing arts with an emphasis on music.\r\nTo provide cultural enrichment, and social and volunteer opportunities for our rural community.\r\nTo provide a performance venue, meeting, and workshop space for the use of the local community."
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca",
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre | Life music venue in the Annapolis valley"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen theatre has developed from a local amateur talent event to a professional venue. It is known across Nova Scotia, and further afield, as a surprising jewel in the travelling performance"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre | Life music venue in the Annapolis valley"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen theatre has developed from a local amateur talent event to a professional venue. It is known across Nova Scotia, and further afield, as a surprising jewel in the travelling performance circuit around the Maritimes., The Evergreen Theatre would like to acknowledge that"
+      }
+    ],
+    "twitter:domain": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en-us",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:creator": [
+      {
+        "@language": "en-us",
+        "@value": "@twitter"
+      }
+    ],
+    "twitter:site": [
+      {
+        "@language": "en-us",
+        "@value": "@twitter"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca#logo",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-content/uploads/2022/07/Logo-Evergreen-Grey-Green.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "870"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca#contactpoint",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+19028256834"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca#address",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "1941 Stronach Mtn. Road "
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "East Margaretsville "
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Annapolis Valley / Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "B0P 1R0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "_:g469340"
+      },
+      {
+        "@id": "_:g478700"
+      },
+      {
+        "@id": "_:g554240"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-12-15T22:14:18+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-10T14:49:08+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g469360"
+      },
+      {
+        "@id": "_:g478720"
+      },
+      {
+        "@id": "_:g554260"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://evergreentheatre.ca#person"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://evergreentheatre.ca#Organization"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://evergreentheatre.ca/"
+      },
+      {
+        "@id": "https://evergreentheatre.ca"
+      },
+      {
+        "@id": "http://www.evergreentheatre.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Evergreen theatre has developed from a local amateur talent event to a professional venue. It is known across Nova Scotia, and further afield, as a surprising jewel in the travelling performance circuit around the Maritimes., The Evergreen Theatre would like to acknowledge that we are in Mi’kma’ki, the ancestral and"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "live shows and theatre in annapolis valley, evergreen theatre, live music venue, welcoming place with enthusiastic audiences continues to draw performers from across Canada and beyond.,The Evergreen Theatre would like to acknowledge that we are in Mi’kma’ki, the ancestral and unceded land of the Mi’kmaq People"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469340",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478700",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g554240",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469360",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://evergreentheatre.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478720",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://evergreentheatre.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g554260",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://evergreentheatre.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
     "@id": "http://www.evergreentheatre.ca/",
     "http://ogp.me/ns#url": [
       {
@@ -87,38 +885,207 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "http://www.evergreentheatre.ca/"
-      },
-      {
-        "@id": "http://www.evergreentheatre.ca/#"
-      },
-      {
-        "@id": "http://www.evergreentheatre.ca/#newsletter"
       }
     ]
   },
   {
-    "@id": "https://evergreentheatre.ca#Organization",
+    "@id": "https://evergreentheatre.ca/mandate/",
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/mandate/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Mandate | Evergreen Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "A Bit of History Fundy Folk Night was a popular mostly open mike event that had been running at the Margaretsville Fire Hall for most of the 90's. For Christmas 1998 we had been invited to run"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/mandate/"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en-us",
+        "@value": "Mandate | Evergreen Theatre"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en-us",
+        "@value": "A Bit of History Fundy Folk Night was a popular mostly open mike event that had been running at the Margaretsville Fire Hall for most of the 90's. For Christmas 1998 we had been invited to run our night at the Evergreen Baptist Church in East Margaretsville with a Christmas"
+      }
+    ],
+    "twitter:domain": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en-us",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:creator": [
+      {
+        "@language": "en-us",
+        "@value": "@twitter"
+      }
+    ],
+    "twitter:site": [
+      {
+        "@language": "en-us",
+        "@value": "@twitter"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/mandate/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/mandate/"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "_:g488240"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-09-21T20:53:43+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-06T14:24:01+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g488260"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://evergreentheatre.ca#person"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://evergreentheatre.ca/mandate/#Organization"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://evergreentheatre.ca/mandate/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "A Bit of History Fundy Folk Night was a popular mostly open mike event that had been running at the Margaretsville Fire Hall for most of the 90&#039;s. For Christmas 1998 we had been invited to run our night at the Evergreen Baptist Church in East Margaretsville with a Christmas theme. It was a great success.In early"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488240",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/mandate/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488260",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://evergreentheatre.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/mandate/#Organization",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://evergreentheatre.ca"
+        "@id": "https://evergreentheatre.ca/mandate/"
       }
     ],
     "http://schema.org/logo": [
       {
-        "@id": "https://evergreentheatre.ca#logo"
+        "@id": "https://evergreentheatre.ca/mandate/#logo"
       }
     ],
     "http://schema.org/contactPoint": [
       {
-        "@id": "https://evergreentheatre.ca#contactpoint"
+        "@id": "https://evergreentheatre.ca/mandate/#contactpoint"
       }
     ],
     "http://schema.org/address": [
       {
-        "@id": "https://evergreentheatre.ca#address"
+        "@id": "https://evergreentheatre.ca/mandate/#address"
       }
     ],
     "http://schema.org/sameAs": [
@@ -133,23 +1100,17 @@
       {
         "@language": "en",
         "@value": "Evergreen Theatre"
-      },
-      {
-        "@value": "Evergreen Theatre"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
         "@value": "To offer quality professional performing arts with an emphasis on music.\r\nTo provide cultural enrichment, and social and volunteer opportunities for our rural community.\r\nTo provide a performance venue, meeting, and workshop space for the use of the local community."
-      },
-      {
-        "@value": "To offer quality professional performing arts with an emphasis on music.\r\nTo provide cultural enrichment, and social and volunteer opportunities for our rural community.\r\nTo provide a performance venue, meeting, and workshop space for the use of the local community."
       }
     ]
   },
   {
-    "@id": "https://evergreentheatre.ca#logo",
+    "@id": "https://evergreentheatre.ca/mandate/#logo",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -174,14 +1135,11 @@
       {
         "@language": "en",
         "@value": "Evergreen Theatre"
-      },
-      {
-        "@value": "Evergreen Theatre"
       }
     ]
   },
   {
-    "@id": "https://evergreentheatre.ca#contactpoint",
+    "@id": "https://evergreentheatre.ca/mandate/#contactpoint",
     "@type": [
       "http://schema.org/ContactPoint"
     ],
@@ -189,23 +1147,17 @@
       {
         "@language": "en",
         "@value": "+19028256834"
-      },
-      {
-        "@value": "+19028256834"
       }
     ],
     "http://schema.org/contactType": [
       {
         "@language": "en",
         "@value": "customer service"
-      },
-      {
-        "@value": "customer service"
       }
     ]
   },
   {
-    "@id": "https://evergreentheatre.ca#address",
+    "@id": "https://evergreentheatre.ca/mandate/#address",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -213,17 +1165,11 @@
       {
         "@language": "en",
         "@value": "1941 Stronach Mtn. Road "
-      },
-      {
-        "@value": "1941 Stronach Mtn. Road "
       }
     ],
     "http://schema.org/addressLocality": [
       {
         "@language": "en",
-        "@value": "East Margaretsville "
-      },
-      {
         "@value": "East Margaretsville "
       }
     ],
@@ -231,17 +1177,11 @@
       {
         "@language": "en",
         "@value": "Annapolis Valley / Nova Scotia"
-      },
-      {
-        "@value": "Annapolis Valley / Nova Scotia"
       }
     ],
     "http://schema.org/postalCode": [
       {
         "@language": "en",
-        "@value": "B0P 1R0"
-      },
-      {
         "@value": "B0P 1R0"
       }
     ],
@@ -249,54 +1189,125 @@
       {
         "@language": "en",
         "@value": "Canada"
-      },
-      {
-        "@value": "Canada"
       }
     ]
   },
   {
-    "@id": "https://evergreentheatre.ca#website",
+    "@id": "https://evergreentheatre.ca/support-get-involved/",
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/support-get-involved/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Support | Get Involved | Evergreen Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Support | Get Involved The Evergreen Theatre is a not-for-profit registered charity with a CRA number. The theatre receives support from four tiers: Government Memberships Donations Volunteers"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/support-get-involved/"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en-us",
+        "@value": "Support | Get Involved | Evergreen Theatre"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en-us",
+        "@value": "Support | Get Involved The Evergreen Theatre is a not-for-profit registered charity with a CRA number. The theatre receives support from four tiers: Government Memberships Donations Volunteers and attendees Government Small theatres such as the Evergreen rely heavily on"
+      }
+    ],
+    "twitter:domain": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en-us",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:creator": [
+      {
+        "@language": "en-us",
+        "@value": "@twitter"
+      }
+    ],
+    "twitter:site": [
+      {
+        "@language": "en-us",
+        "@value": "@twitter"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/support-get-involved/#website",
     "@type": [
       "http://schema.org/WebSite"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://evergreentheatre.ca"
+        "@id": "https://evergreentheatre.ca/support-get-involved/"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
       {
-        "@id": "_:g461280"
-      },
-      {
-        "@id": "_:g470680"
-      },
-      {
-        "@id": "_:g480000"
+        "@id": "_:g496260"
       }
     ],
     "http://schema.org/datePublished": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2021-12-15T22:14:18+00:00"
+        "@value": "2022-09-14T13:47:59+00:00"
       }
     ],
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-10T14:49:08+00:00"
+        "@value": "2023-01-29T16:08:38+00:00"
       }
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g461300"
-      },
-      {
-        "@id": "_:g470700"
-      },
-      {
-        "@id": "_:g480020"
+        "@id": "_:g496280"
       }
     ],
     "http://schema.org/author": [
@@ -306,148 +1317,2162 @@
     ],
     "http://schema.org/publisher": [
       {
-        "@id": "https://evergreentheatre.ca#Organization"
+        "@id": "https://evergreentheatre.ca/support-get-involved/#Organization"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "http://www.evergreentheatre.ca/"
-      },
-      {
-        "@id": "http://www.evergreentheatre.ca/#"
-      },
-      {
-        "@id": "http://www.evergreentheatre.ca/#newsletter"
+        "@id": "https://evergreentheatre.ca/support-get-involved/"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Evergreen Theatre"
-      },
-      {
         "@value": "Evergreen Theatre"
       }
     ],
     "http://schema.org/headline": [
       {
         "@language": "en",
-        "@value": "Evergreen theatre has developed from a local amateur talent event to a professional venue. It is known across Nova Scotia, and further afield, as a surprising jewel in the travelling performance circuit around the Maritimes., The Evergreen Theatre would like to acknowledge that we are in Mi’kma’ki, the ancestral and"
+        "@value": "Support &#124; Get Involved The Evergreen Theatre is a not-for-profit registered charity with a CRA number. The theatre receives support from four tiers: Government Memberships Donations Volunteers and attendees Government Small theatres such as the Evergreen rely heavily on government funding to keep our doors open."
+      }
+    ]
+  },
+  {
+    "@id": "_:g496260",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/support-get-involved/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g496280",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://evergreentheatre.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/support-get-involved/#Organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/support-get-involved/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://evergreentheatre.ca/support-get-involved/#logo"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "https://evergreentheatre.ca/support-get-involved/#contactpoint"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://evergreentheatre.ca/support-get-involved/#address"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/evergreentheatre"
       },
       {
-        "@value": "Evergreen theatre has developed from a local amateur talent event to a professional venue. It is known across Nova Scotia, and further afield, as a surprising jewel in the travelling performance circuit around the Maritimes., The Evergreen Theatre would like to acknowledge that we are in Mi’kma’ki, the ancestral and"
-      }
-    ],
-    "http://schema.org/keywords": [
-      {
-        "@language": "en",
-        "@value": "live shows and theatre in annapolis valley, evergreen theatre, live music venue, welcoming place with enthusiastic audiences continues to draw performers from across Canada and beyond.,The Evergreen Theatre would like to acknowledge that we are in Mi’kma’ki, the ancestral and unceded land of the Mi’kmaq People"
-      },
-      {
-        "@value": "live shows and theatre in annapolis valley, evergreen theatre, live music venue, welcoming place with enthusiastic audiences continues to draw performers from across Canada and beyond.,The Evergreen Theatre would like to acknowledge that we are in Mi’kma’ki, the ancestral and unceded land of the Mi’kmaq People"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461280",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://evergreentheatre.ca"
-      }
-    ]
-  },
-  {
-    "@id": "_:g470680",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://evergreentheatre.ca"
-      }
-    ]
-  },
-  {
-    "@id": "_:g480000",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://evergreentheatre.ca"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461300",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "en",
-        "@value": "https://evergreentheatre.ca/?s={search_term_string}"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@language": "en",
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g470700",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://evergreentheatre.ca/?s={search_term_string}"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g480020",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://evergreentheatre.ca/?s={search_term_string}"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "http://evergreentheatre.ca#person",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://evergreentheatre.ca"
+        "@id": "https://twitter.com/twitter"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Ingrid van den Hurk"
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "To offer quality professional performing arts with an emphasis on music.\r\nTo provide cultural enrichment, and social and volunteer opportunities for our rural community.\r\nTo provide a performance venue, meeting, and workshop space for the use of the local community."
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/support-get-involved/#logo",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-content/uploads/2022/07/Logo-Evergreen-Grey-Green.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "870"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/support-get-involved/#contactpoint",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+19028256834"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/support-get-involved/#address",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "1941 Stronach Mtn. Road "
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "East Margaretsville "
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Annapolis Valley / Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "B0P 1R0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/our-team/",
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/our-team/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Our Team | Evergreen Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Our Team The Evergreen Theatre Team Artistic Director: David O’Leary Board Members Chairman: Ron Baker Vice Chairman: Alex Smith Treasurer: Crawford Van Horne Secretary: Susan Wedlock Board Member: M"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/wp-content/uploads/2022/09/David_Oleary-small-300x264.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "500"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/png"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/our-team/"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en-us",
+        "@value": "Our Team | Evergreen Theatre"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en-us",
+        "@value": "Our Team The Evergreen Theatre Team Artistic Director: David O’Leary Board Members Chairman: Ron Baker Vice Chairman: Alex Smith Treasurer: Crawford Van Horne Secretary: Susan Wedlock Board Member: Melinda Burchill Board Member: Sonya Tancock  Board Member: Sacha Evans Pa"
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/wp-content/uploads/2022/09/David_Oleary-small-300x264.png"
+      }
+    ],
+    "twitter:domain": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en-us",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:creator": [
+      {
+        "@language": "en-us",
+        "@value": "@twitter"
+      }
+    ],
+    "twitter:site": [
+      {
+        "@language": "en-us",
+        "@value": "@twitter"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/our-team/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/our-team/"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "_:g504800"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-09-05T16:14:55+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-01-03T21:42:18+00:00"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g504820"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g504840"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://evergreentheatre.ca#person"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://evergreentheatre.ca/our-team/#Organization"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://evergreentheatre.ca/our-team/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Our Team The Evergreen Theatre Team Artistic Director: David O’Leary Board Members Chairman: Ron Baker Vice Chairman: Alex Smith Treasurer: Crawford Van Horne Secretary: Susan Wedlock Board Member: Melinda Burchill Board Member: Sonya Tancock  Board Member: Sacha Evans Part-time Staff / Volunteers Sound Technicians:"
+      }
+    ]
+  },
+  {
+    "@id": "_:g504800",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/our-team/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g504820",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-content/uploads/2022/09/David_Oleary-small-300x264.png"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "500"
+      }
+    ]
+  },
+  {
+    "@id": "_:g504840",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://evergreentheatre.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/our-team/#Organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/our-team/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://evergreentheatre.ca/our-team/#logo"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "https://evergreentheatre.ca/our-team/#contactpoint"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://evergreentheatre.ca/our-team/#address"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/evergreentheatre"
       },
       {
-        "@value": "Ingrid van den Hurk"
+        "@id": "https://twitter.com/twitter"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "To offer quality professional performing arts with an emphasis on music.\r\nTo provide cultural enrichment, and social and volunteer opportunities for our rural community.\r\nTo provide a performance venue, meeting, and workshop space for the use of the local community."
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/our-team/#logo",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-content/uploads/2022/07/Logo-Evergreen-Grey-Green.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "870"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/our-team/#contactpoint",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+19028256834"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/our-team/#address",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "1941 Stronach Mtn. Road "
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "East Margaretsville "
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Annapolis Valley / Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "B0P 1R0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/facility-rentals/",
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/facility-rentals/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Facility Rentals | Evergreen Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Facility Rentals The theatre has been rented for weddings, anniversary celebrations, meetings, fundraisers, drum circles and other events. The theatre is a 115-seat facility, located in the rural"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/facility-rentals/"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en-us",
+        "@value": "Facility Rentals | Evergreen Theatre"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en-us",
+        "@value": "Facility Rentals The theatre has been rented for weddings, anniversary celebrations, meetings, fundraisers, drum circles and other events. The theatre is a 115-seat facility, located in the rural setting of East Margaretsville. The theatre has a good-sized stage (24 feet wide by"
+      }
+    ],
+    "twitter:domain": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en-us",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:creator": [
+      {
+        "@language": "en-us",
+        "@value": "@twitter"
+      }
+    ],
+    "twitter:site": [
+      {
+        "@language": "en-us",
+        "@value": "@twitter"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/facility-rentals/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/facility-rentals/"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "_:g513180"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-08-04T17:22:11+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-09-21T20:00:29+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g513200"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://evergreentheatre.ca#person"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://evergreentheatre.ca/facility-rentals/#Organization"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://evergreentheatre.ca/facility-rentals/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Facility Rentals The theatre has been rented for weddings, anniversary celebrations, meetings, fundraisers, drum circles and other events. The theatre is a 115-seat facility, located in the rural setting of East Margaretsville. The theatre has a good-sized stage (24 feet wide by 12 feet deep) with basic stage lighting."
+      }
+    ]
+  },
+  {
+    "@id": "_:g513180",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/facility-rentals/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g513200",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://evergreentheatre.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/facility-rentals/#Organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/facility-rentals/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://evergreentheatre.ca/facility-rentals/#logo"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "https://evergreentheatre.ca/facility-rentals/#contactpoint"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://evergreentheatre.ca/facility-rentals/#address"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/evergreentheatre"
+      },
+      {
+        "@id": "https://twitter.com/twitter"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "To offer quality professional performing arts with an emphasis on music.\r\nTo provide cultural enrichment, and social and volunteer opportunities for our rural community.\r\nTo provide a performance venue, meeting, and workshop space for the use of the local community."
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/facility-rentals/#logo",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-content/uploads/2022/07/Logo-Evergreen-Grey-Green.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "870"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/facility-rentals/#contactpoint",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+19028256834"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/facility-rentals/#address",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "1941 Stronach Mtn. Road "
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "East Margaretsville "
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Annapolis Valley / Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "B0P 1R0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/our-history/",
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/our-history/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "History | Evergreen Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "A bit of History History In 1991 the Fundy Folk Association was formed as a Society with the objectives of developing the culture of the Annapolis Valley Region and providing employment for local"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/wp-content/uploads/2022/09/Historic-photo-1949-Irene-Rafuse-300x240.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "500"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/png"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/our-history/"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en-us",
+        "@value": "History | Evergreen Theatre"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en-us",
+        "@value": "A bit of History History In 1991 the Fundy Folk Association was formed as a Society with the objectives of developing the culture of the Annapolis Valley Region and providing employment for local performers. The initial performances took place in the Margaretsville Fire Hall and"
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/wp-content/uploads/2022/09/Historic-photo-1949-Irene-Rafuse-300x240.png"
+      }
+    ],
+    "twitter:domain": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en-us",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:creator": [
+      {
+        "@language": "en-us",
+        "@value": "@twitter"
+      }
+    ],
+    "twitter:site": [
+      {
+        "@language": "en-us",
+        "@value": "@twitter"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/our-history/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/our-history/"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "_:g521460"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-08-04T15:53:16+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-09-22T13:23:24+00:00"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g521480"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g521500"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://evergreentheatre.ca#person"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://evergreentheatre.ca/our-history/#Organization"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://evergreentheatre.ca/our-history/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "A bit of History History In 1991 the Fundy Folk Association was formed as a Society with the objectives of developing the culture of the Annapolis Valley Region and providing employment for local performers. The initial performances took place in the Margaretsville Fire Hall and over time developed into a mix of local"
+      }
+    ]
+  },
+  {
+    "@id": "_:g521460",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/our-history/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g521480",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-content/uploads/2022/09/Historic-photo-1949-Irene-Rafuse-300x240.png"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "500"
+      }
+    ]
+  },
+  {
+    "@id": "_:g521500",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://evergreentheatre.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/our-history/#Organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/our-history/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://evergreentheatre.ca/our-history/#logo"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "https://evergreentheatre.ca/our-history/#contactpoint"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://evergreentheatre.ca/our-history/#address"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/evergreentheatre"
+      },
+      {
+        "@id": "https://twitter.com/twitter"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "To offer quality professional performing arts with an emphasis on music.\r\nTo provide cultural enrichment, and social and volunteer opportunities for our rural community.\r\nTo provide a performance venue, meeting, and workshop space for the use of the local community."
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/our-history/#logo",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-content/uploads/2022/07/Logo-Evergreen-Grey-Green.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "870"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/our-history/#contactpoint",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+19028256834"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/our-history/#address",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "1941 Stronach Mtn. Road "
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "East Margaretsville "
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Annapolis Valley / Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "B0P 1R0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/rental-options/",
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/rental-options/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Rental Options | Evergreen Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Rental Options The Evergreen is available for your use. We are open for alternate use of our facility by the community. We will make the facility available for use at a very reasonable amount. We"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/rental-options/"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en-us",
+        "@value": "Rental Options | Evergreen Theatre"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en-us",
+        "@value": "Rental Options The Evergreen is available for your use. We are open for alternate use of our facility by the community. We will make the facility available for use at a very reasonable amount. We particularly support non-profit groups and may reduce or omit rental fees for them."
+      }
+    ],
+    "twitter:domain": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en-us",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:creator": [
+      {
+        "@language": "en-us",
+        "@value": "@twitter"
+      }
+    ],
+    "twitter:site": [
+      {
+        "@language": "en-us",
+        "@value": "@twitter"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/rental-options/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/rental-options/"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "_:g529720"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-12-16T20:22:31+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-12-16T20:24:34+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g529740"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://evergreentheatre.ca#person"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://evergreentheatre.ca/rental-options/#Organization"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://evergreentheatre.ca/rental-options/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Rental Options The Evergreen is available for your use. We are open for alternate use of our facility by the community. We will make the facility available for use at a very reasonable amount. We particularly support non-profit groups and may reduce or omit rental fees for them. Rental Use Entertainment"
+      }
+    ]
+  },
+  {
+    "@id": "_:g529720",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/rental-options/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g529740",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://evergreentheatre.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/rental-options/#Organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/rental-options/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://evergreentheatre.ca/rental-options/#logo"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "https://evergreentheatre.ca/rental-options/#contactpoint"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://evergreentheatre.ca/rental-options/#address"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/evergreentheatre"
+      },
+      {
+        "@id": "https://twitter.com/twitter"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "To offer quality professional performing arts with an emphasis on music.\r\nTo provide cultural enrichment, and social and volunteer opportunities for our rural community.\r\nTo provide a performance venue, meeting, and workshop space for the use of the local community."
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/rental-options/#logo",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-content/uploads/2022/07/Logo-Evergreen-Grey-Green.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "870"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/rental-options/#contactpoint",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+19028256834"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/rental-options/#address",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "1941 Stronach Mtn. Road "
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "East Margaretsville "
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Annapolis Valley / Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "B0P 1R0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/fundraising/",
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/fundraising/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Fundraising | Evergreen Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Fundraising We are so grateful to have had such a great response to our four years of fundraising to raise the necessary dollars to complete our brave new addition. Donors’ names are below should y"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.paypal.com/en_CA/i/scr/pixel.gif"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "500"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/gif"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/fundraising/"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en-us",
+        "@value": "Fundraising | Evergreen Theatre"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en-us",
+        "@value": "Fundraising We are so grateful to have had such a great response to our four years of fundraising to raise the necessary dollars to complete our brave new addition. Donors’ names are below should you be interested in seeing who supports us. Most of you probably know that the a"
+      }
+    ],
+    "twitter:image": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.paypal.com/en_CA/i/scr/pixel.gif"
+      }
+    ],
+    "twitter:domain": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en-us",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:creator": [
+      {
+        "@language": "en-us",
+        "@value": "@twitter"
+      }
+    ],
+    "twitter:site": [
+      {
+        "@language": "en-us",
+        "@value": "@twitter"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/fundraising/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/fundraising/"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "_:g537580"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-12-16T19:23:58+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-09-06T14:01:38+00:00"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g537600"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g537620"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://evergreentheatre.ca#person"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://evergreentheatre.ca/fundraising/#Organization"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://evergreentheatre.ca/fundraising/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Fundraising We are so grateful to have had such a great response to our four years of fundraising to raise the necessary dollars to complete our brave new addition. Donors’ names are below should you be interested in seeing who supports us. Most of you probably know that the arts in Canada (and the rest of the world)"
+      }
+    ]
+  },
+  {
+    "@id": "_:g537580",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/fundraising/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g537600",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.paypal.com/en_CA/i/scr/pixel.gif"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "500"
+      }
+    ]
+  },
+  {
+    "@id": "_:g537620",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://evergreentheatre.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/fundraising/#Organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/fundraising/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://evergreentheatre.ca/fundraising/#logo"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "https://evergreentheatre.ca/fundraising/#contactpoint"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://evergreentheatre.ca/fundraising/#address"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/evergreentheatre"
+      },
+      {
+        "@id": "https://twitter.com/twitter"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "To offer quality professional performing arts with an emphasis on music.\r\nTo provide cultural enrichment, and social and volunteer opportunities for our rural community.\r\nTo provide a performance venue, meeting, and workshop space for the use of the local community."
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/fundraising/#logo",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-content/uploads/2022/07/Logo-Evergreen-Grey-Green.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "870"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/fundraising/#contactpoint",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+19028256834"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/fundraising/#address",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "1941 Stronach Mtn. Road "
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "East Margaretsville "
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Annapolis Valley / Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "B0P 1R0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/contact/",
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/contact/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Contact | Evergreen Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Contact Us Click to Call 902 825 6834"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "twitter:url": [
+      {
+        "@language": "en-us",
+        "@value": "https://evergreentheatre.ca/contact/"
+      }
+    ],
+    "twitter:title": [
+      {
+        "@language": "en-us",
+        "@value": "Contact | Evergreen Theatre"
+      }
+    ],
+    "twitter:description": [
+      {
+        "@language": "en-us",
+        "@value": "Contact Us Click to Call 902 825 6834"
+      }
+    ],
+    "twitter:domain": [
+      {
+        "@language": "en-us",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "twitter:card": [
+      {
+        "@language": "en-us",
+        "@value": "summary_large_image"
+      }
+    ],
+    "twitter:creator": [
+      {
+        "@language": "en-us",
+        "@value": "@twitter"
+      }
+    ],
+    "twitter:site": [
+      {
+        "@language": "en-us",
+        "@value": "@twitter"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/contact/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/contact/"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "_:g546080"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-12-16T17:21:51+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-18T12:37:38+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g546100"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "http://evergreentheatre.ca#person"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://evergreentheatre.ca/contact/#Organization"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://evergreentheatre.ca/contact/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Contact Us Click to Call 902 825 6834"
+      }
+    ]
+  },
+  {
+    "@id": "_:g546080",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/contact/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g546100",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://evergreentheatre.ca/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "en",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/contact/#Organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/contact/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://evergreentheatre.ca/contact/#logo"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "https://evergreentheatre.ca/contact/#contactpoint"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://evergreentheatre.ca/contact/#address"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/evergreentheatre"
+      },
+      {
+        "@id": "https://twitter.com/twitter"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "To offer quality professional performing arts with an emphasis on music.\r\nTo provide cultural enrichment, and social and volunteer opportunities for our rural community.\r\nTo provide a performance venue, meeting, and workshop space for the use of the local community."
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/contact/#logo",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://evergreentheatre.ca/wp-content/uploads/2022/07/Logo-Evergreen-Grey-Green.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "870"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Evergreen Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/contact/#contactpoint",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "+19028256834"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "en",
+        "@value": "customer service"
+      }
+    ]
+  },
+  {
+    "@id": "https://evergreentheatre.ca/contact/#address",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "1941 Stronach Mtn. Road "
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "East Margaretsville "
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Annapolis Valley / Nova Scotia"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "B0P 1R0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
       }
     ]
   }
