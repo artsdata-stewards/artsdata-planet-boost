@@ -4,13 +4,15 @@
 require 'sparql/client'
 require 'json'
 require 'uri'
+require 'securerandom'
 
 endpoint = "https://query.wikidata.org/sparql"
 sparql = <<'SPARQL'.chop
-SELECT ?org ?artsdataID ?url WHERE {
+SELECT ?org ?artsdataID ?url ?name WHERE {
   ?org wdt:P31/wdt:P279* wd:Q7168296 .
   ?org wdt:P7627 ?artsdataID .
   ?org wdt:P856 ?url .
+  ?org rdfs:label ?name .
 }
 SPARQL
 
@@ -29,16 +31,25 @@ def artifact_from_url(url)
   host.gsub('.', '-')
 end
 
+date = Time.now.strftime("%Y-%m-%d-%H:%M")
+uuid = SecureRandom.uuid
 data = rows.map do |row|
   url = row[:url].to_s
-
   {
+    "file_name" => "metadata_config_wikidata_#{uuid}",
     "url" => url,
-    "artifact" => artifact_from_url(url)
+    "artifact" => artifact_from_url(url),
+    "same_as" => row[:org].to_s,
+    "name" => row[:name].to_s,
+    "datafeed_uri" => "urn:datafeed:#{uuid}",
+    "datafeed_title" => "Collection of Wikidata presenter websites",
+    "metadata_artifact" => "wikidata-crawl-metadata"
   }
 end
 data = data.uniq { |d| d["url"] }
-batch_size = 50
+data = data.uniq { |d| d["same_as"] }
+data = data[0, 5] #limit to first 5 for testing
+batch_size = 5
 batches = data.each_slice(batch_size).to_a
 
 batches.each_with_index do |batch, i|

@@ -5,8 +5,6 @@ on:
 
 jobs:
   fetch_organizations:
-    outputs:
-      matrix: ${{ steps.process-matrix.outputs.matrix }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -43,9 +41,8 @@ jobs:
 
       - name: Dispatch workflows with file content
         run: |
-            BATCH_DIR="${{ steps.batches.outputs.download-path }}"
-
-            for file in "$BATCH_DIR"/wikidata_orgs_*.json; do
+          BATCH_DIR="${{ steps.batches.outputs.download-path }}"
+          for file in "$BATCH_DIR"/wikidata_orgs_*.json; do
             echo "Reading: $file"
 
             # Encode file content in Base64
@@ -55,4 +52,4 @@ jobs:
             gh workflow run process-batch.yml \
                 --ref main \
                 --field batch_content="$CONTENT"
-            done
+          done

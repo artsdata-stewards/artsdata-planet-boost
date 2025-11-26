@@ -46,3 +46,13 @@ jobs:
           token: "${{ secrets.GITHUB_TOKEN }}"
           custom-databus-url: "http://staging.api.artsdata.ca/databus/"
           publisher: "http://kg.artsdata.ca/resource/K1-202"
+          metadata-config: |
+            {
+              "file_name": ${{ matrix.org.file_name }},
+              "datafeed_uri": "${{ matrix.org.datafeed_uri }}",
+              "datafeed_title": "${{ matrix.org.datafeed_title }}",
+              "datafeed_name": "${{ matrix.org.name }}",
+              "datafeed_url": "${{ matrix.org.url }}",
+              "same_as": "${{ matrix.org.same_as }}",
+            }
+
