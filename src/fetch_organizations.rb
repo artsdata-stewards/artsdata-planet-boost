@@ -36,7 +36,7 @@ uuid = SecureRandom.uuid
 data = rows.map do |row|
   url = row[:url].to_s
   {
-    "file_name" => "metadata_wikidata_spider#{uuid}.jsonld",
+    "file_name" => "metadata_wikidata_spider.jsonld",
     "url" => url,
     "artifact" => artifact_from_url(url),
     "same_as" => row[:org].to_s,
@@ -48,7 +48,7 @@ data = rows.map do |row|
 end
 data = data.uniq { |d| d["url"] }
 data = data.uniq { |d| d["same_as"] }
-data = data[0, 10] #limit to first 10 for testing
+data = data[0, 20] #limit to first 20 for testing
 batch_size = 5
 batches = data.each_slice(batch_size).to_a
 
