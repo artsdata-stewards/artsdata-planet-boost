@@ -54,5 +54,6 @@ jobs:
               "datafeed_name": "${{ matrix.org.name }}",
               "datafeed_url": "${{ matrix.org.url }}",
               "same_as": "${{ matrix.org.same_as }}",
+              "metadata_artifact": "${{ matrix.org.metadata_artifact }}"
             }
 

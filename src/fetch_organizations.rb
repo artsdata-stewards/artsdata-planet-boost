@@ -36,14 +36,14 @@ uuid = SecureRandom.uuid
 data = rows.map do |row|
   url = row[:url].to_s
   {
-    "file_name" => "metadata_config_wikidata_#{uuid}",
+    "file_name" => "metadata_wikidata_spider#{uuid}.jsonld",
     "url" => url,
     "artifact" => artifact_from_url(url),
     "same_as" => row[:org].to_s,
     "name" => row[:name].to_s,
     "datafeed_uri" => "urn:datafeed:#{uuid}",
     "datafeed_title" => "Collection of Wikidata presenter websites",
-    "metadata_artifact" => "wikidata-crawl-metadata"
+    "metadata_artifact" => "wikidata-spider-crawl-metadata"
   }
 end
 data = data.uniq { |d| d["url"] }
