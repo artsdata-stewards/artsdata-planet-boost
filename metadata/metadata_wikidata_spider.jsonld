@@ -11,6 +11,9 @@
     ],
     "http://schema.org/datafeedElement": [
       {
+        "@value": "https://www.prismaticfestival.com"
+      },
+      {
         "@value": "https://www.lsq.quebec"
       },
       {
@@ -30,6 +33,102 @@
       },
       {
         "@value": "https://www.ville.lasarre.qc.ca"
+      }
+    ]
+  },
+  {
+    "@id": "urn:organization:477386c6-be18-41f0-97b8-620fa5372178",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Prismatic Arts Festival"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q112510074"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://www.prismaticfestival.com"
+      }
+    ]
+  },
+  {
+    "@id": "urn:crawl:4b48eeb7-5112-4f60-a809-119b1de07cfa",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://www.w3.org/ns/prov#used": [
+      {
+        "@value": "https://www.prismaticfestival.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#startedAtTime": [
+      {
+        "@value": "2025-11-26T14:44:15Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+      {
+        "@value": "2025-11-26T15:25:59Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasInformedBy": [
+      {
+        "@value": "http://kg.artsdata.ca/resource/SpiderActivity"
+      }
+    ],
+    "http://schema.org/additionalProperty": [
+      {
+        "@id": "_:b0"
+      }
+    ]
+  },
+  {
+    "@id": "_:b0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "urlsCrawledCount"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "588"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/prismaticfestival-com/2025-11-26T10_26_07#Dataset",
+    "@type": [
+      "http://www.w3.org/ns/prov#Entity"
+    ],
+    "http://www.w3.org/ns/prov#wasGeneratedBy": [
+      {
+        "@value": "urn:crawl:4b48eeb7-5112-4f60-a809-119b1de07cfa"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/SpiderActivity",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Spider crawl"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
       }
     ]
   },
@@ -81,12 +180,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b0"
+        "@id": "_:g7133320"
       }
     ]
   },
   {
-    "@id": "_:b0",
+    "@id": "_:g7133320",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -110,22 +209,6 @@
     "http://www.w3.org/ns/prov#wasGeneratedBy": [
       {
         "@value": "urn:crawl:4ad27e51-cf0f-41e2-b725-464bb2b897ad"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.artsdata.ca/SpiderActivity",
-    "@type": [
-      "http://www.w3.org/ns/prov#Activity"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Spider crawl"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
       }
     ]
   },
@@ -177,12 +260,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:g5475200"
+        "@id": "_:b1"
       }
     ]
   },
   {
-    "@id": "_:g5475200",
+    "@id": "_:b1",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -257,12 +340,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b1"
+        "@id": "_:b2"
       }
     ]
   },
   {
-    "@id": "_:b1",
+    "@id": "_:b2",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -337,12 +420,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b2"
+        "@id": "_:b3"
       }
     ]
   },
   {
-    "@id": "_:b2",
+    "@id": "_:b3",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -417,12 +500,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b3"
+        "@id": "_:b4"
       }
     ]
   },
   {
-    "@id": "_:b3",
+    "@id": "_:b4",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -497,12 +580,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b4"
+        "@id": "_:b5"
       }
     ]
   },
   {
-    "@id": "_:b4",
+    "@id": "_:b5",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -577,12 +660,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b5"
+        "@id": "_:b6"
       }
     ]
   },
   {
-    "@id": "_:b5",
+    "@id": "_:b6",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
