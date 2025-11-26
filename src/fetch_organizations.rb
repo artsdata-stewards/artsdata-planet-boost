@@ -48,7 +48,7 @@ data = rows.map do |row|
 end
 data = data.uniq { |d| d["url"] }
 data = data.uniq { |d| d["same_as"] }
-data = data[0, 5] #limit to first 5 for testing
+data = data[0, 10] #limit to first 10 for testing
 batch_size = 5
 batches = data.each_slice(batch_size).to_a
 
