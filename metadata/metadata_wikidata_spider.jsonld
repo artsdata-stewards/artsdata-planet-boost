@@ -11,10 +11,109 @@
     ],
     "http://schema.org/datafeedElement": [
       {
+        "@value": "https://www.thegrandyyc.ca/"
+      },
+      {
         "@value": "https://www.keycitytheatre.com"
       },
       {
         "@value": "https://www.ville.lasarre.qc.ca"
+      }
+    ]
+  },
+  {
+    "@id": "urn:organization:05c93c8b-d37e-455d-9342-5db0520da77b",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The GRAND"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q112510060"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://www.thegrandyyc.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "urn:crawl:6ec30fed-48d3-47e0-a50b-11889c0b2863",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://www.w3.org/ns/prov#used": [
+      {
+        "@value": "https://www.thegrandyyc.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#startedAtTime": [
+      {
+        "@value": "2025-11-26T14:44:08Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+      {
+        "@value": "2025-11-26T14:53:27Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasInformedBy": [
+      {
+        "@value": "http://kg.artsdata.ca/resource/SpiderActivity"
+      }
+    ],
+    "http://schema.org/additionalProperty": [
+      {
+        "@id": "_:b0"
+      }
+    ]
+  },
+  {
+    "@id": "_:b0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "urlsCrawledCount"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "211"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/thegrandyyc-ca/2025-11-26T09_53_29#Dataset",
+    "@type": [
+      "http://www.w3.org/ns/prov#Entity"
+    ],
+    "http://www.w3.org/ns/prov#wasGeneratedBy": [
+      {
+        "@value": "urn:crawl:6ec30fed-48d3-47e0-a50b-11889c0b2863"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/SpiderActivity",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Spider crawl"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
       }
     ]
   },
@@ -66,12 +165,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b0"
+        "@id": "_:g1718420"
       }
     ]
   },
   {
-    "@id": "_:b0",
+    "@id": "_:g1718420",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -95,22 +194,6 @@
     "http://www.w3.org/ns/prov#wasGeneratedBy": [
       {
         "@value": "urn:crawl:d5cce54f-c892-4219-a026-e71da71ccebc"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.artsdata.ca/SpiderActivity",
-    "@type": [
-      "http://www.w3.org/ns/prov#Activity"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Spider crawl"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
       }
     ]
   },
@@ -162,12 +245,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:g3060480"
+        "@id": "_:b1"
       }
     ]
   },
   {
-    "@id": "_:g3060480",
+    "@id": "_:b1",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
