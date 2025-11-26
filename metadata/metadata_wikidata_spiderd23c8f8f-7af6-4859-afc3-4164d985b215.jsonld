@@ -11,7 +11,106 @@
     ],
     "http://schema.org/datafeedElement": [
       {
+        "@value": "https://naccnt.ca"
+      },
+      {
         "@value": "https://artspring.ca"
+      }
+    ]
+  },
+  {
+    "@id": "urn:organization:84778b53-4394-4167-9c45-231455426902",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Northern Arts and Cultural Centre"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q112510100"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://naccnt.ca"
+      }
+    ]
+  },
+  {
+    "@id": "urn:crawl:58b610d3-3625-4148-ae63-97c18a6b508d",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://www.w3.org/ns/prov#used": [
+      {
+        "@value": "https://naccnt.ca"
+      }
+    ],
+    "http://www.w3.org/ns/prov#startedAtTime": [
+      {
+        "@value": "2025-11-26T13:46:26Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+      {
+        "@value": "2025-11-26T13:47:11Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasInformedBy": [
+      {
+        "@value": "http://kg.artsdata.ca/resource/SpiderActivity"
+      }
+    ],
+    "http://schema.org/additionalProperty": [
+      {
+        "@id": "_:b0"
+      }
+    ]
+  },
+  {
+    "@id": "_:b0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "urlsCrawledCount"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "20"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/naccnt-ca/2025-11-26T19_17_14#Dataset",
+    "@type": [
+      "http://www.w3.org/ns/prov#Entity"
+    ],
+    "http://www.w3.org/ns/prov#wasGeneratedBy": [
+      {
+        "@value": "urn:crawl:58b610d3-3625-4148-ae63-97c18a6b508d"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/SpiderActivity",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Spider crawl"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
       }
     ]
   },
@@ -63,12 +162,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b0"
+        "@id": "_:g875040"
       }
     ]
   },
   {
-    "@id": "_:b0",
+    "@id": "_:g875040",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -92,22 +191,6 @@
     "http://www.w3.org/ns/prov#wasGeneratedBy": [
       {
         "@value": "urn:crawl:b583bca6-89db-4810-967b-15f413a32133"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.artsdata.ca/SpiderActivity",
-    "@type": [
-      "http://www.w3.org/ns/prov#Activity"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Spider crawl"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
       }
     ]
   }
