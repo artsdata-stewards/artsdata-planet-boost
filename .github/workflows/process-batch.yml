@@ -48,7 +48,7 @@ jobs:
           publisher: "http://kg.artsdata.ca/resource/K1-202"
           metadata-config: |
             {
-              "file_name": ${{ matrix.org.file_name }},
+              "file_name": "${{ matrix.org.file_name }}",
               "datafeed_uri": "${{ matrix.org.datafeed_uri }}",
               "datafeed_title": "${{ matrix.org.datafeed_title }}",
               "datafeed_name": "${{ matrix.org.name }}",
