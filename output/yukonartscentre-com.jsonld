@@ -1,6 +1,6 @@
 [
   {
-    "@id": "_:g570980",
+    "@id": "_:g534480",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -12,13 +12,13 @@
     ]
   },
   {
-    "@id": "_:g571000",
+    "@id": "_:g534500",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g571020"
+        "@id": "_:g534520"
       }
     ],
     "http://schema.org/name": [
@@ -29,7 +29,7 @@
     ]
   },
   {
-    "@id": "_:g571020",
+    "@id": "_:g534520",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -65,13 +65,13 @@
     ]
   },
   {
-    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/35001",
+    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/45801",
     "@type": [
       "http://schema.org/Offer"
     ]
   },
   {
-    "@id": "https://yukonartscentre.com/whats-on/mysteries-of-the-keyhole-house/",
+    "@id": "https://yukonartscentre.com/whats-on/opera-performance-by-tessa-fackelmann/",
     "http://ogp.me/ns#type": [
       {
         "@language": "en-us",
@@ -81,19 +81,19 @@
     "http://ogp.me/ns#title": [
       {
         "@language": "en-us",
-        "@value": "Mysteries of the Keyhole House"
+        "@value": "Evening of opera with Tessa Fackelmann"
       }
     ],
     "http://ogp.me/ns#description": [
       {
         "@language": "en-us",
-        "@value": "What happens when two of Canada’s master illusionists move into a century-old house, that’s rumoured to be haunted? Join Ted and Marion Outerbridge – fresh from mesmerizing audiences at Hollywood’s Magic Castle – as they blend their family friendly illusions…"
+        "@value": "NOTE: This is being held at the Whitehorse United Church. Tessa Fackelmann, mezzo-soprano, is rapidly emerging as a distinctive voice among the next generation of operatic talent, praised for her expressive tone, compelling stage presence, and emotional depth. In 2025,…"
       }
     ],
     "http://ogp.me/ns#image": [
       {
         "@language": "en-us",
-        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/07/keyhole-website-1200x709.jpg"
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/11/Untitled-design.jpg"
       }
     ],
     "https://api.w.org/": [
@@ -103,62 +103,62 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://yukonartscentre.com/whats-on/mysteries-of-the-keyhole-house/"
+        "@id": "https://yukonartscentre.com/whats-on/opera-performance-by-tessa-fackelmann/"
       }
     ]
   },
   {
-    "@id": "https://yukonartscentre.com/temporary/49b109a8-6abb-4f91-a77e-27cb87c41bee",
+    "@id": "https://yukonartscentre.com/temporary/8bb8a2e8-83fd-4616-aba1-abcd6f2bef4c",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/07/keyhole-website-1024x605.jpg"
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/11/Untitled-design-1024x465.jpg"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-23T19:00:00-07:00"
+        "@value": "2025-12-18T19:00:00-07:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-23T19:00:00-07:00"
+        "@value": "2025-12-18T19:00:00-07:00"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g570980"
+        "@id": "_:g534480"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g571000"
+        "@id": "_:g534500"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/35001"
+        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/45801"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://yukonartscentre.com/whats-on/mysteries-of-the-keyhole-house/"
+        "@id": "https://yukonartscentre.com/whats-on/opera-performance-by-tessa-fackelmann/"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Mysteries of the Keyhole House"
+        "@value": "Evening of opera with Tessa Fackelmann"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "What happens when two of Canada’s master illusionists move into a century-old house, that’s rumoured to be haunted? Join Ted and Marion Outerbridge – fresh from mesmerizing audiences at Hollywood’s Magic Castle – as they blend their family friendly illusions…"
+        "@value": "NOTE: This is being held at the Whitehorse United Church. Tessa Fackelmann, mezzo-soprano, is rapidly emerging as a distinctive voice among the next generation of operatic talent, praised for her expressive tone, compelling stage presence, and emotional depth. In 2025,…"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -173,7 +173,7 @@
     ]
   },
   {
-    "@id": "_:g579440",
+    "@id": "_:g578840",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -185,13 +185,13 @@
     ]
   },
   {
-    "@id": "_:g579460",
+    "@id": "_:g578860",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g579480"
+        "@id": "_:g578880"
       }
     ],
     "http://schema.org/name": [
@@ -202,180 +202,7 @@
     ]
   },
   {
-    "@id": "_:g579480",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "300 University Drive"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Whitehorse"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "YK"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "Y1A 5X9"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/35201",
-    "@type": [
-      "http://schema.org/Offer"
-    ]
-  },
-  {
-    "@id": "https://yukonartscentre.com/whats-on/an-evening-of-conversation-with-waubeshig-rice-and-ivan-coyote/",
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "website"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "An Evening of Conversation with Waubgeshig Rice and Ivan Coyote"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-us",
-        "@value": "Waubgeshig Rice grew up in Wasauksing First Nation on the shores of Georgian Bay, in the southeast of Robinson-Huron Treaty territory. He’s a writer, listener, speaker, language learner, and a martial artist, holding a black belt in Brazilian Jiu-Jitsu. He…"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-us",
-        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/07/active-voice-website-1200x776.jpg"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://yukonartscentre.com/wp-json/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://yukonartscentre.com/whats-on/an-evening-of-conversation-with-waubeshig-rice-and-ivan-coyote/"
-      }
-    ]
-  },
-  {
-    "@id": "https://yukonartscentre.com/temporary/8657797d-f724-4203-bd37-83aa6b39e14d",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/07/active-voice-website-1024x663.jpg"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-26T19:00:00-07:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-26T19:00:00-07:00"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g579440"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g579460"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://purchasing.yukonartscentre.com/ChooseSeats/35201"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://yukonartscentre.com/whats-on/an-evening-of-conversation-with-waubeshig-rice-and-ivan-coyote/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "An Evening of Conversation with Waubgeshig Rice and Ivan Coyote"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Waubgeshig Rice grew up in Wasauksing First Nation on the shores of Georgian Bay, in the southeast of Robinson-Huron Treaty territory. He’s a writer, listener, speaker, language learner, and a martial artist, holding a black belt in Brazilian Jiu-Jitsu. He…"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "_:g588580",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Yukon Arts Centre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g588600",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g588620"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Yukon Arts Centre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g588620",
+    "@id": "_:g578880",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -454,7 +281,7 @@
     ]
   },
   {
-    "@id": "https://yukonartscentre.com/temporary/74ac3b4a-91fe-4611-8096-5069f0ce44ed",
+    "@id": "https://yukonartscentre.com/temporary/f3489aff-a324-46df-ba10-ca14ab8b3538",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -477,12 +304,12 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g588580"
+        "@id": "_:g578840"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g588600"
+        "@id": "_:g578860"
       }
     ],
     "http://schema.org/offers": [
@@ -519,7 +346,7 @@
     ]
   },
   {
-    "@id": "_:g599320",
+    "@id": "_:g589660",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -531,13 +358,13 @@
     ]
   },
   {
-    "@id": "_:g599340",
+    "@id": "_:g589680",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g599360"
+        "@id": "_:g589700"
       }
     ],
     "http://schema.org/name": [
@@ -548,7 +375,7 @@
     ]
   },
   {
-    "@id": "_:g599360",
+    "@id": "_:g589700",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -627,7 +454,7 @@
     ]
   },
   {
-    "@id": "https://yukonartscentre.com/temporary/69bc2932-139c-4e89-8747-332d177ef0d6",
+    "@id": "https://yukonartscentre.com/temporary/4a81e35a-ae36-4dda-b949-33187097c855",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -650,12 +477,12 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g599320"
+        "@id": "_:g589660"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g599340"
+        "@id": "_:g589680"
       }
     ],
     "http://schema.org/offers": [
@@ -692,7 +519,7 @@
     ]
   },
   {
-    "@id": "_:g608080",
+    "@id": "_:g598320",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -704,13 +531,13 @@
     ]
   },
   {
-    "@id": "_:g608100",
+    "@id": "_:g598340",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g608120"
+        "@id": "_:g598360"
       }
     ],
     "http://schema.org/name": [
@@ -721,7 +548,7 @@
     ]
   },
   {
-    "@id": "_:g608120",
+    "@id": "_:g598360",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -800,7 +627,7 @@
     ]
   },
   {
-    "@id": "https://yukonartscentre.com/temporary/9fc17948-501d-4ca3-b729-33f63e785f1c",
+    "@id": "https://yukonartscentre.com/temporary/bcf6949f-633c-474f-bae5-55ba6bb31082",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -823,12 +650,12 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g608080"
+        "@id": "_:g598320"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g608100"
+        "@id": "_:g598340"
       }
     ],
     "http://schema.org/offers": [
@@ -865,7 +692,7 @@
     ]
   },
   {
-    "@id": "_:g616480",
+    "@id": "_:g606800",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -877,13 +704,13 @@
     ]
   },
   {
-    "@id": "_:g616500",
+    "@id": "_:g606820",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g616520"
+        "@id": "_:g606840"
       }
     ],
     "http://schema.org/name": [
@@ -894,7 +721,7 @@
     ]
   },
   {
-    "@id": "_:g616520",
+    "@id": "_:g606840",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -973,7 +800,7 @@
     ]
   },
   {
-    "@id": "https://yukonartscentre.com/temporary/754bbd3a-2c17-4b36-9bc3-0a81ed4eba75",
+    "@id": "https://yukonartscentre.com/temporary/5b3b8777-e30c-4bd1-8442-d8b981214e4f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -996,12 +823,12 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g616480"
+        "@id": "_:g606800"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g616500"
+        "@id": "_:g606820"
       }
     ],
     "http://schema.org/offers": [
@@ -1038,7 +865,7 @@
     ]
   },
   {
-    "@id": "_:g624440",
+    "@id": "_:g614900",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1050,13 +877,13 @@
     ]
   },
   {
-    "@id": "_:g624460",
+    "@id": "_:g614920",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g624480"
+        "@id": "_:g614940"
       }
     ],
     "http://schema.org/name": [
@@ -1067,7 +894,7 @@
     ]
   },
   {
-    "@id": "_:g624480",
+    "@id": "_:g614940",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1146,7 +973,7 @@
     ]
   },
   {
-    "@id": "https://yukonartscentre.com/temporary/196aff10-2d6a-4ad1-b590-4b5c86a9e1ed",
+    "@id": "https://yukonartscentre.com/temporary/235abdca-788e-487f-ac1f-7e636ec9f8a1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1169,12 +996,12 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g624440"
+        "@id": "_:g614900"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g624460"
+        "@id": "_:g614920"
       }
     ],
     "http://schema.org/offers": [
@@ -1211,7 +1038,7 @@
     ]
   },
   {
-    "@id": "_:g632660",
+    "@id": "_:g623080",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1223,13 +1050,13 @@
     ]
   },
   {
-    "@id": "_:g632680",
+    "@id": "_:g623100",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g632700"
+        "@id": "_:g623120"
       }
     ],
     "http://schema.org/name": [
@@ -1240,7 +1067,7 @@
     ]
   },
   {
-    "@id": "_:g632700",
+    "@id": "_:g623120",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1319,7 +1146,7 @@
     ]
   },
   {
-    "@id": "https://yukonartscentre.com/temporary/3b811a98-5f84-4ac1-ae39-e5a17b7dfec8",
+    "@id": "https://yukonartscentre.com/temporary/f56775cb-dcf1-482d-b356-cd7daca82849",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1342,12 +1169,12 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g632660"
+        "@id": "_:g623080"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g632680"
+        "@id": "_:g623100"
       }
     ],
     "http://schema.org/offers": [
@@ -1384,7 +1211,7 @@
     ]
   },
   {
-    "@id": "_:g640680",
+    "@id": "_:g631160",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1396,13 +1223,13 @@
     ]
   },
   {
-    "@id": "_:g640700",
+    "@id": "_:g631180",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g640720"
+        "@id": "_:g631200"
       }
     ],
     "http://schema.org/name": [
@@ -1413,7 +1240,7 @@
     ]
   },
   {
-    "@id": "_:g640720",
+    "@id": "_:g631200",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1492,7 +1319,7 @@
     ]
   },
   {
-    "@id": "https://yukonartscentre.com/temporary/4b9fab85-0d66-4a5a-8f75-e461cdd27b83",
+    "@id": "https://yukonartscentre.com/temporary/281548b6-efdd-468b-9602-100feb31605f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1515,12 +1342,12 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g640680"
+        "@id": "_:g631160"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g640700"
+        "@id": "_:g631180"
       }
     ],
     "http://schema.org/offers": [
@@ -1557,7 +1384,7 @@
     ]
   },
   {
-    "@id": "_:g648640",
+    "@id": "_:g639120",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1569,13 +1396,13 @@
     ]
   },
   {
-    "@id": "_:g648660",
+    "@id": "_:g639140",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g648680"
+        "@id": "_:g639160"
       }
     ],
     "http://schema.org/name": [
@@ -1586,7 +1413,7 @@
     ]
   },
   {
-    "@id": "_:g648680",
+    "@id": "_:g639160",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1665,7 +1492,7 @@
     ]
   },
   {
-    "@id": "https://yukonartscentre.com/temporary/024944a3-e990-49ec-a61c-5948a8b2b19b",
+    "@id": "https://yukonartscentre.com/temporary/81a219a7-7739-49ba-b977-60054da51b1f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1688,12 +1515,12 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g648640"
+        "@id": "_:g639120"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g648660"
+        "@id": "_:g639140"
       }
     ],
     "http://schema.org/offers": [
@@ -1730,7 +1557,7 @@
     ]
   },
   {
-    "@id": "_:g656680",
+    "@id": "_:g647080",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1742,13 +1569,13 @@
     ]
   },
   {
-    "@id": "_:g656700",
+    "@id": "_:g647100",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g656720"
+        "@id": "_:g647120"
       }
     ],
     "http://schema.org/name": [
@@ -1759,7 +1586,7 @@
     ]
   },
   {
-    "@id": "_:g656720",
+    "@id": "_:g647120",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1838,7 +1665,7 @@
     ]
   },
   {
-    "@id": "https://yukonartscentre.com/temporary/c5024e4b-a940-4f83-9e4b-0729040082fa",
+    "@id": "https://yukonartscentre.com/temporary/fc6f5b32-0e15-46de-99cd-bcaeee0b38d6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1861,12 +1688,12 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g656680"
+        "@id": "_:g647080"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g656700"
+        "@id": "_:g647100"
       }
     ],
     "http://schema.org/offers": [
@@ -1903,7 +1730,7 @@
     ]
   },
   {
-    "@id": "_:g665020",
+    "@id": "_:g655080",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1915,13 +1742,13 @@
     ]
   },
   {
-    "@id": "_:g665040",
+    "@id": "_:g655100",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g665060"
+        "@id": "_:g655120"
       }
     ],
     "http://schema.org/name": [
@@ -1932,7 +1759,7 @@
     ]
   },
   {
-    "@id": "_:g665060",
+    "@id": "_:g655120",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2011,7 +1838,7 @@
     ]
   },
   {
-    "@id": "https://yukonartscentre.com/temporary/92a265b4-fed3-47c7-a701-151ecb31ea97",
+    "@id": "https://yukonartscentre.com/temporary/0784c9ea-01bb-44b1-aafb-fd5af0a4de2b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2034,12 +1861,12 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g665020"
+        "@id": "_:g655080"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g665040"
+        "@id": "_:g655100"
       }
     ],
     "http://schema.org/offers": [
@@ -2076,7 +1903,7 @@
     ]
   },
   {
-    "@id": "_:g673060",
+    "@id": "_:g663060",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2088,13 +1915,13 @@
     ]
   },
   {
-    "@id": "_:g673080",
+    "@id": "_:g663080",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g673100"
+        "@id": "_:g663100"
       }
     ],
     "http://schema.org/name": [
@@ -2105,7 +1932,7 @@
     ]
   },
   {
-    "@id": "_:g673100",
+    "@id": "_:g663100",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2184,7 +2011,7 @@
     ]
   },
   {
-    "@id": "https://yukonartscentre.com/temporary/eb18f753-d0bd-4ae7-b8f4-c8a3778caba0",
+    "@id": "https://yukonartscentre.com/temporary/d4c4239a-4e1c-4b12-b60d-552f02a0b1e4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2207,12 +2034,12 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g673060"
+        "@id": "_:g663060"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g673080"
+        "@id": "_:g663080"
       }
     ],
     "http://schema.org/offers": [
@@ -2249,7 +2076,7 @@
     ]
   },
   {
-    "@id": "_:g681040",
+    "@id": "_:g671040",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2261,13 +2088,13 @@
     ]
   },
   {
-    "@id": "_:g681060",
+    "@id": "_:g671060",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g681080"
+        "@id": "_:g671080"
       }
     ],
     "http://schema.org/name": [
@@ -2278,7 +2105,7 @@
     ]
   },
   {
-    "@id": "_:g681080",
+    "@id": "_:g671080",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2357,7 +2184,7 @@
     ]
   },
   {
-    "@id": "https://yukonartscentre.com/temporary/cf9ad860-b743-44d9-84cc-6337c2f61b0c",
+    "@id": "https://yukonartscentre.com/temporary/02a578a8-7019-4d28-802b-3ed8cb8bff5d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2380,12 +2207,12 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g681040"
+        "@id": "_:g671040"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g681060"
+        "@id": "_:g671060"
       }
     ],
     "http://schema.org/offers": [
@@ -2422,7 +2249,7 @@
     ]
   },
   {
-    "@id": "_:g689400",
+    "@id": "_:g679480",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2434,13 +2261,13 @@
     ]
   },
   {
-    "@id": "_:g689420",
+    "@id": "_:g679500",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g689440"
+        "@id": "_:g679520"
       }
     ],
     "http://schema.org/name": [
@@ -2451,7 +2278,7 @@
     ]
   },
   {
-    "@id": "_:g689440",
+    "@id": "_:g679520",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2530,7 +2357,7 @@
     ]
   },
   {
-    "@id": "https://yukonartscentre.com/temporary/90d34118-5dc8-4087-ab0f-2d1e197db09c",
+    "@id": "https://yukonartscentre.com/temporary/d6a311fb-82c5-4f6f-a969-5bf019b51de5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2553,12 +2380,12 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g689400"
+        "@id": "_:g679480"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g689420"
+        "@id": "_:g679500"
       }
     ],
     "http://schema.org/offers": [
@@ -2581,6 +2408,179 @@
       {
         "@language": "en",
         "@value": "Come out and warm your hearts and toes and join the All-City Band Society for our Music for a Winter&#039;s Eve Concert. You won&#039;t want to miss this delightful celebration of community music making with the students of Porter Creek,…"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g687400",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g687420",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g687440"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Yukon Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g687440",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "300 University Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "YK"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "Y1A 5X9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://purchasing.yukonartscentre.com/EventAvailability?EventId=33001",
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/whats-on/velvet-antler-christmas-kickoff/",
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Velvet Antler: Christmas Kickoff"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Velvet Antler Productions is excited to bring back its Christmas Kickoff to the Arts Centre stage. Join us, the VA band, dancers and other fabulous community performers in celebrating the kickoff of the festive season! This is a family friendly…"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://yukonartscentre.com/wp-content/uploads/2025/11/velvet-antler-1200x984.jpg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://yukonartscentre.com/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/velvet-antler-christmas-kickoff/"
+      }
+    ]
+  },
+  {
+    "@id": "https://yukonartscentre.com/temporary/834745df-3600-4f3c-892f-4105cfee3657",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://yukonartscentre.com/wp-content/uploads/2025/11/velvet-antler-1024x840.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-30T19:00:00-07:00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g687400"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g687420"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://purchasing.yukonartscentre.com/EventAvailability?EventId=33001"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://yukonartscentre.com/whats-on/velvet-antler-christmas-kickoff/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Velvet Antler: Christmas Kickoff"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Velvet Antler Productions is excited to bring back its Christmas Kickoff to the Arts Centre stage. Join us, the VA band, dancers and other fabulous community performers in celebrating the kickoff of the festive season! This is a family friendly…"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
