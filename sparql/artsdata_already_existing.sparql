@@ -1,0 +1,10 @@
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX adr: <http://kg.artsdata.ca/resource/>
+SELECT DISTINCT ?url  
+WHERE {
+    ?dataset a <http://dataid.dbpedia.org/ns/core#Dataset> ;
+    prov:wasDerivedFrom ?url .
+    FILTER NOT EXISTS {
+        ?dataset prov:wasGeneratedBy/prov:wasInformedBy adr:SpiderActivity  
+    }
+}
