@@ -32,7 +32,6 @@ def artifact_from_url(url)
   host.gsub('.', '-')
 end
 
-date = Time.now.strftime("%Y-%m-%d-%H:%M")
 uuid = SecureRandom.uuid
 data = rows.map do |row|
   url = row[:url].to_s
@@ -47,14 +46,14 @@ data = rows.map do |row|
     "metadata_artifact" => "wikidata-spider-crawl-metadata"
   }
   if already_existing.include?(url)
-    meta['crawl_name'] = "Website skipped",
-    meta['crawl_description'] = "Skipped crawl because website is already loaded by another activity."
+    meta['crawl_name'] = "Skipped Crawl: Website Loaded Elsewhere"
+    meta['crawl_description'] = "Skipped crawl because website is already loaded by another activity. See https://github.com/artsdata-stewards/artsdata-planet-boost/blob/main/sparql/artsdata_already_existing.sparql"
     meta['skip_crawl'] = true
   end
 
   if do_not_load.include?(url)
-    meta['crawl_name'] = "Website flagged to not load",
-    meta['crawl_description'] = "This website has been flagged to not be loaded."
+    meta['crawl_name'] = "Skipped Crawl: Do Not Load Flag"
+    meta['crawl_description'] = "This website has been flagged to not be loaded. See https://github.com/artsdata-stewards/artsdata-planet-boost/blob/main/src/config.rb"
     meta['skip_crawl'] = true
   end
   meta
