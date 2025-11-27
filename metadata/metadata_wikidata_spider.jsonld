@@ -11,6 +11,9 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
+        "@id": "https://springboardperformance.com"
+      },
+      {
         "@id": "https://horizonstage.com"
       },
       {
@@ -21,6 +24,103 @@
       },
       {
         "@id": "https://fullcircle.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "urn:organization:02effe12-7ac2-4c26-b382-fac05e27f0cb",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Springboard Performance"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q112510128"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://springboardperformance.com"
+      }
+    ]
+  },
+  {
+    "@id": "urn:crawl:dffebb15-1fd6-41d5-a52e-c6e74c18f13a",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Empty Graph"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "This crawl resulted in an empty graph."
+      }
+    ],
+    "http://www.w3.org/ns/prov#used": [
+      {
+        "@id": "https://springboardperformance.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#startedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-11-27T11:50:43Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-11-27T11:51:49Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasInformedBy": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/SpiderActivity"
+      }
+    ],
+    "http://schema.org/additionalProperty": [
+      {
+        "@id": "_:b0"
+      }
+    ]
+  },
+  {
+    "@id": "_:b0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "urlsCrawledCount"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "132"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/SpiderActivity",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Spider crawl"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
       }
     ]
   },
@@ -84,12 +184,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b0"
+        "@id": "_:g685600"
       }
     ]
   },
   {
-    "@id": "_:b0",
+    "@id": "_:g685600",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -102,22 +202,6 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": "24"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.artsdata.ca/SpiderActivity",
-    "@type": [
-      "http://www.w3.org/ns/prov#Activity"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Spider crawl"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
       }
     ]
   },
@@ -181,12 +265,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:g504600"
+        "@id": "_:b1"
       }
     ]
   },
   {
-    "@id": "_:g504600",
+    "@id": "_:b1",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -262,12 +346,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b1"
+        "@id": "_:b2"
       }
     ]
   },
   {
-    "@id": "_:b1",
+    "@id": "_:b2",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -343,12 +427,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b2"
+        "@id": "_:b3"
       }
     ]
   },
   {
-    "@id": "_:b2",
+    "@id": "_:b3",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
