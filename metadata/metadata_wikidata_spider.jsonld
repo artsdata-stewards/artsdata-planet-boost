@@ -11,6 +11,9 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
+        "@id": "https://www.newworks.ca/"
+      },
+      {
         "@id": "https://windintheleavescollective.com/"
       },
       {
@@ -36,6 +39,103 @@
       },
       {
         "@id": "https://www.riverfrontinterarts.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "urn:organization:a25dbfc6-3fdf-408f-b0ee-ed681ec41fae",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "New Works"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q112510133"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.newworks.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "urn:crawl:8bca55e0-88d6-42d3-a605-b163513b5f56",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Empty Graph"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "This crawl resulted in an empty graph."
+      }
+    ],
+    "http://www.w3.org/ns/prov#used": [
+      {
+        "@id": "https://www.newworks.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#startedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-11-27T17:46:42Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-11-27T17:51:55Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasInformedBy": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/SpiderActivity"
+      }
+    ],
+    "http://schema.org/additionalProperty": [
+      {
+        "@id": "_:b0"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/SpiderActivity",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Spider crawl"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
+      }
+    ]
+  },
+  {
+    "@id": "_:b0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "urlsCrawledCount"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "504"
       }
     ]
   },
@@ -99,28 +199,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b0"
+        "@id": "_:g1775280"
       }
     ]
   },
   {
-    "@id": "http://kg.artsdata.ca/resource/SpiderActivity",
-    "@type": [
-      "http://www.w3.org/ns/prov#Activity"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Spider crawl"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
-      }
-    ]
-  },
-  {
-    "@id": "_:b0",
+    "@id": "_:g1775280",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -196,12 +280,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:g683140"
+        "@id": "_:b1"
       }
     ]
   },
   {
-    "@id": "_:g683140",
+    "@id": "_:b1",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -288,12 +372,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b1"
+        "@id": "_:b2"
       }
     ]
   },
   {
-    "@id": "_:b1",
+    "@id": "_:b2",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -380,12 +464,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b2"
+        "@id": "_:b3"
       }
     ]
   },
   {
-    "@id": "_:b2",
+    "@id": "_:b3",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -472,12 +556,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b3"
+        "@id": "_:b4"
       }
     ]
   },
   {
-    "@id": "_:b3",
+    "@id": "_:b4",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -553,12 +637,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b4"
+        "@id": "_:b5"
       }
     ]
   },
   {
-    "@id": "_:b4",
+    "@id": "_:b5",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -634,12 +718,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b5"
+        "@id": "_:b6"
       }
     ]
   },
   {
-    "@id": "_:b5",
+    "@id": "_:b6",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -715,12 +799,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b6"
+        "@id": "_:b7"
       }
     ]
   },
   {
-    "@id": "_:b6",
+    "@id": "_:b7",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -796,12 +880,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b7"
+        "@id": "_:b8"
       }
     ]
   },
   {
-    "@id": "_:b7",
+    "@id": "_:b8",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -947,12 +1031,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b8"
+        "@id": "_:b9"
       }
     ]
   },
   {
-    "@id": "_:b8",
+    "@id": "_:b9",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -1039,12 +1123,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b9"
+        "@id": "_:b10"
       }
     ]
   },
   {
-    "@id": "_:b9",
+    "@id": "_:b10",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -1120,12 +1204,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b10"
+        "@id": "_:b11"
       }
     ]
   },
   {
-    "@id": "_:b10",
+    "@id": "_:b11",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -1212,12 +1296,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b11"
+        "@id": "_:b12"
       }
     ]
   },
   {
-    "@id": "_:b11",
+    "@id": "_:b12",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -1293,12 +1377,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b12"
+        "@id": "_:b13"
       }
     ]
   },
   {
-    "@id": "_:b12",
+    "@id": "_:b13",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -1374,12 +1458,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b13"
+        "@id": "_:b14"
       }
     ]
   },
   {
-    "@id": "_:b13",
+    "@id": "_:b14",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -1466,12 +1550,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b14"
+        "@id": "_:b15"
       }
     ]
   },
   {
-    "@id": "_:b14",
+    "@id": "_:b15",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -1558,12 +1642,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b15"
+        "@id": "_:b16"
       }
     ]
   },
   {
-    "@id": "_:b15",
+    "@id": "_:b16",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -1639,12 +1723,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b16"
+        "@id": "_:b17"
       }
     ]
   },
   {
-    "@id": "_:b16",
+    "@id": "_:b17",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -1720,12 +1804,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b17"
+        "@id": "_:b18"
       }
     ]
   },
   {
-    "@id": "_:b17",
+    "@id": "_:b18",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -1801,12 +1885,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b18"
+        "@id": "_:b19"
       }
     ]
   },
   {
-    "@id": "_:b18",
+    "@id": "_:b19",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -1893,12 +1977,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b19"
+        "@id": "_:b20"
       }
     ]
   },
   {
-    "@id": "_:b19",
+    "@id": "_:b20",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -1985,12 +2069,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b20"
+        "@id": "_:b21"
       }
     ]
   },
   {
-    "@id": "_:b20",
+    "@id": "_:b21",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -2077,12 +2161,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b21"
+        "@id": "_:b22"
       }
     ]
   },
   {
-    "@id": "_:b21",
+    "@id": "_:b22",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -2158,12 +2242,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b22"
+        "@id": "_:b23"
       }
     ]
   },
   {
-    "@id": "_:b22",
+    "@id": "_:b23",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -2239,12 +2323,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b23"
+        "@id": "_:b24"
       }
     ]
   },
   {
-    "@id": "_:b23",
+    "@id": "_:b24",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -2320,12 +2404,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b24"
+        "@id": "_:b25"
       }
     ]
   },
   {
-    "@id": "_:b24",
+    "@id": "_:b25",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -2401,12 +2485,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b25"
+        "@id": "_:b26"
       }
     ]
   },
   {
-    "@id": "_:b25",
+    "@id": "_:b26",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -2482,12 +2566,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b26"
+        "@id": "_:b27"
       }
     ]
   },
   {
-    "@id": "_:b26",
+    "@id": "_:b27",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
