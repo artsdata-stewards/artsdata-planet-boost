@@ -11,6 +11,9 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
+        "@id": "https://www.vdpac.ca"
+      },
+      {
         "@id": "https://springboardperformance.com"
       },
       {
@@ -27,6 +30,114 @@
       },
       {
         "@id": "https://fullcircle.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "urn:organization:503e4662-8fbe-4e47-ab68-415c61bdcecb",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Vernon and District Performing Arts Centre Society"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q112510105"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.vdpac.ca"
+      }
+    ]
+  },
+  {
+    "@id": "urn:crawl:6548bd75-8cc9-453a-bdd0-d5e71521fa57",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.w3.org/ns/prov#used": [
+      {
+        "@id": "https://www.vdpac.ca"
+      }
+    ],
+    "http://www.w3.org/ns/prov#startedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-11-27T13:52:57Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-11-27T13:56:19Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasInformedBy": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/SpiderActivity"
+      }
+    ],
+    "http://schema.org/additionalProperty": [
+      {
+        "@id": "_:b0"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/SpiderActivity",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Spider crawl"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
+      }
+    ]
+  },
+  {
+    "@id": "_:b0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "urlsCrawledCount"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "129"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/vdpac-ca/2025-11-27T08_56_20#Dataset",
+    "@type": [
+      "http://www.w3.org/ns/prov#Entity"
+    ],
+    "http://www.w3.org/ns/prov#wasGeneratedBy": [
+      {
+        "@id": "urn:crawl:6548bd75-8cc9-453a-bdd0-d5e71521fa57"
       }
     ]
   },
@@ -90,28 +201,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b0"
+        "@id": "_:g885460"
       }
     ]
   },
   {
-    "@id": "http://kg.artsdata.ca/resource/SpiderActivity",
-    "@type": [
-      "http://www.w3.org/ns/prov#Activity"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Spider crawl"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
-      }
-    ]
-  },
-  {
-    "@id": "_:b0",
+    "@id": "_:g885460",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -187,12 +282,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:g686640"
+        "@id": "_:b1"
       }
     ]
   },
   {
-    "@id": "_:g686640",
+    "@id": "_:b1",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -268,12 +363,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b1"
+        "@id": "_:b2"
       }
     ]
   },
   {
-    "@id": "_:b1",
+    "@id": "_:b2",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -349,12 +444,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b2"
+        "@id": "_:b3"
       }
     ]
   },
   {
-    "@id": "_:b2",
+    "@id": "_:b3",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -430,12 +525,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b3"
+        "@id": "_:b4"
       }
     ]
   },
   {
-    "@id": "_:b3",
+    "@id": "_:b4",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -511,12 +606,12 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b4"
+        "@id": "_:b5"
       }
     ]
   },
   {
-    "@id": "_:b4",
+    "@id": "_:b5",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
