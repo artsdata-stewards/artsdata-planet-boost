@@ -40,7 +40,7 @@ jobs:
       - name: Crawl and push using pipeline-action
         uses: culturecreates/artsdata-pipeline-action@v3
         with:
-          mode: 'fetch-push'ited size: 992
+          mode: 'fetch-push'
           artifact: '${{ matrix.org.artifact }}'
           page-url: '${{ matrix.org.url }}'
           token: "${{ secrets.GITHUB_TOKEN }}"
