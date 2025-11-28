@@ -11,10 +11,129 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
+        "@id": "https://www.legraffiti.ca"
+      },
+      {
         "@id": "https://www.reseauspectour.com/"
       },
       {
         "@id": "https://adicim.ca"
+      }
+    ]
+  },
+  {
+    "@id": "urn:organization:www.legraffiti.ca",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Café-Théâtre Graffiti"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q111846605"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.legraffiti.ca"
+      }
+    ]
+  },
+  {
+    "@id": "urn:crawl:88f8ac17-f032-43b1-9a87-e4adf2e0123a",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "No Structured Data Found"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "This crawl resulted in an empty graph."
+      }
+    ],
+    "http://www.w3.org/ns/prov#used": [
+      {
+        "@id": "https://www.legraffiti.ca"
+      }
+    ],
+    "http://www.w3.org/ns/prov#startedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-11-28T09:52:30Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-11-28T09:52:37Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasInformedBy": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/SpiderActivity"
+      }
+    ],
+    "http://schema.org/additionalProperty": [
+      {
+        "@id": "_:b0"
+      },
+      {
+        "@id": "_:b1"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/SpiderActivity",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Spider crawl"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
+      }
+    ]
+  },
+  {
+    "@id": "_:b0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "urlsCrawledCount"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2"
+      }
+    ]
+  },
+  {
+    "@id": "_:b1",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "structuredScore"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "0.0"
       }
     ]
   },
@@ -78,31 +197,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b0"
+        "@id": "_:g466320"
       },
       {
-        "@id": "_:b1"
+        "@id": "_:g466340"
       }
     ]
   },
   {
-    "@id": "http://kg.artsdata.ca/resource/SpiderActivity",
-    "@type": [
-      "http://www.w3.org/ns/prov#Activity"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Spider crawl"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
-      }
-    ]
-  },
-  {
-    "@id": "_:b0",
+    "@id": "_:g466320",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -119,7 +222,7 @@
     ]
   },
   {
-    "@id": "_:b1",
+    "@id": "_:g466340",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -194,15 +297,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:g480220"
+        "@id": "_:b2"
       },
       {
-        "@id": "_:g480240"
+        "@id": "_:b3"
       }
     ]
   },
   {
-    "@id": "_:g480220",
+    "@id": "_:b2",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -219,7 +322,7 @@
     ]
   },
   {
-    "@id": "_:g480240",
+    "@id": "_:b3",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
