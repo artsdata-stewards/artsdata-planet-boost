@@ -11,10 +11,129 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
+        "@id": "https://www.sfu.ca/sfuwoodwards.html"
+      },
+      {
         "@id": "https://www.riverfrontinterarts.ca/"
       },
       {
         "@id": "http://www.ffdnorth.com"
+      }
+    ]
+  },
+  {
+    "@id": "urn:organization:www.sfu.ca/sfuwoodwards.html",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "SFU Woodward's Cultural Programs"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q112510102"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.sfu.ca/sfuwoodwards.html"
+      }
+    ]
+  },
+  {
+    "@id": "urn:crawl:832ecc75-6dde-4116-b4f4-50ec4d24a17d",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "No Structured Data Found"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "This crawl resulted in an empty graph."
+      }
+    ],
+    "http://www.w3.org/ns/prov#used": [
+      {
+        "@id": "https://www.sfu.ca/sfuwoodwards.html"
+      }
+    ],
+    "http://www.w3.org/ns/prov#startedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-11-28T10:27:19Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-11-28T10:27:35Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasInformedBy": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/SpiderActivity"
+      }
+    ],
+    "http://schema.org/additionalProperty": [
+      {
+        "@id": "_:b0"
+      },
+      {
+        "@id": "_:b1"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/SpiderActivity",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Spider crawl"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
+      }
+    ]
+  },
+  {
+    "@id": "_:b0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "urlsCrawledCount"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2"
+      }
+    ]
+  },
+  {
+    "@id": "_:b1",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "structuredScore"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "0.0"
       }
     ]
   },
@@ -78,31 +197,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b0"
+        "@id": "_:g460500"
       },
       {
-        "@id": "_:b1"
+        "@id": "_:g460520"
       }
     ]
   },
   {
-    "@id": "http://kg.artsdata.ca/resource/SpiderActivity",
-    "@type": [
-      "http://www.w3.org/ns/prov#Activity"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Spider crawl"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
-      }
-    ]
-  },
-  {
-    "@id": "_:b0",
+    "@id": "_:g460500",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -119,7 +222,7 @@
     ]
   },
   {
-    "@id": "_:b1",
+    "@id": "_:g460520",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -194,15 +297,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:g482360"
+        "@id": "_:b2"
       },
       {
-        "@id": "_:g482380"
+        "@id": "_:b3"
       }
     ]
   },
   {
-    "@id": "_:g482360",
+    "@id": "_:b2",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -219,7 +322,7 @@
     ]
   },
   {
-    "@id": "_:g482380",
+    "@id": "_:b3",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
