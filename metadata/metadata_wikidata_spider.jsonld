@@ -11,6 +11,9 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
+        "@id": "https://www.surlascenedavignon.com"
+      },
+      {
         "@id": "https://www.diffusiontram.ca/"
       },
       {
@@ -30,6 +33,122 @@
       },
       {
         "@id": "https://adicim.ca"
+      }
+    ]
+  },
+  {
+    "@id": "urn:organization:www.surlascenedavignon.com",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Sur la scène Davignon (comité de la culture de Cowansville)"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q111846634"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.surlascenedavignon.com"
+      }
+    ]
+  },
+  {
+    "@id": "urn:crawl:8176d084-6eb4-4bd9-b568-c763f1d6878a",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "No Structured Data Found"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "This crawl resulted in an empty graph."
+      }
+    ],
+    "http://www.w3.org/ns/prov#used": [
+      {
+        "@id": "https://www.surlascenedavignon.com"
+      }
+    ],
+    "http://www.w3.org/ns/prov#startedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-11-28T09:52:22Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-11-28T09:54:42Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasInformedBy": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/SpiderActivity"
+      }
+    ],
+    "http://schema.org/additionalProperty": [
+      {
+        "@id": "_:b0"
+      },
+      {
+        "@id": "_:b1"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/SpiderActivity",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Spider crawl"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
+      }
+    ]
+  },
+  {
+    "@id": "_:b0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "urlsCrawledCount"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "98"
+      }
+    ]
+  },
+  {
+    "@id": "_:b1",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "structuredScore"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "0.0"
       }
     ]
   },
@@ -93,31 +212,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b0"
+        "@id": "_:g603400"
       },
       {
-        "@id": "_:b1"
+        "@id": "_:g603420"
       }
     ]
   },
   {
-    "@id": "http://kg.artsdata.ca/resource/SpiderActivity",
-    "@type": [
-      "http://www.w3.org/ns/prov#Activity"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Spider crawl"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
-      }
-    ]
-  },
-  {
-    "@id": "_:b0",
+    "@id": "_:g603400",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -134,7 +237,7 @@
     ]
   },
   {
-    "@id": "_:b1",
+    "@id": "_:g603420",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -209,15 +312,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:g762700"
+        "@id": "_:b2"
       },
       {
-        "@id": "_:g762720"
+        "@id": "_:b3"
       }
     ]
   },
   {
-    "@id": "_:g762700",
+    "@id": "_:b2",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -234,7 +337,7 @@
     ]
   },
   {
-    "@id": "_:g762720",
+    "@id": "_:b3",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -309,15 +412,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b2"
+        "@id": "_:b4"
       },
       {
-        "@id": "_:b3"
+        "@id": "_:b5"
       }
     ]
   },
   {
-    "@id": "_:b2",
+    "@id": "_:b4",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -334,7 +437,7 @@
     ]
   },
   {
-    "@id": "_:b3",
+    "@id": "_:b5",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -409,15 +512,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b4"
+        "@id": "_:b6"
       },
       {
-        "@id": "_:b5"
+        "@id": "_:b7"
       }
     ]
   },
   {
-    "@id": "_:b4",
+    "@id": "_:b6",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -434,7 +537,7 @@
     ]
   },
   {
-    "@id": "_:b5",
+    "@id": "_:b7",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -509,15 +612,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b6"
+        "@id": "_:b8"
       },
       {
-        "@id": "_:b7"
+        "@id": "_:b9"
       }
     ]
   },
   {
-    "@id": "_:b6",
+    "@id": "_:b8",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -534,7 +637,7 @@
     ]
   },
   {
-    "@id": "_:b7",
+    "@id": "_:b9",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -609,15 +712,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b8"
+        "@id": "_:b10"
       },
       {
-        "@id": "_:b9"
+        "@id": "_:b11"
       }
     ]
   },
   {
-    "@id": "_:b8",
+    "@id": "_:b10",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -634,7 +737,7 @@
     ]
   },
   {
-    "@id": "_:b9",
+    "@id": "_:b11",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -709,15 +812,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b10"
+        "@id": "_:b12"
       },
       {
-        "@id": "_:b11"
+        "@id": "_:b13"
       }
     ]
   },
   {
-    "@id": "_:b10",
+    "@id": "_:b12",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -734,7 +837,7 @@
     ]
   },
   {
-    "@id": "_:b11",
+    "@id": "_:b13",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
