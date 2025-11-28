@@ -4,7 +4,6 @@
 require 'sparql/client'
 require 'json'
 require 'uri'
-require 'securerandom'
 require_relative 'config'
 
 wikidata_endpoint = Config::WIKIDATA_CONFIG[:wikidata_endpoint]
@@ -32,7 +31,7 @@ def artifact_from_url(url)
   host.gsub('.', '-')
 end
 
-uuid = SecureRandom.uuid
+date = Time.now.strftime("%Y-%m-%d-%H:%M")
 data = rows.map do |row|
   url = row[:url].to_s
   meta = {
@@ -41,7 +40,7 @@ data = rows.map do |row|
     "artifact" => artifact_from_url(url),
     "same_as" => row[:org].to_s,
     "name" => row[:orgLabel].to_s,
-    "datafeed_uri" => "urn:datafeed:#{uuid}",
+    "datafeed_uri" => "urn:datafeed:wikidata-presenter-websites",
     "datafeed_title" => "Collection of Wikidata presenter websites",
     "metadata_artifact" => "wikidata-spider-crawl-metadata"
   }

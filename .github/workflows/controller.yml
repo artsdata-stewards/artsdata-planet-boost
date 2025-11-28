@@ -4,6 +4,30 @@ on:
   workflow_dispatch:
 
 jobs:
+  delete-wikidata-jsonld:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Delete file if it exists
+        run: |
+          if [ -f "metadata/metadata_wikidata_spider.jsonld" ]; then
+            rm metadata/metadata_wikidata_spider.jsonld
+          else
+            echo "File not found, nothing to delete."
+          fi
+
+      - name: Commit and push deletion
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add -A
+          git commit -m "Delete metadata_wikidata_spider.jsonld" || echo "Nothing to commit"
+          git push
   fetch_organizations:
     runs-on: ubuntu-latest
     steps:
