@@ -31,7 +31,6 @@ def artifact_from_url(url)
   host.gsub('.', '-')
 end
 
-date = Time.now.strftime("%Y-%m-%d-%H:%M")
 data = rows.map do |row|
   url = row[:url].to_s
   meta = {
@@ -42,7 +41,8 @@ data = rows.map do |row|
     "name" => row[:orgLabel].to_s,
     "datafeed_uri" => "urn:datafeed:wikidata-presenter-websites",
     "datafeed_title" => "Collection of Wikidata presenter websites",
-    "metadata_artifact" => "wikidata-spider-crawl-metadata"
+    "metadata_artifact" => "wikidata-spider-crawl-metadata",
+    "artsdata_uri" => "http://kg.artsdata.ca/resource/#{row[:artsdataID].to_s}"
   }
   if already_existing.include?(url)
     meta['crawl_name'] = "Skipped Crawl: Website Loaded Elsewhere"
