@@ -11,7 +11,7 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
-        "@id": "https://artsandculturecentre.com/cornerbrook/Online/default.asp"
+        "@id": "https://www.artsandculturecentre.com/"
       },
       {
         "@id": "https://longueuil.quebec"
@@ -307,7 +307,7 @@
     ]
   },
   {
-    "@id": "https://artsandculturecentre.com/cornerbrook/Online/default.asp",
+    "@id": "https://www.artsandculturecentre.com/",
     "@type": [
       "http://schema.org/Website"
     ]
@@ -895,31 +895,31 @@
     ]
   },
   {
-    "@id": "urn:organization:Q129448009",
+    "@id": "urn:organization:Q129448006",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/name": [
       {
-        "@value": "Corner Brook Arts & Culture"
+        "@value": "Arts & Culture Centres"
       }
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "http://www.wikidata.org/entity/Q129448009"
+        "@id": "http://www.wikidata.org/entity/Q129448006"
       },
       {
-        "@id": "http://kg.artsdata.ca/resource/K2-5221"
+        "@id": "http://kg.artsdata.ca/resource/K14-160"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://artsandculturecentre.com/cornerbrook/Online/default.asp"
+        "@id": "https://www.artsandculturecentre.com/"
       }
     ]
   },
   {
-    "@id": "urn:crawl:7f8596e3-a3bc-40f5-9cbb-b58db5eadebd",
+    "@id": "urn:crawl:85bba6aa-8aab-4148-9156-c7db819498cc",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
@@ -935,19 +935,19 @@
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "https://artsandculturecentre.com/cornerbrook/Online/default.asp"
+        "@id": "https://www.artsandculturecentre.com/"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2025-12-02T14:14:31Z"
+        "@value": "2025-12-02T14:14:30Z"
       }
     ],
     "http://www.w3.org/ns/prov#endedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2025-12-02T14:14:31Z"
+        "@value": "2025-12-02T14:14:32Z"
       }
     ],
     "http://www.w3.org/ns/prov#wasInformedBy": [
@@ -993,7 +993,7 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "0"
+        "@value": "1"
       }
     ]
   },
@@ -1077,15 +1077,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:g460300"
+        "@id": "_:g469500"
       },
       {
-        "@id": "_:g460320"
+        "@id": "_:g469520"
       }
     ]
   },
   {
-    "@id": "_:g460300",
+    "@id": "_:g469500",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -1102,7 +1102,7 @@
     ]
   },
   {
-    "@id": "_:g460320",
+    "@id": "_:g469520",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
