@@ -11,14 +11,143 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
+        "@id": "https://diffusion.saguenay.ca"
+      },
+      {
         "@id": "https://www.cotecour.ca"
       }
+    ]
+  },
+  {
+    "@id": "https://diffusion.saguenay.ca",
+    "@type": [
+      "http://schema.org/Website"
     ]
   },
   {
     "@id": "https://www.cotecour.ca",
     "@type": [
       "http://schema.org/Website"
+    ]
+  },
+  {
+    "@id": "urn:organization:Q111857137",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Diffusion Saguenay inc."
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q111857137"
+      },
+      {
+        "@id": "http://kg.artsdata.ca/resource/K16-44"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://diffusion.saguenay.ca"
+      }
+    ]
+  },
+  {
+    "@id": "urn:crawl:9adeacfe-40ea-4b47-b756-ab0630e33f33",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "No Structured Data Found"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "This crawl resulted in an empty graph."
+      }
+    ],
+    "http://www.w3.org/ns/prov#used": [
+      {
+        "@id": "https://diffusion.saguenay.ca"
+      }
+    ],
+    "http://www.w3.org/ns/prov#startedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-12-02T07:34:43Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-12-02T07:34:46Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasInformedBy": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/SpiderActivity"
+      }
+    ],
+    "http://schema.org/additionalProperty": [
+      {
+        "@id": "_:b0"
+      },
+      {
+        "@id": "_:b1"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/SpiderActivity",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Spider crawl"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
+      }
+    ]
+  },
+  {
+    "@id": "_:b0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "urlsCrawledCount"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ]
+  },
+  {
+    "@id": "_:b1",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "structuredScore"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#decimal",
+        "@value": "0.0"
+      }
     ]
   },
   {
@@ -84,31 +213,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b0"
+        "@id": "_:g474640"
       },
       {
-        "@id": "_:b1"
+        "@id": "_:g474660"
       }
     ]
   },
   {
-    "@id": "http://kg.artsdata.ca/resource/SpiderActivity",
-    "@type": [
-      "http://www.w3.org/ns/prov#Activity"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Spider crawl"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
-      }
-    ]
-  },
-  {
-    "@id": "_:b0",
+    "@id": "_:g474640",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -125,7 +238,7 @@
     ]
   },
   {
-    "@id": "_:b1",
+    "@id": "_:g474660",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
