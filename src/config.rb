@@ -5,7 +5,7 @@ module Config
     artsdata_sparql: "sparql/artsdata_already_existing.sparql",
     artsdata_endpoint: "https://db.artsdata.ca/repositories/artsdata",
     do_not_load_websites: [
-      "https://www.ville.lamalbaie.qc.ca/"
+      "https://www.ville.lamalbaie.qc.ca"
     ]
   }.freeze
 
