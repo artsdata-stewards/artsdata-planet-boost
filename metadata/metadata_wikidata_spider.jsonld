@@ -11,7 +11,7 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
-        "@id": "https://www.stcatharines.ca/en/council-and-administration/firstontario-performing-arts-centre-board.aspx"
+        "@id": "https://www.earc.ca"
       },
       {
         "@id": "https://www.masseytheatre.com"
@@ -544,7 +544,7 @@
     ]
   },
   {
-    "@id": "https://www.stcatharines.ca/en/council-and-administration/firstontario-performing-arts-centre-board.aspx",
+    "@id": "https://www.earc.ca",
     "@type": [
       "http://schema.org/Website"
     ]
@@ -1606,59 +1606,59 @@
     ]
   },
   {
-    "@id": "urn:organization:Q112690192",
+    "@id": "urn:organization:Q112663850",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/name": [
       {
-        "@value": "FirstOntario Performing Arts Centre Board"
+        "@value": "EA Rawlinson Centre for the Arts"
       }
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "http://www.wikidata.org/entity/Q112690192"
+        "@id": "http://www.wikidata.org/entity/Q112663850"
       },
       {
-        "@id": "http://kg.artsdata.ca/resource/K14-36"
+        "@id": "http://kg.artsdata.ca/resource/K14-25"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.stcatharines.ca/en/council-and-administration/firstontario-performing-arts-centre-board.aspx"
+        "@id": "https://www.earc.ca"
       }
     ]
   },
   {
-    "@id": "urn:crawl:ddc14351-e2ea-4a6a-beb9-1311f11bc878",
+    "@id": "urn:crawl:47a27432-f04d-45a3-8191-f14da9f3cce3",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
     "http://schema.org/name": [
       {
-        "@value": "No Structured Data Found"
+        "@value": ""
       }
     ],
     "http://schema.org/description": [
       {
-        "@value": "This crawl resulted in an empty graph."
+        "@value": ""
       }
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "https://www.stcatharines.ca/en/council-and-administration/firstontario-performing-arts-centre-board.aspx"
+        "@id": "https://www.earc.ca"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2025-12-02T14:54:15Z"
+        "@value": "2025-12-02T14:52:37Z"
       }
     ],
     "http://www.w3.org/ns/prov#endedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2025-12-02T15:09:24Z"
+        "@value": "2025-12-02T15:09:18Z"
       }
     ],
     "http://www.w3.org/ns/prov#wasInformedBy": [
@@ -1704,7 +1704,7 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "650"
+        "@value": "521"
       }
     ]
   },
@@ -1721,7 +1721,18 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#decimal",
-        "@value": "0.0"
+        "@value": "62.62764501526476"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/earc-ca/2025-12-02T10_09_20#Dataset",
+    "@type": [
+      "http://www.w3.org/ns/prov#Entity"
+    ],
+    "http://www.w3.org/ns/prov#wasGeneratedBy": [
+      {
+        "@id": "urn:crawl:47a27432-f04d-45a3-8191-f14da9f3cce3"
       }
     ]
   },
@@ -1788,15 +1799,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:g16785680"
+        "@id": "_:g3579980"
       },
       {
-        "@id": "_:g16785700"
+        "@id": "_:g3580000"
       }
     ]
   },
   {
-    "@id": "_:g16785680",
+    "@id": "_:g3579980",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -1813,7 +1824,7 @@
     ]
   },
   {
-    "@id": "_:g16785700",
+    "@id": "_:g3580000",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
