@@ -11,7 +11,7 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
-        "@id": "https://www.desertdaze.ca"
+        "@id": "https://www.summerland.ca/discover/arts-culture"
       },
       {
         "@id": "https://axartscentre.ca/"
@@ -367,7 +367,7 @@
     ]
   },
   {
-    "@id": "https://www.desertdaze.ca",
+    "@id": "https://www.summerland.ca/discover/arts-culture",
     "@type": [
       "http://schema.org/Website"
     ]
@@ -1075,31 +1075,31 @@
     ]
   },
   {
-    "@id": "urn:organization:Q128242803",
+    "@id": "urn:organization:Q128242810",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/name": [
       {
-        "@value": "Spences Bridge Community Club"
+        "@value": "Summerland Arts Council"
       }
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "http://www.wikidata.org/entity/Q128242803"
+        "@id": "http://www.wikidata.org/entity/Q128242810"
       },
       {
-        "@id": "http://kg.artsdata.ca/resource/K2-5426"
+        "@id": "http://kg.artsdata.ca/resource/K2-5427"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.desertdaze.ca"
+        "@id": "https://www.summerland.ca/discover/arts-culture"
       }
     ]
   },
   {
-    "@id": "urn:crawl:d6aafdd2-1d7e-4234-94e1-585cbad259d5",
+    "@id": "urn:crawl:eace4d02-c31d-4bdb-80bc-aa2aa18dd975",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
@@ -1115,19 +1115,19 @@
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "https://www.desertdaze.ca"
+        "@id": "https://www.summerland.ca/discover/arts-culture"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2025-12-02T14:21:55Z"
+        "@value": "2025-12-02T14:23:03Z"
       }
     ],
     "http://www.w3.org/ns/prov#endedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2025-12-02T14:23:20Z"
+        "@value": "2025-12-02T14:23:21Z"
       }
     ],
     "http://www.w3.org/ns/prov#wasInformedBy": [
@@ -1173,7 +1173,7 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "88"
+        "@value": "17"
       }
     ]
   },
@@ -1257,15 +1257,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:g690440"
+        "@id": "_:g819980"
       },
       {
-        "@id": "_:g690460"
+        "@id": "_:g820000"
       }
     ]
   },
   {
-    "@id": "_:g690440",
+    "@id": "_:g819980",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -1282,7 +1282,7 @@
     ]
   },
   {
-    "@id": "_:g690460",
+    "@id": "_:g820000",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
