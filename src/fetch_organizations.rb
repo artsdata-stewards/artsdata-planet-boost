@@ -5,6 +5,14 @@ require 'sparql/client'
 require 'json'
 require 'uri'
 require_relative 'config'
+require 'linkeddata'
+
+incremental = ARGV.include?('--incremental')
+organization_uri_arg = ARGV.find { |arg| arg.start_with?('--organization_uri=') }
+if organization_uri_arg
+  incremental = false # override incremental if specific organization is requested
+end
+only_uri_to_crawl = organization_uri_arg ? organization_uri_arg.split('=', 2)[1] : nil
 
 wikidata_endpoint = Config::WIKIDATA_CONFIG[:wikidata_endpoint]
 wikidata_sparql = File.read(Config::WIKIDATA_CONFIG[:wikidata_sparql])
@@ -21,6 +29,12 @@ uri = URI(Config::WIKIDATA_CONFIG[:artsdata_endpoint])
 artsdata_sparql = File.read(Config::WIKIDATA_CONFIG[:artsdata_sparql])
 response = Net::HTTP.post_form(uri, { "query" => artsdata_sparql })
 already_existing = response.body.lines[1..].map(&:chomp).to_set
+
+already_crawled_urls = Set.new
+if incremental
+  existing_metadata = RDF::Graph.load('metadata/metadata_wikidata_spider.jsonld', format: :jsonld) 
+  already_crawled_urls = existing_metadata.query([nil, RDF::URI.new('http://schema.org/dataFeedElement'), nil]).objects.to_s
+end
 
 do_not_load = Config::WIKIDATA_CONFIG[:do_not_load_websites].to_set
 
@@ -59,8 +73,16 @@ data = rows.map do |row|
 end
 data = data.uniq { |d| d["url"] }
 data = data.uniq { |d| d["same_as"] }
-data = data[0, 20] #limit to first 20 for testing
-batch_size = 5
+data = data.reject do |d|
+  puts only_uri_to_crawl, d["same_as"]
+  if already_crawled_urls.include?(d["url"]) || (d["same_as"] != only_uri_to_crawl && only_uri_to_crawl)
+    true
+  else
+    false
+  end
+end
+data = data[0, 100] #limit to first 100 for testing
+batch_size = 20
 batches = data.each_slice(batch_size).to_a
 
 batches.each_with_index do |batch, i|

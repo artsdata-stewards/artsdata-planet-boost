@@ -2,9 +2,20 @@ name: Controller - Dispatch Org Batches
 
 on:
   workflow_dispatch:
+    inputs:
+      incremental:
+        description: 'Fetch only new organizations not previously crawled'
+        required: false
+        default: 'true'
+      
+      organization_uri:
+        description: 'Fetch only this specific organization (overrides incremental)'
+        required: false
+        default: ''
 
 jobs:
   delete-wikidata-jsonld:
+    if: ${{ github.event.inputs.incremental == 'false' }}
     runs-on: ubuntu-latest
 
     steps:
@@ -40,7 +51,14 @@ jobs:
           bundler-cache: true
 
       - name: Run fetch_organizations.rb
-        run: bundle exec ruby src/fetch_organizations.rb
+        run: |
+          if [ "${{ inputs.incremental }}" = "true" ]; then
+            bundle exec ruby src/fetch_organizations.rb --incremental
+          elif [ -n "${{ inputs.organization_uri }}" ]; then
+            bundle exec ruby src/fetch_organizations.rb --organization_uri="${{ inputs.organization_uri }}"
+          else
+            bundle exec ruby src/fetch_organizations.rb
+          fi
 
       - name: upload artifact
         uses: actions/upload-artifact@v5
