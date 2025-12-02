@@ -32,8 +32,14 @@ already_existing = response.body.lines[1..].map(&:chomp).to_set
 
 already_crawled_urls = Set.new
 if incremental
-  existing_metadata = RDF::Graph.load('metadata/metadata_wikidata_spider.jsonld', format: :jsonld) 
-  already_crawled_urls = existing_metadata.query([nil, RDF::URI.new('http://schema.org/dataFeedElement'), nil]).objects.to_s
+  metadata_file = 'metadata/metadata_wikidata_spider.jsonld'
+  if File.exist?(metadata_file)
+    existing_metadata = RDF::Graph.load(metadata_file, format: :jsonld)
+    already_crawled_urls = existing_metadata
+      .query([nil, RDF::URI.new('http://schema.org/dataFeedElement'), nil])
+      .objects
+      .map(&:to_s)
+  end
 end
 
 do_not_load = Config::WIKIDATA_CONFIG[:do_not_load_websites].to_set
@@ -74,7 +80,6 @@ end
 data = data.uniq { |d| d["url"] }
 data = data.uniq { |d| d["same_as"] }
 data = data.reject do |d|
-  puts only_uri_to_crawl, d["same_as"]
   if already_crawled_urls.include?(d["url"]) || (d["same_as"] != only_uri_to_crawl && only_uri_to_crawl)
     true
   else
