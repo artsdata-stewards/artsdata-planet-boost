@@ -11,6 +11,9 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
+        "@id": "https://centre-culturel.villepaspebiac.ca"
+      },
+      {
         "@id": "http://www.ffdnorth.com"
       },
       {
@@ -34,6 +37,12 @@
       {
         "@id": "https://www.riverfrontinterarts.ca/"
       }
+    ]
+  },
+  {
+    "@id": "https://centre-culturel.villepaspebiac.ca",
+    "@type": [
+      "http://schema.org/Website"
     ]
   },
   {
@@ -82,6 +91,126 @@
     "@id": "https://www.riverfrontinterarts.ca/",
     "@type": [
       "http://schema.org/Website"
+    ]
+  },
+  {
+    "@id": "urn:organization:Q111857116",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Centre culturel | Ville de Paspébiac"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q111857116"
+      },
+      {
+        "@id": "http://kg.artsdata.ca/resource/K16-215"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centre-culturel.villepaspebiac.ca"
+      }
+    ]
+  },
+  {
+    "@id": "urn:crawl:da8af850-1175-448c-9909-da26747acf70",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "No Structured Data Found"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "This crawl resulted in an empty graph."
+      }
+    ],
+    "http://www.w3.org/ns/prov#used": [
+      {
+        "@id": "https://centre-culturel.villepaspebiac.ca"
+      }
+    ],
+    "http://www.w3.org/ns/prov#startedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-12-02T10:41:13Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-12-02T10:43:40Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasInformedBy": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/SpiderActivity"
+      }
+    ],
+    "http://schema.org/additionalProperty": [
+      {
+        "@id": "_:b0"
+      },
+      {
+        "@id": "_:b1"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/SpiderActivity",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Spider crawl"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
+      }
+    ]
+  },
+  {
+    "@id": "_:b0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "urlsCrawledCount"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "130"
+      }
+    ]
+  },
+  {
+    "@id": "_:b1",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "structuredScore"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#decimal",
+        "@value": "0.0"
+      }
     ]
   },
   {
@@ -147,31 +276,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b0"
+        "@id": "_:g738980"
       },
       {
-        "@id": "_:b1"
+        "@id": "_:g739000"
       }
     ]
   },
   {
-    "@id": "http://kg.artsdata.ca/resource/SpiderActivity",
-    "@type": [
-      "http://www.w3.org/ns/prov#Activity"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Spider crawl"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
-      }
-    ]
-  },
-  {
-    "@id": "_:b0",
+    "@id": "_:g738980",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -188,7 +301,7 @@
     ]
   },
   {
-    "@id": "_:b1",
+    "@id": "_:g739000",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -267,15 +380,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:g475880"
+        "@id": "_:b2"
       },
       {
-        "@id": "_:g475900"
+        "@id": "_:b3"
       }
     ]
   },
   {
-    "@id": "_:g475880",
+    "@id": "_:b2",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -292,7 +405,7 @@
     ]
   },
   {
-    "@id": "_:g475900",
+    "@id": "_:b3",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -371,15 +484,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b2"
+        "@id": "_:b4"
       },
       {
-        "@id": "_:b3"
+        "@id": "_:b5"
       }
     ]
   },
   {
-    "@id": "_:b2",
+    "@id": "_:b4",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -396,7 +509,7 @@
     ]
   },
   {
-    "@id": "_:b3",
+    "@id": "_:b5",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -475,15 +588,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b4"
+        "@id": "_:b6"
       },
       {
-        "@id": "_:b5"
+        "@id": "_:b7"
       }
     ]
   },
   {
-    "@id": "_:b4",
+    "@id": "_:b6",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -500,7 +613,7 @@
     ]
   },
   {
-    "@id": "_:b5",
+    "@id": "_:b7",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -579,15 +692,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b6"
+        "@id": "_:b8"
       },
       {
-        "@id": "_:b7"
+        "@id": "_:b9"
       }
     ]
   },
   {
-    "@id": "_:b6",
+    "@id": "_:b8",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -604,7 +717,7 @@
     ]
   },
   {
-    "@id": "_:b7",
+    "@id": "_:b9",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -683,15 +796,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b8"
+        "@id": "_:b10"
       },
       {
-        "@id": "_:b9"
+        "@id": "_:b11"
       }
     ]
   },
   {
-    "@id": "_:b8",
+    "@id": "_:b10",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -708,7 +821,7 @@
     ]
   },
   {
-    "@id": "_:b9",
+    "@id": "_:b11",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -787,15 +900,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b10"
+        "@id": "_:b12"
       },
       {
-        "@id": "_:b11"
+        "@id": "_:b13"
       }
     ]
   },
   {
-    "@id": "_:b10",
+    "@id": "_:b12",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -812,7 +925,7 @@
     ]
   },
   {
-    "@id": "_:b11",
+    "@id": "_:b13",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -891,15 +1004,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b12"
+        "@id": "_:b14"
       },
       {
-        "@id": "_:b13"
+        "@id": "_:b15"
       }
     ]
   },
   {
-    "@id": "_:b12",
+    "@id": "_:b14",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -916,7 +1029,7 @@
     ]
   },
   {
-    "@id": "_:b13",
+    "@id": "_:b15",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
