@@ -1,5 +1,178 @@
 [
   {
+    "@id": "https://francosmontreal.com/fr/programmation/laurent-voulzy-e006863",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | 12 juin au 20 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Laurent Voulzy - 12 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://francosmontreal.com/fr/programmation/laurent-voulzy-e006863"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | Grand Festival de Musique Francophone"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://images.ctfassets.net/dv1qnlptav0x/tWdANaUrKHXuZrVD4hXGB/1638e7d0ae3c76d552fc9c1b80f4803a/FF25-opengraph.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "630"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | 12 juin au 20 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/fr/programmation/laurent-voulzy-e006863"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466540",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Théâtre Maisonneuve — Place des Arts"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466560",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Laurent Voulzy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466580",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/pda/fr-ca/buy/virtual-venue/P6M0612"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-28T15:00:00.000Z"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.francosmontreal.com/temporary/98cd18e9-327d-49c9-a2d4-bdb85652eaa2",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-12T23:00:00.000Z"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.ctfassets.net/dv1qnlptav0x/4unmjcWnCLAAGags2KUnKL/373146708b362a6f320524bb663108c4/ff26_laurent_voulzy.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g466540"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g466560"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g466580"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/fr/programmation/laurent-voulzy-e006863"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Laurent Voulzy"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
     "@id": "https://francosmontreal.com/fr/programmation/pierre-lapointe-e006627",
     "http://ogp.me/ns#title": [
       {
@@ -68,7 +241,7 @@
     ]
   },
   {
-    "@id": "_:g465120",
+    "@id": "_:g474920",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -80,7 +253,7 @@
     ]
   },
   {
-    "@id": "_:g465140",
+    "@id": "_:g474940",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -92,7 +265,7 @@
     ]
   },
   {
-    "@id": "_:g465160",
+    "@id": "_:g474960",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -114,7 +287,7 @@
     ]
   },
   {
-    "@id": "https://www.francosmontreal.com/temporary/006c2c00-b2e9-4839-a954-7d490dce14f0",
+    "@id": "https://www.francosmontreal.com/temporary/7b3c02c4-fd1f-4ea0-8ece-f753d398fb3b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -137,17 +310,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g465120"
+        "@id": "_:g474920"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g465140"
+        "@id": "_:g474940"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g465160"
+        "@id": "_:g474960"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -241,7 +414,7 @@
     ]
   },
   {
-    "@id": "_:g473460",
+    "@id": "_:g481540",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -253,7 +426,7 @@
     ]
   },
   {
-    "@id": "_:g473480",
+    "@id": "_:g481560",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -265,7 +438,7 @@
     ]
   },
   {
-    "@id": "_:g473500",
+    "@id": "_:g481580",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -287,7 +460,7 @@
     ]
   },
   {
-    "@id": "https://www.francosmontreal.com/temporary/d6413aa9-9f9f-40a4-91d4-2e505a3c1308",
+    "@id": "https://www.francosmontreal.com/temporary/518d1eef-c208-4d86-8223-4a6e7cad7ff8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -310,17 +483,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g473460"
+        "@id": "_:g481540"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g473480"
+        "@id": "_:g481560"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g473500"
+        "@id": "_:g481580"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -414,7 +587,7 @@
     ]
   },
   {
-    "@id": "_:g479140",
+    "@id": "_:g488120",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -426,7 +599,7 @@
     ]
   },
   {
-    "@id": "_:g479160",
+    "@id": "_:g488140",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -438,7 +611,7 @@
     ]
   },
   {
-    "@id": "_:g479180",
+    "@id": "_:g488160",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -460,7 +633,7 @@
     ]
   },
   {
-    "@id": "https://www.francosmontreal.com/temporary/bf44ddf1-a07c-4413-818d-d922a8bfa3ca",
+    "@id": "https://www.francosmontreal.com/temporary/283dbbdd-dda8-43f0-928c-72d055e13c18",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -483,17 +656,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g479140"
+        "@id": "_:g488120"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g479160"
+        "@id": "_:g488140"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g479180"
+        "@id": "_:g488160"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -505,6 +678,352 @@
       {
         "@language": "en",
         "@value": "Pierre Lapointe"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://francosmontreal.com/fr/programmation/lou-adriane-cassidy-e006900",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | 12 juin au 20 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Lou-Adriane Cassidy  - 12 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://francosmontreal.com/fr/programmation/lou-adriane-cassidy-e006900"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | Grand Festival de Musique Francophone"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://images.ctfassets.net/dv1qnlptav0x/tWdANaUrKHXuZrVD4hXGB/1638e7d0ae3c76d552fc9c1b80f4803a/FF25-opengraph.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "630"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | 12 juin au 20 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/fr/programmation/lou-adriane-cassidy-e006900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g494700",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "MTELUS"
+      }
+    ]
+  },
+  {
+    "@id": "_:g494720",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Lou-Adriane Cassidy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g494740",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ticketmaster.ca/event/31006378D70B9589?lang=fr-ca&brand=mtelus"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-26T15:00:00.000Z"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.francosmontreal.com/temporary/17658221-4189-4623-bbab-6036c4b86737",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-13T00:00:00.000Z"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.ctfassets.net/dv1qnlptav0x/kdlx82paxcmLIV1OpXBgN/307c7565325dc88fc68e803c5c2078c5/ff26_lou_adriane_cassidy.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g494700"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g494720"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g494740"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/fr/programmation/lou-adriane-cassidy-e006900"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Lou-Adriane Cassidy"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://francosmontreal.com/fr/programmation/bekar-e006870",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | 12 juin au 20 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Bekar - 17 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://francosmontreal.com/fr/programmation/bekar-e006870"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | Grand Festival de Musique Francophone"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://images.ctfassets.net/dv1qnlptav0x/tWdANaUrKHXuZrVD4hXGB/1638e7d0ae3c76d552fc9c1b80f4803a/FF25-opengraph.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "630"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | 12 juin au 20 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/fr/programmation/bekar-e006870"
+      }
+    ]
+  },
+  {
+    "@id": "_:g501240",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Club Soda"
+      }
+    ]
+  },
+  {
+    "@id": "_:g501260",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Bekar"
+      }
+    ]
+  },
+  {
+    "@id": "_:g501280",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://lepointdevente.com/billets/clb260617001?lang=fr"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-28T15:00:00.000Z"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.francosmontreal.com/temporary/62bc3f16-a1c4-40c0-8633-c73eabad2d68",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-18T00:00:00.000Z"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.ctfassets.net/dv1qnlptav0x/4miBBVyEmWnGkoMLsBbykb/1eea094b96aca330c14886362cb8dde1/ff26_bekar.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g501240"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g501260"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g501280"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/fr/programmation/bekar-e006870"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Bekar"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -587,7 +1106,7 @@
     ]
   },
   {
-    "@id": "_:g485660",
+    "@id": "_:g507760",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -599,7 +1118,7 @@
     ]
   },
   {
-    "@id": "_:g485680",
+    "@id": "_:g507780",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -611,7 +1130,7 @@
     ]
   },
   {
-    "@id": "_:g485700",
+    "@id": "_:g507800",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -633,7 +1152,7 @@
     ]
   },
   {
-    "@id": "https://www.francosmontreal.com/temporary/0202124d-a30f-44c3-b69e-b1988c5e8b26",
+    "@id": "https://www.francosmontreal.com/temporary/80c621b9-3cbc-45c8-a13f-5647691e6933",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -656,17 +1175,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g485660"
+        "@id": "_:g507760"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g485680"
+        "@id": "_:g507780"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g485700"
+        "@id": "_:g507800"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -678,6 +1197,179 @@
       {
         "@language": "en",
         "@value": "Maude Audet"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://francosmontreal.com/fr/programmation/isha-limsa-d-aulnay-e006899",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | 12 juin au 20 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "ISHA & Limsa d'Aulnay - 18 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://francosmontreal.com/fr/programmation/isha-limsa-d-aulnay-e006899"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | Grand Festival de Musique Francophone"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://images.ctfassets.net/dv1qnlptav0x/tWdANaUrKHXuZrVD4hXGB/1638e7d0ae3c76d552fc9c1b80f4803a/FF25-opengraph.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "630"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | 12 juin au 20 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/fr/programmation/isha-limsa-d-aulnay-e006899"
+      }
+    ]
+  },
+  {
+    "@id": "_:g514320",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Club Soda"
+      }
+    ]
+  },
+  {
+    "@id": "_:g514340",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ISHA & Limsa d'Aulnay"
+      }
+    ]
+  },
+  {
+    "@id": "_:g514360",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://lepointdevente.com/billets/clb260618001?lang=fr"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-28T15:00:00.000Z"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.francosmontreal.com/temporary/5a968ccb-c13a-4d45-b9dd-7b4306bd911e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-19T00:00:00.000Z"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.ctfassets.net/dv1qnlptav0x/6sfILeqQ4ZmfbTFONQiOjr/c1382d4b9596d36c774c4e1a3e948c4f/ff26_isha_limsa_daulnay.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g514320"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g514340"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g514360"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/fr/programmation/isha-limsa-d-aulnay-e006899"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ISHA & Limsa d'Aulnay"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -760,7 +1452,7 @@
     ]
   },
   {
-    "@id": "_:g491380",
+    "@id": "_:g520900",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -772,7 +1464,7 @@
     ]
   },
   {
-    "@id": "_:g491400",
+    "@id": "_:g520920",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -784,7 +1476,7 @@
     ]
   },
   {
-    "@id": "_:g491420",
+    "@id": "_:g520940",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -806,7 +1498,7 @@
     ]
   },
   {
-    "@id": "https://www.francosmontreal.com/temporary/e5c0d9e6-3c97-4143-b5b0-085c39dcc250",
+    "@id": "https://www.francosmontreal.com/temporary/7677acae-f6f6-4699-96ce-6220b3a32bf2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -829,17 +1521,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g491380"
+        "@id": "_:g520900"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g491400"
+        "@id": "_:g520920"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g491420"
+        "@id": "_:g520940"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -851,6 +1543,352 @@
       {
         "@language": "en",
         "@value": "Malaimé Soleil"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://francosmontreal.com/fr/programmation/thomas-fersen-e006879",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | 12 juin au 20 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Thomas Fersen - 14 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://francosmontreal.com/fr/programmation/thomas-fersen-e006879"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | Grand Festival de Musique Francophone"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "fr"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://images.ctfassets.net/dv1qnlptav0x/tWdANaUrKHXuZrVD4hXGB/1638e7d0ae3c76d552fc9c1b80f4803a/FF25-opengraph.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "630"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | 12 juin au 20 juin 2026"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/fr/programmation/thomas-fersen-e006879"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527420",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Le Studio TD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527440",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Thomas Fersen"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527460",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ticketmaster.ca/event/31006375E389BDCF?lang=fr-ca&brand=evenko"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-28T15:00:00.000Z"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.francosmontreal.com/temporary/27060076-8431-4b49-9725-19d914a5fbb3",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-14T23:00:00.000Z"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.ctfassets.net/dv1qnlptav0x/4YjTTPm4HVMjRZa11uZI7o/9a69ee64b482aada04618176b99fe66a/ff26_thomas_fersen.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g527420"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g527440"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g527460"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/fr/programmation/thomas-fersen-e006879"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Thomas Fersen"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://francosmontreal.com/en/program/laurent-voulzy-e006863",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | June 12 to June 20, 2026"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Laurent Voulzy - June 12, 2026"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://francosmontreal.com/en/program/laurent-voulzy-e006863"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | The Largest Francophone Music Festival"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://images.ctfassets.net/dv1qnlptav0x/tWdANaUrKHXuZrVD4hXGB/1638e7d0ae3c76d552fc9c1b80f4803a/FF25-opengraph.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "630"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | June 12 to June 20, 2026"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/en/program/laurent-voulzy-e006863"
+      }
+    ]
+  },
+  {
+    "@id": "_:g549220",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Théâtre Maisonneuve — Place des Arts"
+      }
+    ]
+  },
+  {
+    "@id": "_:g549240",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Laurent Voulzy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g549260",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/pda/en/buy/virtual-venue/P6M0612"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-28T15:00:00.000Z"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.francosmontreal.com/temporary/087acc3c-a902-4bd0-a158-fe7f8310ae05",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-12T23:00:00.000Z"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.ctfassets.net/dv1qnlptav0x/4unmjcWnCLAAGags2KUnKL/9e5748a6bf356d335dfaf9d17c981e42/ff26_laurent_voulzy.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g549220"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g549240"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g549260"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/en/program/laurent-voulzy-e006863"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Laurent Voulzy"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -933,7 +1971,7 @@
     ]
   },
   {
-    "@id": "_:g510480",
+    "@id": "_:g557600",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -945,7 +1983,7 @@
     ]
   },
   {
-    "@id": "_:g510500",
+    "@id": "_:g557620",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -957,7 +1995,7 @@
     ]
   },
   {
-    "@id": "_:g510520",
+    "@id": "_:g557640",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -979,7 +2017,7 @@
     ]
   },
   {
-    "@id": "https://www.francosmontreal.com/temporary/61e25d15-22b4-4b84-bfa8-a170c0982d2a",
+    "@id": "https://www.francosmontreal.com/temporary/232a7411-5d7f-49c8-95b7-e9c37a5b8b1a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1002,17 +2040,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g510480"
+        "@id": "_:g557600"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g510500"
+        "@id": "_:g557620"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g510520"
+        "@id": "_:g557640"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1106,7 +2144,7 @@
     ]
   },
   {
-    "@id": "_:g518580",
+    "@id": "_:g564120",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1118,7 +2156,7 @@
     ]
   },
   {
-    "@id": "_:g518600",
+    "@id": "_:g564140",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -1130,7 +2168,7 @@
     ]
   },
   {
-    "@id": "_:g518620",
+    "@id": "_:g564160",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1152,7 +2190,7 @@
     ]
   },
   {
-    "@id": "https://www.francosmontreal.com/temporary/41011d45-2546-4a9f-b69e-62b1716624da",
+    "@id": "https://www.francosmontreal.com/temporary/c9fdb181-c562-449f-804e-e6977d3864d7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1175,17 +2213,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g518580"
+        "@id": "_:g564120"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g518600"
+        "@id": "_:g564140"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g518620"
+        "@id": "_:g564160"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1279,7 +2317,7 @@
     ]
   },
   {
-    "@id": "_:g525040",
+    "@id": "_:g570700",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1291,7 +2329,7 @@
     ]
   },
   {
-    "@id": "_:g525060",
+    "@id": "_:g570720",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -1303,7 +2341,7 @@
     ]
   },
   {
-    "@id": "_:g525080",
+    "@id": "_:g570740",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1325,7 +2363,7 @@
     ]
   },
   {
-    "@id": "https://www.francosmontreal.com/temporary/9998b0f7-3c15-406c-9471-fd2a35c66e60",
+    "@id": "https://www.francosmontreal.com/temporary/a90fad1c-44fb-4b04-839d-c5821c96376e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1348,17 +2386,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g525040"
+        "@id": "_:g570700"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g525060"
+        "@id": "_:g570720"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g525080"
+        "@id": "_:g570740"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1370,6 +2408,352 @@
       {
         "@language": "en",
         "@value": "Pierre Lapointe"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://francosmontreal.com/en/program/lou-adriane-cassidy-e006900",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | June 12 to June 20, 2026"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Lou-Adriane Cassidy - June 12, 2026"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://francosmontreal.com/en/program/lou-adriane-cassidy-e006900"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | The Largest Francophone Music Festival"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://images.ctfassets.net/dv1qnlptav0x/tWdANaUrKHXuZrVD4hXGB/1638e7d0ae3c76d552fc9c1b80f4803a/FF25-opengraph.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "630"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | June 12 to June 20, 2026"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/en/program/lou-adriane-cassidy-e006900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g577260",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "MTELUS"
+      }
+    ]
+  },
+  {
+    "@id": "_:g577280",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Lou-Adriane Cassidy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g577300",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ticketmaster.ca/event/31006378D70B9589?lang=en-ca&brand=mtelus"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-26T15:00:00.000Z"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.francosmontreal.com/temporary/bdf07033-bb00-4b6e-b2e6-64a83eaab164",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-13T00:00:00.000Z"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.ctfassets.net/dv1qnlptav0x/kdlx82paxcmLIV1OpXBgN/c5d59c2393cde0055bbb7e7bd40500a1/ff26_lou_adriane_cassidy.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g577260"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g577280"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g577300"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/en/program/lou-adriane-cassidy-e006900"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Lou-Adriane Cassidy"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://francosmontreal.com/en/program/bekar-e006870",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | June 12 to June 20, 2026"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Bekar - June 17, 2026"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://francosmontreal.com/en/program/bekar-e006870"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | The Largest Francophone Music Festival"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://images.ctfassets.net/dv1qnlptav0x/tWdANaUrKHXuZrVD4hXGB/1638e7d0ae3c76d552fc9c1b80f4803a/FF25-opengraph.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "630"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | June 12 to June 20, 2026"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/en/program/bekar-e006870"
+      }
+    ]
+  },
+  {
+    "@id": "_:g583800",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Club Soda"
+      }
+    ]
+  },
+  {
+    "@id": "_:g583820",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Bekar"
+      }
+    ]
+  },
+  {
+    "@id": "_:g583840",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thepointofsale.com/tickets/clb260617001?lang=en"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-28T15:00:00.000Z"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.francosmontreal.com/temporary/5c655b19-19b4-49d3-8274-0268d7a7b902",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-18T00:00:00.000Z"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.ctfassets.net/dv1qnlptav0x/4miBBVyEmWnGkoMLsBbykb/a1f0a5ec09b4f73c459282535d3cb8c3/ff26_bekar.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g583800"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g583820"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g583840"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/en/program/bekar-e006870"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Bekar"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -1452,7 +2836,7 @@
     ]
   },
   {
-    "@id": "_:g531440",
+    "@id": "_:g590340",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1464,7 +2848,7 @@
     ]
   },
   {
-    "@id": "_:g531460",
+    "@id": "_:g590360",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -1476,7 +2860,7 @@
     ]
   },
   {
-    "@id": "_:g531480",
+    "@id": "_:g590380",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1498,7 +2882,7 @@
     ]
   },
   {
-    "@id": "https://www.francosmontreal.com/temporary/54589814-3653-4bfb-bc47-fc72237fadd2",
+    "@id": "https://www.francosmontreal.com/temporary/a29bd4dd-472d-4968-a1e1-037ce6482f6b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1521,17 +2905,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g531440"
+        "@id": "_:g590340"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g531460"
+        "@id": "_:g590360"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g531480"
+        "@id": "_:g590380"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1543,6 +2927,179 @@
       {
         "@language": "en",
         "@value": "Maude Audet"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://francosmontreal.com/en/program/isha-limsa-d-aulnay-e006899",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | June 12 to June 20, 2026"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "ISHA & Limsa d'Aulnay - June 18, 2026"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://francosmontreal.com/en/program/isha-limsa-d-aulnay-e006899"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | The Largest Francophone Music Festival"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://images.ctfassets.net/dv1qnlptav0x/tWdANaUrKHXuZrVD4hXGB/1638e7d0ae3c76d552fc9c1b80f4803a/FF25-opengraph.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "630"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | June 12 to June 20, 2026"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/en/program/isha-limsa-d-aulnay-e006899"
+      }
+    ]
+  },
+  {
+    "@id": "_:g596900",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Club Soda"
+      }
+    ]
+  },
+  {
+    "@id": "_:g596920",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ISHA & Limsa d'Aulnay"
+      }
+    ]
+  },
+  {
+    "@id": "_:g596940",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thepointofsale.com/tickets/clb260618001?lang=en"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-28T15:00:00.000Z"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.francosmontreal.com/temporary/fcd26582-1563-453c-a335-166412aacda5",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-19T00:00:00.000Z"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.ctfassets.net/dv1qnlptav0x/6sfILeqQ4ZmfbTFONQiOjr/ef6358ce2d642c79d2b113e1c80a2597/ff26_isha_limsa_daulnay.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g596900"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g596920"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g596940"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/en/program/isha-limsa-d-aulnay-e006899"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ISHA & Limsa d'Aulnay"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -1625,7 +3182,7 @@
     ]
   },
   {
-    "@id": "_:g537940",
+    "@id": "_:g603480",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1637,7 +3194,7 @@
     ]
   },
   {
-    "@id": "_:g537960",
+    "@id": "_:g603500",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -1649,7 +3206,7 @@
     ]
   },
   {
-    "@id": "_:g537980",
+    "@id": "_:g603520",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1671,7 +3228,7 @@
     ]
   },
   {
-    "@id": "https://www.francosmontreal.com/temporary/35acca0d-7479-4858-902a-829370d38b73",
+    "@id": "https://www.francosmontreal.com/temporary/a1cef700-3ce3-4f37-b078-88861daee1b7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1694,17 +3251,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g537940"
+        "@id": "_:g603480"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g537960"
+        "@id": "_:g603500"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g537980"
+        "@id": "_:g603520"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1716,6 +3273,179 @@
       {
         "@language": "en",
         "@value": "Malaimé Soleil"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://francosmontreal.com/en/program/thomas-fersen-e006879",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | June 12 to June 20, 2026"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Thomas Fersen  - June 14, 2026"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://francosmontreal.com/en/program/thomas-fersen-e006879"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | The Largest Francophone Music Festival"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://images.ctfassets.net/dv1qnlptav0x/tWdANaUrKHXuZrVD4hXGB/1638e7d0ae3c76d552fc9c1b80f4803a/FF25-opengraph.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "630"
+      }
+    ],
+    "http://ogp.me/ns#image:alt": [
+      {
+        "@language": "en",
+        "@value": "Francos de Montréal | June 12 to June 20, 2026"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/en/program/thomas-fersen-e006879"
+      }
+    ]
+  },
+  {
+    "@id": "_:g610040",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Le Studio TD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g610060",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Thomas Fersen"
+      }
+    ]
+  },
+  {
+    "@id": "_:g610080",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ticketmaster.ca/event/31006375E389BDCF?lang=en-ca&brand=evenko"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-28T15:00:00.000Z"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.francosmontreal.com/temporary/1fdb6d74-7ac0-4661-85bf-cff727aea749",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-14T23:00:00.000Z"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "false"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.ctfassets.net/dv1qnlptav0x/4YjTTPm4HVMjRZa11uZI7o/4560cc000e95308d485cfa7449656a9c/ff26_thomas_fersen.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g610040"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g610060"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g610080"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://francosmontreal.com/en/program/thomas-fersen-e006879"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Thomas Fersen"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
