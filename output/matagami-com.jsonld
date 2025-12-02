@@ -120,7 +120,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g479020"
+        "@id": "_:g480000"
       }
     ],
     "http://schema.org/startDate": [
@@ -182,28 +182,37 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g479120"
+        "@id": "_:g480100"
       },
       {
-        "@id": "_:g495440"
+        "@id": "_:g496340"
       },
       {
-        "@id": "_:g512000"
+        "@id": "_:g512720"
       },
       {
-        "@id": "_:g537440"
+        "@id": "_:g538200"
       },
       {
-        "@id": "_:g553820"
+        "@id": "_:g553940"
       },
       {
-        "@id": "_:g570380"
+        "@id": "_:g570560"
       },
       {
-        "@id": "_:g586160"
+        "@id": "_:g586320"
       },
       {
-        "@id": "_:g602440"
+        "@id": "_:g602640"
+      },
+      {
+        "@id": "_:g619000"
+      },
+      {
+        "@id": "_:g635340"
+      },
+      {
+        "@id": "_:g651680"
       }
     ],
     "http://schema.org/name": [
@@ -260,7 +269,7 @@
     ]
   },
   {
-    "@id": "_:g479020",
+    "@id": "_:g480000",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -310,130 +319,178 @@
     ]
   },
   {
-    "@id": "_:g479120",
+    "@id": "_:g480100",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g479140"
+        "@id": "_:g480120"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g479160"
+        "@id": "_:g480140"
       }
     ]
   },
   {
-    "@id": "_:g495440",
+    "@id": "_:g496340",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g495460"
+        "@id": "_:g496360"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g495480"
+        "@id": "_:g496380"
       }
     ]
   },
   {
-    "@id": "_:g512000",
+    "@id": "_:g512720",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g512020"
+        "@id": "_:g512740"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g512040"
+        "@id": "_:g512760"
       }
     ]
   },
   {
-    "@id": "_:g537440",
+    "@id": "_:g538200",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g537460"
+        "@id": "_:g538220"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g537480"
+        "@id": "_:g538240"
       }
     ]
   },
   {
-    "@id": "_:g553820",
+    "@id": "_:g553940",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g553840"
+        "@id": "_:g553960"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g553860"
+        "@id": "_:g553980"
       }
     ]
   },
   {
-    "@id": "_:g570380",
+    "@id": "_:g570560",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g570400"
+        "@id": "_:g570580"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g570420"
+        "@id": "_:g570600"
       }
     ]
   },
   {
-    "@id": "_:g586160",
+    "@id": "_:g586320",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g586180"
+        "@id": "_:g586340"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g586200"
+        "@id": "_:g586360"
       }
     ]
   },
   {
-    "@id": "_:g602440",
+    "@id": "_:g602640",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g602460"
+        "@id": "_:g602660"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g602480"
+        "@id": "_:g602680"
+      }
+    ]
+  },
+  {
+    "@id": "_:g619000",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g619020"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g619040"
+      }
+    ]
+  },
+  {
+    "@id": "_:g635340",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g635360"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g635380"
+      }
+    ]
+  },
+  {
+    "@id": "_:g651680",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g651700"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g651720"
       }
     ]
   },
@@ -478,7 +535,7 @@
     ]
   },
   {
-    "@id": "_:g479140",
+    "@id": "_:g480120",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -490,7 +547,7 @@
     ]
   },
   {
-    "@id": "_:g479160",
+    "@id": "_:g480140",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -628,7 +685,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g495340"
+        "@id": "_:g496240"
       }
     ],
     "http://schema.org/startDate": [
@@ -714,7 +771,7 @@
     ]
   },
   {
-    "@id": "_:g495340",
+    "@id": "_:g496240",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -726,7 +783,7 @@
     ]
   },
   {
-    "@id": "_:g495460",
+    "@id": "_:g496360",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -738,7 +795,7 @@
     ]
   },
   {
-    "@id": "_:g495480",
+    "@id": "_:g496380",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -876,7 +933,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g511900"
+        "@id": "_:g512620"
       }
     ],
     "http://schema.org/startDate": [
@@ -956,7 +1013,7 @@
     ]
   },
   {
-    "@id": "_:g511900",
+    "@id": "_:g512620",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -968,7 +1025,7 @@
     ]
   },
   {
-    "@id": "_:g512020",
+    "@id": "_:g512740",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -980,7 +1037,7 @@
     ]
   },
   {
-    "@id": "_:g512040",
+    "@id": "_:g512760",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -1118,7 +1175,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g537340"
+        "@id": "_:g538100"
       }
     ],
     "http://schema.org/startDate": [
@@ -1204,7 +1261,7 @@
     ]
   },
   {
-    "@id": "_:g537340",
+    "@id": "_:g538100",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -1216,7 +1273,7 @@
     ]
   },
   {
-    "@id": "_:g537460",
+    "@id": "_:g538220",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -1228,7 +1285,7 @@
     ]
   },
   {
-    "@id": "_:g537480",
+    "@id": "_:g538240",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -1366,7 +1423,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g553720"
+        "@id": "_:g553840"
       }
     ],
     "http://schema.org/startDate": [
@@ -1452,7 +1509,7 @@
     ]
   },
   {
-    "@id": "_:g553720",
+    "@id": "_:g553840",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -1464,7 +1521,7 @@
     ]
   },
   {
-    "@id": "_:g553840",
+    "@id": "_:g553960",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -1476,7 +1533,7 @@
     ]
   },
   {
-    "@id": "_:g553860",
+    "@id": "_:g553980",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -1599,7 +1656,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g570280"
+        "@id": "_:g570460"
       }
     ],
     "http://schema.org/startDate": [
@@ -1645,7 +1702,7 @@
     ]
   },
   {
-    "@id": "_:g570280",
+    "@id": "_:g570460",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -1657,7 +1714,7 @@
     ]
   },
   {
-    "@id": "_:g570400",
+    "@id": "_:g570580",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -1669,7 +1726,7 @@
     ]
   },
   {
-    "@id": "_:g570420",
+    "@id": "_:g570600",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -1807,7 +1864,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g586060"
+        "@id": "_:g586220"
       }
     ],
     "http://schema.org/startDate": [
@@ -1887,7 +1944,7 @@
     ]
   },
   {
-    "@id": "_:g586060",
+    "@id": "_:g586220",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -1899,7 +1956,7 @@
     ]
   },
   {
-    "@id": "_:g586180",
+    "@id": "_:g586340",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -1911,7 +1968,7 @@
     ]
   },
   {
-    "@id": "_:g586200",
+    "@id": "_:g586360",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -1975,31 +2032,31 @@
     "article:modified_time": [
       {
         "@language": "fr-ca",
-        "@value": "2025-11-18T16:13:48+00:00"
+        "@value": "2025-12-01T14:43:28+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
       {
         "@language": "fr-ca",
-        "@value": "https://matagami.com/wp-content/uploads/2025/11/istockphoto-472370887-612x612-1.jpg"
+        "@value": "https://matagami.com/wp-content/uploads/2025/11/Facebook-jas-1024x1024.png"
       }
     ],
     "http://ogp.me/ns#image:width": [
       {
         "@language": "fr-ca",
-        "@value": "612"
+        "@value": "1024"
       }
     ],
     "http://ogp.me/ns#image:height": [
       {
         "@language": "fr-ca",
-        "@value": "408"
+        "@value": "1024"
       }
     ],
     "http://ogp.me/ns#image:type": [
       {
         "@language": "fr-ca",
-        "@value": "image/jpeg"
+        "@value": "image/png"
       }
     ],
     "@type": [
@@ -2022,12 +2079,12 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://matagami.com/wp-content/uploads/2025/11/istockphoto-472370887-612x612-1.jpg"
+        "@id": "https://matagami.com/wp-content/uploads/2025/11/Facebook-jas.png"
       }
     ],
     "http://schema.org/thumbnailUrl": [
       {
-        "@id": "https://matagami.com/wp-content/uploads/2025/11/istockphoto-472370887-612x612-1.jpg"
+        "@id": "https://matagami.com/wp-content/uploads/2025/11/Facebook-jas.png"
       }
     ],
     "http://schema.org/datePublished": [
@@ -2039,7 +2096,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-11-18T16:13:48+00:00"
+        "@value": "2025-12-01T14:43:28+00:00"
       }
     ],
     "http://schema.org/breadcrumb": [
@@ -2049,7 +2106,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g602340"
+        "@id": "_:g602540"
       }
     ],
     "http://schema.org/startDate": [
@@ -2107,24 +2164,24 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://matagami.com/wp-content/uploads/2025/11/istockphoto-472370887-612x612-1.jpg"
+        "@id": "https://matagami.com/wp-content/uploads/2025/11/Facebook-jas.png"
       }
     ],
     "http://schema.org/contentUrl": [
       {
-        "@id": "https://matagami.com/wp-content/uploads/2025/11/istockphoto-472370887-612x612-1.jpg"
+        "@id": "https://matagami.com/wp-content/uploads/2025/11/Facebook-jas.png"
       }
     ],
     "http://schema.org/width": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "612"
+        "@value": "1080"
       }
     ],
     "http://schema.org/height": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "408"
+        "@value": "1080"
       }
     ],
     "http://schema.org/inLanguage": [
@@ -2132,16 +2189,10 @@
         "@language": "fr",
         "@value": "fr-CA"
       }
-    ],
-    "http://schema.org/caption": [
-      {
-        "@language": "fr",
-        "@value": "Vector illustration of People who Skating on indoor Ice Rink. Files included: EPS 8, AI CS2, and large JPG."
-      }
     ]
   },
   {
-    "@id": "_:g602340",
+    "@id": "_:g602540",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -2153,7 +2204,7 @@
     ]
   },
   {
-    "@id": "_:g602460",
+    "@id": "_:g602660",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -2165,7 +2216,757 @@
     ]
   },
   {
-    "@id": "_:g602480",
+    "@id": "_:g602680",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://matagami.com/loisirs-et-culture/evenements/marche-de-noel-de-matagami/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Marché de Noël de Matagami - Ville de Matagami"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vous désirez trouver des cadeaux originaux ou des gâteries à savourer? Tout cela et bien plus grâce aux nombreux artisans présents au Marché de Noël ! 🎅 Groupe aux Fées laine 🎅 Créations personnalisées par Ingrid Boivin 🎅 Maison des jeunes de Matagami 🎅 Jessica Godbout 🎅 Étudiants de secondaire 5 🎅 Maison du Bouleau […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://matagami.com/loisirs-et-culture/evenements/marche-de-noel-de-matagami/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Ville de Matagami"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VilledeMatagami/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2025-12-01T14:51:24+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://matagami.com/wp-content/uploads/2025/12/Facebook-Marche-de-Noel.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://matagami.com/loisirs-et-culture/evenements/marche-de-noel-de-matagami/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://matagami.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://matagami.com/loisirs-et-culture/evenements/marche-de-noel-de-matagami/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://matagami.com/wp-content/uploads/2025/12/Facebook-Marche-de-Noel.png"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://matagami.com/wp-content/uploads/2025/12/Facebook-Marche-de-Noel.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-01T14:51:21+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-01T14:51:24+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://matagami.com/loisirs-et-culture/evenements/marche-de-noel-de-matagami/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g618900"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-06T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-06T00:00:00+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://matagami.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Marché de Noël de Matagami - Ville de Matagami"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Matagami"
+      }
+    ],
+    "http://schema.org/doorTime": [
+      {
+        "@language": "fr",
+        "@value": "10:00"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "fr",
+        "@value": "P0Y0M0DT6H0M0S"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@language": "fr",
+        "@value": "100, place du Commerce"
+      }
+    ]
+  },
+  {
+    "@id": "https://matagami.com/loisirs-et-culture/evenements/marche-de-noel-de-matagami/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://matagami.com/wp-content/uploads/2025/12/Facebook-Marche-de-Noel.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://matagami.com/wp-content/uploads/2025/12/Facebook-Marche-de-Noel.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g618900",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://matagami.com/loisirs-et-culture/evenements/marche-de-noel-de-matagami/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g619020",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://matagami.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g619040",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://matagami.com/loisirs-et-culture/evenements/heure-du-conte-et-visite-du-pere-noel/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Heure du conte et visite du Père Noël - Ville de Matagami"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Kevin McCallister a huit ans. Il a fait le voeu que sa famille disparaisse… Il ne s’attendait pas à ce que ça marche! Venez connaître la suite de l’histoire le samedi 14 décembre à 10 h 45 à la salle multidisciplinaire. Pssst… de la grande visite sera là pour vous rencontrer 😊"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://matagami.com/loisirs-et-culture/evenements/heure-du-conte-et-visite-du-pere-noel/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Ville de Matagami"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VilledeMatagami/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2025-12-01T14:52:59+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://matagami.com/wp-content/uploads/2025/12/Facebook-heure-du-conte-1024x1024.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1024"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1024"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://matagami.com/loisirs-et-culture/evenements/heure-du-conte-et-visite-du-pere-noel/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://matagami.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://matagami.com/loisirs-et-culture/evenements/heure-du-conte-et-visite-du-pere-noel/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://matagami.com/wp-content/uploads/2025/12/Facebook-heure-du-conte.png"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://matagami.com/wp-content/uploads/2025/12/Facebook-heure-du-conte.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-01T14:49:36+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-01T14:52:59+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://matagami.com/loisirs-et-culture/evenements/heure-du-conte-et-visite-du-pere-noel/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g635240"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-14T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-14T00:00:00+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://matagami.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Heure du conte et visite du Père Noël - Ville de Matagami"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Matagami"
+      }
+    ],
+    "http://schema.org/doorTime": [
+      {
+        "@language": "fr",
+        "@value": "10:45"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@language": "fr",
+        "@value": "Salle multidisciplinaire - Centre civique"
+      }
+    ]
+  },
+  {
+    "@id": "https://matagami.com/loisirs-et-culture/evenements/heure-du-conte-et-visite-du-pere-noel/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://matagami.com/wp-content/uploads/2025/12/Facebook-heure-du-conte.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://matagami.com/wp-content/uploads/2025/12/Facebook-heure-du-conte.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g635240",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://matagami.com/loisirs-et-culture/evenements/heure-du-conte-et-visite-du-pere-noel/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g635360",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://matagami.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g635380",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://matagami.com/loisirs-et-culture/evenements/disco-patin-de-noel/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Disco-Patin de Noël - Ville de Matagami"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Venez vous amuser à la Disco-Patin de Noël le vendredi 12 décembre à partir de 17 h 30. Le restaurant de l’aréna sera ouvert pour l’occasion. Une photographe sera également sur place pour immortaliser ce moment !!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://matagami.com/loisirs-et-culture/evenements/disco-patin-de-noel/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Ville de Matagami"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/VilledeMatagami/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2025-12-01T14:53:25+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://matagami.com/wp-content/uploads/2025/12/Disco-patin-noel-Facebook.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://matagami.com/loisirs-et-culture/evenements/disco-patin-de-noel/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://matagami.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://matagami.com/loisirs-et-culture/evenements/disco-patin-de-noel/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://matagami.com/wp-content/uploads/2025/12/Disco-patin-noel-Facebook.png"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://matagami.com/wp-content/uploads/2025/12/Disco-patin-noel-Facebook.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-01T14:46:39+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-01T14:53:25+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://matagami.com/loisirs-et-culture/evenements/disco-patin-de-noel/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g651580"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-12T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-12T00:00:00+00:00"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://matagami.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Disco-Patin de Noël - Ville de Matagami"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@language": "fr",
+        "@value": "Ville de Matagami"
+      }
+    ],
+    "http://schema.org/doorTime": [
+      {
+        "@language": "fr",
+        "@value": "17:30"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@language": "fr",
+        "@value": "Aréna"
+      }
+    ]
+  },
+  {
+    "@id": "https://matagami.com/loisirs-et-culture/evenements/disco-patin-de-noel/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://matagami.com/wp-content/uploads/2025/12/Disco-patin-noel-Facebook.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://matagami.com/wp-content/uploads/2025/12/Disco-patin-noel-Facebook.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g651580",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://matagami.com/loisirs-et-culture/evenements/disco-patin-de-noel/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g651700",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://matagami.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g651720",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
