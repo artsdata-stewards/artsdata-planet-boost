@@ -6,7 +6,7 @@ on:
       incremental:
         description: 'Fetch only new organizations not previously crawled'
         required: false
-        default: 'true'
+        default: 'false'
       
       organization_uri:
         description: 'Fetch only this specific organization (overrides incremental)'
@@ -14,31 +14,6 @@ on:
         default: ''
 
 jobs:
-  delete-wikidata-jsonld:
-    if: ${{ github.event.inputs.incremental == 'false' }}
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Delete file if it exists
-        run: |
-          if [ -f "metadata/metadata_wikidata_spider.jsonld" ]; then
-            rm metadata/metadata_wikidata_spider.jsonld
-          else
-            echo "File not found, nothing to delete."
-          fi
-
-      - name: Commit and push deletion
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add -A
-          git commit -m "Delete metadata_wikidata_spider.jsonld" || echo "Nothing to commit"
-          git push
   fetch_organizations:
     runs-on: ubuntu-latest
     steps:
@@ -52,10 +27,10 @@ jobs:
 
       - name: Run fetch_organizations.rb
         run: |
-          if [ "${{ inputs.incremental }}" = "true" ]; then
-            bundle exec ruby src/fetch_organizations.rb --incremental
-          elif [ -n "${{ inputs.organization_uri }}" ]; then
+          if [ -n "${{ inputs.organization_uri }}" ]; then
             bundle exec ruby src/fetch_organizations.rb --organization_uri="${{ inputs.organization_uri }}"
+          elif [ "${{ inputs.incremental }}" = "true" ]; then
+            bundle exec ruby src/fetch_organizations.rb --incremental
           else
             bundle exec ruby src/fetch_organizations.rb
           fi
