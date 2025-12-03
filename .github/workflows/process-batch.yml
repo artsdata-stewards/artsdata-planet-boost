@@ -56,6 +56,7 @@ jobs:
               "metadata_artifact": "${{ matrix.org.metadata_artifact }}",
               "crawl_name": "${{ matrix.org.crawl_name }}",
               "crawl_description": "${{ matrix.org.crawl_description }}",
-              "artsdata_uri": "${{ matrix.org.artsdata_uri }}"
+              "artsdata_uri": "${{ matrix.org.artsdata_uri }}",
+              "skip_crawl": "${{ matrix.org.skip_crawl }}"
             }
 
