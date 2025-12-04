@@ -11,7 +11,7 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
-        "@id": "https://www.reseaucentre.qc.ca/"
+        "@id": "http://www.marigoldcentre.ca/"
       },
       {
         "@id": "https://theatrecentre.org/"
@@ -694,7 +694,7 @@
     ]
   },
   {
-    "@id": "https://www.reseaucentre.qc.ca/",
+    "@id": "http://www.marigoldcentre.ca/",
     "@type": [
       "http://schema.org/Website"
     ]
@@ -2056,31 +2056,31 @@
     ]
   },
   {
-    "@id": "urn:organization:Q124463784",
+    "@id": "urn:organization:Q129448587",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/name": [
       {
-        "@value": "Réseau Centre"
+        "@value": "Marigold Cultural Centre"
       }
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "http://www.wikidata.org/entity/Q124463784"
+        "@id": "http://www.wikidata.org/entity/Q129448587"
       },
       {
-        "@id": "http://kg.artsdata.ca/resource/K16-87"
+        "@id": "http://kg.artsdata.ca/resource/K2-5256"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.reseaucentre.qc.ca/"
+        "@id": "http://www.marigoldcentre.ca/"
       }
     ]
   },
   {
-    "@id": "urn:crawl:a820fd67-aa1b-45fe-a66f-2a4f0035912e",
+    "@id": "urn:crawl:2f6e4af6-2ecf-47b3-ab11-c499921ff04a",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
@@ -2096,7 +2096,7 @@
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "https://www.reseaucentre.qc.ca/"
+        "@id": "http://www.marigoldcentre.ca/"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
@@ -2238,15 +2238,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:g460320"
+        "@id": "_:g460300"
       },
       {
-        "@id": "_:g460340"
+        "@id": "_:g460320"
       }
     ]
   },
   {
-    "@id": "_:g460320",
+    "@id": "_:g460300",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -2263,7 +2263,7 @@
     ]
   },
   {
-    "@id": "_:g460340",
+    "@id": "_:g460320",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
