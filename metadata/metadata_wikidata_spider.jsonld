@@ -11,10 +11,10 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
-        "@id": "http://dartmouthcommunityconcert.ca/"
+        "@id": "http://www.glasgowsquare.com/"
       },
       {
-        "@id": "https://www.bellaroseartscentre.com/"
+        "@id": "https://www.markethall.org"
       },
       {
         "@id": "https://calgarybluesfest.com"
@@ -646,13 +646,13 @@
     ]
   },
   {
-    "@id": "http://dartmouthcommunityconcert.ca/",
+    "@id": "http://www.glasgowsquare.com/",
     "@type": [
       "http://schema.org/Website"
     ]
   },
   {
-    "@id": "https://www.bellaroseartscentre.com/",
+    "@id": "https://www.markethall.org",
     "@type": [
       "http://schema.org/Website"
     ]
@@ -1912,31 +1912,31 @@
     ]
   },
   {
-    "@id": "urn:organization:Q129448501",
+    "@id": "urn:organization:Q129448550",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/name": [
       {
-        "@value": "Dartmouth Community Concerts"
+        "@value": "Glasgow Square Theatre"
       }
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "http://www.wikidata.org/entity/Q129448501"
+        "@id": "http://www.wikidata.org/entity/Q129448550"
       },
       {
-        "@id": "http://kg.artsdata.ca/resource/K2-5245"
+        "@id": "http://kg.artsdata.ca/resource/K2-5250"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "http://dartmouthcommunityconcert.ca/"
+        "@id": "http://www.glasgowsquare.com/"
       }
     ]
   },
   {
-    "@id": "urn:crawl:00c61beb-6abc-4adb-a467-39ec81985742",
+    "@id": "urn:crawl:0046fb5c-b181-473e-92d2-57c21e4374bb",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
@@ -1952,19 +1952,19 @@
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "http://dartmouthcommunityconcert.ca/"
+        "@id": "http://www.glasgowsquare.com/"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2025-12-04T10:02:08Z"
+        "@value": "2025-12-04T10:02:10Z"
       }
     ],
     "http://www.w3.org/ns/prov#endedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2025-12-04T10:02:08Z"
+        "@value": "2025-12-04T10:02:10Z"
       }
     ],
     "http://www.w3.org/ns/prov#wasInformedBy": [
@@ -2032,31 +2032,31 @@
     ]
   },
   {
-    "@id": "urn:organization:Q129448452",
+    "@id": "urn:organization:Q115689020",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/name": [
       {
-        "@value": "The Bella Rose Arts Centre"
+        "@value": "Market Hall Performing Arts Centre"
       }
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "http://www.wikidata.org/entity/Q129448452"
+        "@id": "http://www.wikidata.org/entity/Q115689020"
       },
       {
-        "@id": "http://kg.artsdata.ca/resource/K2-5241"
+        "@id": "http://kg.artsdata.ca/resource/K14-122"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.bellaroseartscentre.com/"
+        "@id": "https://www.markethall.org"
       }
     ]
   },
   {
-    "@id": "urn:crawl:af2f2649-cd59-41c7-ba88-dd0d8539e927",
+    "@id": "urn:crawl:78d2418c-e0a1-4d6c-9804-c40d3fd54c23",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
@@ -2072,19 +2072,19 @@
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "https://www.bellaroseartscentre.com/"
+        "@id": "https://www.markethall.org"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2025-12-04T10:02:03Z"
+        "@value": "2025-12-04T10:02:05Z"
       }
     ],
     "http://www.w3.org/ns/prov#endedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2025-12-04T10:02:03Z"
+        "@value": "2025-12-04T10:02:05Z"
       }
     ],
     "http://www.w3.org/ns/prov#wasInformedBy": [
@@ -2094,15 +2094,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:g460320"
+        "@id": "_:g460300"
       },
       {
-        "@id": "_:g460340"
+        "@id": "_:g460320"
       }
     ]
   },
   {
-    "@id": "_:g460320",
+    "@id": "_:g460300",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -2119,7 +2119,7 @@
     ]
   },
   {
-    "@id": "_:g460340",
+    "@id": "_:g460320",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
