@@ -11,10 +11,10 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
-        "@id": "https://normiecorp.com/"
+        "@id": "https://www.desertdaze.ca"
       },
       {
-        "@id": "https://themco.ca"
+        "@id": "http://www.ville.montreal.qc.ca/sud-ouest/marie-uguay"
       },
       {
         "@id": "https://artsandculturecentre.com/cornerbrook/Online/default.asp"
@@ -712,13 +712,13 @@
     ]
   },
   {
-    "@id": "https://normiecorp.com/",
+    "@id": "https://www.desertdaze.ca",
     "@type": [
       "http://schema.org/Website"
     ]
   },
   {
-    "@id": "https://themco.ca",
+    "@id": "http://www.ville.montreal.qc.ca/sud-ouest/marie-uguay",
     "@type": [
       "http://schema.org/Website"
     ]
@@ -2110,31 +2110,31 @@
     ]
   },
   {
-    "@id": "urn:organization:Q128132528",
+    "@id": "urn:organization:Q128242803",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/name": [
       {
-        "@value": "Normie Corp"
+        "@value": "Spences Bridge Community Club"
       }
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "http://www.wikidata.org/entity/Q128132528"
+        "@id": "http://www.wikidata.org/entity/Q128242803"
       },
       {
-        "@id": "http://kg.artsdata.ca/resource/K14-180"
+        "@id": "http://kg.artsdata.ca/resource/K2-5426"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://normiecorp.com/"
+        "@id": "https://www.desertdaze.ca"
       }
     ]
   },
   {
-    "@id": "urn:crawl:d6c97743-85b3-4251-b87d-55c2d2e7c2b4",
+    "@id": "urn:crawl:af9e0c8a-3f13-4e61-9ba0-cc4dc0b9fad3",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
@@ -2150,19 +2150,19 @@
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "https://normiecorp.com/"
+        "@id": "https://www.desertdaze.ca"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2025-12-04T10:22:41Z"
+        "@value": "2025-12-04T10:22:42Z"
       }
     ],
     "http://www.w3.org/ns/prov#endedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2025-12-04T10:22:41Z"
+        "@value": "2025-12-04T10:22:42Z"
       }
     ],
     "http://www.w3.org/ns/prov#wasInformedBy": [
@@ -2230,31 +2230,31 @@
     ]
   },
   {
-    "@id": "urn:organization:Q6749982",
+    "@id": "urn:organization:Q3279755",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/name": [
       {
-        "@value": "Manitoba Chamber Orchestra"
+        "@value": "Maison de la culture Marie-Uguay"
       }
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "http://www.wikidata.org/entity/Q6749982"
+        "@id": "http://www.wikidata.org/entity/Q3279755"
       },
       {
-        "@id": "http://kg.artsdata.ca/resource/K2-5589"
+        "@id": "http://kg.artsdata.ca/resource/K16-71"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://themco.ca"
+        "@id": "http://www.ville.montreal.qc.ca/sud-ouest/marie-uguay"
       }
     ]
   },
   {
-    "@id": "urn:crawl:cf3111f4-1134-438e-a42c-79bcccd0a573",
+    "@id": "urn:crawl:4d8a254e-fbc4-4fbf-bc11-f0fbae408280",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
@@ -2270,19 +2270,19 @@
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "https://themco.ca"
+        "@id": "http://www.ville.montreal.qc.ca/sud-ouest/marie-uguay"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2025-12-04T10:22:38Z"
+        "@value": "2025-12-04T10:22:39Z"
       }
     ],
     "http://www.w3.org/ns/prov#endedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2025-12-04T10:22:38Z"
+        "@value": "2025-12-04T10:22:39Z"
       }
     ],
     "http://www.w3.org/ns/prov#wasInformedBy": [
@@ -2292,15 +2292,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:g460300"
+        "@id": "_:g460320"
       },
       {
-        "@id": "_:g460320"
+        "@id": "_:g460340"
       }
     ]
   },
   {
-    "@id": "_:g460300",
+    "@id": "_:g460320",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -2317,7 +2317,7 @@
     ]
   },
   {
-    "@id": "_:g460320",
+    "@id": "_:g460340",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
