@@ -64,6 +64,7 @@ data = rows.map do |row|
     "metadata_artifact" => "wikidata-spider-crawl-metadata",
     "artsdata_uri" => "http://kg.artsdata.ca/resource/#{row[:artsdataID].to_s}"
   }
+  meta['skip_crawl'] = false
   if already_existing.include?(url)
     meta['crawl_name'] = "Skipped Crawl: Website Loaded Elsewhere"
     meta['crawl_description'] = "Skipped crawl because website is already loaded by another activity. See https://github.com/artsdata-stewards/artsdata-planet-boost/blob/main/sparql/artsdata_already_existing.sparql"
