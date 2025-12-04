@@ -11,7 +11,7 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
-        "@id": "http://bicentennialtheatre.ca/"
+        "@id": "https://theatrecentre.org/"
       },
       {
         "@id": "https://www.culture3r.com/"
@@ -691,7 +691,7 @@
     ]
   },
   {
-    "@id": "http://bicentennialtheatre.ca/",
+    "@id": "https://theatrecentre.org/",
     "@type": [
       "http://schema.org/Website"
     ]
@@ -2047,31 +2047,31 @@
     ]
   },
   {
-    "@id": "urn:organization:Q129448591",
+    "@id": "urn:organization:Q124389163",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/name": [
       {
-        "@value": "Musquodoboit Valley Bicentennial"
+        "@value": "The Theatre Centre"
       }
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "http://www.wikidata.org/entity/Q129448591"
+        "@id": "http://www.wikidata.org/entity/Q124389163"
       },
       {
-        "@id": "http://kg.artsdata.ca/resource/K2-5258"
+        "@id": "http://kg.artsdata.ca/resource/K14-152"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "http://bicentennialtheatre.ca/"
+        "@id": "https://theatrecentre.org/"
       }
     ]
   },
   {
-    "@id": "urn:crawl:6a28eeaa-d60d-4bfc-aa2c-47c82ee3c99b",
+    "@id": "urn:crawl:d272c02e-a97a-4ed4-bdb2-8071c3605ebe",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
@@ -2087,7 +2087,7 @@
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "http://bicentennialtheatre.ca/"
+        "@id": "https://theatrecentre.org/"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
@@ -2229,15 +2229,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:g460340"
+        "@id": "_:g460300"
       },
       {
-        "@id": "_:g460360"
+        "@id": "_:g460320"
       }
     ]
   },
   {
-    "@id": "_:g460340",
+    "@id": "_:g460300",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -2254,7 +2254,7 @@
     ]
   },
   {
-    "@id": "_:g460360",
+    "@id": "_:g460320",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
