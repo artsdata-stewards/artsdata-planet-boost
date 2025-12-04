@@ -11,7 +11,7 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
-        "@id": "https://newmusic.org"
+        "@id": "http://www.sonicunyon.com"
       },
       {
         "@id": "https://www.mermaidtheatre.ca/"
@@ -754,7 +754,7 @@
     ]
   },
   {
-    "@id": "https://newmusic.org",
+    "@id": "http://www.sonicunyon.com",
     "@type": [
       "http://schema.org/Website"
     ]
@@ -2236,31 +2236,31 @@
     ]
   },
   {
-    "@id": "urn:organization:Q75640531",
+    "@id": "urn:organization:Q7561847",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/name": [
       {
-        "@value": "Vancouver New Music"
+        "@value": "Sonic Unyon"
       }
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "http://www.wikidata.org/entity/Q75640531"
+        "@id": "http://www.wikidata.org/entity/Q7561847"
       },
       {
-        "@id": "http://kg.artsdata.ca/resource/K14-70"
+        "@id": "http://kg.artsdata.ca/resource/K2-5599"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://newmusic.org"
+        "@id": "http://www.sonicunyon.com"
       }
     ]
   },
   {
-    "@id": "urn:crawl:2bd8c38b-e741-43cb-9f1a-b3d31f97a710",
+    "@id": "urn:crawl:53cb5ca0-0a83-4d0c-a822-2c09a85a691e",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
@@ -2276,19 +2276,19 @@
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "https://newmusic.org"
+        "@id": "http://www.sonicunyon.com"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2025-12-04T10:24:28Z"
+        "@value": "2025-12-04T10:24:29Z"
       }
     ],
     "http://www.w3.org/ns/prov#endedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2025-12-04T10:24:28Z"
+        "@value": "2025-12-04T10:24:29Z"
       }
     ],
     "http://www.w3.org/ns/prov#wasInformedBy": [
