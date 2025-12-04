@@ -11,7 +11,7 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
-        "@id": "https://www.tidemarktheatre.com"
+        "@id": "https://centredesarts.ca"
       },
       {
         "@id": "https://artsandculturecentre.com/labwest/Online/default.asp"
@@ -718,7 +718,7 @@
     ]
   },
   {
-    "@id": "https://www.tidemarktheatre.com",
+    "@id": "https://centredesarts.ca",
     "@type": [
       "http://schema.org/Website"
     ]
@@ -2128,31 +2128,31 @@
     ]
   },
   {
-    "@id": "urn:organization:Q128243461",
+    "@id": "urn:organization:Q2945528",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/name": [
       {
-        "@value": "Tidemark Theatre"
+        "@value": "Centre des arts Juliette-Lassonde"
       }
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "http://www.wikidata.org/entity/Q128243461"
+        "@id": "http://www.wikidata.org/entity/Q2945528"
       },
       {
-        "@id": "http://kg.artsdata.ca/resource/K2-5461"
+        "@id": "http://kg.artsdata.ca/resource/K16-22"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.tidemarktheatre.com"
+        "@id": "https://centredesarts.ca"
       }
     ]
   },
   {
-    "@id": "urn:crawl:7633fec3-d422-45f7-87f3-ff1e586c7e03",
+    "@id": "urn:crawl:4f894813-a1cb-47a1-b9d1-9ae4f10600cf",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
@@ -2168,19 +2168,19 @@
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "https://www.tidemarktheatre.com"
+        "@id": "https://centredesarts.ca"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2025-12-04T10:23:11Z"
+        "@value": "2025-12-04T10:23:12Z"
       }
     ],
     "http://www.w3.org/ns/prov#endedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2025-12-04T10:23:11Z"
+        "@value": "2025-12-04T10:23:12Z"
       }
     ],
     "http://www.w3.org/ns/prov#wasInformedBy": [
@@ -2310,15 +2310,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:g460320"
+        "@id": "_:g460300"
       },
       {
-        "@id": "_:g460340"
+        "@id": "_:g460320"
       }
     ]
   },
   {
-    "@id": "_:g460320",
+    "@id": "_:g460300",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -2335,7 +2335,7 @@
     ]
   },
   {
-    "@id": "_:g460340",
+    "@id": "_:g460320",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
