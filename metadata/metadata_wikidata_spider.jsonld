@@ -11,7 +11,7 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
-        "@id": "http://dartmouthcommunityconcert.ca/"
+        "@id": "https://usine-c.com/"
       },
       {
         "@id": "https://www.trail-arts.com"
@@ -727,7 +727,7 @@
     ]
   },
   {
-    "@id": "http://dartmouthcommunityconcert.ca/",
+    "@id": "https://usine-c.com/",
     "@type": [
       "http://schema.org/Website"
     ]
@@ -2155,31 +2155,31 @@
     ]
   },
   {
-    "@id": "urn:organization:Q129448501",
+    "@id": "urn:organization:Q3552574",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/name": [
       {
-        "@value": "Dartmouth Community Concerts"
+        "@value": "Usine C"
       }
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "http://www.wikidata.org/entity/Q129448501"
+        "@id": "http://www.wikidata.org/entity/Q3552574"
       },
       {
-        "@id": "http://kg.artsdata.ca/resource/K2-5245"
+        "@id": "http://kg.artsdata.ca/resource/K10-339"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "http://dartmouthcommunityconcert.ca/"
+        "@id": "https://usine-c.com/"
       }
     ]
   },
   {
-    "@id": "urn:crawl:365bfc62-5b31-4678-8b15-4eb48046337a",
+    "@id": "urn:crawl:584524ca-ca67-4bb3-a3fe-752dc6ef6fa9",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
@@ -2195,19 +2195,19 @@
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "http://dartmouthcommunityconcert.ca/"
+        "@id": "https://usine-c.com/"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2025-12-04T10:23:21Z"
+        "@value": "2025-12-04T10:23:23Z"
       }
     ],
     "http://www.w3.org/ns/prov#endedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2025-12-04T10:23:21Z"
+        "@value": "2025-12-04T10:23:23Z"
       }
     ],
     "http://www.w3.org/ns/prov#wasInformedBy": [
@@ -2337,15 +2337,15 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:g460300"
+        "@id": "_:g460360"
       },
       {
-        "@id": "_:g460320"
+        "@id": "_:g460380"
       }
     ]
   },
   {
-    "@id": "_:g460300",
+    "@id": "_:g460360",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -2362,7 +2362,7 @@
     ]
   },
   {
-    "@id": "_:g460320",
+    "@id": "_:g460380",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
