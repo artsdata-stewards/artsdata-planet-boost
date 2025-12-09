@@ -6,3 +6,4 @@ SELECT ?org ?artsdataID ?url ?orgLabel WHERE {
   ?org wdt:P856 ?url .
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],mul,en,fr". }
 }
+ORDER BY ?orgLabel
