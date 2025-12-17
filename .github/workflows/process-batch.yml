@@ -7,6 +7,11 @@ on:
         required: true
         type: string
         description: 'Base64-encoded JSON batch data'
+      register_only:
+        required: false
+        type: boolean
+        description: 'Only register dataset and not load it'
+        default: false
 
 jobs:
   load_json:
@@ -45,6 +50,7 @@ jobs:
           page-url: '${{ matrix.org.url }}'
           token: "${{ secrets.GITHUB_TOKEN }}"
           publisher: "http://kg.artsdata.ca/resource/K1-202"
+          register-only: '${{ inputs.register_only }}'
           metadata-config: |
             {
               "file_name": "${{ matrix.org.file_name }}",
