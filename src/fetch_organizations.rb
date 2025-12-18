@@ -54,7 +54,7 @@ end
 data = rows.map do |row|
   url = row[:url].to_s
   meta = {
-    "file_name" => "metadata_wikidata_spider.jsonld",
+    "file_name" => "metadata_wikidata_spider_child_#{artifact_from_url(url)}.jsonld",
     "url" => url,
     "artifact" => artifact_from_url(url),
     "same_as" => row[:org].to_s,
@@ -87,8 +87,8 @@ data = data.reject do |d|
     false
   end
 end
-data = data[0, 100] #limit to first 100 for testing
-batch_size = 20
+data = data[0, 10] #limit to first 10 for testing
+batch_size = 10
 batches = data.each_slice(batch_size).to_a
 
 batches.each_with_index do |batch, i|
