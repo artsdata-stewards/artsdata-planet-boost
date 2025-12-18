@@ -7,21 +7,36 @@ on:
         description: 'Fetch only new organizations not previously crawled'
         required: false
         default: 'false'
-      
       organization_uri:
         description: 'Fetch only this specific organization (overrides incremental)'
         required: false
         default: ''
-
       register_only:
         type: boolean
         description: 'Only register dataset and not load it'
         required: false
         default: false
-
       metadata_file_name:
         description: 'Filename for combined metadata'
         required: false
+        default: 'metadata_wikidata_spider.jsonld'
+  workflow_call:
+    inputs:
+      incremental:
+        required: false
+        type: string
+        default: 'false'
+      organization_uri:
+        required: false
+        type: string
+        default: ''
+      register_only:
+        required: false
+        type: boolean
+        default: false
+      metadata_file_name:
+        required: false
+        type: string
         default: 'metadata_wikidata_spider.jsonld'
 
 jobs:
