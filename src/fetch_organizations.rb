@@ -61,7 +61,6 @@ data = rows.map do |row|
     "name" => row[:orgLabel].to_s,
     "datafeed_uri" => "urn:datafeed:wikidata-presenter-websites",
     "datafeed_title" => "Collection of Wikidata presenter websites",
-    "metadata_artifact" => "wikidata-spider-crawl-metadata",
     "artsdata_uri" => "http://kg.artsdata.ca/resource/#{row[:artsdataID].to_s}"
   }
   meta['skip_crawl'] = false
