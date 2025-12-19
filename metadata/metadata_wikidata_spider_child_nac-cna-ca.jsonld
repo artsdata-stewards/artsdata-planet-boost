@@ -11,42 +11,42 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
-        "@id": "https://nac-cna.ca/en/indigenoustheatre"
+        "@id": "https://nac-cna.ca/en/theatrefrancais"
       }
     ]
   },
   {
-    "@id": "https://nac-cna.ca/en/indigenoustheatre",
+    "@id": "https://nac-cna.ca/en/theatrefrancais",
     "@type": [
       "http://schema.org/Website"
     ]
   },
   {
-    "@id": "urn:organization:Q105878246",
+    "@id": "urn:organization:Q105876687",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/name": [
       {
-        "@value": "NAC Indigenous Theatre"
+        "@value": "NAC French Theatre"
       }
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "http://www.wikidata.org/entity/Q105878246"
+        "@id": "http://www.wikidata.org/entity/Q105876687"
       },
       {
-        "@id": "http://kg.artsdata.ca/resource/K2-288"
+        "@id": "http://kg.artsdata.ca/resource/K10-588"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://nac-cna.ca/en/indigenoustheatre"
+        "@id": "https://nac-cna.ca/en/theatrefrancais"
       }
     ]
   },
   {
-    "@id": "urn:crawl:c43070d2-f87d-4aa4-ac92-9bb4a6465aca",
+    "@id": "urn:crawl:6670d048-bd13-4151-8f10-882bcfc30c47",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
@@ -62,19 +62,19 @@
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "https://nac-cna.ca/en/indigenoustheatre"
+        "@id": "https://nac-cna.ca/en/theatrefrancais"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2025-12-19T17:54:12Z"
+        "@value": "2025-12-19T17:53:48Z"
       }
     ],
     "http://www.w3.org/ns/prov#endedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2025-12-19T21:50:44Z"
+        "@value": "2025-12-19T21:50:54Z"
       }
     ],
     "http://www.w3.org/ns/prov#wasInformedBy": [
@@ -156,18 +156,18 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#decimal",
-        "@value": "88.65984654731457"
+        "@value": "88.64304502552994"
       }
     ]
   },
   {
-    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/nac-cna-ca/2025-12-19T16_50_50#Dataset",
+    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/nac-cna-ca/2025-12-19T16_50_59#Dataset",
     "@type": [
       "http://www.w3.org/ns/prov#Entity"
     ],
     "http://www.w3.org/ns/prov#wasGeneratedBy": [
       {
-        "@id": "urn:crawl:c43070d2-f87d-4aa4-ac92-9bb4a6465aca"
+        "@id": "urn:crawl:6670d048-bd13-4151-8f10-882bcfc30c47"
       }
     ]
   }
