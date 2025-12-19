@@ -16,10 +16,19 @@ on:
         description: 'Only register dataset and not load it'
         required: false
         default: false
-      metadata_file_name:
-        description: 'Filename for combined metadata'
+      number_of_organizations:
+        type: number
+        description: 'Number of organizations to process'
         required: false
-        default: 'metadata_wikidata_spider.jsonld'
+        default: 100
+      source:
+        description: 'Source of organizations to fetch'
+        required: false
+        default: 'wikidata'
+      databus_url:
+        description: 'Custom databus URL'
+        required: false
+        default: 'http://api.artsdata.ca/databus/'
   workflow_call:
     inputs:
       incremental:
@@ -34,14 +43,25 @@ on:
         required: false
         type: boolean
         default: false
-      metadata_file_name:
+      number_of_organizations:
+        description: 'Number of organizations to process'
+        type: number
+        required: false
+        default: 100
+      source:
         required: false
         type: string
-        default: 'metadata_wikidata_spider.jsonld'
+        default: 'wikidata'
+      databus_url:
+        required: false
+        type: string
+        default: 'http://api.artsdata.ca/databus/'
 
 jobs:
   fetch_organizations:
     runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.load_json.outputs.matrix }}
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -51,50 +71,105 @@ jobs:
         with:
           bundler-cache: true
 
-      - name: Run fetch_organizations.rb
+      - name: Run main.rb
         run: |
           if [ -n "${{ inputs.organization_uri }}" ]; then
-            bundle exec ruby src/fetch_organizations.rb --organization_uri="${{ inputs.organization_uri }}"
+            bundle exec ruby src/main.rb --organization_uri="${{ inputs.organization_uri }}" --source="${{ inputs.source }}"
           elif [ "${{ inputs.incremental }}" = "true" ]; then
-            bundle exec ruby src/fetch_organizations.rb --incremental
+            bundle exec ruby src/main.rb --incremental --source="${{ inputs.source }}"
           else
-            bundle exec ruby src/fetch_organizations.rb
+            bundle exec ruby src/main.rb --source="${{ inputs.source }}"
           fi
 
-      - name: upload artifact
-        uses: actions/upload-artifact@v5
-        with:
-          name: org-batches
-          path: wikidata_orgs_*.json
+      - name: Slice organizations to limit
+        run: |
+          jq --argjson limit ${{ inputs.number_of_organizations }} '.[0:$limit]' ${{inputs.source}}_orgs_all.json > ${{inputs.source}}_orgs_limited.json
+          mv ${{inputs.source}}_orgs_limited.json ${{inputs.source}}_orgs_all.json
 
-  dispatch_batches:
-    runs-on: ubuntu-latest
+      - name: Load batch matrix JSON
+        id: load_json
+        run: |
+          MATRIX=$(jq -c . ${{inputs.source}}_orgs_all.json)
+          echo "matrix=${MATRIX}" >> $GITHUB_OUTPUT
+
+  run_matrix:
     needs: fetch_organizations
-    env:
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        org: ${{ fromJson(needs.fetch_organizations.outputs.matrix) }}
+
+    steps:
+      - name: Crawl and push using pipeline-action
+        uses: culturecreates/artsdata-pipeline-action@v3
+        with:
+          mode: 'fetch-push'
+          artifact: '${{ matrix.org.artifact }}'
+          page-url: '${{ matrix.org.url }}'
+          token: "${{ secrets.GITHUB_TOKEN }}"
+          publisher: "http://kg.artsdata.ca/resource/K1-202"
+          register-only: '${{ inputs.register_only }}'
+          custom-databus-url: ${{ inputs.databus_url }}
+          metadata-config: |
+            {
+              "file_name": "${{ matrix.org.file_name }}",
+              "datafeed_uri": "${{ matrix.org.datafeed_uri }}",
+              "datafeed_title": "${{ matrix.org.datafeed_title }}",
+              "datafeed_name": "${{ matrix.org.name }}",
+              "datafeed_url": "${{ matrix.org.url }}",
+              "same_as": "${{ matrix.org.same_as }}",
+              "crawl_name": "${{ matrix.org.crawl_name }}",
+              "crawl_description": "${{ matrix.org.crawl_description }}",
+              "artsdata_uri": "${{ matrix.org.artsdata_uri }}",
+              "skip_crawl": "${{ matrix.org.skip_crawl }}"
+            }      
+
+  combine_metadata:
+    needs: [run_matrix, fetch_organizations]
+    if: always()
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-
-      - name: Find batch files
-        id: batches
-        uses: actions/download-artifact@v5
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          name: org-batches
+          bundler-cache: true
 
-      - name: Dispatch workflows with file content
+      - name: Combine metadata files
+        shell: bash
         run: |
-          BATCH_DIR="${{ steps.batches.outputs.download-path }}"
-          for file in "$BATCH_DIR"/wikidata_orgs_*.json; do
-            echo "Reading: $file"
 
-            # Encode file content in Base64
-            CONTENT=$(base64 -w0 "$file")
+          REGEX=metadata_${{ inputs.source }}_spider_
 
-            echo "Dispatching with embedded content"
-            gh workflow run process-batch.yml \
-                --ref main \
-                --field batch_content="$CONTENT" \
-                --field register_only="${{ inputs.register_only }}" \
-                --field metadata_file_name="${{ inputs.metadata_file_name }}"
-          done
+          FILE_NAME="metadata/metadata_${{ inputs.source }}_spider.jsonld"
+
+          echo "Running combine_metadata with:"
+          echo "  regex: $REGEX"
+          echo "  file_name: $FILE_NAME"
+
+          bundle exec ruby src/combine_metadata.rb "$REGEX" "$FILE_NAME"
+
+      - name: Commit combined metadata
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Combine metadata for batch"
+          git push
+          
+      - name: Create metadata artifact
+        id: create_metadata_artifact
+        run: |
+          echo "metadata_artifact=metadata_${{ inputs.source }}_spider" >> $GITHUB_OUTPUT
+
+      - name: Push metadata to artsdata
+        uses: culturecreates/artsdata-pipeline-action@v3
+        with:
+          mode: 'push'
+          artifact: metadata_${{ inputs.source }}_spider
+          token: "${{ secrets.GITHUB_TOKEN }}"
+          publisher: "http://kg.artsdata.ca/resource/K1-202"
+          downloadUrl: "https://raw.githubusercontent.com/${{ github.repository }}/main/metadata/${{ inputs.metadata_file_name }}"
+          custom-databus-url: ${{ inputs.databus_url }}
