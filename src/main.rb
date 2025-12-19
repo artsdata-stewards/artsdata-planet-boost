@@ -45,8 +45,9 @@ end
 
 organizer_fetcher =
   FETCHERS.fetch(source).new(
-    already_existing: already_existing,
-    only_uri_to_crawl: only_uri_to_crawl
+    already_crawled_urls: already_crawled_urls,
+    only_uri_to_crawl: only_uri_to_crawl,
+    already_existing_urls: already_existing
   )
 
 data = organizer_fetcher.fetch

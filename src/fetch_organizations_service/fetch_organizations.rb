@@ -1,7 +1,8 @@
 module FetchOrganizationsService
   class FetchOrganizations
-    def initialize(already_existing:,only_uri_to_crawl:, do_not_load: nil)
-      @already_existing = already_existing
+    def initialize(already_crawled_urls:, already_existing_urls:, only_uri_to_crawl:, do_not_load: nil)
+      @already_crawled_urls = already_crawled_urls
+      @already_existing_urls = already_existing_urls
       @only_uri_to_crawl = only_uri_to_crawl
       @do_not_load =
         (do_not_load || Config::GENERAL_CONFIG[:do_not_load_websites]).to_set

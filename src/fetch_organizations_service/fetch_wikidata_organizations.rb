@@ -3,9 +3,10 @@ module FetchOrganizationsService
     WIKIDATA_SPARQL_ENDPOINT = 'https://query.wikidata.org/sparql'.freeze
     WIKIDATA_SPARQL_PATH = 'sparql/wikidata_query.sparql'.freeze
 
-    def initialize(already_existing:, only_uri_to_crawl:, do_not_load: nil)
+    def initialize(already_crawled_urls:, already_existing_urls:, only_uri_to_crawl:, do_not_load: nil)
       super(
-        already_existing: already_existing, 
+        already_crawled_urls: already_crawled_urls, 
+        already_existing_urls: already_existing_urls,
         only_uri_to_crawl: only_uri_to_crawl, 
         do_not_load: do_not_load
       )
@@ -35,7 +36,7 @@ module FetchOrganizationsService
           "artsdata_uri" => "http://kg.artsdata.ca/resource/#{row[:artsdataID].to_s}"
         }
         meta['skip_crawl'] = false
-        if @already_existing.include?(url)
+        if @already_existing_urls.include?(url)
           meta['crawl_name'] = "Skipped Crawl: Website Loaded Elsewhere"
           meta['crawl_description'] = "Skipped crawl because website is already loaded by another activity. See https://github.com/artsdata-stewards/artsdata-planet-boost/blob/main/sparql/artsdata_already_existing.sparql"
           meta['skip_crawl'] = true
@@ -51,7 +52,7 @@ module FetchOrganizationsService
       data = data.uniq { |d| d["url"] }
       data = data.uniq { |d| d["same_as"] }
       data = data.reject do |d|
-        if @already_existing.include?(d["url"]) || (d["same_as"] != @only_uri_to_crawl && @only_uri_to_crawl)
+        if @already_crawled_urls.include?(d["url"]) || (d["same_as"] != @only_uri_to_crawl && @only_uri_to_crawl)
           true
         else
           false

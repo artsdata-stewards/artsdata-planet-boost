@@ -5,8 +5,9 @@ on:
     inputs:
       incremental:
         description: 'Fetch only new organizations not previously crawled'
+        type: boolean
         required: false
-        default: 'false'
+        default: false
       organization_uri:
         description: 'Fetch only this specific organization (overrides incremental)'
         required: false
@@ -75,7 +76,7 @@ jobs:
         run: |
           if [ -n "${{ inputs.organization_uri }}" ]; then
             bundle exec ruby src/main.rb --organization_uri="${{ inputs.organization_uri }}" --source="${{ inputs.source }}"
-          elif [ "${{ inputs.incremental }}" = "true" ]; then
+          elif [ ${{ inputs.incremental }} = true ]; then
             bundle exec ruby src/main.rb --incremental --source="${{ inputs.source }}"
           else
             bundle exec ruby src/main.rb --source="${{ inputs.source }}"
@@ -171,5 +172,5 @@ jobs:
           artifact: metadata_${{ inputs.source }}_spider
           token: "${{ secrets.GITHUB_TOKEN }}"
           publisher: "http://kg.artsdata.ca/resource/K1-202"
-          downloadUrl: "https://raw.githubusercontent.com/${{ github.repository }}/main/metadata/${{ inputs.metadata_file_name }}"
+          downloadUrl: "https://raw.githubusercontent.com/${{ github.repository }}/main/metadata/metadata_${{ inputs.source }}_spider.jsonld"
           custom-databus-url: ${{ inputs.databus_url }}
