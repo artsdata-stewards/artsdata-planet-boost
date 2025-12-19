@@ -11,42 +11,42 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
-        "@id": "https://nac-cna.ca/en/popularmusic"
+        "@id": "https://nac-cna.ca/en/dance"
       }
     ]
   },
   {
-    "@id": "https://nac-cna.ca/en/popularmusic",
+    "@id": "https://nac-cna.ca/en/dance",
     "@type": [
       "http://schema.org/Website"
     ]
   },
   {
-    "@id": "urn:organization:Q105878833",
+    "@id": "urn:organization:Q105878481",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/name": [
       {
-        "@value": "NAC Popular Music and Variety"
+        "@value": "NAC Dance"
       }
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "http://www.wikidata.org/entity/Q105878833"
+        "@id": "http://www.wikidata.org/entity/Q105878481"
       },
       {
-        "@id": "http://kg.artsdata.ca/resource/K2-6161"
+        "@id": "http://kg.artsdata.ca/resource/K2-6163"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://nac-cna.ca/en/popularmusic"
+        "@id": "https://nac-cna.ca/en/dance"
       }
     ]
   },
   {
-    "@id": "urn:crawl:691b045c-512f-42dd-b0fc-930dd87ea91c",
+    "@id": "urn:crawl:f9d1c49d-d386-415f-b44e-73c84a95f6a2",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
@@ -62,19 +62,19 @@
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "https://nac-cna.ca/en/popularmusic"
+        "@id": "https://nac-cna.ca/en/dance"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2025-12-19T17:28:50Z"
+        "@value": "2025-12-19T17:33:06Z"
       }
     ],
     "http://www.w3.org/ns/prov#endedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2025-12-19T21:26:54Z"
+        "@value": "2025-12-19T21:33:56Z"
       }
     ],
     "http://www.w3.org/ns/prov#wasInformedBy": [
@@ -156,18 +156,18 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#decimal",
-        "@value": "88.65984654731457"
+        "@value": "88.65108566098357"
       }
     ]
   },
   {
-    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/nac-cna-ca/2025-12-19T16_26_58#Dataset",
+    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/nac-cna-ca/2025-12-19T16_34_01#Dataset",
     "@type": [
       "http://www.w3.org/ns/prov#Entity"
     ],
     "http://www.w3.org/ns/prov#wasGeneratedBy": [
       {
-        "@id": "urn:crawl:691b045c-512f-42dd-b0fc-930dd87ea91c"
+        "@id": "urn:crawl:f9d1c49d-d386-415f-b44e-73c84a95f6a2"
       }
     ]
   }
