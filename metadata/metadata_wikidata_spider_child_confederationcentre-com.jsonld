@@ -1,0 +1,174 @@
+[
+  {
+    "@id": "urn:datafeed:wikidata-presenter-websites",
+    "@type": [
+      "http://schema.org/DataFeed"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Collection of Wikidata presenter websites"
+      }
+    ],
+    "http://schema.org/dataFeedElement": [
+      {
+        "@id": "http://www.confederationcentre.com/"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.confederationcentre.com/",
+    "@type": [
+      "http://schema.org/Website"
+    ]
+  },
+  {
+    "@id": "urn:organization:Q129448877",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Confederation Centre of the Arts"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q129448877"
+      },
+      {
+        "@id": "http://kg.artsdata.ca/resource/K14-214"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.confederationcentre.com/"
+      }
+    ]
+  },
+  {
+    "@id": "urn:crawl:af302784-b0bb-4699-a0b5-f0ee191e25b8",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.w3.org/ns/prov#used": [
+      {
+        "@id": "http://www.confederationcentre.com/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#startedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-12-19T17:28:50Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-12-19T18:21:36Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasInformedBy": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/SpiderActivity"
+      }
+    ],
+    "http://schema.org/additionalProperty": [
+      {
+        "@id": "_:b0"
+      },
+      {
+        "@id": "_:b1"
+      },
+      {
+        "@id": "_:b2"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/SpiderActivity",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Spider crawl"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
+      }
+    ]
+  },
+  {
+    "@id": "_:b0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "urlsCrawledCount"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1335"
+      }
+    ]
+  },
+  {
+    "@id": "_:b1",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "eventsLoadedCount"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "89"
+      }
+    ]
+  },
+  {
+    "@id": "_:b2",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "structuredScore"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#decimal",
+        "@value": "86.95652173913044"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/confederationcentre-com/2025-12-19T13_21_37#Dataset",
+    "@type": [
+      "http://www.w3.org/ns/prov#Entity"
+    ],
+    "http://www.w3.org/ns/prov#wasGeneratedBy": [
+      {
+        "@id": "urn:crawl:af302784-b0bb-4699-a0b5-f0ee191e25b8"
+      }
+    ]
+  }
+]
