@@ -155,7 +155,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add .
+          git add metadata
           git commit -m "Combine metadata for batch"
           git push
           
