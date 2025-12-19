@@ -76,7 +76,7 @@ jobs:
             }
 
   combine_metadata:
-    needs: run_matrix
+    needs: [run_matrix, load_json]
     if: always()
     runs-on: ubuntu-latest
     steps:
@@ -90,6 +90,7 @@ jobs:
       - name: Combine metadata files
         shell: bash
         run: |
+          echo ${{ needs.load_json.outputs.matrix }} | jq -c . > batch.json
           ARTIFACT=$(jq -r '.[0].artifact' batch.json)
           CHILD_FILE=$(jq -r '.[0].child_file_name' batch.json)
 
