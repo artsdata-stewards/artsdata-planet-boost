@@ -30,8 +30,12 @@ def combine_jsonld(regex_pattern, input_dir: 'metadata', output_file: 'combined.
     File.delete(file)
     puts "Deleted #{file}"
   end
+  if File.exist?(output_file)
+    existing_graph = RDF::Graph.load(output_file)
+  else
+    existing_graph = RDF::Graph.new
+  end
 
-  existing_graph = RDF::Graph.load(output_file)
   graph << existing_graph
 
   puts "Writing combined graph to #{output_file}"
