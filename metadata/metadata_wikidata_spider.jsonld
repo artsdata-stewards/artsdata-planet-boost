@@ -11,6 +11,12 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
+        "@id": "https://www.area506.ca/"
+      },
+      {
+        "@id": "https://aramusique.org/"
+      },
+      {
         "@id": "https://levivier.ca/fr"
       },
       {
@@ -1057,6 +1063,18 @@
       {
         "@id": "https://www.riverfrontinterarts.ca/"
       }
+    ]
+  },
+  {
+    "@id": "https://www.area506.ca/",
+    "@type": [
+      "http://schema.org/Website"
+    ]
+  },
+  {
+    "@id": "https://aramusique.org/",
+    "@type": [
+      "http://schema.org/Website"
     ]
   },
   {
@@ -3154,6 +3172,290 @@
     ]
   },
   {
+    "@id": "urn:organization:Q134294358",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Area 506"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q134294358"
+      },
+      {
+        "@id": "http://kg.artsdata.ca/resource/K2-5833"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.area506.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "urn:crawl:9289d408-f30d-47b7-9cdb-86374c9ad1db",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.w3.org/ns/prov#used": [
+      {
+        "@id": "https://www.area506.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#startedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-12-19T13:55:46Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-12-19T14:03:02Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasInformedBy": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/SpiderActivity"
+      }
+    ],
+    "http://schema.org/additionalProperty": [
+      {
+        "@id": "_:b0"
+      },
+      {
+        "@id": "_:b1"
+      },
+      {
+        "@id": "_:b2"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/SpiderActivity",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Spider crawl"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
+      }
+    ]
+  },
+  {
+    "@id": "_:b0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "urlsCrawledCount"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "349"
+      }
+    ]
+  },
+  {
+    "@id": "_:b1",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "eventsLoadedCount"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "187"
+      }
+    ]
+  },
+  {
+    "@id": "_:b2",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "structuredScore"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#decimal",
+        "@value": "68.47826086956522"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/area506-ca/2025-12-19T09_03_04#Dataset",
+    "@type": [
+      "http://www.w3.org/ns/prov#Entity"
+    ],
+    "http://www.w3.org/ns/prov#wasGeneratedBy": [
+      {
+        "@id": "urn:crawl:9289d408-f30d-47b7-9cdb-86374c9ad1db"
+      }
+    ]
+  },
+  {
+    "@id": "urn:organization:Q98545188",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Aramusique"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q98545188"
+      },
+      {
+        "@id": "http://kg.artsdata.ca/resource/K14-95"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://aramusique.org/"
+      }
+    ]
+  },
+  {
+    "@id": "urn:crawl:16976ca2-d777-4ae7-a693-72d2c3034f04",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.w3.org/ns/prov#used": [
+      {
+        "@id": "https://aramusique.org/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#startedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-12-19T13:55:49Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-12-19T14:12:14Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasInformedBy": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/SpiderActivity"
+      }
+    ],
+    "http://schema.org/additionalProperty": [
+      {
+        "@id": "_:g462960"
+      },
+      {
+        "@id": "_:g462980"
+      },
+      {
+        "@id": "_:g463000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462960",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "urlsCrawledCount"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "570"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462980",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "eventsLoadedCount"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "99"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463000",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "structuredScore"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#decimal",
+        "@value": "87.01086956521739"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/aramusique-org/2025-12-19T09_12_16#Dataset",
+    "@type": [
+      "http://www.w3.org/ns/prov#Entity"
+    ],
+    "http://www.w3.org/ns/prov#wasGeneratedBy": [
+      {
+        "@id": "urn:crawl:16976ca2-d777-4ae7-a693-72d2c3034f04"
+      }
+    ]
+  },
+  {
     "@id": "urn:organization:Q111857160",
     "@type": [
       "http://schema.org/Organization"
@@ -3216,34 +3518,18 @@
     ],
     "http://schema.org/additionalProperty": [
       {
-        "@id": "_:b0"
+        "@id": "_:g463020"
       },
       {
-        "@id": "_:b1"
+        "@id": "_:g463040"
       },
       {
-        "@id": "_:b2"
+        "@id": "_:g463060"
       }
     ]
   },
   {
-    "@id": "http://kg.artsdata.ca/resource/SpiderActivity",
-    "@type": [
-      "http://www.w3.org/ns/prov#Activity"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Spider crawl"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
-      }
-    ]
-  },
-  {
-    "@id": "_:b0",
+    "@id": "_:g463020",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -3260,7 +3546,7 @@
     ]
   },
   {
-    "@id": "_:b1",
+    "@id": "_:g463040",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -3276,7 +3562,7 @@
     ]
   },
   {
-    "@id": "_:b2",
+    "@id": "_:g463060",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
