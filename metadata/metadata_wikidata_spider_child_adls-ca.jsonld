@@ -1,0 +1,163 @@
+[
+  {
+    "@id": "urn:datafeed:wikidata-presenter-websites",
+    "@type": [
+      "http://schema.org/DataFeed"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Collection of Wikidata presenter websites"
+      }
+    ],
+    "http://schema.org/dataFeedElement": [
+      {
+        "@id": "https://www.adls.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.adls.ca/",
+    "@type": [
+      "http://schema.org/Website"
+    ]
+  },
+  {
+    "@id": "urn:organization:Q108313246",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Les Arts de la scène de Montmagny"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q108313246"
+      },
+      {
+        "@id": "http://kg.artsdata.ca/resource/K16-204"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.adls.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "urn:crawl:29798e09-27b1-4244-9024-3c6c409d6b70",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "No Structured Data Found"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "This crawl resulted in an empty graph."
+      }
+    ],
+    "http://www.w3.org/ns/prov#used": [
+      {
+        "@id": "https://www.adls.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#startedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-12-19T17:37:01Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-12-19T17:38:13Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasInformedBy": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/SpiderActivity"
+      }
+    ],
+    "http://schema.org/additionalProperty": [
+      {
+        "@id": "_:b0"
+      },
+      {
+        "@id": "_:b1"
+      },
+      {
+        "@id": "_:b2"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/SpiderActivity",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Spider crawl"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
+      }
+    ]
+  },
+  {
+    "@id": "_:b0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "urlsCrawledCount"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "84"
+      }
+    ]
+  },
+  {
+    "@id": "_:b1",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "eventsLoadedCount"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "0"
+      }
+    ]
+  },
+  {
+    "@id": "_:b2",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "structuredScore"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#decimal",
+        "@value": "0.0"
+      }
+    ]
+  }
+]
