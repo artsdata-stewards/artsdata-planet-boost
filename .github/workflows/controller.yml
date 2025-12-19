@@ -133,6 +133,13 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+
+      - name: Pull latest changes
+        run: |
+          git fetch origin
+          git checkout main
+          git reset --hard origin/main
+          
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
