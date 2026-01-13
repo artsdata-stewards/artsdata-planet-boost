@@ -1,4 +1,10 @@
 # Toronto Alliance for the Performing Arts (https://www.wikidata.org/wiki/Q7826264)
-select * where {
-  ?entity wdt:P463 wd:Q7826264 .
+
+PREFIX adr: <http://kg.artsdata.ca/resource/>
+SELECT ?org ?artsdataID ?url ?orgLabel WHERE {
+  ?org wdt:P31/wdt:P279* wd:Q7168296 .
+  ?org wdt:P7627 ?artsdataID .
+  ?org wdt:P856 ?url .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],mul,en,fr". }
 }
+ORDER BY ?orgLabel
