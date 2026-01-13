@@ -1,0 +1,4 @@
+# Toronto Alliance for the Performing Arts (https://www.wikidata.org/wiki/Q7826264)
+select * where {
+  ?entity wdt:P463 wd:Q7826264 .
+}
