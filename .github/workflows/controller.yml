@@ -113,7 +113,6 @@ jobs:
           register-only: '${{ inputs.register_only }}'
           custom-databus-url: ${{ inputs.databus_url }}
           cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
-          key-directory-url: 'https://kg.artsdata.ca'
           metadata-config: |
             {
               "file_name": "${{ matrix.org.file_name }}",
