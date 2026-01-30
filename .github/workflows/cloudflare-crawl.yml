@@ -1,10 +1,10 @@
-name: Test Single URL
+name: Cloudflare Crawl Test
 
 on:
   workflow_dispatch:
     inputs:
       page-url:
-        description: 'Direct URL to crawl'
+        description: 'Direct URL to crawl cloudflare'
         required: true
         default: 'https://crawltest.com/cdn-cgi/web-bot-auth'
 
