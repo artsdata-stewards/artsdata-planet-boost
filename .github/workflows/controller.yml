@@ -112,7 +112,6 @@ jobs:
           publisher: "http://kg.artsdata.ca/resource/K1-202"
           register-only: '${{ inputs.register_only }}'
           custom-databus-url: ${{ inputs.databus_url }}
-          cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
           metadata-config: |
             {
               "file_name": "${{ matrix.org.file_name }}",
