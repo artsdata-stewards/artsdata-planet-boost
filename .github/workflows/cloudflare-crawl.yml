@@ -13,12 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Crawl URL with Cloudflare signing
-        uses: culturecreates/artsdata-pipeline-action@v3.8.1
+        uses: culturecreates/artsdata-pipeline-action@v3
         with:
           mode: 'fetch'
           artifact: 'cloudflare-test-ca'
           page-url: '${{ inputs.page-url }}'
           token: "${{ secrets.GITHUB_TOKEN }}"
           publisher: "http://kg.artsdata.ca/resource/K1-202"
-          cloudflare-private-key: |
-            ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
+          
