@@ -1,4 +1,4 @@
-name: Cloudflare Crawl Test
+name: Test Cloudflare Crawl
 
 on:
   workflow_dispatch:
@@ -20,6 +20,5 @@ jobs:
           page-url: '${{ inputs.page-url }}'
           token: "${{ secrets.GITHUB_TOKEN }}"
           publisher: "http://kg.artsdata.ca/resource/K1-202"
-          cloudflare-private-key: |
-            ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
+          cloudflare-private-key: ${{ secrets.CLOUDFLARE_PRIVATE_KEY }}
           
