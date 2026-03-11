@@ -1,0 +1,14 @@
+name: Call Controller - Artsdata incremental
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 */2 * *' # Runs every 2 days at midnight UTC
+
+jobs:
+  call-controller:
+    uses: artsdata-stewards/artsdata-planet-boost/.github/workflows/controller.yml@main
+    with:
+      incremental: true
+      register_only: true
+      source: artsdata
