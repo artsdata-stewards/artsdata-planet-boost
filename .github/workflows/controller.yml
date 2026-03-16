@@ -63,6 +63,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       matrix: ${{ steps.load_json.outputs.matrix }}
+      has_orgs: ${{ steps.load_json.outputs.has_orgs }}
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -92,9 +93,16 @@ jobs:
         run: |
           MATRIX=$(jq -c . ${{inputs.source}}_orgs_all.json)
           echo "matrix=${MATRIX}" >> $GITHUB_OUTPUT
+          COUNT=$(jq 'length' ${{inputs.source}}_orgs_all.json)
+          if [ "$COUNT" -gt "0" ]; then
+            echo "has_orgs=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_orgs=false" >> $GITHUB_OUTPUT
+          fi
 
   run_matrix:
     needs: fetch_organizations
+    if: needs.fetch_organizations.outputs.has_orgs == 'true'
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
@@ -165,8 +173,8 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add metadata
-          git commit -m "Combine metadata for batch"
-          git push
+          git diff --staged --quiet || git commit -m "Combine metadata for batch"
+          git push || true
           
       - name: Create metadata artifact
         id: create_metadata_artifact

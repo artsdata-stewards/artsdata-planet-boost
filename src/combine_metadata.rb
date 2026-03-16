@@ -21,7 +21,7 @@ def combine_jsonld(regex_pattern, input_dir: 'metadata', output_file: 'combined.
 
   if matched_files.empty?
     warn "No files matched pattern: #{regex_pattern}"
-    return
+    exit 0
   end
 
   matched_files.each do |file|
