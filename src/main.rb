@@ -8,10 +8,12 @@ require_relative 'config'
 require 'linkeddata'
 require_relative 'fetch_organizations_service/fetch_organizations'
 require_relative 'fetch_organizations_service/fetch_wikidata_organizations'
+require_relative 'fetch_organizations_service/fetch_artsdata_organizations'
 require_relative 'artsdata_service/artsdata'
 
 FETCHERS = {
   'wikidata'  => FetchOrganizationsService::FetchWikidataOrganizations,
+  'artsdata'  => FetchOrganizationsService::FetchArtsdataOrganizations,
 }.freeze
 
 source = ARGV.find { |arg| arg.start_with?('--source=') }

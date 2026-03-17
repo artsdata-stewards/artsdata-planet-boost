@@ -1,0 +1,20 @@
+name: Call Controller - Artsdata incremental
+
+on:
+  workflow_dispatch:
+    inputs:
+      number_of_organizations:
+        description: 'Number of organizations to process per run'
+        required: false
+        default: '100'
+  schedule:
+    - cron: '0 0 */2 * *' # Runs every 2 days at midnight UTC
+
+jobs:
+  call-controller:
+    uses: artsdata-stewards/artsdata-planet-boost/.github/workflows/controller.yml@main
+    with:
+      incremental: true
+      register_only: true
+      source: artsdata
+      number_of_organizations: ${{ fromJson(inputs.number_of_organizations || '100') }}

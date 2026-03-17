@@ -1,0 +1,7 @@
+PREFIX schema: <http://schema.org/>
+SELECT ?org ?url
+FROM <http://kg.artsdata.ca/core>
+WHERE {
+    ?org a schema:Organization ;
+         schema:url ?url .
+}
