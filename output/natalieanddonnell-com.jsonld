@@ -1,0 +1,153 @@
+[
+  {
+    "@id": "https://www.natalieanddonnell.com/events/natalie-macmaster-with-mary-frances-symphony-nova-scotia",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Natalie MacMaster with Mary Frances + Symphony Nova Scotia | Natalie MacMaster and Donnell Leahy"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Natalie MacMaster is a JUNO- and Grammy-winning, world-famous, multiple-gold-album superstar. And she returns home to Symphony Nova Scotia, this time introducing a very special guest: her daughter, Mary Frances! Join this mother-daughter duo for a foot-stomping, crowd-pleasing performance of down-ho"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://static.wixstatic.com/media/2e2a49_0a63a9969f7749309d8a0b50aaa04a29~mv2_d_5760_3840_s_4_2.jpg/v1/fill/w_5760,h_3840,al_c,q_90/2e2a49_0a63a9969f7749309d8a0b50aaa04a29~mv2_d_5760_3840_s_4_2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "5760"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "3840"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.natalieanddonnell.com/events/natalie-macmaster-with-mary-frances-symphony-nova-scotia"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Natalie MacMaster and Donnell Leahy"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461020",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.natalieanddonnell.com/events/natalie-macmaster-with-mary-frances-symphony-nova-scotia"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Rebecca Cohn Auditorium, Halifax, NS"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "6101 University Ave, Halifax, NS B3H 4R2, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461040",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/2e2a49_0a63a9969f7749309d8a0b50aaa04a29~mv2_d_5760_3840_s_4_2.jpg/v1/fill/w_5760,h_3840,al_c,q_90/2e2a49_0a63a9969f7749309d8a0b50aaa04a29~mv2_d_5760_3840_s_4_2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "5760"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "3840"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.natalieanddonnell.com/temporary/f930fe99-2510-429a-984c-df6758fe364a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-01T20:30:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g461020"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g461040"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.natalieanddonnell.com/events/natalie-macmaster-with-mary-frances-symphony-nova-scotia"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.natalieanddonnell.com/events/natalie-macmaster-with-mary-frances-symphony-nova-scotia"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Natalie MacMaster with Mary Frances + Symphony Nova Scotia"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Natalie MacMaster is a JUNO- and Grammy-winning, world-famous, multiple-gold-album superstar. And she returns home to Symphony Nova Scotia, this time introducing a very special guest: her daughter, Mary Frances! Join this mother-daughter duo for a foot-stomping, crowd-pleasing performance of down-ho"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventCancelled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  }
+]
