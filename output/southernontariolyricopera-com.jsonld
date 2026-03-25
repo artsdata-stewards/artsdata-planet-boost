@@ -1,0 +1,4789 @@
+[
+  {
+    "@id": "https://southernontariolyricopera.com/events/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/events/list/?eventDisplay=past",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/events/list/page/2/?eventDisplay=past",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g494180",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/2/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g494200"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.burlingtonpac.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "905-681-6000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g494200",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "440 Locust Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Burlington"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L7S 1T7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g494220",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/southern-ontario-lyric-opera-presents-encore-an-evening-with-gino-quilico/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-26T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "25"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/0884e838-1c89-4c72-855b-19b6545c3a51",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/southern-ontario-lyric-opera-presents-encore-an-evening-with-gino-quilico/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-10T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-10T21:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g494180"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g494220"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/2/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "SOUTHERN ONTARIO LYRIC OPERA PRESENTS: ENCORE, AN EVENING WITH GINO QUILICO"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;We are pleased to welcome world-renowned Grammy Award Winner Canadian baritone Gino Quilico O.C. C.Q. He has sung in all major opera houses including  La Scala, Paris Opera, Vienna State Opera and The Met in New York. He will, along with our Youth &amp; adult chorus and Orchestra, per-form a mixed programme of favourites. The &hellip; &lt;a href=&quot;https://southernontariolyricopera.com/event/southern-ontario-lyric-opera-presents-encore-an-evening-with-gino-quilico/&quot; class=&quot;more-link&quot;&gt;Continue reading&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;SOUTHERN ONTARIO LYRIC OPERA PRESENTS: ENCORE, AN EVENING WITH GINO QUILICO&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/event/villa-italia-retirement-residence-performance/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516220",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/villa-italia-retirement-residence-performance/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g516240"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/villa-italia-retirement-residence-performance/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Villa Italia"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "(905) 388-4552"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516240",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "530 Upper Paradise Rd."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Hamilton"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "On"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L9C 7W2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/a6c9bbf0-9731-44b3-8c42-53731c385272",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/villa-italia-retirement-residence-performance/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-19T18:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-19T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g516220"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/villa-italia-retirement-residence-performance/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Villa Italia Retirement Residence performance"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523940",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g523960"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "St. Aidan&#8217;s Anglican Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "905-845-6111"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523960",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "318 Queen Mary Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Oakville"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524000",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g524020"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.burlingtonpac.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "905-681-6000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524020",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "440 Locust Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Burlington"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L7S 1T7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524040",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/carmen/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-01-20T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "74"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524080",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g524100"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://westplains.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "West Plains United Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "905-320-4989"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524100",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "549 Plains Road West"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Burlington"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L7T 1H1"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524120",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/west-plains-united-church-of-canada-concert/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-30T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD\t\t\t\t\t\t\tclass=\t\t\t\t\t\t\tclass=\t\t\t\t\t\t\tclass="
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524160",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g524180"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Burlington Public Library"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "905-639-3611"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524180",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "2331 New Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Burlington"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L7R 1J4"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524220",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g524240"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Burlington Public Library"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "905-639-3611"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524240",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "2331 New Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Burlington"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L7R 1J4"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524280",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g524300"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.burlingtonpac.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "905-681-6000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524300",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "440 Locust Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Burlington"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L7S 1T7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524320",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/la-boheme-2/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-07-24T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "74"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524360",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g524380"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "McIntyre Performing Arts Centre, Mohawk College &#8211; Fennel Campus"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "905-575-2231"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524380",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "135 Fennel Avenue West"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Hamilton"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L9C0E5"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524400",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/la-boheme-mohawk-college-fennel-campus/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-07-24T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "74"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524440",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g524460"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/www.westdaleunited.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Westdale United Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "(905) 528-4215"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524460",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "99 N Oval"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Hamilton"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L8S 3Z2"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524500",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g524520"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "St. John the Baptist church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g524520",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "128 Edgemont St. S."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Hamilton"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L8K 2H8"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524560",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g524580"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.burlingtonpac.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "905-681-6000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524580",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "440 Locust Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Burlington"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L7S 1T7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524600",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/sounds-of-the-season-concert/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-07-24T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "64"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": " CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/2cf733a5-651d-44f7-b224-85305437dd3c",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/st-aidens-anglican-church-concert/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-02-11T14:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-02-11T15:30:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g523940"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "St. Aidan&#8217;s Anglican Church &#8211; Concert"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;We have been invited back to perform a concert at St. Aidan’s in Oakville on February 11th at 2:30 p.m. DETAILS TO FOLLOW&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/04063b9e-4e80-4f75-bb18-00c9bd7cbb80",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/carmen/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-02T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-02T21:30:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g524000"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g524040"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Carmen"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Carmen is an opera in four acts by the French composer Georges Bizet. The libretto was written by Henri Meilhac and Ludovic Halévy, based on the novella of the same title by Prosper Mérimée. The opera was first performed by the Opéra-Comique in Paris on 3 March 1875, where its breaking of conventions shocked and scandalized its first audiences. Bizet died suddenly after the 33rd performance, &hellip; &lt;a href=&quot;https://southernontariolyricopera.com/event/carmen/&quot; class=&quot;more-link&quot;&gt;Continue reading&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;Carmen&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/1c3d8543-f49c-4ea1-9aa7-0d53030d2ee0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/west-plains-united-church-of-canada-concert/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-02T15:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-02T17:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g524080"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g524120"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "West Plains United Church of Canada &#8211; Concert"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;SOUTHERN ONTARIO LYRIC OPERA PRESENTS: Appetizers &amp; Entrees A concert of opera favourites and more! Sunday, June 2, 2024, 3 P.M. West Plains United Church 549 Plains Rd. West, Burlington For the first time on Sunday, June 2nd at 3 p.m. at also at West Plains United Church, in Burlington. Tickets are $35 or pay &hellip; &lt;a href=&quot;https://southernontariolyricopera.com/event/west-plains-united-church-of-canada-concert/&quot; class=&quot;more-link&quot;&gt;Continue reading&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;West Plains United Church of Canada &#8211; Concert&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/a94c49f5-a818-470a-88af-edaf89bd1f7c",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/225711/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-16T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-16T20:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g524160"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Library talk on La Bohème"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;A talk on La Bohème at the Central Library Branch in Burlington on Monday September 16, 7-8:30. It\\'s free for the public but you need to register if you are interested, below is the link with details https://attend.bpl.on.ca/event/11394273&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/979a127b-a5c8-4d4e-ae10-c8efd87b2868",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/a-2nd-opportunity-for-a-talk-at-the-library/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-17T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-17T20:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g524220"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A 2nd opportunity for a &#8221;Talk at the Library&#8221;"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;A talk on La Bohème at the Central Library Branch in Burlington on Monday September 17, 7-8:30. It\\'s free for the public but you need to register if you are interested, below is the link with details https://attend.bpl.on.ca/event/11394273&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/6749f1c7-7684-41de-8c50-490030156666",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/la-boheme-2/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-02T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-02T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g524280"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g524320"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "La Bohème &#8211; BPAC"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;The composer Giacomo Puccini created the opera La Bohème in 1896, a four-act opera that premiered on February 1, 1896, in Teatro Regio, Turin—just a few years before composing Madama Butterfly, which is considered his most well-known work. The setting of La Bohème takes place in 1830s Paris, France. The opera is based on a collection of related stories by Henri Murger published in &hellip; &lt;a href=&quot;https://southernontariolyricopera.com/event/la-boheme-2/&quot; class=&quot;more-link&quot;&gt;Continue reading&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;La Bohème &#8211; BPAC&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/14e52ee1-6305-4e6b-8502-747e783c9426",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/la-boheme-mohawk-college-fennel-campus/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-05T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-05T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g524360"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g524400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "La Bohème &#8211; Mohawk College"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;The composer Giacomo Puccini created the opera La Bohème in 1896, a four-act opera that premiered on February 1, 1896, in Teatro Regio, Turin—just a few years before composing Madama Butterfly, which is considered his most well-known work. The setting of La Bohème takes place in 1830s Paris, France. The opera is based on a collection of related stories by Henri Murger published in &hellip; &lt;a href=&quot;https://southernontariolyricopera.com/event/la-boheme-mohawk-college-fennel-campus/&quot; class=&quot;more-link&quot;&gt;Continue reading&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;La Bohème &#8211; Mohawk College&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/71985eca-6773-406d-b9c7-9d149ab65d4d",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/westdale-ucs-95th-anniversary-celebration/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-11-02T14:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-11-02T16:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g524440"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Music Feeds the Soul"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Join us for a wonderful afternoon of opera favourites, featuring SOLO’s Chorus and Sabatino Vacca on piano. In celebration of Westdale’s 95th anniversary year there are 95 tickets available for this concert. Each ticket has a difference price - from $1 to $95. Choose your own ticket price! Tickets available at the church or through Eventbrite via Westdale\\'s website. Westdale United Church, 99 North Oval, Hamilton. Office: 905-528-4215. Funds raised go to support Westdale\\'s monthly Community Lunches (providing free lunches and grocery gift cards to over 50 folks from across the city).&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/417729ea-de9b-4004-9ca4-b8153fffbd73",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/matinee-at-st-john-the-baptist-parish/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-11-24T14:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-11-24T16:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g524500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Holiday Benefit Concert at St. John the Baptist Parish"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/e2f720b8-0999-4d57-b3c7-f92256c1f5b5",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/sounds-of-the-season-concert/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-04T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-04T21:30:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g524560"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g524600"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/events/list/page/3/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Sounds of the Season Concert"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Usher in the sounds of the season with SOLO\\'s annual seasonal concert. We welcome Soprano Maria Vetere, along with our Youth and Adult Choirs. Among many other things Dr. Vetere is the Director of Opera Niagara. In our continuing commitment to our Youth in our community and our education efforts, it gives me great pleasure &hellip; &lt;a href=&quot;https://southernontariolyricopera.com/event/sounds-of-the-season-concert/&quot; class=&quot;more-link&quot;&gt;Continue reading&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;Sounds of the Season Concert&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/event/sounds-of-the-season-more/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g548920",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/sounds-of-the-season-more/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g548940"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.burlingtonpac.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "905-681-6000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g548940",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "440 Locust Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Burlington"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L7S 1T7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/a4c61d88-16f5-4add-835b-00e50d853e88",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/sounds-of-the-season-more/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-04T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-04T21:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g548920"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/sounds-of-the-season-more/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Sounds of the Season &#038; More"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Please join us for an evening of sacred, secular, and operatic favourites. Sure to get you in the holiday spirit! Southern Ontario Lyric Opera Presents:  Sounds of the Season and &hellip; &lt;a href=&quot;https://southernontariolyricopera.com/event/sounds-of-the-season-more/&quot; class=&quot;more-link&quot;&gt;Continue reading&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;Sounds of the Season &#038; More&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/event/abruzzese-federation-concert/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g556600",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/abruzzese-federation-concert/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g556620"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.catherineofsienachurch.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "St. Catharine of Siena Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "905-383-3381"
+      }
+    ]
+  },
+  {
+    "@id": "_:g556620",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "620 Rymal Rd East"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Hamilton"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L8W 1B3"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/cffdb7de-215b-4156-8570-2df6ab023449",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/abruzzese-federation-concert/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-12T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-12T21:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g556600"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/abruzzese-federation-concert/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Abruzzese Federation Christmas Concert"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Please note the church\\'s address has been changed to their NEW location: 620 Rymal Road East, Hamilton, ON   L8W 1B3 There was an error through WordPress, they had the wrong &hellip; &lt;a href=&quot;https://southernontariolyricopera.com/event/abruzzese-federation-concert/&quot; class=&quot;more-link&quot;&gt;Continue reading&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;Abruzzese Federation Christmas Concert&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/event/st-lukes-anglican-church/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g563960",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/st-lukes-anglican-church/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g563980"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/st-lukes-anglican-church/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "St. Luke&#8217;s Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g563980",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "1382 Ontario Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Burlington"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g564000",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/st-lukes-anglican-church/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-26T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "20"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/edd04b45-60e0-4fd7-bd8a-c60be70e8711",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/st-lukes-anglican-church/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-22T15:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-22T16:30:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g563960"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g564000"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/st-lukes-anglican-church/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "St. Luke&#8217;s Anglican Church concert"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;SUNDAY DECEMBER 22, 2024, 3 pm St. Luke’s Anglican Church 1382 Ontario St, Burlington Romulo Delgado, Tenor Màtè Szigeti, Flute Southern Ontario Lyric Opera Chorus Sabatino Vacca, Conductor, Pianist   &hellip; &lt;a href=&quot;https://southernontariolyricopera.com/event/st-lukes-anglican-church/&quot; class=&quot;more-link&quot;&gt;Continue reading&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;St. Luke&#8217;s Anglican Church concert&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/event/274729/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g571880",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/274729/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g571900"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/274729/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Burlington Public Library"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "905-639-3611"
+      }
+    ]
+  },
+  {
+    "@id": "_:g571900",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "2331 New Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Burlington"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L7R 1J4"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g571920",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/274729/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-04T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/feddad1e-06db-43d8-a69a-e56e4b950a31",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/274729/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-18T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-18T20:30:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g571880"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g571920"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/274729/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "SOLO&#8217;s Artistic Director Sabatino Vacca examines an opera classic"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Sabatino Vacca, Artistic Director of Southern Ontario Lyric Opera (SOLO), examines the themes and music of Gaetano Donizetti’s opera Lucia di Lammermoor. Based on Sir Walter Scott’s novel, The Bride of Lammermoor, &hellip; &lt;a href=&quot;https://southernontariolyricopera.com/event/274729/&quot; class=&quot;more-link&quot;&gt;Continue reading&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;SOLO&#8217;s Artistic Director Sabatino Vacca examines an opera classic&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/event/an/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g579540",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/an/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g579560"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/an/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Burlington Public Library"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "905-639-3611"
+      }
+    ]
+  },
+  {
+    "@id": "_:g579560",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "2331 New Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Burlington"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L7R 1J4"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g579580",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/an/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-03T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/d7b7658b-585d-4394-ad13-691240315529",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/an/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-20T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-20T20:30:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g579540"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g579580"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/an/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A second date, February 20th, an opportunity for SOLO&#8217;s Artistic Director Sabatino Vacca to examine an opera classic"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Sabatino Vacca, Artistic Director of Southern Ontario Lyric Opera (SOLO), examines the themes and music of Gaetano Donizetti’s opera Lucia di Lammermoor. Based on Sir Walter Scott’s novel, The Bride of Lammermoor, &hellip; &lt;a href=&quot;https://southernontariolyricopera.com/event/an/&quot; class=&quot;more-link&quot;&gt;Continue reading&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;A second date, February 20th, an opportunity for SOLO&#8217;s Artistic Director Sabatino Vacca to examine an opera classic&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/event/lucia-di-lammermoor/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g587480",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/lucia-di-lammermoor/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g587500"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.burlingtonpac.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "905-681-6000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g587500",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "440 Locust Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Burlington"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L7S 1T7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g587520",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/lucia-di-lammermoor/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-07-24T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "74"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/46ff5a3f-ff4d-4b82-a556-3cb548043fa7",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/lucia-di-lammermoor/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-08T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-08T22:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g587480"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g587520"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/lucia-di-lammermoor/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Lucia di Lammermoor"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Pre-opera talk @ 6:45pm The tragic love story of Lucia di Lammermoor follows Lucia and Edgardo, members of opposing houses in Scotland who are carrying on a secret affair. Enrico, Lucia’s &hellip; &lt;a href=&quot;https://southernontariolyricopera.com/event/lucia-di-lammermoor/&quot; class=&quot;more-link&quot;&gt;Continue reading&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;Lucia di Lammermoor&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/event/gino-quilico-save-the-date/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g596440",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/gino-quilico-save-the-date/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g596460"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/gino-quilico-save-the-date/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Burlington Public Library"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "905-639-3611"
+      }
+    ]
+  },
+  {
+    "@id": "_:g596460",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "2331 New Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Burlington"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L7R 1J4"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/a1f93aeb-c09a-401c-9c3f-a7195efa4750",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/gino-quilico-save-the-date/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-17T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-17T20:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g596440"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/gino-quilico-save-the-date/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Gino Quilico &#8211; SAVE THE DATE"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;We are pleased to present world-renowned baritone Gino Quilico in concert. Gino is the son of the renowned Louis Quilico and has sung in all the major opera houses of &hellip; &lt;a href=&quot;https://southernontariolyricopera.com/event/gino-quilico-save-the-date/&quot; class=&quot;more-link&quot;&gt;Continue reading&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;Gino Quilico &#8211; SAVE THE DATE&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/event/a-talk-on-puccinis-opera-tosca/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g604660",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/a-talk-on-puccinis-opera-tosca/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g604680"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/a-talk-on-puccinis-opera-tosca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Burlington Public Library"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "905-639-3611"
+      }
+    ]
+  },
+  {
+    "@id": "_:g604680",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "2331 New Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Burlington"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L7R 1J4"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g604700",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/a-talk-on-puccinis-opera-tosca/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-08-05T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "NO CHARGE"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/27462ad9-fd19-4039-aa1c-a4548a98a468",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/a-talk-on-puccinis-opera-tosca/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-16T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-16T20:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g604660"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g604700"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/a-talk-on-puccinis-opera-tosca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A talk on Puccini’s opera Tosca"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Sabatino Vacca, Artistic Director of Southern Ontario Lyric Opera (SOLO), examines the themes and music of Puccini’s opera Tosca, explores the opera’s enduring popularity, and discusses the story\\'s heightened emotions, &hellip; &lt;a href=&quot;https://southernontariolyricopera.com/event/a-talk-on-puccinis-opera-tosca/&quot; class=&quot;more-link&quot;&gt;Continue reading&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;A talk on Puccini’s opera Tosca&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/event/opera-pre-chat-on-puccinis-tosca/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g613320",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/opera-pre-chat-on-puccinis-tosca/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g613340"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.burlingtonpac.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "905-681-6000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g613340",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "440 Locust Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Burlington"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L7S 1T7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g613360",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/opera-pre-chat-on-puccinis-tosca/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-04T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/b6ca79a2-0e9c-4660-81f3-7a822e918beb",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/opera-pre-chat-on-puccinis-tosca/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-04T18:45:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-04T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g613320"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g613360"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/opera-pre-chat-on-puccinis-tosca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Opera Pre-chat on Puccini&#8217;s Tosca"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Dawn Martens will host a pre-chat on Tosca at approximately 6:45 p.m. at the theatre. Seating is not reserved; come early, select a seat, and enjoy the informative chat. Dawn &hellip; &lt;a href=&quot;https://southernontariolyricopera.com/event/opera-pre-chat-on-puccinis-tosca/&quot; class=&quot;more-link&quot;&gt;Continue reading&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;Opera Pre-chat on Puccini&#8217;s Tosca&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/event/pucinnis-tosca/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g621940",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/pucinnis-tosca/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g621960"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.burlingtonpac.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "905-681-6000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g621960",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "440 Locust Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Burlington"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L7S 1T7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/9648bde2-647f-4f33-8d9f-3bfc451fb7b3",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/pucinnis-tosca/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-04T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-04T21:45:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g621940"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/pucinnis-tosca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Puccini&#8217;s &#8211; TOSCA"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;The beauty and power of Puccini’s beloved opera Tosca has forever captured the hearts of music lovers everywhere. It will be performed fully staged with a full orchestra. Come and &hellip; &lt;a href=&quot;https://southernontariolyricopera.com/event/pucinnis-tosca/&quot; class=&quot;more-link&quot;&gt;Continue reading&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;Puccini&#8217;s &#8211; TOSCA&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/event/sunday-november-30-2p-m/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g630520",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/sunday-november-30-2p-m/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g630540"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/sunday-november-30-2p-m/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "St. John the Baptist church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g630540",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "128 Edgemont St. S."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Hamilton"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L8K 2H8"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g630560",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/sunday-november-30-2p-m/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-01T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "50"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/ceec4369-013e-4ea0-b8af-a016163f8e6a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/sunday-november-30-2p-m/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-30T14:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-30T15:30:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g630520"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g630560"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/sunday-november-30-2p-m/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Sunday November 30, 2p.m."
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;HOLIDAY BENEFIT CONCERT SUNDAY NOVEMBER 30, 2025, 2 pm St. John the Baptist Church 128 Edgemont Street South, Hamilton, Ontario Maria Vetere, Soprano Romulo Delgado, Tenor Members of the SOLO &hellip; &lt;a href=&quot;https://southernontariolyricopera.com/event/sunday-november-30-2p-m/&quot; class=&quot;more-link&quot;&gt;Continue reading&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;Sunday November 30, 2p.m.&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/event/saturday-december-6-730p-m/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g639120",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/saturday-december-6-730p-m/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g639140"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/saturday-december-6-730p-m/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "St. Aidan&#8217;s Anglican Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "905-845-6111"
+      }
+    ]
+  },
+  {
+    "@id": "_:g639140",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "318 Queen Mary Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Oakville"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ]
+  },
+  {
+    "@id": "_:g639160",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/saturday-december-6-730p-m/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-01T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "40"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/c9dfa9ac-91f2-42dd-be8e-4cc7a6c9b9d7",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/saturday-december-6-730p-m/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-06T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-06T21:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g639120"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g639160"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/saturday-december-6-730p-m/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Saturday December 6, 7:30p.m."
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;St. Aidan\\'s Adults $40, Children $20, call 905 923 2954 for tickets&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/event/saturday-december-13-2p-m/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g647600",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/saturday-december-13-2p-m/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g647620"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/saturday-december-13-2p-m/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Villa Italia"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "(905) 388-4552"
+      }
+    ]
+  },
+  {
+    "@id": "_:g647620",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "530 Upper Paradise Rd."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Hamilton"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "On"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L9C 7W2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g647640",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/saturday-december-13-2p-m/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-01T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/d9ea3357-7ec4-4ce1-a1f8-c7890e3cf05d",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/saturday-december-13-2p-m/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-13T14:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-13T15:30:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g647600"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g647640"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/saturday-december-13-2p-m/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Saturday December 13, 2p.m."
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;SOLO Chorus&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/event/wednesday-december-17th-7-p-m/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g656160",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/wednesday-december-17th-7-p-m/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g656180"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.catherineofsienachurch.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "St. Catherine of Siena Roman Catholic Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "905-383-3381"
+      }
+    ]
+  },
+  {
+    "@id": "_:g656180",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "620 Rymal Road East"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Hamilton"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L8W 1B3"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/406081b2-a35f-4255-a416-ef7ac3f8add7",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/wednesday-december-17th-7-p-m/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-17T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-17T21:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g656160"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/wednesday-december-17th-7-p-m/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Wednesday December 17th, 7 p.m."
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Soloist TBD, Instrumentalists, Chorus. Admission is free, donations of non-perishable food items collected for the Good Shepherd!&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/event/sunday-december-21st-3-p-m/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g664340",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/sunday-december-21st-3-p-m/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g664360"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/sunday-december-21st-3-p-m/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "St. Luke&#8217;s Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g664360",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "1382 Ontario Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Burlington"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/1d71c849-7d40-4ebd-a31d-000e70a3eeda",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/sunday-december-21st-3-p-m/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-21T15:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-21T16:30:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g664340"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/sunday-december-21st-3-p-m/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Sunday, December 21st, 3 p.m."
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;St. Luke’s Anglican Church, Burlington Soloist TBD, Chorus, more details to come&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/event/library-talk-on-aiida/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/da36534e-6d1a-4f28-a747-ac6d02305854",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/library-talk-on-aiida/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-17T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-17T20:30:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/library-talk-on-aiida/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Library talk on Aida"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Sabatino Vacca, Artistic Director of Southern Ontario Lyric Opera (SOLO), examines the themes and music of Verdi’s opera Aida, explores the opera’s enduring popularity, and discusses the story’s heightened emotions, &hellip; &lt;a href=&quot;https://southernontariolyricopera.com/event/library-talk-on-aiida/&quot; class=&quot;more-link&quot;&gt;Continue reading&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;Library talk on Aida&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/event/aida-talk-at-the-hamilton-italian-centre/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g679920",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/aida-talk-at-the-hamilton-italian-centre/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g679940"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/aida-talk-at-the-hamilton-italian-centre/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Hamilton Italian Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g679940",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "420 Crerar Drive"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Hamilton"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L9A 5K3"
+      }
+    ]
+  },
+  {
+    "@id": "_:g679960",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/aida-talk-at-the-hamilton-italian-centre/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/aida-talk-at-the-hamilton-italian-centre/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Sons &#038; Daughters of Italy"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g679980",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/aida-talk-at-the-hamilton-italian-centre/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-11T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "20"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/fd13488f-74ee-4ffb-9c55-51680085da53",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/aida-talk-at-the-hamilton-italian-centre/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-19T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-19T21:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g679920"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g679960"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g679980"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/aida-talk-at-the-hamilton-italian-centre/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Aida talk at the Hamilton Italian Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Hamilton Italian Centre - SDI Hamilton 420 Crerar DriveHamilton, ON L9A 5K3 FOR TICKETS HIGHLIGHT AND CLICK ON THE LINK BELOWhttps://www.eventbrite.ca/e/convivo-series-opera-talk-aida-tickets-1982129273013?utm-campaign=social&amp;utm-content=attendeeshare&amp;utm-medium=discovery&amp;utm-term=listing&amp;utm-source=wsa&amp;aff=ebdsshwebmobile Welcome to the Convivio Series - Verdi\\'s Aida! &nbsp; Join &hellip; &lt;a href=&quot;https://southernontariolyricopera.com/event/aida-talk-at-the-hamilton-italian-centre/&quot; class=&quot;more-link&quot;&gt;Continue reading&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;Aida talk at the Hamilton Italian Centre&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/event/aida-in-concert/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g688840",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/aida-in-concert/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g688860"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.burlingtonpac.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "905-681-6000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g688860",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "440 Locust Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Burlington"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L7S 1T7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g688880",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/aida-in-concert/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-14T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "74"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/f9d07e1c-0fc2-43c6-ad8d-b71b16d4d3c3",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/aida-in-concert/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-07T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-07T22:30:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g688840"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g688880"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/aida-in-concert/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Aida Semi-Staged in Concert"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;&nbsp; Starring (in order of vocal appearance) Chris Palmer, RAMFIS (bass) Andrew Derynck, RADAMÈS (tenor) Stephanie Yelovich, AMNERIS (mezzo-soprano) Stephanie DeCiantis, AIDA (soprano) Yurii Yevchuk, THE KING (bass) Michael Nasato, &hellip; &lt;a href=&quot;https://southernontariolyricopera.com/event/aida-in-concert/&quot; class=&quot;more-link&quot;&gt;Continue reading&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;Aida Semi-Staged in Concert&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/events/list/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/event/special-10th-anniversary-closing-concert/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/event/an-outdoor-concert-under-the-stars/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/index.php/events/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://southernontariolyricopera.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g758040",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/index.php/events/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g758060"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.burlingtonpac.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "905-681-6000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g758060",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "440 Locust Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Burlington"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L7S 1T7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/ab46dcae-07a5-4e16-941a-573137a9fc79",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/special-10th-anniversary-closing-concert/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-22T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-22T21:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g758040"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/index.php/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Special 10th Anniversary Closing Concert"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Please join us for this special closing concert of our 10th Anniversary Season. Returning from our recent production of Tosca are Soprano Maria Vetere, and Tenor Romulo Delgado, along with members of our Youth and Adult Chorus, and full orchestra. We will perform some of the greatest and most beloved moments in Opera! It promises &hellip; &lt;a href=&quot;https://southernontariolyricopera.com/event/special-10th-anniversary-closing-concert/&quot; class=&quot;more-link&quot;&gt;Continue reading&lt;span class=&quot;screen-reader-text&quot;&gt; &quot;Special 10th Anniversary Closing Concert&quot;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://southernontariolyricopera.com/temporary/7a42e7a6-e8b5-4f9d-b469-1c0b5a30c76c",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com/event/an-outdoor-concert-under-the-stars/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-12T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-12T21:00:00-04:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://southernontariolyricopera.com/index.php/events/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "An outdoor concert under the stars"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "&lt;p&gt;Hamilton Italian Centre in Hamilton.  We have been invited back to perform an outdoor concert under the stars for them on Friday, June 12th.&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  }
+]
