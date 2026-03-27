@@ -37,7 +37,7 @@ module FetchOrganizationsService
           "artifact"       => artifact_from_url(url),
           "same_as"        => org_uri,
           "name"           => artifact_from_url(url),
-          "datafeed_uri"   => "urn:datafeed:artsdata-presenter-websites",
+          "datafeed_uri"   => "urn:datafeed:artsdata-organizer-websites",
           "datafeed_title" => "Collection of Artsdata Organization websites",
           "artsdata_uri"   => org_uri,
           "skip_crawl"     => false
