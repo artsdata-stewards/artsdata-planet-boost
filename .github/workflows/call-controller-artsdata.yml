@@ -17,4 +17,4 @@ jobs:
       incremental: true
       register_only: true
       source: artsdata
-      number_of_organizations: ${{ fromJson(inputs.number_of_organizations || '10') }}
+      number_of_organizations: ${{ fromJson(inputs.number_of_organizations || '100') }}
