@@ -1,0 +1,20 @@
+name: Call Controller - Re-crawl loaded organizations
+
+on:
+  workflow_dispatch:
+    inputs:
+      number_of_organizations:
+        description: 'Number of organizations to process per run'
+        required: false
+        default: '100'
+  schedule:
+    - cron: '0 0 1 * *'
+
+jobs:
+  call-controller:
+    uses: artsdata-stewards/artsdata-planet-boost/.github/workflows/controller.yml@main
+    with:
+      incremental: false
+      register_only: false
+      source: recrawl
+      number_of_organizations: ${{ fromJson(inputs.number_of_organizations || '100') }}
