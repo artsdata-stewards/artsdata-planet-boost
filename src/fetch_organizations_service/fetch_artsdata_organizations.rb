@@ -35,7 +35,7 @@ module FetchOrganizationsService
           "file_name"      => "metadata_artsdata_spider_child_#{artifact_from_url(url)}.jsonld",
           "url"            => url,
           "artifact"       => artifact_from_url(url),
-          "same_as"        => org_uri,
+          "same_as"        => "",
           "name"           => artifact_from_url(url),
           "datafeed_uri"   => "urn:datafeed:artsdata-organizer-websites",
           "datafeed_title" => "Collection of Artsdata Organization websites",
@@ -58,14 +58,12 @@ module FetchOrganizationsService
         meta
       end
 
+
       data = data.uniq { |d| d["url"] }
-      data = data.uniq { |d| d["same_as"] }
+
       data = data.reject do |d|
-        if @already_crawled_urls.include?(d["url"]) || (d["same_as"] != @only_uri_to_crawl && @only_uri_to_crawl)
-          true
-        else
-          false
-        end
+        @already_crawled_urls.include?(d["url"]) ||
+          (@only_uri_to_crawl && d["artsdata_uri"] != @only_uri_to_crawl)
       end
 
       data
