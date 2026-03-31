@@ -10,7 +10,14 @@ module Config
       "https://bonbonvodou.fr/",
       "https://www.thetallisscholars.co.uk/",
       "https://www.cie-koubi.fr/",
-      "https://www.ballet.org.uk/"
+      "https://www.ballet.org.uk/",
+      "https://nac-cna.ca/en/orchestra",
+      "https://nac-cna.ca/en/",
+      "https://grandsballets.com/en/",
+      "https://www.theplayhouse.ca",
+      "http://www.violonsduroy.com/en",
+      "https://ipaa.ca/",
+      "https://chancentre.com"
     ]
   }.freeze
 end
