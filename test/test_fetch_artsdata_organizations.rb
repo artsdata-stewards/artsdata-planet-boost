@@ -92,7 +92,7 @@ class FetchArtsdataOrganizationsTest < Minitest::Test
     data = fetcher.fetch_and_build(fetcher.fetch_rows)
 
     assert_equal 1, data.size, "Expected only one org when only_uri_to_crawl is set"
-    assert_equal 'http://kg.artsdata.ca/resource/K10-29', data.first["same_as"]
+    assert_equal 'http://kg.artsdata.ca/resource/K10-29', data.first["artsdata_uri"]
   end
 
 end
