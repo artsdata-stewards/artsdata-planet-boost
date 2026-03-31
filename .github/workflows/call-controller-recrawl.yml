@@ -7,8 +7,6 @@ on:
         description: 'Number of organizations to process per run'
         required: false
         default: '100'
-  schedule:
-    - cron: '0 0 1 * *'
 
 jobs:
   call-controller:
