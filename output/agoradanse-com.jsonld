@@ -1,0 +1,4872 @@
+[
+  {
+    "@id": "https://agoradanse.com/en/event/holding-present/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Holding Present | Ula Sickle + Ictus - Agora de la danse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://agoradanse.com/en/event/holding-present/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-12-10T21:57:30+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://agoradanse.com/wp-content/uploads/2025/12/Holding-Present-by-Marin-Driguez.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/en/event/holding-present/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://agoradanse.com/en/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://agoradanse.com/en/event/holding-present/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/en/event/holding-present/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/Holding-Present-by-Marin-Driguez.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-09T20:18:52+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-10T21:57:30+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g3152660"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://agoradanse.com/en/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Holding Present - Agora de la danse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/en/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/en/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/en/event/holding-present/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/Holding-Present-by-Marin-Driguez.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/Holding-Present-by-Marin-Driguez.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Holding-Present-by-Marin-Driguez"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3152660",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://agoradanse.com/en/event/holding-present/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3152820",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g3152840"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "AGORA DE LA DANSE"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3152840",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "1435 De Bleury St."
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "H3A 2H7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3152860",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://levivier.tuxedobillet.com/levivier/ictus-et-ula-sickle-holding-present"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "25.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "en",
+        "@value": "25.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "en",
+        "@value": "45.00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3152880",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/Tom-Pauwels-by-elbphilharmonie-hamburg.jpg"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.ictus.be/"
+      },
+      {
+        "@id": "https://www.instagram.com/ictusensemble/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ictus.be/"
+      },
+      {
+        "@id": "https://www.instagram.com/ictusensemble/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Ictus"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/5d71552c-fb34-4c2e-8e78-5ca38c3c344a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/Holding-Present-by-Marin-Driguez.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-13"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-14"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g3152820"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g3152860"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g3152880"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/en/event/holding-present/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/en/event/holding-present/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Holding Present - Ula Sickle"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Presented in collaboration with Le Vivier as part of La Semaine du Neuf, a festival dedicated to new music, Holding Present brings together choreographer Ula Sickle and the Brussels-based contemporary music ensemble Ictus. Together, they create a performance where music and dance merge into a powerful collective gesture."
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "T90M"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/en/event/b-side-7/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "B-Side #7 | Ebnflōh - Agora de la danse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://agoradanse.com/en/event/b-side-7/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-01-06T13:12:11+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://agoradanse.com/wp-content/uploads/2025/12/B-SIDE-by-Do-Phan-Hoi.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/en/event/b-side-7/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://agoradanse.com/en/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://agoradanse.com/en/event/b-side-7/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/en/event/b-side-7/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/B-SIDE-by-Do-Phan-Hoi.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-19T22:28:16+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-06T13:12:11+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g3189660"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://agoradanse.com/en/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "B-Side #7 - Agora de la danse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/en/event/b-side-7/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/B-SIDE-by-Do-Phan-Hoi.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/B-SIDE-by-Do-Phan-Hoi.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "B-Side © Do Phan Hoi"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3189660",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://agoradanse.com/en/event/b-side-7/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3189820",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g3189840"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g3189860"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "AGORA DE LA DANSE"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3189840",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "1435 De Bleury St."
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "H3A 2H7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3189860",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@language": "en",
+        "@value": "45.506783"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@language": "en",
+        "@value": "-73.5673573"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/6ab0e697-3612-49e6-a507-b3ac090d47da",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/B-SIDE-by-Do-Phan-Hoi.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-05"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-16"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g3189820"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/en/event/b-side-7/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/en/event/b-side-7/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "B-Side #7 - Ebnflōh"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Laboratory – training – workshops &amp; street dance symposium."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/en/event/miel/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Miel | Geneviève Boulet + Erin O’Loughlin + Laura Toma - Agora de la danse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://agoradanse.com/en/event/miel/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-01-06T13:56:32+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://agoradanse.com/wp-content/uploads/2025/12/miel_La_tresse_by-valerie_boulet_main.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/en/event/miel/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://agoradanse.com/en/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://agoradanse.com/en/event/miel/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/en/event/miel/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/miel_La_tresse_by-valerie_boulet_main.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-09T20:21:26+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-06T13:56:32+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g3200140"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://agoradanse.com/en/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Miel - Agora de la danse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/en/event/miel/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/miel_La_tresse_by-valerie_boulet_main.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/miel_La_tresse_by-valerie_boulet_main.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Miel © Valérie Boulet"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3200140",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://agoradanse.com/en/event/miel/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3200300",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g3200320"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g3200340"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "AGORA DE LA DANSE"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3200320",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "1435 De Bleury St."
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "H3A 2H7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3200340",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@language": "en",
+        "@value": "45.506783"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@language": "en",
+        "@value": "-73.5673573"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3200360",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.tuxedobillet.com/main/miel"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "29.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "en",
+        "@value": "29.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "en",
+        "@value": "35.00"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/4baeb72b-328c-4833-b1e5-d89cd841f5ef",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/miel_La_tresse_by-valerie_boulet_main.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-07"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-09"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g3200300"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g3200360"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/en/event/miel/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/en/event/miel/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Miel - Geneviève Boulet + Erin O’Loughlin + Laura Toma"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Returning to Agora de la danse for a third time, LA TRESSE presents Miel, an ode to femininity in all its sweetness and strength: refined, delicate, powerful, nurturing."
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "T60M"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/miel/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Miel | Geneviève Boulet + Erin O’Loughlin + Laura Toma - Agora de la danse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/evenement/miel/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2026-01-09T13:32:41+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/wp-content/uploads/2025/12/miel_La_tresse_by-valerie_boulet_main.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/evenement/miel/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://agoradanse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://agoradanse.com/evenement/miel/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/evenement/miel/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/miel_La_tresse_by-valerie_boulet_main.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-09T20:21:26+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-09T13:32:41+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g3211600"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://agoradanse.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Miel - Agora de la danse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/miel/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/miel_La_tresse_by-valerie_boulet_main.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/miel_La_tresse_by-valerie_boulet_main.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "Miel © Valérie Boulet"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3211600",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://agoradanse.com/evenement/miel/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3211760",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g3211780"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g3211800"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "AGORA DE LA DANSE"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3211780",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1435, rue De Bleury"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "H3A 2H7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3211800",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@language": "fr",
+        "@value": "45.506783"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@language": "fr",
+        "@value": "-73.5673573"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3211820",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.tuxedobillet.com/main/miel"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "29.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "29.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "35.00"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/fc05d5f9-6bfd-47f5-869c-9c6a9828bd24",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/miel_La_tresse_by-valerie_boulet_main.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-07"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-09"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g3211760"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g3211820"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/miel/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/evenement/miel/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Miel - Geneviève Boulet + Erin O’Loughlin + Laura Toma"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "De retour à l’Agora de la danse pour une troisième fois, LA TRESSE présente Miel, une ode à la féminité dans toute sa douceur et sa force : léchée, délicate, puissante, nourricière."
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "fr",
+        "@value": "T60M"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/b-side-7/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "B-Side #7 | Ebnflōh - Agora de la danse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/evenement/b-side-7/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2026-01-20T07:27:24+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/wp-content/uploads/2025/12/B-SIDE-by-Do-Phan-Hoi.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/evenement/b-side-7/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://agoradanse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://agoradanse.com/evenement/b-side-7/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/evenement/b-side-7/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/B-SIDE-by-Do-Phan-Hoi.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-19T22:28:16+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-20T07:27:24+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g3278600"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://agoradanse.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "B-Side #7 - Agora de la danse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/b-side-7/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/B-SIDE-by-Do-Phan-Hoi.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/B-SIDE-by-Do-Phan-Hoi.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "B-Side © Do Phan Hoi"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3278600",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://agoradanse.com/evenement/b-side-7/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3278760",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g3278780"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g3278800"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "AGORA DE LA DANSE"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3278780",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1435, rue De Bleury"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "H3A 2H7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3278800",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@language": "fr",
+        "@value": "45.506783"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@language": "fr",
+        "@value": "-73.5673573"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/dc355be2-a922-47ff-96ab-13faa0c9f2d9",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/B-SIDE-by-Do-Phan-Hoi.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-05"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-16"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g3278760"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/b-side-7/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/evenement/b-side-7/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "B-Side #7 - Ebnflōh"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Laboratoire – formation – ateliers &amp; symposium de street dance."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/down-that-trail-in-the-woods/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Down That Trail in the Woods | Kìzis - Agora de la danse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/evenement/down-that-trail-in-the-woods/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2026-02-04T20:10:04+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/wp-content/uploads/2025/12/Down-That-Trail-in-The-Woods_Kizis_MAIN.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/evenement/down-that-trail-in-the-woods/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://agoradanse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://agoradanse.com/evenement/down-that-trail-in-the-woods/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/evenement/down-that-trail-in-the-woods/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/Down-That-Trail-in-The-Woods_Kizis_MAIN.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-09T20:16:17+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-04T20:10:04+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g3289640"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://agoradanse.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Down That Trail in the Woods - Agora de la danse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/down-that-trail-in-the-woods/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/Down-That-Trail-in-The-Woods_Kizis_MAIN.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/Down-That-Trail-in-The-Woods_Kizis_MAIN.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "Down That Trail In the Woods © Kizis"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3289640",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://agoradanse.com/evenement/down-that-trail-in-the-woods/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3289800",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g3289820"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g3289840"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "AGORA DE LA DANSE"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3289820",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1435, rue De Bleury"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "H3A 2H7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3289840",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@language": "fr",
+        "@value": "45.506783"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@language": "fr",
+        "@value": "-73.5673573"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3289860",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.tuxedobillet.com/main/down-that-trail-in-the-woods"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "20.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "20.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "60.00"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/7946a8b3-16dd-42d1-a4bf-140f84fdfd6c",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/Down-That-Trail-in-The-Woods_Kizis_MAIN.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g3289800"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g3289860"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/down-that-trail-in-the-woods/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/evenement/down-that-trail-in-the-woods/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Down That Trail in the Woods - Kìzis"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Présenté en collaboration avec Danse-Cité, Down That Trail in the Woods est une comédie musicale débordante d’imagination où théâtre, danse et musique s’entrelacent. Sous la direction de Kìzis, 19 artistes donnent vie à une fable conçue sous le signe de l’amour, de la perte et des cicatrices de la vie."
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "fr",
+        "@value": "T90M"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/en/event/down-that-trail-in-the-woods/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Down That Trail in the Woods | Kìzis - Agora de la danse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://agoradanse.com/en/event/down-that-trail-in-the-woods/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-02-04T20:10:43+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://agoradanse.com/wp-content/uploads/2025/12/Down-That-Trail-in-The-Woods_Kizis_MAIN.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/en/event/down-that-trail-in-the-woods/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://agoradanse.com/en/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://agoradanse.com/en/event/down-that-trail-in-the-woods/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/en/event/down-that-trail-in-the-woods/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/Down-That-Trail-in-The-Woods_Kizis_MAIN.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-09T20:16:17+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-04T20:10:43+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g3301060"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://agoradanse.com/en/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Down That Trail in the Woods - Agora de la danse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/en/event/down-that-trail-in-the-woods/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/Down-That-Trail-in-The-Woods_Kizis_MAIN.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/Down-That-Trail-in-The-Woods_Kizis_MAIN.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Down That Trail In the Woods | Kizis © Kizis"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3301060",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://agoradanse.com/en/event/down-that-trail-in-the-woods/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3301220",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g3301240"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g3301260"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "AGORA DE LA DANSE"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3301240",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "1435 De Bleury St."
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "H3A 2H7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3301260",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@language": "en",
+        "@value": "45.506783"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@language": "en",
+        "@value": "-73.5673573"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3301280",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.tuxedobillet.com/main/down-that-trail-in-the-woods"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "20.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "en",
+        "@value": "20.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "en",
+        "@value": "60.00"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/5b8c4a04-899a-42a2-922f-06f0f4fad19e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/Down-That-Trail-in-The-Woods_Kizis_MAIN.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-04"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-07"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g3301220"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g3301280"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/en/event/down-that-trail-in-the-woods/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/en/event/down-that-trail-in-the-woods/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Down That Trail in the Woods - Kìzis"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Presented in collaboration with Danse-Cité,Down That Trail in the Woodsis a wildly imaginative musical where theatre, dance, and live music intertwine. Under the direction of Kìzis, 19 performers carry a new story forward, passing through love, loss, and the traces that endure."
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "T90M"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/holding-present/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Holding Present | Ula Sickle + Ictus - Agora de la danse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/evenement/holding-present/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2026-03-03T19:49:36+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/wp-content/uploads/2025/12/Holding-Present-by-Marin-Driguez.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/evenement/holding-present/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://agoradanse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://agoradanse.com/evenement/holding-present/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/evenement/holding-present/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/Holding-Present-by-Marin-Driguez.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-09T20:18:52+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-03T19:49:36+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g3323540"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://agoradanse.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Holding Present - Agora de la danse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/holding-present/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/Holding-Present-by-Marin-Driguez.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/Holding-Present-by-Marin-Driguez.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "Holding-Present © Marin Driguez"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3323540",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://agoradanse.com/evenement/holding-present/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3323700",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g3323720"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "AGORA DE LA DANSE"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3323720",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1435, rue De Bleury"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "H3A 2H7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3323740",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://levivier.tuxedobillet.com/levivier/ictus-et-ula-sickle-holding-present"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "25.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "25.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "45.00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3323760",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/Tom-Pauwels-by-elbphilharmonie-hamburg.jpg"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.ictus.be/"
+      },
+      {
+        "@id": "https://www.instagram.com/ictusensemble/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ictus.be/"
+      },
+      {
+        "@id": "https://www.instagram.com/ictusensemble/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ictus"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/ba58256e-9bf8-4d45-95ea-43a889b545ee",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/Holding-Present-by-Marin-Driguez.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-13"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-14"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g3323700"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g3323740"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g3323760"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/holding-present/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/evenement/holding-present/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Holding Present - Ula Sickle"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Présenté en collaboration avec Le Vivier, dans le cadre du festival de musiques nouvelles La Semaine du Neuf, Holding Present, réunit la chorégraphe Ula Sickle et l’ensemble bruxellois de musique contemporaine Ictus. Ils signent une performance où musique et danse se fondent en un puissant geste collectif."
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "fr",
+        "@value": "T90M"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/squat/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "SQUAT | Kim-Sanh Châu  - Agora de la danse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/evenement/squat/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2026-03-17T19:48:36+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/wp-content/uploads/2025/12/SQUAT-by-David-Wong-MAIN.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/evenement/squat/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://agoradanse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://agoradanse.com/evenement/squat/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/evenement/squat/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/SQUAT-by-David-Wong-MAIN.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-09T20:15:12+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-17T19:48:36+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g3335420"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://agoradanse.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "SQUAT - Agora de la danse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/squat/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/SQUAT-by-David-Wong-MAIN.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/SQUAT-by-David-Wong-MAIN.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "SQUAT Kim Sanh-Chaû © David Wong"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3335420",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://agoradanse.com/evenement/squat/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3335580",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g3335600"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g3335620"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "AGORA DE LA DANSE"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3335600",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1435, rue De Bleury"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "H3A 2H7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3335620",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@language": "fr",
+        "@value": "45.506783"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@language": "fr",
+        "@value": "-73.5673573"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3335640",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.tuxedobillet.com/main/squat"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "29.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "29.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "35.00"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/3286e1da-9f91-4ea9-97e6-e59913f29d06",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/SQUAT-by-David-Wong-MAIN.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-18"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-21"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g3335580"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g3335640"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/squat/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/evenement/squat/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "SQUAT - Kim-Sanh Châu "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Privilégiant l’intime, cette installation chorégraphique pour quatre performeuses explore la puissance née du bas du corps."
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "fr",
+        "@value": "T60M"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/en/event/squat/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "SQUAT | Kim-Sanh Châu  - Agora de la danse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://agoradanse.com/en/event/squat/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-03-17T19:49:39+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://agoradanse.com/wp-content/uploads/2025/12/SQUAT-by-David-Wong-MAIN.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/en/event/squat/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://agoradanse.com/en/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://agoradanse.com/en/event/squat/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/en/event/squat/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/SQUAT-by-David-Wong-MAIN.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-09T20:15:12+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-17T19:49:39+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g3347340"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://agoradanse.com/en/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "SQUAT - Agora de la danse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/en/event/squat/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/SQUAT-by-David-Wong-MAIN.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/SQUAT-by-David-Wong-MAIN.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "SQUAT Kim Sanh-Chaû © David Wong"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3347340",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://agoradanse.com/en/event/squat/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3347500",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g3347520"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g3347540"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "AGORA DE LA DANSE"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3347520",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "1435 De Bleury St."
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "H3A 2H7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3347540",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@language": "en",
+        "@value": "45.506783"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@language": "en",
+        "@value": "-73.5673573"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3347560",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.tuxedobillet.com/main/squat"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "29.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "en",
+        "@value": "29.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "en",
+        "@value": "35.00"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/547ab250-0f74-45d9-a29a-221bde39c7e2",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/SQUAT-by-David-Wong-MAIN.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-18"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-21"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g3347500"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g3347560"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/en/event/squat/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/en/event/squat/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "SQUAT - Kim-Sanh Châu "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Emphasizing intimacy, this choreographic installation for four performers explores the power of the lower body."
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "T60M"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/labour/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "LABOUR | Emily Gualtieri + David Albert-Toth - Agora de la danse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/evenement/labour/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2026-03-30T17:13:06+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/wp-content/uploads/2025/12/LABOUR-by-Kristina-Hilliard-main-3.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "2538"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/evenement/labour/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://agoradanse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://agoradanse.com/evenement/labour/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/evenement/labour/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/LABOUR-by-Kristina-Hilliard-main-3.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-09T20:20:48+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-30T17:13:06+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g3358700"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://agoradanse.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "LABOUR - Agora de la danse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/labour/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/LABOUR-by-Kristina-Hilliard-main-3.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/LABOUR-by-Kristina-Hilliard-main-3.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2538"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "LABOUR © Kristina Hilliard"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3358700",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://agoradanse.com/evenement/labour/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3358860",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g3358880"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g3358900"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "AGORA DE LA DANSE"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3358880",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1435, rue De Bleury"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "H3A 2H7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3358900",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@language": "fr",
+        "@value": "45.506783"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@language": "fr",
+        "@value": "-73.5673573"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/03456fc1-17c6-4ef2-bd2d-c1af3020f9f6",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/LABOUR-by-Kristina-Hilliard-main-3.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g3358860"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/labour/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/evenement/labour/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "LABOUR - Emily Gualtieri + David Albert-Toth"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Pièce pour cinq interprètes puissantes, LABOUR embrasse une physicalité minimaliste. Brute, moite, viscérale, et teintée d’absurde, elle rejette toute politesse esthétique et imagine une puissance partagée, intime et collective, ancrée dans une pluralité d&rsquo;expériences féminines."
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "fr",
+        "@value": "T60M"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/en/event/labour/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "LABOUR | Emily Gualtieri + David Albert-Toth - Agora de la danse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://agoradanse.com/en/event/labour/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-03-30T17:15:09+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://agoradanse.com/wp-content/uploads/2025/12/LABOUR-by-Kristina-Hilliard-main-3.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "2538"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/en/event/labour/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://agoradanse.com/en/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://agoradanse.com/en/event/labour/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/en/event/labour/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/LABOUR-by-Kristina-Hilliard-main-3.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-09T20:20:48+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-30T17:15:09+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g3369820"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://agoradanse.com/en/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "LABOUR - Agora de la danse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/en/event/labour/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/LABOUR-by-Kristina-Hilliard-main-3.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/LABOUR-by-Kristina-Hilliard-main-3.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2538"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "LABOUR | PARTS+LABOUR © Kristina Hilliard"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3369820",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://agoradanse.com/en/event/labour/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3369980",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g3370000"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g3370020"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "AGORA DE LA DANSE"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3370000",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "1435 De Bleury St."
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "H3A 2H7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3370020",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@language": "en",
+        "@value": "45.506783"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@language": "en",
+        "@value": "-73.5673573"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/94230f58-5830-4b17-b94c-412bcec3f3f2",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/12/LABOUR-by-Kristina-Hilliard-main-3.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-21"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-25"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g3369980"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/en/event/labour/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/en/event/labour/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "LABOUR - Emily Gualtieri + David Albert-Toth"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "A piece for five firebrand performers, LABOUR embraces a minimalist physicality. Raw, sweaty, visceral, and tinged with absurdity, it rejects any aesthetic politeness and imagines a shared power, both intimate and collective, rooted in a plurality of femme perspectives."
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "T60M"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/soiree-benefice-2026/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Soirée-Bénéfice 2026 | Agora de la danse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/evenement/soiree-benefice-2026/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2026-03-31T20:05:16+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/wp-content/uploads/2026/01/ValerieBoulet_Miel_8-1-1.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/evenement/soiree-benefice-2026/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://agoradanse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://agoradanse.com/evenement/soiree-benefice-2026/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/evenement/soiree-benefice-2026/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2026/01/ValerieBoulet_Miel_8-1-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-20T16:05:31+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-31T20:05:16+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g3381040"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://agoradanse.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Soirée-Bénéfice 2026 - Agora de la danse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/soiree-benefice-2026/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2026/01/ValerieBoulet_Miel_8-1-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2026/01/ValerieBoulet_Miel_8-1-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3381040",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://agoradanse.com/evenement/soiree-benefice-2026/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3381200",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g3381220"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g3381240"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "AGORA DE LA DANSE"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3381220",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1435, rue De Bleury"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "H3A 2H7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3381240",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@language": "fr",
+        "@value": "45.506783"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@language": "fr",
+        "@value": "-73.5673573"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3381260",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.zeffy.com/fr-CA/ticketing/soiree-benefice--2026-6"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "350.00"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/fc708b5b-0537-425c-ac87-2ab8631ef00c",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2026/01/ValerieBoulet_Miel_8-1-1.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-06"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-06"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g3381200"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g3381260"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/soiree-benefice-2026/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/evenement/soiree-benefice-2026/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Soirée-Bénéfice 2026"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "L’Agora de la danse est heureuse de vous convier à sa soirée-bénéfice annuelle, un événement d’une grande importance, toujours très festif et convivial. Votre présence et votre participation nous permettent de soutenir la création en danse contemporaine et d’en assurer le dynamisme et l’innovation."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/en/event/2026-fundraising-gala/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "2026 Fundraising Gala | Agora de la danse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://agoradanse.com/en/event/2026-fundraising-gala/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-03-31T20:05:59+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://agoradanse.com/wp-content/uploads/2026/01/ValerieBoulet_Miel_8-1-1.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/en/event/2026-fundraising-gala/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://agoradanse.com/en/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://agoradanse.com/en/event/2026-fundraising-gala/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/en/event/2026-fundraising-gala/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2026/01/ValerieBoulet_Miel_8-1-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-20T16:05:31+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-31T20:05:59+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g3392280"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://agoradanse.com/en/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "2026 Fundraising Gala - Agora de la danse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/en/event/2026-fundraising-gala/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2026/01/ValerieBoulet_Miel_8-1-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2026/01/ValerieBoulet_Miel_8-1-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3392280",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://agoradanse.com/en/event/2026-fundraising-gala/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3392440",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g3392460"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g3392480"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "AGORA DE LA DANSE"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3392460",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "1435 De Bleury St."
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "H3A 2H7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3392480",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@language": "en",
+        "@value": "45.506783"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@language": "en",
+        "@value": "-73.5673573"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3392500",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.zeffy.com/fr-CA/ticketing/soiree-benefice--2026-6"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "350.00"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/c3c2edc9-445e-44d6-9184-e37b9fb278b7",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2026/01/ValerieBoulet_Miel_8-1-1.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-06"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-06"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g3392440"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g3392500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/en/event/2026-fundraising-gala/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/en/event/2026-fundraising-gala/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "2026 Fundraising Gala"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Agora de la danse is pleased to invite you to its annual benefit evening, an event of great importance that is always lively, festive, and convivial. Your presence and participation help us support the creation of contemporary dance and ensure its vitality and innovation."
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  }
+]
