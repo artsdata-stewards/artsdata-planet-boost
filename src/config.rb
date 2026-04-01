@@ -14,7 +14,7 @@ module Config
       "https://nac-cna.ca/en/",
       "https://nac-cna.ca/en/orchestra",
       "https://nac-cna.ca/en/englishtheatre",
-      "https://nac-cna.ca/en/indigenoustheatre".
+      "https://nac-cna.ca/en/indigenoustheatre",
       "https://nac-cna.ca/en/popularmusic",
       "https://nac-cna.ca/en/dance",
       "https://nac-cna.ca/en/theatrefrancais",
