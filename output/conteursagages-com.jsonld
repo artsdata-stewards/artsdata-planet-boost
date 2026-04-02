@@ -1,0 +1,3858 @@
+[
+  {
+    "@id": "https://www.conteursagages.com/nos-evenements/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Contes vivants - Évènements"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vous souhaitez sensibiliser à l'environnement de manière ludique, créative et inspirante. Assistez aux événements de contes vivants."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://contesvivants.ca/nos-evenements/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Contes vivants"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/conteursagages"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2026-02-16T16:57:23+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://contesvivants.ca/wp-content/uploads/2024/08/Acceuil00059_Spectacles-scaled-1.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "2560"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1707"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/webp"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://contesvivants.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://contesvivants.ca/nos-evenements/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/nos-evenements/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://contesvivants.ca/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-08-22T19:46:05+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-16T16:57:23+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460920"
+      },
+      {
+        "@id": "_:g514220"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Contes vivants - Évènements"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Vous souhaitez sensibiliser à l'environnement de manière ludique, créative et inspirante. Assistez aux événements de contes vivants."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://contesvivants.ca/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://contesvivants.ca/#organization"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Contes vivants"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Conte et légende, activité scolaire, contes vivants"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460920",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://contesvivants.ca/nos-evenements/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g514220",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://contesvivants.ca/nos-evenements/"
+      }
+    ]
+  },
+  {
+    "@id": "https://contesvivants.ca/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://contesvivants.ca/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://contesvivants.ca/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/conteursagages"
+      },
+      {
+        "@id": "https://www.instagram.com/contesvivants/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Contes vivants"
+      }
+    ]
+  },
+  {
+    "@id": "https://contesvivants.ca/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/wp-content/uploads/2018/10/CV_Logo_rond_brun-1.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://contesvivants.ca/wp-content/uploads/2018/10/CV_Logo_rond_brun-1.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1395"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1979"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "Contes vivants"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/temporary/9f3bca81-9fc6-42f7-9bc0-ec9f608bc254",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/nos-evenements",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Contes vivants - Évènements"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Vous souhaitez sensibiliser à l'environnement de manière ludique, créative et inspirante. Assistez aux événements de contes vivants."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://contesvivants.ca/nos-evenements/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Contes vivants"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/conteursagages"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2026-02-16T16:57:23+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://contesvivants.ca/wp-content/uploads/2024/08/Acceuil00059_Spectacles-scaled-1.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "2560"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1707"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": "image/webp"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://contesvivants.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/event_1911_0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/le-grand-bill-en-musique/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g515200"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Grand Bill en musique"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<p>Bill est un minuscule explorateur en quête de sa vraie nature!</p> <p>Entre fleurs, bourdons et rodéos aériens, suivez les aventures drôles et touchantes d’un insecte qui n’arrive pas à suivre la cadence.</p> <p>Un conte captivant et éducatif, rempli d’humour et de découvertes, qui éveillera petits et grands à la beauté du monde des insectes.</p> "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-7-25T13:00-4::00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-7-25T14:00-4::00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515200",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g515220"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Insectarium de Montréal"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515220",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "4581 rue Sherbrooke Est, Montréal (Québec) H1X 2B2"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/event_1913_0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/contes-de-saisons-autour-du-feu/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g515300"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Contes de saisons autour du feu"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "'Contes de saisons autour du feu'"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-8-5T19:00-4::00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-8-5T20:00-4::00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515300",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g515320"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Coteaux"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515320",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "11, rue Sauvé, Les Coteaux (Québec) J7X 1A1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/event_1914_0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/lhistoire-incroyable-dete/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g515400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "L’histoire incroyable d’Été"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<p>Notre heure du conte réinventée est un atelier interactif qui commence par la performance d’une histoire de saison.</p> <p>Ensuite, le conteur, en interagissant avec les participant.e.s, co-crée une histoire sur mesure. Un conte unique, qui n’a jamais existé et qui peut ne plus jamais exister par la suite.</p> <p>C’est un moment touchant, drôle et toujours mémorable !</p> "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-8-6T16:00-4::00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-8-6T17:00-4::00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515400",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g515420"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Bibliothèque de Pointe-Claire"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515420",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "100 avenue Douglas-Shand, Pointe-Claire (Québec) H9R 3J3"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/event_1916_0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/lhistoire-incroyable-dete-2/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g515500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "L’histoire incroyable d’Été"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<p>Notre heure du conte réinventée est un atelier interactif qui commence par la performance d’une histoire de saison.</p> <p>Ensuite, le conteur, en interagissant avec les participant.e.s, co-crée une histoire sur mesure. Un conte unique, qui n’a jamais existé et qui peut ne plus jamais exister par la suite.</p> <p>C’est un moment touchant, drôle et toujours mémorable !</p> "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-8-12T09:00-4::00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-8-12T10:00-4::00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515500",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g515520"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Bibliothèque Camille-Laurin"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515520",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "84 rue du Sacré Coeur, Charlemagne (Québec) J5Z 1W8"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/event_1917_0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/lhistoire-incroyable-dete-3/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g515600"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "L’histoire incroyable d’Été"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<p>Notre heure du conte réinventée est un atelier interactif qui commence par la performance d’une histoire de saison.</p> <p>Ensuite, le conteur, en interagissant avec les participant.e.s, co-crée une histoire sur mesure. Un conte unique, qui n’a jamais existé et qui peut ne plus jamais exister par la suite.</p> <p>C’est un moment touchant, drôle et toujours mémorable !</p> "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-8-16T10:00-4::00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-8-16T11:00-4::00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515600",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g515620"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Bibliothèque Marie-Uguay"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515620",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "6052, boulevard Monk, Montréal (Québec) H4E 3H6"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/event_1918_0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/le-grand-bill-en-musique-2/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g515700"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Grand Bill en Musique"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<p>Bill est un minuscule explorateur en quête de sa vraie nature!</p> <p>Entre fleurs, bourdons et rodéos aériens, suivez les aventures drôles et touchantes d’un insecte qui n’arrive pas à suivre la cadence.</p> <p>Un conte captivant et éducatif, rempli d’humour et de découvertes, qui éveillera petits et grands à la beauté du monde des insectes.</p> "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-8-16T16:00-4::00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-8-16T17:00-4::00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515700",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g515720"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Espace GEL de la Place-Des-Arts"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515720",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1600 rue Saint-Urbain, Montréal (Québec) H2X 0S1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/event_1919_0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/le-grand-bill-en-musique-3/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g515800"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Grand Bill en Musique"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<p>Bill est un minuscule explorateur en quête de sa vraie nature!</p> <p>Entre fleurs, bourdons et rodéos aériens, suivez les aventures drôles et touchantes d’un insecte qui n’arrive pas à suivre la cadence.</p> <p>Un conte captivant et éducatif, rempli d’humour et de découvertes, qui éveillera petits et grands à la beauté du monde des insectes.</p> "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-8-17T13:15-4::00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-8-17T14:15-4::00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515800",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g515820"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Espace GEL de la Place-Des-Arts"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515820",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1600 rue Saint-Urbain, Montréal (Québec) H2X 0S1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/event_1920_0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/la-legende-dautomne/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://contesvivants.ca/wp-content/uploads/2025/09/Illu_Automne_Laurie-Anne_Deschenes-scaled.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g515900"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La Légende d’automne"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<p>Nous serons de passage au Festival Mozaïque pour y présenter notre heure du conte réinventée. Un atelier interactif qui commence par la performance d’une histoire de saison. Ensuite, le conteur présent, en interagissant avec les participant.e.s, créera une histoire sur mesure. Un conte unique, qui n’a jamais existé et qui peut ne plus jamais exister par la suite. Une histoire pour mettre en valeur les beautés de l&rsquo;automne.</p> <p>C’est un moment touchant, drôle et toujours mémorable !</p> <p>Venez écoutez et créez des histoires avec Contes vivants.</p> "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-9-20T19:30-4::00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-9-20T20:15-4::00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515900",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g515920"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Oasis Cartier"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515920",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "10 rue Labelle, Laval (Québec) H7N 4W8"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/event_1921_0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/la-legende-dautomne-2/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://contesvivants.ca/wp-content/uploads/2025/09/Illu_Automne_Laurie-Anne_Deschenes-scaled.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g516000"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La Légende d’Automne"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<p><span style='font-weight: 400;'>Nous serons de passage à la bibliothèque Philippe-Panneton pour y présenter notre heure du conte réinventée. Un atelier interactif qui commence par la performance d’une histoire de saison. Ensuite, le conteur présent, en interagissant avec les participant.e.s, créera une histoire sur mesure. Un conte unique, qui n’a jamais existé, entièrement improvisé. Une histoire pour s’émerveiller des beautés de l’automne.</span></p> <p><span style='font-weight: 400;'>C’est un moment touchant, drôle et toujours mémorable !</span></p> <p><span style='font-weight: 400;'>Venez écoutez et créez des histoires avec Contes vivants.</span></p> <p><span style='font-weight: 400;'>EN FRANÇAIS</span></p> <p><span style='font-weight: 400;'>5 ans et plus<br /> Événement gratuit et sans inscription. </span><span style='font-weight: 400;'><br /> </span><span style='font-weight: 400;'>45 à 60 minutes, selon le nombre de participant.e.s présent.e.s</span></p> <p>&nbsp;</p> "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-4T13:30-4::00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-4T14:30-4::00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516000",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g516020"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Bibliothèque Philippe-Panneton"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516020",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "4747 boulevard Arthur-Sauvé, Laval (Québec) H7R 5P8"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/event_1922_0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/beton-pissenlit-latelier/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://contesvivants.ca/wp-content/uploads/2025/08/4.1-Affiche_Beton_pissenlit_675x675-scaled.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g516120"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Béton &amp; Pissenlit - Créons votre histoire de quartier"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<p>Béton et pissenlit est un spectacle de soixante minutes où Félix Morissette fait battre le cœur de son quartier d’enfance.</p> <p>Au fil des récits, un géant de pierre baptise l’île, une tisane empoisonne la solidarité, un bonhomme de neige rebelle sillonne les ruelles, deux frères jardinent la révolution, et le quartier lui-même prend la parole.</p> <p>Contes urbains, légendes de ruelles et percussions de chaudron tissent un univers où humour, tendresse et transition écologique vibrent à l’unisson. Une ode vibrante au vivre-ensemble urbain.</p> "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-5T11:00-4::00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-5T12:00-4::00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516120",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g516140"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Maison de la culture Pointe-Aux-Trembles"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516140",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "14001 rue Notre Dame Est, Montréal (Québec) H1A 1T9"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/event_1923_0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/beton-pissenlit-latelier-2/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://contesvivants.ca/wp-content/uploads/2025/08/4.1-Affiche_Beton_pissenlit_675x675-scaled.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g516240"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Béton &amp; Pissenlit (avant-première)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<p>La Meunerie, en collaboration avec Desjardins des Sources, est heureuse d’accueillir sur sa scène le spectacle de contes Béton et pissenlit par Félix Morissette.</p> <p>Une ode au vivre-ensemble entre la nature et l’être humain.<br /> Béton et pissenlit est un spectacle de contes lors duquel Félix Morissette fait battre le cœur de son quartier d’enfance. Au fil des récits, l’érable à giguère se fait ami avec un petit garçon, une tisane empoisonne la solidarité d’un voisinage, un bonhomme de neige rebelle sillonne les ruelles et deux frères jardinent la révolution. Fables douces, légendes de ruelles et récits de vie tissent un univers où humour, tendresse et émerveillement vibrent à l’unisson.<br /> Félix Morissette fabrique des légendes comme d’autres cultivent des jardins, avec un mélange de folie douce et de bienveillance. Conteur‐auteur formé en environnement et en philosophie pour enfants, il fait pousser des histoires dans une fissure d’asphalte, sous un érable argenté ou au coin d’un parc.<br /> Ce conte est recommandé pour un public de 10 ans et plus pour une meilleure compréhension.<br /> 10 $ en prévente (18 ans et + )<br /> 15 $ à la porte<br /> 5 $ 13 à 17 ans<br /> Gratuit 12 ans et moins<br /> Taxes et frais inclus<br /> <strong>***Billets en vente dès maintenant au <a href='https://lameunerie.org/nouveau/produit/evenement/conte-beton-et-pissenlit-par-felix-morissette/'>www.lameunerie.org***</a></strong></p> "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-19T15:00-4::00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-19T16:00-4::00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516240",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g516260"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La Meunerie de Saint-Adrien"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516260",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "5638 chemin St Rémi, Saint-Adrien (Québec) J0A 1C0"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/event_1924_0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/beton-pissenlit-latelier-3/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://contesvivants.ca/wp-content/uploads/2025/08/4.1-Affiche_Beton_pissenlit_675x675-scaled.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g516340"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Béton &amp; Pissenlit (première)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<p>Une ode au vivre-ensemble entre la nature et l’être humain.</p> <p>Béton et pissenlit est un spectacle de contes lors duquel Félix Morissette fait battre le cœur de son quartier d’enfance. Au fil des récits, l’érable à giguère se fait ami avec un petit garçon, une tisane empoisonne la solidarité d’un voisinage, un bonhomme de neige rebelle sillonne les ruelles et deux frères jardinent la révolution.</p> <p>Fables douces, légendes de ruelles et récits de vie tissent un univers où humour, tendresse et émerveillement vibrent à l’unisson.<br /> Ce spectacle est recommandé pour un public de 10 ans et plus pour une meilleure compréhension.</p> <p>Durée : 75 minutes</p> "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-21T19:00-4::00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-21T20:00-4::00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516340",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g516360"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Maison de la culture Rosemont-La-Petite-Patrie"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516360",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "6707 avenue De Lorimier, Montréal (Québec) H2G 1J6"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/event_2263_0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/le-regne-des-citrouilles/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://contesvivants.ca/wp-content/uploads/2025/09/Banniere_web_CV_regne_citrouille_570x500.png"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g516440"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le règne des citrouilles"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<p>Le règne des citrouilles raconte, avec humour et tension dramatique, comment les citrouilles ont un jour dominé la Terre… et la leçon qu’elles réservent désormais à ceux qui oublient la fragilité du vivant. Un conte d’Halloween bien spécial ! Venez écouter et créer votre propre histoire d&rsquo;Halloween lors de cet atelier interactif avec Contes vivants !</p> <p>Durée : 50 minutes<br /> Public : 5 ans et plus<br /> Sans inscription et gratuit.</p> <p>Thèmes : Halloween, Respect de la nature, Plantes envahissantes</p> <p>***<br /> Contes vivants est un organisme de création et diffusion de contes écologiques. Pionniers des nouveaux récits, l’équipe de contes vivants mobilise les arts de la parole pour faire naître des moments empreints d’imagination, d’émerveillement, et de soin pour la nature.</p> "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-25T14:30-4::00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-25T15:30-4::00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516440",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g516460"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Bibliothèque de Beaconsfield"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516460",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "303 Bd Beaconsfield, Beaconsfield, QC H9W 4A6"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/event_2262_0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/la-legende-dautomne-3/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://contesvivants.ca/wp-content/uploads/2025/09/Illu_Automne_Laurie-Anne_Deschenes-scaled.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g516540"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Atelier - La Légende d’Automne"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<p><span style='font-weight: 400;'>À votre tour de raconter ! </span></p> <p><span style='font-weight: 400;'>Nous serons de passage à la bibliothèque de Saint-Anne-Des-Plaines pour y présenter notre heure du conte réinventée. Un atelier interactif qui commence par la performance d’une histoire de saison. Ensuite, le conteur présent, en interagissant avec les participant.e.s, créera une histoire sur avec les idées des participants. Un conte unique, qui n’a jamais existé, entièrement improvisé. Une histoire pour s’émerveiller des beautés de l’automne.</span></p> <p><span style='font-weight: 400;'>C’est un moment touchant, drôle et toujours mémorable !</span></p> <p><span style='font-weight: 400;'>Venez écoutez et créez des histoires avec Contes vivants.</span></p> <p><span style='font-weight: 400;'>EN FRANÇAIS</span></p> <p><span style='font-weight: 400;'>5 ans et plus<br /> Événement gratuit et sans inscription. </span><span style='font-weight: 400;'><br /> </span><span style='font-weight: 400;'>45 à 60 minutes, selon le nombre de participant.e.s présent.e.s</span></p> <p>Toutes les informations <a href='https://www.villesadp.ca/evenements/bibliotheque/la-legende-dautomne-a-votre-tour-de-raconter'>ici. </a></p> <p>&nbsp;</p> "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T10:30-4::00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T11:30-4::00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516540",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g516560"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Bibliothèque Sainte-Anne-Des-Plaines"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516560",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "155, rue des Cèdres, Sainte-Anne-des-Plaines QC J5N 4L7"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/event_2264_0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/lheure-du-conte-reinventee/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://contesvivants.ca/wp-content/uploads/2025/08/5.1-11.png"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g516640"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Atelier - L&#039;heure du conte... réinventée"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<p><span style='font-weight: 400;'>Nous serons de passage à</span><span style='font-weight: 400;'> la bibliothèque Germaine-Guèvremont </span><span style='font-weight: 400;'>pour y présenter notre heure du conte réinventée. Un atelier interactif qui commence par la performance d’un conte de nature. Ensuite, le conteur présent, en interagissant avec les participant.e.s, créera une histoire sur mesure. Un conte unique, qui n’a jamais existé, entièrement improvisé. Une histoire pour s’émerveiller des beautés de la nature. </span></p> <p><span style='font-weight: 400;'>C’est un moment touchant, drôle et toujours mémorable !</span></p> <p><span style='font-weight: 400;'>Venez écoutez et créez des histoires avec Contes vivants.</span></p> <p><span style='font-weight: 400;'>EN FRANÇAIS</span></p> <p><span style='font-weight: 400;'>5 ans et plus </span><span style='font-weight: 400;'><br /> </span><span style='font-weight: 400;'>Événement gratuit et sans inscription. </span><span style='font-weight: 400;'><br /> </span><span style='font-weight: 400;'>45 à 60 minutes, selon le nombre de participant.e.s présent.e.s</span></p> <p>&nbsp;</p> "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-7T13:30-4::00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-7T14:30-4::00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516640",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g516660"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Bibliothèque Germaine-Guèvremont"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516660",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "2900 Blvd. de la Concorde E, Laval, QC H7E 2B6"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/event_2265_0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/lheure-du-conte-reinventee-2/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://contesvivants.ca/wp-content/uploads/2025/08/5.1-11.png"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g516820"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Atelier - L&#039;heure du conte... réinventée"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<p><span style='font-weight: 400;'>Nous serons de passage à</span><span style='font-weight: 400;'> la bibliothèque de Pierrefond </span><span style='font-weight: 400;'>pour y présenter notre heure du conte réinventée. Un atelier interactif qui commence par la performance d’un conte de nature. Ensuite, le conteur présent, en interagissant avec les participant.e.s, créera une histoire sur mesure. Un conte unique, qui n’a jamais existé, entièrement improvisé. Une histoire pour s’émerveiller des beautés de la nature. </span></p> <p><span style='font-weight: 400;'>C’est un moment touchant, drôle et toujours mémorable !</span></p> <p><span style='font-weight: 400;'>Venez écoutez et créez des histoires avec Contes vivants.</span></p> <p><span style='font-weight: 400;'>EN FRANÇAIS</span></p> <p><span style='font-weight: 400;'>5 ans et plus </span><span style='font-weight: 400;'><br /> </span><span style='font-weight: 400;'>Événement gratuit et sans inscription. </span><span style='font-weight: 400;'><br /> </span><span style='font-weight: 400;'>45 à 60 minutes, selon le nombre de participant.e.s présent.e.s</span></p> <p>&nbsp;</p> "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-7T11:30-4::00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-7T12:30-4::00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516820",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g516840"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Bibliothèque de Pierrefond"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516840",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "13555 Boul. de Pierrefonds, Pierrefonds, QC H9A 2W7"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/event_2669_0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/pierrefond-ti-bon-un-conte-dhiver-atelier/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://contesvivants.ca/wp-content/uploads/2026/02/MASTER_RVB_Ti-Bon_10x10po-scaled.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "PIERREFOND - TI-BON : UN CONTE D&#039;HIVER (Atelier)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<p><span style='font-weight: 400;'>Apprivoiser le deuil en écoutant l’hiver</span></p> <p><span style='font-weight: 400;'>L’atelier démarre avec le conte de Ti-Bon : un garçon très proche de sa mère voit sa vie bouleversée par la maladie. Pour traverser son deuil, il devra écouter ce que l’hiver a à lui apprendre : le froid, les cycles, la vie qui dort pour mieux revenir.</span></p> <p><span style='font-weight: 400;'>À partir de cette histoire, les participant·es imaginent à leur tour un conte d’hiver : une histoire où la nature, les saisons et les émotions s’entremêlent. Le conteur récolte leurs idées et les transforme en un </span><b>conte improvisé</b><span style='font-weight: 400;'> : un récit qui parle de tristesse, de manque, mais aussi de tendresse, de soutien et de retour du printemps.</span></p> <p><b>Ce que c’est :</b></p> <ul> <li style='font-weight: 400;' aria-level='1'><span style='font-weight: 400;'>Un espace doux pour parler de deuil, sans lourdeur ni tabou.</span></li> <li style='font-weight: 400;' aria-level='1'><span style='font-weight: 400;'>Un conte qui relie santé mentale, saisons et nature.</span></li> <li style='font-weight: 400;' aria-level='1'><span style='font-weight: 400;'>Une initiation à la création d’histoires pour apprivoiser ce qu’on ressent.</span>&nbsp;</li> </ul> <p><b>Public :</b><span style='font-weight: 400;'> 9–12 ans</span><span style='font-weight: 400;'><br /> </span> <b>Durée :</b><span style='font-weight: 400;'> 45–60 min</span><span style='font-weight: 400;'><br /> </span> <b>Thèmes :</b><span style='font-weight: 400;'> deuil, hiver, santé mentale, cycles des saisons, nature et mort d’un proche<br /> <strong>Lieu : </strong>Bibliothèque de Pierrefond<br /> </span></p> "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-2-28T10:30-4::00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-2-28T11:30-4::00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/event_2667_0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/ile-bizard-ti-bon-un-conte-dhiver-atelier/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://contesvivants.ca/wp-content/uploads/2026/02/MASTER_RVB_Ti-Bon_10x10po-scaled.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "ÎLE-BIZARD - TI-BON : UN CONTE D&#039;HIVER (ATELIER)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<p><span style='font-weight: 400;'>Apprivoiser le deuil en écoutant l’hiver</span></p> <p><span style='font-weight: 400;'>L’atelier démarre avec le conte de Ti-Bon : un garçon très proche de sa mère voit sa vie bouleversée par la maladie. Pour traverser son deuil, il devra écouter ce que l’hiver a à lui apprendre : le froid, les cycles, la vie qui dort pour mieux revenir.</span></p> <p><span style='font-weight: 400;'>À partir de cette histoire, les participant·es imaginent à leur tour un conte d’hiver : une histoire où la nature, les saisons et les émotions s’entremêlent. Le conteur récolte leurs idées et les transforme en un </span><b>conte improvisé</b><span style='font-weight: 400;'> : un récit qui parle de tristesse, de manque, mais aussi de tendresse, de soutien et de retour du printemps.</span></p> <p><b>Ce que c’est :</b></p> <ul> <li style='font-weight: 400;' aria-level='1'><span style='font-weight: 400;'>Un espace doux pour parler de deuil, sans lourdeur ni tabou.</span></li> <li style='font-weight: 400;' aria-level='1'><span style='font-weight: 400;'>Un conte qui relie santé mentale, saisons et nature.</span></li> <li style='font-weight: 400;' aria-level='1'><span style='font-weight: 400;'>Une initiation à la création d’histoires pour apprivoiser ce qu’on ressent.</span>&nbsp;</li> </ul> <p><b>Public :</b><span style='font-weight: 400;'> 9–12 ans</span><span style='font-weight: 400;'><br /> </span> <b>Durée :</b><span style='font-weight: 400;'> 45–60 min</span><span style='font-weight: 400;'><br /> </span> <b>Thèmes :</b><span style='font-weight: 400;'> deuil, hiver, santé mentale, cycles des saisons, nature et mort d’un proche<br /> <strong>Lieu :</strong> Bibliothèque de l&rsquo;Île-Bizard</span></p> "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-3-1T11:00-4::00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-3-1T12:00-4::00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/event_2668_0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/osm-le-grand-bill-en-musique-spectacle/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://contesvivants.ca/wp-content/uploads/2025/11/WEB_Grand-Bill_900x1200.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g517060"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "OSM - Le Grand Bill en Musique (Spectacle)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<p data-start='105' data-end='220'>Un conte d’identité et de pollinisateurs, porté par la parole… et par deux violons.</p> <p data-start='222' data-end='609'>Derrière l’école, dans une friche oubliée, Bill — une petite larve devenue insecte — cherche qui il est vraiment. Il essaie d’être bourdon, colibri, puis mouche… sans jamais réussir à suivre la cadence. Jusqu’au jour où il découvre qu’il n’est ni l’un ni l’autre : il est un grand pollinisateur méconnu, le Grand Bombyle, et que sa différence est une force qui relie le monde des fleurs.</p> <p data-start='611' data-end='1062'>Dans cette version <strong data-start='630' data-end='644'>en musique</strong>, le conte devient un voyage sonore : <strong data-start='682' data-end='741'>deux violonistes de l’Orchestre symphonique de Montréal</strong> accompagnent la narration en direct. Leurs archets dessinent le vent dans la friche, font pétiller les rencontres, soulignent l’humour et la tendresse — et transforment la découverte du pollen en moment d’émerveillement partagé. La musique ne “décore” pas l’histoire : elle lui donne un cœur qui bat, à hauteur d’enfant.</p> <p data-start='1064' data-end='1360'>Écrit en collaboration avec l’Insectarium de Montréal, <strong data-start='1119' data-end='1136'>Le Grand Bill</strong> est un conte doux, drôle et lumineux, qui parle autant d’estime de soi que de biodiversité de proximité : une manière simple de dire aux petits comme aux grands qu’il y a une place pour chacun dans le grand bal des vivants.</p> <p data-start='1362' data-end='1581'><strong>Infos pratiques</strong><br data-start='1377' data-end='1380' />Public : 4 à 7 ans (public familial)<br data-start='1416' data-end='1419' />Durée : 25 minutes<br data-start='1442' data-end='1445' />Thèmes : identité, confiance en soi, pollinisation, biodiversité<br /> <strong>Lieu</strong> : Espace OSM de l&rsquo;Orchestre Symphonique de Montréal</p> <p>&nbsp;</p> <p>&nbsp;</p> "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-3-3T13:30-4::00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-3-3T14:15-4::00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g517060",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g517080"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Espace GEL de la Place-Des-Arts"
+      }
+    ]
+  },
+  {
+    "@id": "_:g517080",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1600 rue Saint-Urbain, Montréal (Québec) H2X 0S1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/event_2666_0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/anjou-elzear-le-pustuleux-atelier/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://contesvivants.ca/wp-content/uploads/2026/02/MASTER_Elzear_10x10po-scaled.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "ANJOU -ELZÉAR LE PUSTULEUX (Atelier)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<p><span style='font-weight: 400;'>L’atelier commence par le conte d’Elzéar : dans un village qui rejette tout ce qui est « laid », un garçon couvert de pustules trouve enfin un endroit où il est accueilli tel qu’il est… dans la forêt, avec ses arbres tordus et ses mousses en bataille. Vous écoutez avec votre enfant ce récit grinçant et tendre, qui parle de moqueries, de normes de beauté et de ce qu’on fait quand on ne sent pas inclus dans le moule.</span></p> <p><span style='font-weight: 400;'>Puis, ensemble, vous inventez une mini-légende de famille : un lieu un peu sauvage, un personnage différent, une forêt intérieure où chacun a le droit d’exister sans filtre. Le conteur tisse les idées des petits et des grands en un conte improvisé, dans lequel vos enfants reconnaissent leurs propres inventions – et découvrent que la “laideur” peut devenir une force.</span></p> <p><b>Ce que c’est :</b></p> <ul> <li style='font-weight: 400;' aria-level='1'><span style='font-weight: 400;'>Un moment calme pour parler des moqueries, de l’apparence et de la confiance en soi.</span><span style='font-weight: 400;'><br /> </span></li> <li style='font-weight: 400;' aria-level='1'><span style='font-weight: 400;'>Un conte qui célèbre les enfants (et les forêts) qui ne sont pas “parfaits”.</span><span style='font-weight: 400;'><br /> </span></li> <li style='font-weight: 400;' aria-level='1'><span style='font-weight: 400;'>Une histoire commune à ressortir les jours où quelqu’un se sent “trop” ou “pas assez”.</span>&nbsp;</li> </ul> <p><span style='font-weight: 400;'><b>Public </b>: À partir de 5 ans<br /> <b>Durée </b>: 45–60 min<br /> <b>Thèmes</b> : différence et exclusion, normes de beauté, diversité dans la nature<br /> <strong>Lieu : </strong>Bibliothèque Jean-Corbeil<br /> </span></p> "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-3-22T13:30-4::00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-3-22T14:30-4::00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/event_2665_0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/jardin-botanique-elzear-le-pustuleux-atelier/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://contesvivants.ca/wp-content/uploads/2026/02/MASTER_Elzear_10x10po-scaled.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "JARDIN BOTANIQUE - ELZÉAR LE PUSTULEUX (Atelier)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "<p><span style='font-weight: 400;'>L’atelier commence par le conte d’Elzéar : dans un village qui rejette tout ce qui est « laid », un garçon couvert de pustules trouve enfin un endroit où il est accueilli tel qu’il est… dans la forêt, avec ses arbres tordus et ses mousses en bataille. Vous écoutez avec votre enfant ce récit grinçant et tendre, qui parle de moqueries, de normes de beauté et de ce qu’on fait quand on ne sent pas inclus dans le moule.</span></p> <p><span style='font-weight: 400;'>Puis, ensemble, vous inventez une mini-légende de famille : un lieu un peu sauvage, un personnage différent, une forêt intérieure où chacun a le droit d’exister sans filtre. Le conteur tisse les idées des petits et des grands en un conte improvisé, dans lequel vos enfants reconnaissent leurs propres inventions – et découvrent que la “laideur” peut devenir une force.</span></p> <p><b>Ce que c’est :</b></p> <ul> <li style='font-weight: 400;' aria-level='1'><span style='font-weight: 400;'>Un moment calme pour parler des moqueries, de l’apparence et de la confiance en soi.</span><span style='font-weight: 400;'><br /> </span></li> <li style='font-weight: 400;' aria-level='1'><span style='font-weight: 400;'>Un conte qui célèbre les enfants (et les forêts) qui ne sont pas “parfaits”.</span><span style='font-weight: 400;'><br /> </span></li> <li style='font-weight: 400;' aria-level='1'><span style='font-weight: 400;'>Une histoire commune à ressortir les jours où quelqu’un se sent “trop” ou “pas assez”.</span></li> </ul> <p><span style='font-weight: 400;'><b>Public </b>: À partir de 5 ans<br /> <b>Durée </b>: 45–60 min<br /> <b>Thèmes</b> : différence et exclusion, normes de beauté, diversité dans la nature<br /> <strong>Lieu : Jardin Botanique de Montréal. Rendez-vous à la maison de l&rsquo;arbre. </strong></span></p> "
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-4-1T13:00-4::00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-4-1T14:00-4::00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g519120",
+    "@type": [
+      "https://schema.org/OfflineEventAttendanceMode"
+    ]
+  },
+  {
+    "@id": "_:g519140",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g519180"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Insectarium de Montréal"
+      }
+    ]
+  },
+  {
+    "@id": "_:g519180",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "4581 rue Sherbrooke Est, Montréal (Québec) H1X 2B2"
+      }
+    ]
+  },
+  {
+    "@id": "_:g519440",
+    "@type": [
+      "https://schema.org/OfflineEventAttendanceMode"
+    ]
+  },
+  {
+    "@id": "_:g519460",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g519500"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Coteaux"
+      }
+    ]
+  },
+  {
+    "@id": "_:g519500",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "11, rue Sauvé, Les Coteaux (Québec) J7X 1A1"
+      }
+    ]
+  },
+  {
+    "@id": "_:g519760",
+    "@type": [
+      "https://schema.org/OfflineEventAttendanceMode"
+    ]
+  },
+  {
+    "@id": "_:g519780",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g519820"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Bibliothèque de Pointe-Claire"
+      }
+    ]
+  },
+  {
+    "@id": "_:g519820",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "100 avenue Douglas-Shand, Pointe-Claire (Québec) H9R 3J3"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520080",
+    "@type": [
+      "https://schema.org/OfflineEventAttendanceMode"
+    ]
+  },
+  {
+    "@id": "_:g520100",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g520140"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Bibliothèque Camille-Laurin"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520140",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "84 rue du Sacré Coeur, Charlemagne (Québec) J5Z 1W8"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520400",
+    "@type": [
+      "https://schema.org/OfflineEventAttendanceMode"
+    ]
+  },
+  {
+    "@id": "_:g520420",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g520460"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Bibliothèque Marie-Uguay"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520460",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "6052, boulevard Monk, Montréal (Québec) H4E 3H6"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520720",
+    "@type": [
+      "https://schema.org/OfflineEventAttendanceMode"
+    ]
+  },
+  {
+    "@id": "_:g520740",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g520780"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Espace GEL de la Place-Des-Arts"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520780",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1600 rue Saint-Urbain, Montréal (Québec) H2X 0S1"
+      }
+    ]
+  },
+  {
+    "@id": "_:g521040",
+    "@type": [
+      "https://schema.org/OfflineEventAttendanceMode"
+    ]
+  },
+  {
+    "@id": "_:g521060",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g521100"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Espace GEL de la Place-Des-Arts"
+      }
+    ]
+  },
+  {
+    "@id": "_:g521100",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1600 rue Saint-Urbain, Montréal (Québec) H2X 0S1"
+      }
+    ]
+  },
+  {
+    "@id": "_:g521360",
+    "@type": [
+      "https://schema.org/OfflineEventAttendanceMode"
+    ]
+  },
+  {
+    "@id": "_:g521380",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g521420"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Oasis Cartier"
+      }
+    ]
+  },
+  {
+    "@id": "_:g521420",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "10 rue Labelle, Laval (Québec) H7N 4W8"
+      }
+    ]
+  },
+  {
+    "@id": "_:g521680",
+    "@type": [
+      "https://schema.org/OfflineEventAttendanceMode"
+    ]
+  },
+  {
+    "@id": "_:g521700",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g521740"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Bibliothèque Philippe-Panneton"
+      }
+    ]
+  },
+  {
+    "@id": "_:g521740",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "4747 boulevard Arthur-Sauvé, Laval (Québec) H7R 5P8"
+      }
+    ]
+  },
+  {
+    "@id": "_:g521980",
+    "@type": [
+      "https://schema.org/OfflineEventAttendanceMode"
+    ]
+  },
+  {
+    "@id": "_:g522000",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g522040"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Maison de la culture Pointe-Aux-Trembles"
+      }
+    ]
+  },
+  {
+    "@id": "_:g522040",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "14001 rue Notre Dame Est, Montréal (Québec) H1A 1T9"
+      }
+    ]
+  },
+  {
+    "@id": "_:g522280",
+    "@type": [
+      "https://schema.org/OfflineEventAttendanceMode"
+    ]
+  },
+  {
+    "@id": "_:g522300",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g522340"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La Meunerie de Saint-Adrien"
+      }
+    ]
+  },
+  {
+    "@id": "_:g522340",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "5638 chemin St Rémi, Saint-Adrien (Québec) J0A 1C0"
+      }
+    ]
+  },
+  {
+    "@id": "_:g522580",
+    "@type": [
+      "https://schema.org/OfflineEventAttendanceMode"
+    ]
+  },
+  {
+    "@id": "_:g522600",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g522640"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Maison de la culture Rosemont-La-Petite-Patrie"
+      }
+    ]
+  },
+  {
+    "@id": "_:g522640",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "6707 avenue De Lorimier, Montréal (Québec) H2G 1J6"
+      }
+    ]
+  },
+  {
+    "@id": "_:g522880",
+    "@type": [
+      "https://schema.org/OfflineEventAttendanceMode"
+    ]
+  },
+  {
+    "@id": "_:g522900",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g522940"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Bibliothèque de Beaconsfield"
+      }
+    ]
+  },
+  {
+    "@id": "_:g522940",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "303 Bd Beaconsfield, Beaconsfield, QC H9W 4A6"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523180",
+    "@type": [
+      "https://schema.org/OfflineEventAttendanceMode"
+    ]
+  },
+  {
+    "@id": "_:g523200",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g523240"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Bibliothèque Sainte-Anne-Des-Plaines"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523240",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "155, rue des Cèdres, Sainte-Anne-des-Plaines QC J5N 4L7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523480",
+    "@type": [
+      "https://schema.org/OfflineEventAttendanceMode"
+    ]
+  },
+  {
+    "@id": "_:g523500",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g523540"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Bibliothèque Germaine-Guèvremont"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523540",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "2900 Blvd. de la Concorde E, Laval, QC H7E 2B6"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523780",
+    "@type": [
+      "https://schema.org/OfflineEventAttendanceMode"
+    ]
+  },
+  {
+    "@id": "_:g523800",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g523840"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Bibliothèque de Pierrefond"
+      }
+    ]
+  },
+  {
+    "@id": "_:g523840",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "13555 Boul. de Pierrefonds, Pierrefonds, QC H9A 2W7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524040",
+    "@type": [
+      "https://schema.org/OfflineEventAttendanceMode"
+    ]
+  },
+  {
+    "@id": "_:g524220",
+    "@type": [
+      "https://schema.org/OfflineEventAttendanceMode"
+    ]
+  },
+  {
+    "@id": "_:g524440",
+    "@type": [
+      "https://schema.org/OfflineEventAttendanceMode"
+    ]
+  },
+  {
+    "@id": "_:g524460",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g524500"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Espace GEL de la Place-Des-Arts"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524500",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1600 rue Saint-Urbain, Montréal (Québec) H2X 0S1"
+      }
+    ]
+  },
+  {
+    "@id": "_:g524700",
+    "@type": [
+      "https://schema.org/OfflineEventAttendanceMode"
+    ]
+  },
+  {
+    "@id": "_:g524880",
+    "@type": [
+      "https://schema.org/OfflineEventAttendanceMode"
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/temporary/8581378b-1c50-4ad9-8abc-756b579dbf95",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/temporary/0772bdd4-bbfd-49fa-986b-90282c3b9994",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/le-grand-bill-en-musique/"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "_:g519120"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g519140"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-7-25T13:00-4:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-7-25T14:00-4:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Grand Bill en musique"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/temporary/1e75f658-6a92-4bdd-8e31-a7468a867c50",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/contes-de-saisons-autour-du-feu/"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "_:g519440"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g519460"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-8-5T19:00-4:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-8-5T20:00-4:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Contes de saisons autour du feu"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/temporary/efdf63fe-6a0d-4a3f-8edc-0f8641032fff",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/lhistoire-incroyable-dete/"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "_:g519760"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g519780"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-8-6T16:00-4:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-8-6T17:00-4:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "L’histoire incroyable d’Été"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/temporary/e51cb37a-352a-4184-bf4b-4213355c0b36",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/lhistoire-incroyable-dete-2/"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "_:g520080"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g520100"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-8-12T09:00-4:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-8-12T10:00-4:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "L’histoire incroyable d’Été"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/temporary/0e9bceb6-2367-48ca-a0b4-2a411dd50a78",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/lhistoire-incroyable-dete-3/"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "_:g520400"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g520420"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-8-16T10:00-4:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-8-16T11:00-4:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "L’histoire incroyable d’Été"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/temporary/6d2d567d-bc58-4b18-a5a7-8822d248b255",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/le-grand-bill-en-musique-2/"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "_:g520720"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g520740"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-8-16T16:00-4:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-8-16T17:00-4:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Grand Bill en Musique"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/temporary/406069ac-b6c3-4332-894c-fb1d1c9c6525",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/le-grand-bill-en-musique-3/"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "_:g521040"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g521060"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-8-17T13:15-4:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-8-17T14:15-4:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Grand Bill en Musique"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/temporary/c13480c0-ed21-4418-ad9e-634c368091d4",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/la-legende-dautomne/"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "_:g521360"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g521380"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://contesvivants.ca/wp-content/uploads/2025/09/Illu_Automne_Laurie-Anne_Deschenes-scaled.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-9-20T19:30-4:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-9-20T20:15-4:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La Légende d’automne"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/temporary/a49bff90-fe87-422f-93ee-af05820a82d6",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/la-legende-dautomne-2/"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "_:g521680"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g521700"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://contesvivants.ca/wp-content/uploads/2025/09/Illu_Automne_Laurie-Anne_Deschenes-scaled.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-10-4T13:30-4:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-10-4T14:30-4:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La Légende d’Automne"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/temporary/ffe79104-a27a-44f2-bd52-ecc714c59225",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/beton-pissenlit-latelier/"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "_:g521980"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g522000"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://contesvivants.ca/wp-content/uploads/2025/08/4.1-Affiche_Beton_pissenlit_675x675-scaled.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-10-5T11:00-4:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-10-5T12:00-4:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Béton & Pissenlit - Créons votre histoire de quartier"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/temporary/58140f6d-c26c-4149-9465-1059e7c8e5fb",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/beton-pissenlit-latelier-2/"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "_:g522280"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g522300"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://contesvivants.ca/wp-content/uploads/2025/08/4.1-Affiche_Beton_pissenlit_675x675-scaled.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-10-19T15:00-4:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-10-19T16:00-4:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Béton & Pissenlit (avant-première)"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/temporary/b29a7299-84de-4b68-a448-4bca6cf30f0b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/beton-pissenlit-latelier-3/"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "_:g522580"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g522600"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://contesvivants.ca/wp-content/uploads/2025/08/4.1-Affiche_Beton_pissenlit_675x675-scaled.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-10-21T19:00-4:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-10-21T20:00-4:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Béton & Pissenlit (première)"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/temporary/7f2ef137-808e-4d6a-a3b3-87b00877a56a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/le-regne-des-citrouilles/"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "_:g522880"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g522900"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://contesvivants.ca/wp-content/uploads/2025/09/Banniere_web_CV_regne_citrouille_570x500.png"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-10-25T14:30-4:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-10-25T15:30-4:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le règne des citrouilles"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/temporary/6c25c0cb-065b-4362-a91c-2a69653376a8",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/la-legende-dautomne-3/"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "_:g523180"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g523200"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://contesvivants.ca/wp-content/uploads/2025/09/Illu_Automne_Laurie-Anne_Deschenes-scaled.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-29T10:30-4:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-11-29T11:30-4:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Atelier - La Légende d’Automne"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/temporary/55b26eab-22b0-419b-ae4f-0856143031cb",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/lheure-du-conte-reinventee/"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "_:g523480"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g523500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://contesvivants.ca/wp-content/uploads/2025/08/5.1-11.png"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-12-7T13:30-4:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-12-7T14:30-4:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Atelier - L'heure du conte... réinventée"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/temporary/afd0f8bd-1f12-490d-9c0c-55ba98c92895",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/lheure-du-conte-reinventee-2/"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "_:g523780"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g523800"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://contesvivants.ca/wp-content/uploads/2025/08/5.1-11.png"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-12-7T11:30-4:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2025-12-7T12:30-4:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Atelier - L'heure du conte... réinventée"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/temporary/ae6ee2ae-8180-46ab-be9d-1b2c2a5eaaf2",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/pierrefond-ti-bon-un-conte-dhiver-atelier/"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "_:g524040"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://contesvivants.ca/wp-content/uploads/2026/02/MASTER_RVB_Ti-Bon_10x10po-scaled.png"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2026-2-28T10:30-4:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2026-2-28T11:30-4:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "PIERREFOND - TI-BON : UN CONTE D'HIVER (Atelier)"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/temporary/1ac96645-6d3a-4589-8df5-6518228499de",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/ile-bizard-ti-bon-un-conte-dhiver-atelier/"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "_:g524220"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://contesvivants.ca/wp-content/uploads/2026/02/MASTER_RVB_Ti-Bon_10x10po-scaled.png"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2026-3-1T11:00-4:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2026-3-1T12:00-4:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "ÎLE-BIZARD - TI-BON : UN CONTE D'HIVER (ATELIER)"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/temporary/b3d75440-dbc0-4062-b170-23fa35e6158a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/osm-le-grand-bill-en-musique-spectacle/"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "_:g524440"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g524460"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://contesvivants.ca/wp-content/uploads/2025/11/WEB_Grand-Bill_900x1200.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2026-3-3T13:30-4:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2026-3-3T14:15-4:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "OSM - Le Grand Bill en Musique (Spectacle)"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/temporary/1039cc46-04aa-44f4-a486-df6c695075a3",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/anjou-elzear-le-pustuleux-atelier/"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "_:g524700"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://contesvivants.ca/wp-content/uploads/2026/02/MASTER_Elzear_10x10po-scaled.png"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2026-3-22T13:30-4:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2026-3-22T14:30-4:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "ANJOU -ELZÉAR LE PUSTULEUX (Atelier)"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.conteursagages.com/temporary/8a1220e0-9c2d-4415-a500-32fa33fd465c",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://contesvivants.ca/evenements/jardin-botanique-elzear-le-pustuleux-atelier/"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "_:g524880"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.conteursagages.com/nos-evenements"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@language": "fr",
+        "@value": "https://contesvivants.ca/wp-content/uploads/2026/02/MASTER_Elzear_10x10po-scaled.png"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "fr",
+        "@value": "2026-4-1T13:00-4:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "fr",
+        "@value": "2026-4-1T14:00-4:00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "JARDIN BOTANIQUE - ELZÉAR LE PUSTULEUX (Atelier)"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  }
+]
