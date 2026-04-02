@@ -11,18 +11,18 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
-        "@id": "https://nac-cna.ca/fr/indigenoustheatre"
+        "@id": "http://nac-cna.ca/en/orchestra"
       }
     ]
   },
   {
-    "@id": "https://nac-cna.ca/fr/indigenoustheatre",
+    "@id": "http://nac-cna.ca/en/orchestra",
     "@type": [
       "http://schema.org/Website"
     ]
   },
   {
-    "@id": "urn:crawl:5a973964-66f5-41f5-ac33-03652f471739",
+    "@id": "urn:crawl:34e9ea6b-693a-4116-9904-c279d5d27310",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
@@ -38,19 +38,19 @@
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "https://nac-cna.ca/fr/indigenoustheatre"
+        "@id": "http://nac-cna.ca/en/orchestra"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2026-04-02T12:25:41Z"
+        "@value": "2026-04-02T12:25:37Z"
       }
     ],
     "http://www.w3.org/ns/prov#endedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2026-04-02T16:50:55Z"
+        "@value": "2026-04-02T17:32:02Z"
       }
     ],
     "http://www.w3.org/ns/prov#wasInformedBy": [
@@ -116,7 +116,7 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "514"
+        "@value": "520"
       }
     ]
   },
@@ -133,18 +133,18 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#decimal",
-        "@value": "90.6732661122268"
+        "@value": "89.54580745341615"
       }
     ]
   },
   {
-    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/nac-cna-ca/2026-04-02T12_50_57#Dataset",
+    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/nac-cna-ca/2026-04-02T13_32_05#Dataset",
     "@type": [
       "http://www.w3.org/ns/prov#Entity"
     ],
     "http://www.w3.org/ns/prov#wasGeneratedBy": [
       {
-        "@id": "urn:crawl:5a973964-66f5-41f5-ac33-03652f471739"
+        "@id": "urn:crawl:34e9ea6b-693a-4116-9904-c279d5d27310"
       }
     ]
   }
