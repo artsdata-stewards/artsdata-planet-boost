@@ -11,18 +11,18 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
-        "@id": "https://www.greenthumb.bc.ca"
+        "@id": "http://www.greenthumb.bc.ca/index.php/about-green-thumb/"
       }
     ]
   },
   {
-    "@id": "https://www.greenthumb.bc.ca",
+    "@id": "http://www.greenthumb.bc.ca/index.php/about-green-thumb/",
     "@type": [
       "http://schema.org/Website"
     ]
   },
   {
-    "@id": "urn:crawl:74baadc4-7312-418b-a9a0-bd691334f6ce",
+    "@id": "urn:crawl:86c1dbdd-5b37-429d-b29e-74db4b2c4a95",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
@@ -38,19 +38,19 @@
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "https://www.greenthumb.bc.ca"
+        "@id": "http://www.greenthumb.bc.ca/index.php/about-green-thumb/"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2026-04-02T13:51:36Z"
+        "@value": "2026-04-02T15:20:41Z"
       }
     ],
     "http://www.w3.org/ns/prov#endedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2026-04-02T13:58:55Z"
+        "@value": "2026-04-02T15:30:55Z"
       }
     ],
     "http://www.w3.org/ns/prov#wasInformedBy": [
@@ -99,7 +99,7 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "283"
+        "@value": "496"
       }
     ]
   },
