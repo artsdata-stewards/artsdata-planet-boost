@@ -22,18 +22,18 @@
     ]
   },
   {
-    "@id": "urn:crawl:4a02c528-b17a-4df3-86e9-3f50340e06dd",
+    "@id": "urn:crawl:1d6e6849-b0ea-4404-b9c1-f60ad61a1788",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
     "http://schema.org/name": [
       {
-        "@value": ""
+        "@value": "Skipped Crawl: Website Loaded Elsewhere"
       }
     ],
     "http://schema.org/description": [
       {
-        "@value": ""
+        "@value": "Skipped crawl because website is already loaded by another activity. See https://github.com/artsdata-stewards/artsdata-planet-boost/blob/main/sparql/artsdata_already_existing.sparql"
       }
     ],
     "http://www.w3.org/ns/prov#used": [
@@ -44,13 +44,13 @@
     "http://www.w3.org/ns/prov#startedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2026-04-02T00:27:20Z"
+        "@value": "2026-04-02T02:22:42Z"
       }
     ],
     "http://www.w3.org/ns/prov#endedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2026-04-02T01:03:46Z"
+        "@value": "2026-04-02T02:22:42Z"
       }
     ],
     "http://www.w3.org/ns/prov#wasInformedBy": [
@@ -99,7 +99,7 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1392"
+        "@value": "0"
       }
     ]
   },
@@ -116,7 +116,7 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "548"
+        "@value": "0"
       }
     ]
   },
@@ -133,18 +133,7 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#decimal",
-        "@value": "86.00891861761427"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/denise-pelletier-qc-ca/2026-04-01T21_03_51#Dataset",
-    "@type": [
-      "http://www.w3.org/ns/prov#Entity"
-    ],
-    "http://www.w3.org/ns/prov#wasGeneratedBy": [
-      {
-        "@id": "urn:crawl:4a02c528-b17a-4df3-86e9-3f50340e06dd"
+        "@value": "0"
       }
     ]
   }
