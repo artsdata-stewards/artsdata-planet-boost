@@ -43,13 +43,13 @@
     ]
   },
   {
-    "@id": "_:g709220",
+    "@id": "_:g667440",
     "@type": [
       "http://schema.org/Offer"
     ]
   },
   {
-    "@id": "_:g709260",
+    "@id": "_:g667480",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -60,7 +60,7 @@
     ]
   },
   {
-    "@id": "_:g709280",
+    "@id": "_:g667500",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -71,24 +71,29 @@
     ]
   },
   {
-    "@id": "https://symphonynovascotia.ca/temporary/a9a51a07-0ce4-4f01-b1f3-906a63e077fc",
+    "@id": "https://symphonynovascotia.ca/temporary/98a508b8-9d83-4baf-a089-3047ee4e2b47",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g709220"
+        "@id": "_:g667440"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g709260"
+        "@id": "_:g667480"
       },
       {
-        "@id": "_:g709280"
+        "@id": "_:g667500"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://symphonynovascotia.ca/concerts-and-tickets/concerts/rebecca-cohn-auditorium/heather-rankin/"
+      }
+    ],
+    "http://schema.org/url": [
       {
         "@id": "https://symphonynovascotia.ca/concerts-and-tickets/concerts/rebecca-cohn-auditorium/heather-rankin/"
       }
@@ -156,13 +161,13 @@
     ]
   },
   {
-    "@id": "_:g719700",
+    "@id": "_:g677640",
     "@type": [
       "http://schema.org/Offer"
     ]
   },
   {
-    "@id": "_:g719740",
+    "@id": "_:g677680",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -173,7 +178,7 @@
     ]
   },
   {
-    "@id": "_:g719760",
+    "@id": "_:g677700",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -184,24 +189,29 @@
     ]
   },
   {
-    "@id": "https://symphonynovascotia.ca/temporary/3e180945-ba50-4365-a7af-75f6e28bec34",
+    "@id": "https://symphonynovascotia.ca/temporary/66de9f7f-1829-4a12-a84d-6b407101cdf0",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g719700"
+        "@id": "_:g677640"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g719740"
+        "@id": "_:g677680"
       },
       {
-        "@id": "_:g719760"
+        "@id": "_:g677700"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://symphonynovascotia.ca/concerts-and-tickets/concerts/rebecca-cohn-auditorium/neon-dreams/"
+      }
+    ],
+    "http://schema.org/url": [
       {
         "@id": "https://symphonynovascotia.ca/concerts-and-tickets/concerts/rebecca-cohn-auditorium/neon-dreams/"
       }
@@ -222,119 +232,6 @@
       {
         "@language": "en",
         "@value": "\n\t\t\t\t\t\t\t\t\t\tNeon Dreams: Frank Kadillac, vocals & Adrian Morris, drums\nDaniel Bartholomew-Poyser, conductor\t\t\t\t\t\t\t\t\t"
-      }
-    ]
-  },
-  {
-    "@id": "https://symphonynovascotia.ca/concerts-and-tickets/concerts/2016-2017/handels-messiah-2/",
-    "https://api.w.org/": [
-      {
-        "@id": "https://symphonynovascotia.ca/wp-json/"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en",
-        "@value": "https://symphonynovascotia.ca/concerts-and-tickets/concerts/rebecca-cohn-auditorium/handels-messiah-2025/"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en",
-        "@value": "Symphony Nova Scotia |  Handel’s Messiah"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en",
-        "@value": "Handel’s Messiah is a moving, magnificent triumph and a highlight of the Christmas season for millions around the world each year. Symphony Nova Scotia performs this great work with our very own chorus master Joel Tranquilla. Together with four hand-picked guest soloists and the 80-voice Symphony Nova Scotia Chorus, we proudly present an uplifting interpretation of Handel’s glorious holiday favourite."
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en",
-        "@value": "https://symphonynovascotia.ca/wp-content/uploads/10-Handels-Messiah-2025-26-Concert-Page-Links-800x600-reduced-size-533x400.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://symphonynovascotia.ca/concerts-and-tickets/concerts/2016-2017/handels-messiah-2/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g2093140",
-    "@type": [
-      "http://schema.org/Offer"
-    ]
-  },
-  {
-    "@id": "_:g2093180",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@id": "https://symphonynovascotia.ca/concerts-and-tickets/concerts/rebecca-cohn-auditorium/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g2093200",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@id": "https://symphonynovascotia.ca/concerts-and-tickets/concerts/rebecca-cohn-auditorium/"
-      }
-    ]
-  },
-  {
-    "@id": "https://symphonynovascotia.ca/temporary/5670dd21-5c33-4fd9-b556-2554aeb6b19f",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g2093140"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g2093180"
-      },
-      {
-        "@id": "_:g2093200"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://symphonynovascotia.ca/concerts-and-tickets/concerts/2016-2017/handels-messiah-2/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Handel’s Messiah"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "\n\t\t\t\t\t\t\t\t\t\tHandel’s Messiah is a moving, magnificent triumph and a highlight of the Christmas season for millions around the world each year. Symphony Nova Scotia performs this great work with our very own chorus master Joel Tranquilla. Together with four hand-picked guest soloists and the 80-voice Symphony Nova Scotia Chorus, we proudly present an uplifting interpretation of Handel’s glorious holiday favourite.\n\t\t\t\t\t\t\t\t\t"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@language": "en",
-        "@value": "\n\t\t\t\t\t\t\t\t\t\tJoel Tranquilla, conductor & chorus master\nAmy Petrongelli, soprano\nVicki St. Pierre, contralto\nEdward Blancada, tenor\nMatthew Pauls, baritone\nSymphony Nova Scotia Chorus with core choir the Halifax Camerata Singers\t\t\t\t\t\t\t\t\t"
       }
     ]
   }
