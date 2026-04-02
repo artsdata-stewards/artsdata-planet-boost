@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://saultctc.ca/test-post-2/",
+    "@id": "https://saultctc.ca/calendar/events/",
     "http://ogp.me/ns#locale": [
       {
         "@language": "en-ca",
@@ -16,19 +16,19 @@
     "http://ogp.me/ns#title": [
       {
         "@language": "en-ca",
-        "@value": "Test Post 2 - Sault Theatre"
+        "@value": "Events - Sault Theatre"
       }
     ],
     "http://ogp.me/ns#description": [
       {
         "@language": "en-ca",
-        "@value": "Lorem Ipsum Sit dolar amet Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et faucibus nulla. Ut ultrices finibus neque, ac facilisis neque interdum non. Morbi eu lorem justo. Morbi condimentum urna nec diam aliquam efficitur. Nunc in mattis urna, et gravida dolor. Nunc id massa ut elit sagittis pharetra et quis quam. Phasellus […]"
+        "@value": "April 2026 Sun Mon Tue Wed Thu Fri Sat 1 2 3 4 5 6 7 8 9 10 11 12 The Incident of Journey's End The Incident of Journey's End • 13 The Incident of Journey's End The Incident of Journey's End • 14 The Incident of Journey's End The Incident of Journey's End […]"
       }
     ],
     "http://ogp.me/ns#url": [
       {
         "@language": "en-ca",
-        "@value": "https://saultctc.ca/test-post-2/"
+        "@value": "https://saultctc.ca/calendar/events/"
       }
     ],
     "http://ogp.me/ns#site_name": [
@@ -37,40 +37,34 @@
         "@value": "Sault Theatre"
       }
     ],
-    "article:published_time": [
-      {
-        "@language": "en-ca",
-        "@value": "2024-12-04T17:45:39+00:00"
-      }
-    ],
     "article:modified_time": [
       {
         "@language": "en-ca",
-        "@value": "2024-12-04T17:45:41+00:00"
+        "@value": "2025-01-15T17:18:26+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
       {
         "@language": "en-ca",
-        "@value": "https://saultctc.ca/wp-content/uploads/2024/10/KCTC-shoot-5-1.jpg"
+        "@value": "https://saultctc.ca/wp-content/uploads/2024/08/Group-45.png"
       }
     ],
     "http://ogp.me/ns#image:width": [
       {
         "@language": "en-ca",
-        "@value": "1024"
+        "@value": "189"
       }
     ],
     "http://ogp.me/ns#image:height": [
       {
         "@language": "en-ca",
-        "@value": "683"
+        "@value": "85"
       }
     ],
     "http://ogp.me/ns#image:type": [
       {
         "@language": "en-ca",
-        "@value": "image/jpeg"
+        "@value": "image/png"
       }
     ],
     "@type": [
@@ -78,7 +72,7 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://saultctc.ca/test-post-2/"
+        "@id": "https://saultctc.ca/calendar/events/"
       }
     ],
     "http://schema.org/isPartOf": [
@@ -86,46 +80,21 @@
         "@id": "https://saultctc.ca/#website"
       }
     ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://saultctc.ca/test-post-2/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://saultctc.ca/test-post-2/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://saultctc.ca/wp-content/uploads/2024/10/KCTC-shoot-5-1.jpg"
-      }
-    ],
     "http://schema.org/datePublished": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-12-04T17:45:39+00:00"
+        "@value": "2024-11-14T18:13:49+00:00"
       }
     ],
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-12-04T17:45:41+00:00"
-      }
-    ],
-    "http://schema.org/author": [
-      {
-        "@id": "https://saultctc.ca/#/schema/person/33e454b4b8aaf01e62a12abd89a6297b"
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://saultctc.ca/test-post-2/#breadcrumb"
+        "@value": "2025-01-15T17:18:26+00:00"
       }
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g821140"
+        "@id": "_:g460960"
       }
     ],
     "https://api.w.org/": [
@@ -136,7 +105,7 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Test Post 2 - Sault Theatre"
+        "@value": "Events - Sault Theatre"
       }
     ],
     "http://schema.org/inLanguage": [
@@ -154,17 +123,6 @@
     "http://schema.org/url": [
       {
         "@id": "https://saultctc.ca/"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "_:g821200"
-      },
-      {
-        "@id": "_:g830640"
-      },
-      {
-        "@id": "_:g921540"
       }
     ],
     "http://schema.org/name": [
@@ -187,275 +145,19 @@
     ]
   },
   {
-    "@id": "https://saultctc.ca/test-post-2/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://saultctc.ca/wp-content/uploads/2024/10/KCTC-shoot-5-1.jpg"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://saultctc.ca/wp-content/uploads/2024/10/KCTC-shoot-5-1.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1024"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "683"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://saultctc.ca/#/schema/person/33e454b4b8aaf01e62a12abd89a6297b",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://saultctc.ca/#/schema/person/image/"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://saultctc.ca"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://saultctc.ca/author/devswoon/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "devswoon"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://saultctc.ca/author/devswoon/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://saultctc.ca/author/devswoon/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g821140",
+    "@id": "_:g460960",
     "@type": [
       "http://schema.org/ReadAction"
     ],
     "http://schema.org/target": [
       {
         "@language": "en",
-        "@value": "https://saultctc.ca/test-post-2/"
+        "@value": "https://saultctc.ca/calendar/events/"
       }
     ]
   },
   {
-    "@id": "_:g821200",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g821220"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@id": "_:g821240"
-      }
-    ]
-  },
-  {
-    "@id": "_:g830640",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g830660"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@id": "_:g830680"
-      }
-    ]
-  },
-  {
-    "@id": "_:g921540",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g921560"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@id": "_:g921580"
-      }
-    ]
-  },
-  {
-    "@id": "https://saultctc.ca/#/schema/person/image/",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://secure.gravatar.com/avatar/c8c067350e2a9d57f576671c519b74de3091c65a351245c340eb4f226f2f892e?s=96&d=mm&r=g"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://secure.gravatar.com/avatar/c8c067350e2a9d57f576671c519b74de3091c65a351245c340eb4f226f2f892e?s=96&d=mm&r=g"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-CA"
-      }
-    ],
-    "http://schema.org/caption": [
-      {
-        "@language": "en",
-        "@value": "devswoon"
-      }
-    ]
-  },
-  {
-    "@id": "https://saultctc.ca/author/devswoon/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "en-ca",
-        "@value": "en_US"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-ca",
-        "@value": "profile"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-ca",
-        "@value": "devswoon, Author at Sault Theatre"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-ca",
-        "@value": "https://saultctc.ca/author/devswoon/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en-ca",
-        "@value": "Sault Theatre"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-ca",
-        "@value": "https://secure.gravatar.com/avatar/c8c067350e2a9d57f576671c519b74de3091c65a351245c340eb4f226f2f892e?s=500&d=mm&r=g"
-      }
-    ],
-    "@type": [
-      "http://schema.org/ProfilePage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://saultctc.ca/author/devswoon/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://saultctc.ca/#website"
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://saultctc.ca/author/devswoon/#breadcrumb"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "_:g921480"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://saultctc.ca/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "devswoon, Author at Sault Theatre"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g821220",
-    "@type": [
-      "http://schema.org/EntryPoint"
-    ],
-    "http://schema.org/urlTemplate": [
-      {
-        "@language": "en",
-        "@value": "https://saultctc.ca/?s={search_term_string}"
-      }
-    ]
-  },
-  {
-    "@id": "_:g821240",
-    "@type": [
-      "http://schema.org/PropertyValueSpecification"
-    ],
-    "http://schema.org/valueRequired": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
-        "@value": "true"
-      }
-    ],
-    "http://schema.org/valueName": [
-      {
-        "@language": "en",
-        "@value": "search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "https://saultctc.ca/test-post-1/",
+    "@id": "https://saultctc.ca/upcoming-events/",
     "http://ogp.me/ns#locale": [
       {
         "@language": "en-ca",
@@ -471,19 +173,13 @@
     "http://ogp.me/ns#title": [
       {
         "@language": "en-ca",
-        "@value": "Test Post 1 - Sault Theatre"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-ca",
-        "@value": "Lorem Ipsum Sit dolar amet Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et faucibus nulla. Ut ultrices finibus neque, ac facilisis neque interdum non. Morbi eu lorem justo. Morbi condimentum urna nec diam aliquam efficitur. Nunc in mattis urna, et gravida dolor. Nunc id massa ut elit sagittis pharetra et quis quam. Phasellus […]"
+        "@value": "What's On - Sault Theatre"
       }
     ],
     "http://ogp.me/ns#url": [
       {
         "@language": "en-ca",
-        "@value": "https://saultctc.ca/test-post-1/"
+        "@value": "https://saultctc.ca/upcoming-events/"
       }
     ],
     "http://ogp.me/ns#site_name": [
@@ -492,34 +188,28 @@
         "@value": "Sault Theatre"
       }
     ],
-    "article:published_time": [
-      {
-        "@language": "en-ca",
-        "@value": "2024-12-04T17:32:48+00:00"
-      }
-    ],
     "article:modified_time": [
       {
         "@language": "en-ca",
-        "@value": "2024-12-04T17:48:34+00:00"
+        "@value": "2025-06-03T19:12:41+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
       {
         "@language": "en-ca",
-        "@value": "https://saultctc.ca/wp-content/uploads/2024/10/KCTC-shoot-3-1.jpg"
+        "@value": "https://saultctc.ca/wp-content/uploads/2024/08/gabriel-gurrola-2UuhMZEChdc-unsplash.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
       {
         "@language": "en-ca",
-        "@value": "1024"
+        "@value": "1366"
       }
     ],
     "http://ogp.me/ns#image:height": [
       {
         "@language": "en-ca",
-        "@value": "683"
+        "@value": "769"
       }
     ],
     "http://ogp.me/ns#image:type": [
@@ -533,7 +223,7 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://saultctc.ca/test-post-1/"
+        "@id": "https://saultctc.ca/upcoming-events/"
       }
     ],
     "http://schema.org/isPartOf": [
@@ -543,44 +233,43 @@
     ],
     "http://schema.org/primaryImageOfPage": [
       {
-        "@id": "https://saultctc.ca/test-post-1/#primaryimage"
+        "@id": "https://saultctc.ca/upcoming-events/#primaryimage"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://saultctc.ca/test-post-1/#primaryimage"
+        "@id": "https://saultctc.ca/upcoming-events/#primaryimage"
       }
     ],
     "http://schema.org/thumbnailUrl": [
       {
-        "@id": "https://saultctc.ca/wp-content/uploads/2024/10/KCTC-shoot-3-1.jpg"
+        "@id": "https://saultctc.ca/wp-content/uploads/2024/08/gabriel-gurrola-2UuhMZEChdc-unsplash.jpg"
       }
     ],
     "http://schema.org/datePublished": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-12-04T17:32:48+00:00"
+        "@value": "2025-06-03T17:58:31+00:00"
       }
     ],
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-12-04T17:48:34+00:00"
-      }
-    ],
-    "http://schema.org/author": [
-      {
-        "@id": "https://saultctc.ca/#/schema/person/33e454b4b8aaf01e62a12abd89a6297b"
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://saultctc.ca/test-post-1/#breadcrumb"
+        "@value": "2025-06-03T19:12:41+00:00"
       }
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g830580"
+        "@id": "_:g470520"
+      },
+      {
+        "@id": "_:g482180"
+      },
+      {
+        "@id": "_:g493800"
+      },
+      {
+        "@id": "_:g505120"
       }
     ],
     "https://api.w.org/": [
@@ -591,7 +280,7 @@
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Test Post 1 - Sault Theatre"
+        "@value": "What's On - Sault Theatre"
       }
     ],
     "http://schema.org/inLanguage": [
@@ -602,30 +291,30 @@
     ]
   },
   {
-    "@id": "https://saultctc.ca/test-post-1/#primaryimage",
+    "@id": "https://saultctc.ca/upcoming-events/#primaryimage",
     "@type": [
       "http://schema.org/ImageObject"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://saultctc.ca/wp-content/uploads/2024/10/KCTC-shoot-3-1.jpg"
+        "@id": "https://saultctc.ca/wp-content/uploads/2024/08/gabriel-gurrola-2UuhMZEChdc-unsplash.jpg"
       }
     ],
     "http://schema.org/contentUrl": [
       {
-        "@id": "https://saultctc.ca/wp-content/uploads/2024/10/KCTC-shoot-3-1.jpg"
+        "@id": "https://saultctc.ca/wp-content/uploads/2024/08/gabriel-gurrola-2UuhMZEChdc-unsplash.jpg"
       }
     ],
     "http://schema.org/width": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1024"
+        "@value": "1366"
       }
     ],
     "http://schema.org/height": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "683"
+        "@value": "769"
       }
     ],
     "http://schema.org/inLanguage": [
@@ -636,86 +325,269 @@
     ]
   },
   {
-    "@id": "_:g830580",
+    "@id": "_:g470520",
     "@type": [
       "http://schema.org/ReadAction"
     ],
     "http://schema.org/target": [
       {
         "@language": "en",
-        "@value": "https://saultctc.ca/test-post-1/"
+        "@value": "https://saultctc.ca/upcoming-events/"
       }
     ]
   },
   {
-    "@id": "_:g830660",
-    "@type": [
-      "http://schema.org/EntryPoint"
-    ],
-    "http://schema.org/urlTemplate": [
-      {
-        "@language": "en",
-        "@value": "https://saultctc.ca/?s={search_term_string}"
-      }
-    ]
-  },
-  {
-    "@id": "_:g830680",
-    "@type": [
-      "http://schema.org/PropertyValueSpecification"
-    ],
-    "http://schema.org/valueRequired": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
-        "@value": "true"
-      }
-    ],
-    "http://schema.org/valueName": [
-      {
-        "@language": "en",
-        "@value": "search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g921480",
+    "@id": "_:g482180",
     "@type": [
       "http://schema.org/ReadAction"
     ],
     "http://schema.org/target": [
       {
         "@language": "en",
-        "@value": "https://saultctc.ca/author/devswoon/"
+        "@value": "https://saultctc.ca/upcoming-events/"
       }
     ]
   },
   {
-    "@id": "_:g921560",
+    "@id": "_:g493800",
     "@type": [
-      "http://schema.org/EntryPoint"
+      "http://schema.org/ReadAction"
     ],
-    "http://schema.org/urlTemplate": [
+    "http://schema.org/target": [
       {
         "@language": "en",
-        "@value": "https://saultctc.ca/?s={search_term_string}"
+        "@value": "https://saultctc.ca/upcoming-events/"
       }
     ]
   },
   {
-    "@id": "_:g921580",
+    "@id": "_:g505120",
     "@type": [
-      "http://schema.org/PropertyValueSpecification"
+      "http://schema.org/ReadAction"
     ],
-    "http://schema.org/valueRequired": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
-        "@value": "true"
-      }
-    ],
-    "http://schema.org/valueName": [
+    "http://schema.org/target": [
       {
         "@language": "en",
-        "@value": "search_term_string"
+        "@value": "https://saultctc.ca/upcoming-events/"
+      }
+    ]
+  },
+  {
+    "@id": "https://saultctc.ca/upcoming-events/page/2/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "What's On - Sault Theatre"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://saultctc.ca/upcoming-events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sault Theatre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-06-03T19:12:41+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://saultctc.ca/wp-content/uploads/2024/08/gabriel-gurrola-2UuhMZEChdc-unsplash.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1366"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "769"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://saultctc.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://saultctc.ca/upcoming-events/page/2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://saultctc.ca/upcoming-events/page/3/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "What's On - Sault Theatre"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://saultctc.ca/upcoming-events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sault Theatre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-06-03T19:12:41+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://saultctc.ca/wp-content/uploads/2024/08/gabriel-gurrola-2UuhMZEChdc-unsplash.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1366"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "769"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://saultctc.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://saultctc.ca/upcoming-events/page/3/"
+      }
+    ]
+  },
+  {
+    "@id": "https://saultctc.ca/upcoming-events/page/1/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "What's On - Sault Theatre"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://saultctc.ca/upcoming-events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Sault Theatre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2025-06-03T19:12:41+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://saultctc.ca/wp-content/uploads/2024/08/gabriel-gurrola-2UuhMZEChdc-unsplash.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "1366"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "769"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://saultctc.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://saultctc.ca/upcoming-events/page/1/"
       }
     ]
   }
