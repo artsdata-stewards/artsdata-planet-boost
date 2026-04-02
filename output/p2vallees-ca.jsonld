@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://p2vallees.ca/events/liste/?eventDisplay=past",
+    "https://api.w.org/": [
+      {
+        "@id": "https://p2vallees.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://p2vallees.ca/events/liste/?eventDisplay=past"
+      }
+    ]
+  },
+  {
+    "@id": "https://p2vallees.ca/temporary/93ea781d-8ad2-47ce-85b8-65662148c3a9",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://p2vallees.ca/event/bma-2024-passeports-3-jours/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-02-05T08:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-02-05T17:00:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://p2vallees.ca/events/liste/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "BMA 2024 passeports 3 jours"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  }
+]
