@@ -1,0 +1,7428 @@
+[
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/liste/?eventDisplay=past",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Évènements Archive -"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/events/"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://ateliersbananart.com/#organization"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ateliers BananArt"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "fr",
+        "@value": "BananArt Ateliers Artistique"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ateliersbananart.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ateliers BananArt"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/events/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/11/10h30-27.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/11/10h30-27.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "940"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "788"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/07/cropped-Version-4pouce-BananArt-1.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/07/cropped-Version-4pouce-BananArt-1.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "232"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "180"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "Ateliers BananArt"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515620",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/liste/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g515640"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.gorendezvous.com/en/connexioneee"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Connexion Émotion Énergie Équilibre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "(514) 779-0521"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515640",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "41 Rue Blainville O"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Sainte-Thérèse"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "Quebec"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J7E 1X4"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515660",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/liste/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/liste/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Annciella Alarie"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "438-371-6170 ou 514-792-0474"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "fr",
+        "@value": "inf&#111;&#64;a&#116;&#101;l&#105;&#101;r&#115;ba&#110;a&#110;a&#114;&#116;.c&#111;m"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515980",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux-peint-ta-boisson-de-lete-laval/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-23T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-04T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "45"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "fr",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "USD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516000",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/liste/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g516020"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://cafearthur.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Café Arthur"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "1 833-364-2233"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516020",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "880 Bd Arthur-Sauvé"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Laval"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "Quebec"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "H7R 3V8"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516040",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/liste/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/liste/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Annciella Alarie"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "438-371-6170 ou 514-792-0474"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "fr",
+        "@value": "&#105;&#110;&#102;o&#64;&#97;te&#108;&#105;&#101;r&#115;&#98;&#97;na&#110;art.com"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/temporary/a0df036a-3034-4bc0-816f-186255176f75",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/02/10h30-9.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/art-spiritualite-une-aventure-vers-la-revelation-de-soi-ste-therese/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-28T13:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-28T16:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g515620"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g515660"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/liste/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Art &#038; Spiritualité &#8211; CERCLE DE MÉTAMORPHOSE SACRÉE &#8211; Ste-Thérèse"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "&lt;p&gt;Une journée pour t’aimer, te révéler et t’honorer Et si, le temps d’un après-midi, tu t’offrais une parenthèse rien que pour toi? Une pause pour reconnecter avec ton image, ton essence et ta vérité intérieure? Nous t’invitons à une expérience unique, où l’art et la photographie se rencontrent pour révéler ta lumière. Nous avons imaginé cette journée comme une véritable déclaration/révélation à toi-même. Une invitation à t’accueillir pleinement, à embrasser chaque parties de toi, sans filtre ni jugement. À travers [&hellip;]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "fr",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/temporary/01360347-b9a5-42d8-924e-f2ca8a40e8d5",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/06/10h30-25.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux-peint-ta-boisson-de-lete-laval/"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g515980"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-04T15:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-04T17:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g516000"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g516040"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/liste/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chien, Café et Pinceaux! &#8211; PEINT TA BOISSON DE L&rsquo;ÉTÉ &#8211; Laval"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "&lt;p&gt;Atelier de peinture au Café Arthur – Peins ton drink d’été ! ☀️Avec les Ateliers BananArt Rejoins-nous vendredi 4 juillet de 15h à 17h au chaleureux Café Arthur, un café unique où les chiens sont les bienvenus, pour un atelier de peinture acrylique haut en couleurs ! Lors de cette activité créative et décontractée, tu seras guidé·e pas à pas pour peindre un drink d’été coloré, inspiré des cocktails fruités et rafraîchissants qui évoquent les vacances. Aucune expérience n’est requise [&hellip;]&lt;/p&gt;\\n"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "fr",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/liste/page/2/?eventDisplay=past",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Évènements Archive - Page 2 sur 4 -"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/events/"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/events/page/2/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/03/10h30-22.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/03/10h30-22.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "940"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "788"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-peinture-et-decoration-de-chandelle/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Atelier Peinture et Décoration de Chandelle -"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Dans notre prochain atelier de Bananart, nous t’invitons à plonger dans un univers créatif où la cire devient le médium de ta vision artistique. Imagine-toi, entouré d’une ambiance chaleureuse, bercé par la douce lueur des bougies, prêt à donner vie à tes idées sur une toile peu conventionnelle : une chandelle de 6 pouces par 2 pouces. Dans cet atelier unique, nous t’offrons l’opportunité de fusionner la peinture et la sculpture dans un art aussi éphémère que captivant. Armé de […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/atelier-peinture-et-decoration-de-chandelle/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-05-07T11:46:44+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/wp-content/uploads/2024/05/Ateliers-BananArt-3.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "940"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "788"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-peinture-et-decoration-de-chandelle/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ateliersbananart.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-peinture-et-decoration-de-chandelle/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-peinture-et-decoration-de-chandelle/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/05/Ateliers-BananArt-3.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-03T14:29:51+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-07T11:46:44+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g612300"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Atelier Peinture et Décoration de Chandelle -"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-peinture-et-decoration-de-chandelle/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/05/Ateliers-BananArt-3.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/05/Ateliers-BananArt-3.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "940"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "788"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g612300",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/atelier-peinture-et-decoration-de-chandelle/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-peinture-et-decoration-de-chandelle/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-peinture-et-decoration-de-chandelle/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-peinture-et-decoration-de-chandelle/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-01T10:30:00+04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-01T12:30:00+04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g612440"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g612480"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g612500"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-peinture-et-decoration-de-chandelle/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-peinture-et-decoration-de-chandelle/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Atelier Peinture et Décoration de Chandelle"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Dans notre prochain atelier de Bananart, nous t&rsquo;invitons à plonger dans un univers créatif où la cire devient le médium de ta vision artistique. Imagine-toi, entouré d&rsquo;une ambiance chaleureuse, bercé par la douce lueur des bougies, prêt à donner vie à tes idées sur une toile peu conventionnelle : une chandelle de 6 pouces par 2 pouces. Dans cet atelier unique, nous t&rsquo;offrons l&rsquo;opportunité de fusionner la peinture et la sculpture dans un art aussi éphémère que captivant. Armé de [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g612440",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-peinture-et-decoration-de-chandelle/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g612460"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/envolee.d.anges/?locale=fr_CA"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "L&rsquo;envolée d&rsquo;anges"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "450-824-1064"
+      }
+    ]
+  },
+  {
+    "@id": "_:g612480",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-peinture-et-decoration-de-chandelle/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Annciella Alarie"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "438-371-6170 ou 514-792-0474"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "fr",
+        "@value": "&#105;&#110;&#102;&#111;&#64;&#97;&#116;el&#105;&#101;&#114;&#115;ba&#110;&#97;&#110;a&#114;t.&#99;&#111;&#109;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g612500",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-peinture-et-decoration-de-chandelle/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "1970-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "60"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "Can"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "fr",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g612460",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "24 A rue Saint-Eustache"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Eustache"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "Quebec"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J7R 2K9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/etiquette/artisanat/liste/?eventDisplay=past",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/tag/artisanat/"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/tag/artisanat/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/05/Ateliers-BananArt-3.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/05/Ateliers-BananArt-3.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "940"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "788"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/etiquette/chandelle/liste/?eventDisplay=past",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/tag/chandelle/"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/tag/chandelle/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/05/Ateliers-BananArt-3.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/05/Ateliers-BananArt-3.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "940"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "788"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Aquarelle à la Maison Lavande -"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Découvrez l’art de l’aquarelle parmi les doux parfums de la lavande à la Maison Lavande de Saint-Eustache ! Vous êtes passionnés d’art et de nature ? Ne manquez pas notre atelier de peinture aquarelle qui se tiendra le 6 juillet 2024. Explorez les subtilités de l’aquarelle en créant une œuvre inspirée de cette magnifique lavande. De plus, votre inscription à l’atelier vous ouvre les portes de la Maison Lavande jusqu’à sa fermeture. Profitez de ces jardins parfumés, de ces sentiers […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-05-24T12:31:35+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/wp-content/uploads/2024/05/10h30-1.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "940"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "788"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ateliersbananart.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/05/10h30-1.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-07T21:16:47+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-24T12:31:35+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g675860"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Aquarelle à la Maison Lavande -"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/05/10h30-1.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/05/10h30-1.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "940"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "788"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g675860",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-07-06T10:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-07-06T12:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g676000"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g676040"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g676060"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Aquarelle à la Maison Lavande"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Découvrez l&rsquo;art de l&rsquo;aquarelle parmi les doux parfums de la lavande à la Maison Lavande de Saint-Eustache ! Vous êtes passionnés d&rsquo;art et de nature ? Ne manquez pas notre atelier de peinture aquarelle qui se tiendra le 6 juillet 2024. Explorez les subtilités de l&rsquo;aquarelle en créant une œuvre inspirée de cette magnifique lavande. De plus, votre inscription à l&rsquo;atelier vous ouvre les portes de la Maison Lavande jusqu&rsquo;à sa fermeture. Profitez de ces jardins parfumés, de ces sentiers [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g676000",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g676020"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://maisonlavande.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Maison Lavande Saint-Eustache"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "450-473-3009"
+      }
+    ]
+  },
+  {
+    "@id": "_:g676040",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Annciella Alarie"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "438-371-6170 ou 514-792-0474"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "fr",
+        "@value": "&#105;nf&#111;&#64;a&#116;&#101;l&#105;ersba&#110;a&#110;a&#114;t&#46;c&#111;m"
+      }
+    ]
+  },
+  {
+    "@id": "_:g676060",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "1970-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "38 à 45"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "Can"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "fr",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g676020",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "902 Chem. Fresnière"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Eustache"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "Quebec"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J7R 0G4"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/art-et-spiritualite-renaissance/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Art et Spiritualité - Renaissance -"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "BananArt est ravi de t’accueillir à un atelier blacklight Art & Spiritualité. Tu auras l’occasion de vivre une expérience spirituelle incroyable et une méditation guidée, en collaboration avec Élodie Paquette de Z’ailes d’aigle création. Tu voyageras dans un univers créatif complètement apaisant sous la lumière blacklight. Une expérience à ne pas manquer. Place limitée! Date limite pour s’inscrire le 3 Juin ! Ateliers Blacklight Art et Spiritualité – Renaissance Date : 4 Juin 2024 Heure : 18h00 à 20h00 Lieu […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/art-et-spiritualite-renaissance/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-05-24T19:16:14+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/wp-content/uploads/2024/05/10h30-1-1.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "940"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "788"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/art-et-spiritualite-renaissance/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ateliersbananart.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/art-et-spiritualite-renaissance/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/art-et-spiritualite-renaissance/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/05/10h30-1-1.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-22T20:45:57+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-24T19:16:14+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g694480"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Art et Spiritualité - Renaissance -"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/art-et-spiritualite-renaissance/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/05/10h30-1-1.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/05/10h30-1-1.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "940"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "788"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g694480",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/art-et-spiritualite-renaissance/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/art-et-spiritualite-renaissance/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/art-et-spiritualite-renaissance/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/art-et-spiritualite-renaissance/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-04T18:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-04T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g694620"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g694660"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g694680"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/art-et-spiritualite-renaissance/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/art-et-spiritualite-renaissance/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Art et Spiritualité &#8211; Renaissance"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "BananArt est ravi de t&rsquo;accueillir à un atelier blacklight Art &amp; Spiritualité. Tu auras l&rsquo;occasion de vivre une expérience spirituelle incroyable et une méditation guidée, en collaboration avec Élodie Paquette de Z&rsquo;ailes d&rsquo;aigle création. Tu voyageras dans un univers créatif complètement apaisant sous la lumière blacklight. Une expérience à ne pas manquer. Place limitée! Date limite pour s&rsquo;inscrire le 3 Juin ! Ateliers Blacklight Art et Spiritualité &#8211; Renaissance Date : 4 Juin 2024 Heure : 18h00 à 20h00 Lieu [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g694620",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/art-et-spiritualite-renaissance/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g694640"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/envolee.d.anges/?locale=fr_CA"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "L&rsquo;envolée d&rsquo;anges"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "450-824-1064"
+      }
+    ]
+  },
+  {
+    "@id": "_:g694660",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/art-et-spiritualite-renaissance/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Annciella Alarie"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "438-371-6170 ou 514-792-0474"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "fr",
+        "@value": "inf&#111;&#64;&#97;t&#101;&#108;i&#101;&#114;s&#98;&#97;&#110;&#97;n&#97;&#114;&#116;&#46;com"
+      }
+    ]
+  },
+  {
+    "@id": "_:g694680",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/art-et-spiritualite-renaissance/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "1970-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "65"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "Can"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "fr",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g694640",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "24 A rue Saint-Eustache"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Eustache"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "Quebec"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J7R 2K9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Ateliers Créatif Décoratif -"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Au cours de cet atelier, chaque participant recevra un morceau de plexiglas et sa base. Nous vous guiderons pas à pas pour transformer ces matériaux en de magnifiques bibelots décoratifs. Vous apprendrez quelques astuces pour peindre sur plexiglas tout en vous amusant afin de créer des effets uniques et captivants. À la fin de l’atelier, vous repartirez avec votre propre création, un bibelot personnalisé et unique qui pourra égayer votre intérieur ou faire un merveilleux cadeau. Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-08-05T12:29:16+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/wp-content/uploads/2024/06/Ateliers-BananArt-6.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "940"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "788"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ateliersbananart.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/06/Ateliers-BananArt-6.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-18T20:08:41+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-08-05T12:29:16+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g706180"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ateliers Créatif Décoratif -"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/06/Ateliers-BananArt-6.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/06/Ateliers-BananArt-6.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "940"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "788"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g706180",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-08-10T10:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-08-10T11:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g706320"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g706360"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g706380"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ateliers Créatif Décoratif"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Au cours de cet atelier, chaque participant recevra un morceau de plexiglas et sa base. Nous vous guiderons pas à pas pour transformer ces matériaux en de magnifiques bibelots décoratifs. Vous apprendrez quelques astuces pour peindre sur plexiglas tout en vous amusant afin de créer des effets uniques et captivants. À la fin de l&rsquo;atelier, vous repartirez avec votre propre création, un bibelot personnalisé et unique qui pourra égayer votre intérieur ou faire un merveilleux cadeau. Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g706320",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g706340"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Marchés des Trouvailles Local"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g706360",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Annciella Alarie"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "438-371-6170 ou 514-792-0474"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "fr",
+        "@value": "i&#110;f&#111;&#64;&#97;&#116;&#101;&#108;&#105;ers&#98;anan&#97;rt.co&#109;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g706380",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "1970-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "Can"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "fr",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g706340",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "80 Rue Meunier O"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Laval"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "Quebec"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "H7N 1V6"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-paint-sip/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "5 à 7 Pinceaux et breuvages / Paint & Sip -"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Rejoignez-nous le 27 Septembre à 17h pour un moment de créativé et de convivialité à au Prana Café à Saint-Jérôme! Situé au 285 Rue Saint-Georges, Saint-Jérôme, ce charmant café se transformera en un espace artistique pour vous accueillir dans son univers chaleureux! Détails de l’Atelier : Date et Heure : 27 Septembre, 17h Date limite pour vous inscrire : 26 Septembre Lieu : Prana Café, 285 Rue Saint-Georges, Saint-Jérôme Thème : L’Étang de Bambou Inclus : Un verre de vin […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-paint-sip/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-09-26T13:02:54+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/wp-content/uploads/2024/09/10h30-1.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "940"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "788"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-paint-sip/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ateliersbananart.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-paint-sip/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-paint-sip/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/09/10h30-1.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-03T21:54:20+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-26T13:02:54+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g719780"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "5 à 7 Pinceaux et breuvages / Paint & Sip -"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-paint-sip/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/09/10h30-1.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/09/10h30-1.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "940"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "788"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g719780",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-paint-sip/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-paint-sip/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-paint-sip/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-paint-sip/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-27T17:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-27T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g719920"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g719960"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-paint-sip/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-paint-sip/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "5 à 7 Pinceaux et breuvages / Paint &#038; Sip"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Rejoignez-nous le 27 Septembre à 17h pour un moment de créativé et de convivialité à au Prana Café à Saint-Jérôme! Situé au 285 Rue Saint-Georges, Saint-Jérôme, ce charmant café se transformera en un espace artistique pour vous accueillir dans son univers chaleureux! Détails de l’Atelier : Date et Heure : 27 Septembre, 17h Date limite pour vous inscrire : 26 Septembre Lieu : Prana Café, 285 Rue Saint-Georges, Saint-Jérôme Thème : L&rsquo;Étang de Bambou Inclus : Un verre de vin [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g719920",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-paint-sip/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g719940"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://pranacafe.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Prana Café"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "(450) 592-2850"
+      }
+    ]
+  },
+  {
+    "@id": "_:g719960",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-paint-sip/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Annciella Alarie"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "438-371-6170 ou 514-792-0474"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "fr",
+        "@value": "&#105;nfo&#64;&#97;&#116;el&#105;e&#114;&#115;ban&#97;&#110;&#97;&#114;&#116;&#46;com"
+      }
+    ]
+  },
+  {
+    "@id": "_:g719940",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "285 Rue Saint-Georges"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Jérôme"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "Quebec"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J7Z 5A2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-pinceaux-et-breuvages-inspiration-marocaine/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Ateliers Pinceaux et Breuvages - Inspiration Marocaine -"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Rejoignez-nous le 3 novembre à 10h pour une matinée créative et conviviale à la Maison Majorelle à Rosemère ! Situé au 395A Chemin de la Grande-Côte, ce charmant café se transformera en un espace artistique pour un atelier unique en son genre : Inspiration Marocaine. Détails de l’Atelier : Date et Heure : 3 novembre, 10h Date limite pour vous inscrire : 2 novembre Lieu : Maison Majorelle, 395A Chemin de la Grande-Côte, Rosemère Thème : Inspiration Marocaine Inclus : […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/ateliers-pinceaux-et-breuvages-inspiration-marocaine/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-10-04T12:29:16+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/wp-content/uploads/2024/08/10h30-2.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "940"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "788"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-pinceaux-et-breuvages-inspiration-marocaine/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ateliersbananart.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-pinceaux-et-breuvages-inspiration-marocaine/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-pinceaux-et-breuvages-inspiration-marocaine/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/08/10h30-2.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-08-06T21:12:07+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-04T12:29:16+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g732960"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ateliers Pinceaux et Breuvages - Inspiration Marocaine -"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-pinceaux-et-breuvages-inspiration-marocaine/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/08/10h30-2.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/08/10h30-2.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "940"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "788"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g732960",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/ateliers-pinceaux-et-breuvages-inspiration-marocaine/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-pinceaux-et-breuvages-inspiration-marocaine/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-pinceaux-et-breuvages-inspiration-marocaine/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-pinceaux-et-breuvages-inspiration-marocaine/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-11-03T10:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-11-03T12:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g733100"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g733140"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g733160"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-pinceaux-et-breuvages-inspiration-marocaine/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-pinceaux-et-breuvages-inspiration-marocaine/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ateliers Pinceaux et Breuvages &#8211; Inspiration Marocaine"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Rejoignez-nous le 3 novembre à 10h pour une matinée créative et conviviale à la Maison Majorelle à Rosemère ! Situé au 395A Chemin de la Grande-Côte, ce charmant café se transformera en un espace artistique pour un atelier unique en son genre : Inspiration Marocaine. Détails de l&rsquo;Atelier : Date et Heure : 3 novembre, 10h Date limite pour vous inscrire : 2 novembre Lieu : Maison Majorelle, 395A Chemin de la Grande-Côte, Rosemère Thème : Inspiration Marocaine Inclus : [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g733100",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-pinceaux-et-breuvages-inspiration-marocaine/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g733120"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.maisonmajorelle.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Maison Majorelle"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "(514) 565-8433"
+      }
+    ]
+  },
+  {
+    "@id": "_:g733140",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-pinceaux-et-breuvages-inspiration-marocaine/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Annciella Alarie"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "438-371-6170 ou 514-792-0474"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "fr",
+        "@value": "&#105;&#110;&#102;o&#64;atelie&#114;&#115;ba&#110;a&#110;a&#114;t.&#99;&#111;m"
+      }
+    ]
+  },
+  {
+    "@id": "_:g733160",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-pinceaux-et-breuvages-inspiration-marocaine/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "1970-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "65"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "Can"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "fr",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g733120",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "395A Chemin de la Grande-Côte, Rosemère, QC, Canada, Quebec"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Rosemère"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "Quebec"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J7A 4R2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-aquarelle/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Art & Déjeuner – Aquarelle -"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Rejoignez-nous le 17 octobre à 10h pour un moment de créativé et de convivialité à au Imagin Bistro Créatif de Blainville ! Situé au 1503 Bd Michèle-Bohec suite 105, Blainville, QC J7C 5L4, ce charmant bistro se transformera en un espace artistique pour vous accueillir dans son univers chaleureux! Détails de l’Atelier : Date et Heure : 17 octobre, 10h Date limite pour vous inscrire : 16 octobre Lieu : Imagin Bistro Créatif, 1503 Bd Michèle-Bohec suite 105, Blainville, QC […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-aquarelle/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-10-04T12:29:59+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/wp-content/uploads/2024/09/10h30-9.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "940"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "788"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-aquarelle/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ateliersbananart.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-aquarelle/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-aquarelle/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/09/10h30-9.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-27T12:48:46+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-04T12:29:59+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g746480"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Art & Déjeuner – Aquarelle -"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-aquarelle/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/09/10h30-9.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/09/10h30-9.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "940"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "788"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g746480",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-aquarelle/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-aquarelle/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-aquarelle/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-aquarelle/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-17T10:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-17T12:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g746620"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g746660"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-aquarelle/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-aquarelle/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Art &#038; Déjeuner – Aquarelle"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Rejoignez-nous le 17 octobre à 10h pour un moment de créativé et de convivialité à au Imagin Bistro Créatif de Blainville ! Situé au 1503 Bd Michèle-Bohec suite 105, Blainville, QC J7C 5L4, ce charmant bistro se transformera en un espace artistique pour vous accueillir dans son univers chaleureux! Détails de l’Atelier : Date et Heure : 17 octobre, 10h Date limite pour vous inscrire : 16 octobre Lieu : Imagin Bistro Créatif, 1503 Bd Michèle-Bohec suite 105, Blainville, QC [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g746620",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-aquarelle/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g746640"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.imaginbistrocreatif.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Imagin Bistro Créatif"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "(450) 433-3859"
+      }
+    ]
+  },
+  {
+    "@id": "_:g746660",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/pinceaux-et-breuvages-aquarelle/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Annciella Alarie"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "438-371-6170 ou 514-792-0474"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "fr",
+        "@value": "in&#102;&#111;&#64;a&#116;e&#108;&#105;er&#115;ba&#110;&#97;nart.&#99;om"
+      }
+    ]
+  },
+  {
+    "@id": "_:g746640",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1503 Bd Michèle-Bohec suite 105"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Blainville"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "Quebec"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J7C 5L4"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif-2/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Atelier Créatif Décoratif -"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Rejoignez-nous le 12 Octobre à 10h30 pour une matinée créative et conviviale au Marché des trouvailles local de Laval ! Situé au 80 rue Meunier Ouest à Laval, ce charmant marché d’artisant se transformera en un espace artistique pour un atelier unique en son genre ! Détails de l’Atelier : Date et Heure : 12 Octobre, 10h30 Date limite pour vous inscrire : 11 Octobre Lieu : Marché des trouvailles Local, 80 rue Meunier Ouest , Laval Thème : Atelier […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif-2/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-10-04T12:31:18+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/wp-content/uploads/2024/06/Ateliers-BananArt-9.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "940"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "788"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif-2/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ateliersbananart.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif-2/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif-2/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/06/Ateliers-BananArt-9.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-18T20:46:43+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-04T12:31:18+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g759700"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Atelier Créatif Décoratif -"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif-2/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/06/Ateliers-BananArt-9.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/06/Ateliers-BananArt-9.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "940"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "788"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g759700",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif-2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif-2/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif-2/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif-2/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-12T10:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-12T11:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g759840"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g759880"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g759900"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif-2/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif-2/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Atelier Créatif Décoratif"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Rejoignez-nous le 12 Octobre à 10h30 pour une matinée créative et conviviale au Marché des trouvailles local de Laval ! Situé au 80 rue Meunier Ouest à Laval, ce charmant marché d&rsquo;artisant se transformera en un espace artistique pour un atelier unique en son genre ! Détails de l’Atelier : Date et Heure : 12 Octobre, 10h30 Date limite pour vous inscrire : 11 Octobre Lieu : Marché des trouvailles Local, 80 rue Meunier Ouest , Laval Thème : Atelier [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g759840",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif-2/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g759860"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif-2/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Marchés des Trouvailles Local"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g759880",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.facebook.com/marchedestrouvailleslocales"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Sarah Jade Matte"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "fr",
+        "@value": "li&#108;&#111;u.p&#111;&#112;&#46;e&#118;en&#116;&#64;gmai&#108;.&#99;&#111;&#109;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g759900",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/ateliers-creatif-decoratif-2/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "1970-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "Can"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "fr",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g759860",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "80 Rue Meunier O"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Laval"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "Quebec"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "H7N 1V6"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/5-a-7-pinceaux-et-breuvages-paint-sip/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "5 à 7 Pinceaux et breuvages / Paint & Sip -"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Rejoignez-nous le 18 octobre à 17h pour un moment de créativé et de convivialité à au Prana Café à Saint-Jérôme! Situé au 285 Rue Saint-Georges, Saint-Jérôme, ce charmant café se transformera en un espace artistique pour vous accueillir dans son univers chaleureux sous la thématique Halloween!! Détails de l’Atelier : Date et Heure : 18 octobre, 17h Date limite pour vous inscrire : 17 octobre Lieu : Prana Café, 285 Rue Saint-Georges, Saint-Jérôme Thème : Halloween Inclus : Un verre de vin […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/5-a-7-pinceaux-et-breuvages-paint-sip/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-10-17T16:16:27+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/wp-content/uploads/2024/09/10h30-6.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "940"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "788"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/5-a-7-pinceaux-et-breuvages-paint-sip/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ateliersbananart.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/5-a-7-pinceaux-et-breuvages-paint-sip/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/5-a-7-pinceaux-et-breuvages-paint-sip/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/09/10h30-6.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-26T13:22:41+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-17T16:16:27+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g773240"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "5 à 7 Pinceaux et breuvages / Paint & Sip -"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/5-a-7-pinceaux-et-breuvages-paint-sip/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/09/10h30-6.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/09/10h30-6.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "940"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "788"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g773240",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/5-a-7-pinceaux-et-breuvages-paint-sip/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/5-a-7-pinceaux-et-breuvages-paint-sip/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/5-a-7-pinceaux-et-breuvages-paint-sip/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/5-a-7-pinceaux-et-breuvages-paint-sip/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-18T17:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-18T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g773380"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g773420"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/5-a-7-pinceaux-et-breuvages-paint-sip/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/5-a-7-pinceaux-et-breuvages-paint-sip/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "5 à 7 Pinceaux et breuvages / Paint &#038; Sip"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Rejoignez-nous le 18 octobre à 17h pour un moment de créativé et de convivialité à au Prana Café à Saint-Jérôme! Situé au 285 Rue Saint-Georges, Saint-Jérôme, ce charmant café se transformera en un espace artistique pour vous accueillir dans son univers chaleureux sous la thématique Halloween!! Détails de l’Atelier : Date et Heure : 18 octobre, 17h Date limite pour vous inscrire : 17 octobre Lieu : Prana Café, 285 Rue Saint-Georges, Saint-Jérôme Thème : Halloween Inclus : Un verre de vin [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g773380",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/5-a-7-pinceaux-et-breuvages-paint-sip/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g773400"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://pranacafe.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Prana Café"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "(450) 592-2850"
+      }
+    ]
+  },
+  {
+    "@id": "_:g773420",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/5-a-7-pinceaux-et-breuvages-paint-sip/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Annciella Alarie"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "438-371-6170 ou 514-792-0474"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "fr",
+        "@value": "&#105;&#110;&#102;&#111;&#64;&#97;&#116;elie&#114;&#115;b&#97;&#110;a&#110;art.c&#111;&#109;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g773400",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "285 Rue Saint-Georges"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Jérôme"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "Quebec"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J7Z 5A2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/paint-sip-glow-in-the-dark/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Paint & sip *Glow in the dark* -"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "BananArt est ravi de t’accueillir à un atelier Paint & sip *Glow in the dark* Tu auras l’occasion de vivre une expérience incroyable en collaboration avec Maman BB&CO. Tu voyageras dans un univers créatif complètement épatant sous la lumière blacklight. Une expérience à ne pas manquer. Place limitée! Date : 15 Novembre 2024 Heure : 18h00 à 20h00 Lieu : Tier Lieu, Laval Coût : 60$ Membre / 70$ Non-Membre / 20$ Halte-Garderie Pour t’inscrire click ici ! [powr-button id=ea7f4e4b_1730991381228] […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/paint-sip-glow-in-the-dark/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-11-07T15:03:01+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/wp-content/uploads/2024/11/10h30-3.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "940"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "788"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/paint-sip-glow-in-the-dark/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ateliersbananart.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/paint-sip-glow-in-the-dark/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/paint-sip-glow-in-the-dark/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/11/10h30-3.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-11-07T14:50:37+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-11-07T15:03:01+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g786340"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Paint & sip *Glow in the dark* -"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/paint-sip-glow-in-the-dark/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/11/10h30-3.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2024/11/10h30-3.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "940"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "788"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g786340",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/paint-sip-glow-in-the-dark/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/paint-sip-glow-in-the-dark/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/paint-sip-glow-in-the-dark/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/paint-sip-glow-in-the-dark/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-11-15T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-11-15T21:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g786480"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g786520"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/paint-sip-glow-in-the-dark/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/paint-sip-glow-in-the-dark/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Paint &#038; sip *Glow in the dark*"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "BananArt est ravi de t’accueillir à un atelier Paint &amp; sip *Glow in the dark* Tu auras l’occasion de vivre une expérience incroyable en collaboration avec Maman BB&amp;CO. Tu voyageras dans un univers créatif complètement épatant sous la lumière blacklight. Une expérience à ne pas manquer. Place limitée! Date : 15 Novembre 2024 Heure : 18h00 à 20h00 Lieu : Tier Lieu, Laval Coût : 60$ Membre / 70$ Non-Membre / 20$ Halte-Garderie Pour t&rsquo;inscrire click ici ! [powr-button id=ea7f4e4b_1730991381228] [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g786480",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/paint-sip-glow-in-the-dark/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g786500"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/paint-sip-glow-in-the-dark/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Tier Lieu"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le Tiers Lieu est un espace coworking à Laval dédié aux entrepreneurs désirant faire partie d&rsquo;une communauté entrepreneuriale bienveillante. Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "(438) 372-4255"
+      }
+    ]
+  },
+  {
+    "@id": "_:g786520",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.instagram.com/mamanbbco/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Maman BB&#038;CO"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Offrir un village aux mamans qui n’en ont pas et redonner le pouvoir à femme derrière la maman. Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g786500",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1200 Blvd. Saint-Martin O Suite #130"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Laval"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "Quebec"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "H7S 2E4"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Chien, Café et Pinceaux! - PEINTURE SUR PLEXIGLASS - Laval -"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Atelier de peinture sur plexiglas – Spécial Saint-Valentin avec BananArt Rejoignez-nous pour une activité créative unique au Café Arthur, un lieu chaleureux où vos chiens sont les bienvenus ! Au programme : Lors de cet atelier, chaque participant recevra un morceau de plexiglas et sa base pour réaliser une magnifique création personnalisée mettant en valeur votre compagnon à quatre pattes. Vous serez guidé pas à pas pour transformer ces matériaux en bibelots décoratifs uniques, parfaits pour embellir votre intérieur ou offrir […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-02-03T20:05:57+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/wp-content/uploads/2025/01/10h30-6.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "940"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "788"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ateliersbananart.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/01/10h30-6.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-16T19:07:05+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-03T20:05:57+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g799460"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chien, Café et Pinceaux! - PEINTURE SUR PLEXIGLASS - Laval -"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/01/10h30-6.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/01/10h30-6.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "940"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "788"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g799460",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-09T10:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-09T11:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g799600"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g799640"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g799660"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chien, Café et Pinceaux! &#8211; PEINTURE SUR PLEXIGLASS &#8211; Laval"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Atelier de peinture sur plexiglas – Spécial Saint-Valentin avec BananArt Rejoignez-nous pour une activité créative unique au Café Arthur, un lieu chaleureux où vos chiens sont les bienvenus ! Au programme : Lors de cet atelier, chaque participant recevra un morceau de plexiglas et sa base pour réaliser une magnifique création personnalisée mettant en valeur votre compagnon à quatre pattes. Vous serez guidé pas à pas pour transformer ces matériaux en bibelots décoratifs uniques, parfaits pour embellir votre intérieur ou offrir [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g799600",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g799620"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://cafearthur.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Café Arthur"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "1 833-364-2233"
+      }
+    ]
+  },
+  {
+    "@id": "_:g799640",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Annciella Alarie"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "438-371-6170 ou 514-792-0474"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "fr",
+        "@value": "in&#102;o&#64;a&#116;eli&#101;rsba&#110;&#97;n&#97;r&#116;&#46;c&#111;m"
+      }
+    ]
+  },
+  {
+    "@id": "_:g799660",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "1970-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "Can"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "fr",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g799620",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "880 Bd Arthur-Sauvé"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Laval"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "Quebec"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "H7R 3V8"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-art-spiritualite-creation-lunaire-terrebonne/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "ANNULER Atelier art & spiritualité - CRÉATION LUNAIRE - Terrebonne -"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": " Découvrez la magie de la Pleine Lune et libérez votre créativité  C’est avec joie que BananArt offre un nouvel atelier créatif intuitif en collaboration avec la merveilleuse Valérie Guimond! Rejoins-nous le vendredi 14 Mars de 19h à 21h30 pour un atelier unique qui t’emportera dans le monde envoûtant de la Pleine Lune, de la peinture, de la détente et de l’intuition.  Crée sous la Pleine Lune  Sous la douce lueur de la Pleine Lune et de la black light , laisse-toi […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/atelier-art-spiritualite-creation-lunaire-terrebonne/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-02-27T20:44:48+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/wp-content/uploads/2025/02/10h30-7.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "940"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "788"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-art-spiritualite-creation-lunaire-terrebonne/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ateliersbananart.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-art-spiritualite-creation-lunaire-terrebonne/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-art-spiritualite-creation-lunaire-terrebonne/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/02/10h30-7.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-03T19:59:56+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-27T20:44:48+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g812980"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "ANNULER Atelier art & spiritualité - CRÉATION LUNAIRE - Terrebonne -"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-art-spiritualite-creation-lunaire-terrebonne/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/02/10h30-7.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/02/10h30-7.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "940"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "788"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g812980",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/atelier-art-spiritualite-creation-lunaire-terrebonne/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-art-spiritualite-creation-lunaire-terrebonne/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-art-spiritualite-creation-lunaire-terrebonne/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-art-spiritualite-creation-lunaire-terrebonne/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-14T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-14T21:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g813120"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g813160"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-art-spiritualite-creation-lunaire-terrebonne/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-art-spiritualite-creation-lunaire-terrebonne/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "ANNULER Atelier art &#038; spiritualité &#8211; CRÉATION LUNAIRE &#8211; Terrebonne"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": " Découvrez la magie de la Pleine Lune et libérez votre créativité  C&rsquo;est avec joie que BananArt offre un nouvel atelier créatif intuitif en collaboration avec la merveilleuse Valérie Guimond! Rejoins-nous le vendredi 14 Mars de 19h à 21h30 pour un atelier unique qui t&#8217;emportera dans le monde envoûtant de la Pleine Lune, de la peinture, de la détente et de l&rsquo;intuition.  Crée sous la Pleine Lune  Sous la douce lueur de la Pleine Lune et de la black light , laisse-toi [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g813120",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-art-spiritualite-creation-lunaire-terrebonne/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g813140"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.studio-klaf.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Studio Klaf"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "(450) 492-0268"
+      }
+    ]
+  },
+  {
+    "@id": "_:g813160",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/atelier-art-spiritualite-creation-lunaire-terrebonne/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Annciella Alarie"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "438-371-6170 ou 514-792-0474"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "fr",
+        "@value": "&#105;&#110;f&#111;&#64;&#97;&#116;el&#105;&#101;&#114;&#115;b&#97;n&#97;n&#97;&#114;&#116;&#46;c&#111;&#109;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g813140",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "875 Rue Chartrand"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Terrebonne"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "Quebec"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J6W 2M3"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux-creation-libre-laval/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Chien, Café et Pinceaux! – CRÉATION LIBRE – Laval -"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Atelier de peinture sur toile – Créez librement avec BananArt ! Rejoignez-nous pour une expérience artistique unique au Café Arthur, un lieu chaleureux où vos chiens sont les bienvenus ! Au programme :Laissez parler votre créativité lors de cet atelier peinture sur toile. Aucun thème imposé : vous êtes libre de choisir le sujet qui vous inspire ! Que ce soit un paysage, un portrait, une abstraction ou une œuvre inspirée de votre compagnon à quatre pattes, tout est possible. […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux-creation-libre-laval/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-03-03T22:47:25+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/wp-content/uploads/2025/03/10h30-14.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "940"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "788"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux-creation-libre-laval/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ateliersbananart.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux-creation-libre-laval/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux-creation-libre-laval/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/03/10h30-14.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-03T22:41:42+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-03T22:47:25+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g826960"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chien, Café et Pinceaux! – CRÉATION LIBRE – Laval -"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux-creation-libre-laval/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/03/10h30-14.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/03/10h30-14.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "940"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "788"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g826960",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux-creation-libre-laval/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux-creation-libre-laval/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux-creation-libre-laval/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux-creation-libre-laval/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-02T18:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-02T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g827100"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g827140"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g827160"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux-creation-libre-laval/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux-creation-libre-laval/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chien, Café et Pinceaux! – CRÉATION LIBRE – Laval"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Atelier de peinture sur toile – Créez librement avec BananArt ! Rejoignez-nous pour une expérience artistique unique au Café Arthur, un lieu chaleureux où vos chiens sont les bienvenus ! Au programme :Laissez parler votre créativité lors de cet atelier peinture sur toile. Aucun thème imposé : vous êtes libre de choisir le sujet qui vous inspire ! Que ce soit un paysage, un portrait, une abstraction ou une œuvre inspirée de votre compagnon à quatre pattes, tout est possible. [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g827100",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux-creation-libre-laval/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g827120"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://cafearthur.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Café Arthur"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "1 833-364-2233"
+      }
+    ]
+  },
+  {
+    "@id": "_:g827140",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux-creation-libre-laval/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Annciella Alarie"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "438-371-6170 ou 514-792-0474"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "fr",
+        "@value": "i&#110;&#102;o&#64;a&#116;&#101;&#108;ier&#115;b&#97;&#110;a&#110;art.&#99;&#111;&#109;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g827160",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/chien-cafe-et-pinceaux-creation-libre-laval/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-04T02:25:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "45"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "Can"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "fr",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g827120",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "880 Bd Arthur-Sauvé"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Laval"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "Quebec"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "H7R 3V8"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/special-fete-des-meres-peinture-sur-chandail-laval/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Spécial fête des mères - PEINTURE SUR CHANDAIL - Laval -"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "✨ Atelier créatif spécial Fête des Mères – 46$ par personne ✨ Joignez-vous à nous le 9 mai de 19h à 21h pour une soirée artistique remplie de cœur à la Friperie Les Trésors d’Ozanam à Laval Nous aurons la chance de peindre sur des chandails neufs, issus de surplus d’entreprise, généreusement récupérés par Sylvie, notre hôte au grand cœur. Sa mission : redonner une seconde vie aux trésors oubliés, dans un lieu rempli de charme et de belles valeurs […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/special-fete-des-meres-peinture-sur-chandail-laval/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-04-11T22:48:49+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/wp-content/uploads/2025/04/10h30-21.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "940"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "788"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/special-fete-des-meres-peinture-sur-chandail-laval/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ateliersbananart.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/special-fete-des-meres-peinture-sur-chandail-laval/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/special-fete-des-meres-peinture-sur-chandail-laval/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/04/10h30-21.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-11T22:31:01+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-11T22:48:49+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g840620"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Spécial fête des mères - PEINTURE SUR CHANDAIL - Laval -"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/special-fete-des-meres-peinture-sur-chandail-laval/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/04/10h30-21.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/04/10h30-21.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "940"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "788"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g840620",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/special-fete-des-meres-peinture-sur-chandail-laval/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/special-fete-des-meres-peinture-sur-chandail-laval/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/special-fete-des-meres-peinture-sur-chandail-laval/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/special-fete-des-meres-peinture-sur-chandail-laval/"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g840760"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-09T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-09T21:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g840780"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g840820"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/special-fete-des-meres-peinture-sur-chandail-laval/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/special-fete-des-meres-peinture-sur-chandail-laval/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Spécial fête des mères &#8211; PEINTURE SUR CHANDAIL &#8211; Laval"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "✨ Atelier créatif spécial Fête des Mères – 46$ par personne ✨ Joignez-vous à nous le 9 mai de 19h à 21h pour une soirée artistique remplie de cœur à la Friperie Les Trésors d’Ozanam à Laval Nous aurons la chance de peindre sur des chandails neufs, issus de surplus d’entreprise, généreusement récupérés par Sylvie, notre hôte au grand cœur. Sa mission : redonner une seconde vie aux trésors oubliés, dans un lieu rempli de charme et de belles valeurs [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g840760",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/special-fete-des-meres-peinture-sur-chandail-laval/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-11T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-08T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "46"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "USD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g840780",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/special-fete-des-meres-peinture-sur-chandail-laval/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g840800"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.lestresorsdozanam.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Trésors d&rsquo;Ozanam"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Plongez dans l&rsquo;univers de la friperie « Seconde Vie, Nouveau Souffle » située à Laval. En soutenant ce projet, vous favoriserez l&rsquo;économie circulaire et l&rsquo;insertion sociale. Chaque don contribue à financer le Camp Ozanam, offrant ainsi des moments inoubliables aux familles défavorisées. Ensemble, cultivons un impact positif dans notre communauté, tout en adoptant un mode de vie écoresponsable. Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "5147920474"
+      }
+    ]
+  },
+  {
+    "@id": "_:g840820",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/special-fete-des-meres-peinture-sur-chandail-laval/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Annciella Alarie"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "438-371-6170 ou 514-792-0474"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "fr",
+        "@value": "in&#102;&#111;&#64;a&#116;&#101;li&#101;rs&#98;&#97;&#110;an&#97;rt&#46;c&#111;m"
+      }
+    ]
+  },
+  {
+    "@id": "_:g840800",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "146 Bd Sainte-Rose A"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Laval"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "Québec"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "H7L 1K4"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/peinture-de-plexiglas-montreal/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "PEINTURE DE PLEXIGLAS - Montréal (Annulé) -"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Rejoignez-nous pour un moment créatif et convivial au Café 92 Degrés à Montréal ! Le 25 mai prochain, venez partager une expérience unique de peinture sur plexiglas, une activité artistique originale ouverte aux parents et enfants. Vous pourrez laisser libre cours à votre imagination en peignant le sujet de votre choix sur une plaque de plexiglas, ainsi que sa base, pour créer une œuvre unique et personnalisée. Pour rendre ce moment encore plus agréable, une boisson est incluse ! Une […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/peinture-de-plexiglas-montreal/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-05-23T13:30:08+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/wp-content/uploads/2025/03/10h30-22.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "940"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "788"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/peinture-de-plexiglas-montreal/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ateliersbananart.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/peinture-de-plexiglas-montreal/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/peinture-de-plexiglas-montreal/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/03/10h30-22.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-03T15:19:46+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-23T13:30:08+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g854440"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "PEINTURE DE PLEXIGLAS - Montréal (Annulé) -"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/peinture-de-plexiglas-montreal/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/03/10h30-22.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/03/10h30-22.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "940"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "788"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g854440",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/peinture-de-plexiglas-montreal/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/peinture-de-plexiglas-montreal/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/peinture-de-plexiglas-montreal/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/peinture-de-plexiglas-montreal/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-25T14:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-25T16:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g854580"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g854620"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/peinture-de-plexiglas-montreal/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/peinture-de-plexiglas-montreal/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "PEINTURE DE PLEXIGLAS &#8211; Montréal (Annulé)"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Rejoignez-nous pour un moment créatif et convivial au Café 92 Degrés à Montréal ! Le 25 mai prochain, venez partager une expérience unique de peinture sur plexiglas, une activité artistique originale ouverte aux parents et enfants. Vous pourrez laisser libre cours à votre imagination en peignant le sujet de votre choix sur une plaque de plexiglas, ainsi que sa base, pour créer une œuvre unique et personnalisée. Pour rendre ce moment encore plus agréable, une boisson est incluse ! Une [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g854580",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/peinture-de-plexiglas-montreal/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g854600"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/cafe92degres/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Café 92 Degrés"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "5147920474"
+      }
+    ]
+  },
+  {
+    "@id": "_:g854620",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/peinture-de-plexiglas-montreal/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Annciella Alarie"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "438-371-6170 ou 514-792-0474"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "fr",
+        "@value": "in&#102;o&#64;&#97;&#116;&#101;&#108;&#105;ers&#98;a&#110;a&#110;a&#114;t&#46;&#99;&#111;&#109;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g854600",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "6703 Rue Sherbrooke O"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Montréal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "Quebec"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "H4B 1P3"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande-2/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Aquarelle à la Maison Lavande -"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": " Le retour de notre atelier d’aquarelle à la Maison Lavande !  Saint-Eustache 12 Juillet 2025 Plongez vos pinceaux dans les couleurs… et dans l’odeur envoûtante de la lavande  Venez découvrir (ou redécouvrir) l’art de l’aquarelle en plein cœur des champs fleuris de la Maison Lavande. Un moment de création et de détente, dans un cadre tout simplement magique.  Aucun niveau requis Inspiration : la lavande sous toutes ses formes L’atelier inclut l’accès à la Maison Lavande pour toute la journée Prenez le temps […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande-2/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-07-11T17:18:44+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/wp-content/uploads/2025/05/10h30-24.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "940"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "788"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande-2/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ateliersbananart.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande-2/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande-2/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/05/10h30-24.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-07T17:20:50+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-11T17:18:44+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g867620"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Aquarelle à la Maison Lavande -"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande-2/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/05/10h30-24.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/05/10h30-24.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "940"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "788"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g867620",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande-2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande-2/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande-2/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande-2/"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g867760"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-12T10:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-12T12:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g867780"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g867820"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande-2/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande-2/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Aquarelle à la Maison Lavande"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": " Le retour de notre atelier d’aquarelle à la Maison Lavande !  Saint-Eustache 12 Juillet 2025 Plongez vos pinceaux dans les couleurs&#8230; et dans l’odeur envoûtante de la lavande  Venez découvrir (ou redécouvrir) l’art de l’aquarelle en plein cœur des champs fleuris de la Maison Lavande. Un moment de création et de détente, dans un cadre tout simplement magique.  Aucun niveau requis Inspiration : la lavande sous toutes ses formes L’atelier inclut l’accès à la Maison Lavande pour toute la journée Prenez le temps [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g867760",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande-2/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-23T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-12T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "55"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "LimitedAvailability"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "USD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g867780",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande-2/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g867800"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://maisonlavande.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Maison Lavande Saint-Eustache"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "450-473-3009"
+      }
+    ]
+  },
+  {
+    "@id": "_:g867820",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/aquarelle-a-la-maison-lavande-2/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Annciella Alarie"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "438-371-6170 ou 514-792-0474"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "fr",
+        "@value": "inf&#111;&#64;&#97;&#116;&#101;&#108;ie&#114;s&#98;an&#97;n&#97;&#114;&#116;.c&#111;&#109;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g867800",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "902 Chem. Fresnière"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Saint-Eustache"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "Quebec"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "J7R 0G4"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/blacklight-special-noel/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Atelier Blacklight - Une création de Noël - Laval -"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Atelier de peinture Blacklight – Spécial Noël magique dans le Vieux Ste-Rose ! Ho ho ho ! Prêt à vivre une expérience artistique lumineuse et féérique ?Rejoins-nous pour un atelier de peinture Blacklight sur le thème de Noël, au cœur du Vieux Ste-Rose à Laval, pour une soirée remplie de créativité, de rires et de magie fluorescente ! Sous les lumières noires, plonge dans une ambiance hivernale étincelante où chaque coup de pinceau s’illumine comme une guirlande de Noël. Crée ta […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/blacklight-special-noel/"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-11-06T14:39:21+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/wp-content/uploads/2025/11/10h30-27.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "940"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "788"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/blacklight-special-noel/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ateliersbananart.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/blacklight-special-noel/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/blacklight-special-noel/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/11/10h30-27.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-06T13:00:05+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-06T14:39:21+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g882740"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/tribe/tickets/v1/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Atelier Blacklight - Une création de Noël - Laval -"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/blacklight-special-noel/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/11/10h30-27.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/11/10h30-27.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "940"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "788"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "_:g882740",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/blacklight-special-noel/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/blacklight-special-noel/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/blacklight-special-noel/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/blacklight-special-noel/"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g882880"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-11T18:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-11T20:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g882900"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g882940"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/blacklight-special-noel/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/blacklight-special-noel/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Atelier Blacklight &#8211; Une création de Noël &#8211; Laval"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Atelier de peinture Blacklight – Spécial Noël magique dans le Vieux Ste-Rose ! Ho ho ho ! Prêt à vivre une expérience artistique lumineuse et féérique ?Rejoins-nous pour un atelier de peinture Blacklight sur le thème de Noël, au cœur du Vieux Ste-Rose à Laval, pour une soirée remplie de créativité, de rires et de magie fluorescente ! Sous les lumières noires, plonge dans une ambiance hivernale étincelante où chaque coup de pinceau s’illumine comme une guirlande de Noël. Crée ta [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g882880",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/blacklight-special-noel/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-06T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-11T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "60"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "USD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g882900",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/blacklight-special-noel/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g882920"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/blacklight-special-noel/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Centre d&rsquo;art Ste-Rose"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g882940",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/ateliers-et-cours/blacklight-special-noel/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Annciella Alarie"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Share on FacebookTweetFollow us"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "438-371-6170 ou 514-792-0474"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "fr",
+        "@value": "i&#110;&#102;o&#64;at&#101;lier&#115;ba&#110;ana&#114;t.c&#111;&#109;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g882920",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "214 Bd Sainte-Rose"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Laval"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "H7L 1L6"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/categorie/aquarelle/liste/?eventDisplay=past",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://ateliersbananart.com/ateliers-et-cours/categorie/aquarelle/"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/"
+      }
+    ],
+    "https://theeventscalendar.com/": [
+      {
+        "@id": "https://ateliersbananart.com/wp-json/tribe/tickets/v1/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ateliersbananart.com/ateliers-et-cours/categorie/aquarelle/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/05/10h30-24.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://ateliersbananart.com/wp-content/uploads/2025/05/10h30-24.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "940"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "788"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  }
+]
