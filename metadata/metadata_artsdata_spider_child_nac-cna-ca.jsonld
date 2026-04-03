@@ -11,18 +11,18 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
-        "@id": "https://nac-cna.ca/fr/theatrefrancais"
+        "@id": "https://nac-cna.ca/fr/popularmusic"
       }
     ]
   },
   {
-    "@id": "https://nac-cna.ca/fr/theatrefrancais",
+    "@id": "https://nac-cna.ca/fr/popularmusic",
     "@type": [
       "http://schema.org/Website"
     ]
   },
   {
-    "@id": "urn:crawl:1a8a9603-1a86-485b-9b42-c27410d9d6e1",
+    "@id": "urn:crawl:c731f661-e45d-4945-8e31-6a88f0a4f044",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
@@ -38,19 +38,19 @@
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "https://nac-cna.ca/fr/theatrefrancais"
+        "@id": "https://nac-cna.ca/fr/popularmusic"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2026-04-03T01:53:15Z"
+        "@value": "2026-04-03T02:16:44Z"
       }
     ],
     "http://www.w3.org/ns/prov#endedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2026-04-03T07:14:40Z"
+        "@value": "2026-04-03T07:42:44Z"
       }
     ],
     "http://www.w3.org/ns/prov#wasInformedBy": [
@@ -133,18 +133,18 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#decimal",
-        "@value": "90.68359075435423"
+        "@value": "90.69528463381424"
       }
     ]
   },
   {
-    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/nac-cna-ca/2026-04-03T03_14_44#Dataset",
+    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/nac-cna-ca/2026-04-03T03_42_58#Dataset",
     "@type": [
       "http://www.w3.org/ns/prov#Entity"
     ],
     "http://www.w3.org/ns/prov#wasGeneratedBy": [
       {
-        "@id": "urn:crawl:1a8a9603-1a86-485b-9b42-c27410d9d6e1"
+        "@id": "urn:crawl:c731f661-e45d-4945-8e31-6a88f0a4f044"
       }
     ]
   }
