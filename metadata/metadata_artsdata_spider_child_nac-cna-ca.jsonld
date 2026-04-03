@@ -11,46 +11,46 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
-        "@id": "https://nac-cna.ca/en/dance"
+        "@id": "https://nac-cna.ca/fr/indigenoustheatre"
       }
     ]
   },
   {
-    "@id": "https://nac-cna.ca/en/dance",
+    "@id": "https://nac-cna.ca/fr/indigenoustheatre",
     "@type": [
       "http://schema.org/Website"
     ]
   },
   {
-    "@id": "urn:crawl:b139c08b-75df-4b59-8575-8df751f727f5",
+    "@id": "urn:crawl:40e73e71-3ce4-424e-8f7a-d2ebb38d5da5",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
     "http://schema.org/name": [
       {
-        "@value": "Skipped Crawl: Do Not Load Flag"
+        "@value": ""
       }
     ],
     "http://schema.org/description": [
       {
-        "@value": "This website has been flagged to not be loaded. See https://github.com/artsdata-stewards/artsdata-planet-boost/blob/main/src/config.rb"
+        "@value": ""
       }
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "https://nac-cna.ca/en/dance"
+        "@id": "https://nac-cna.ca/fr/indigenoustheatre"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2026-04-03T02:22:54Z"
+        "@value": "2026-04-03T01:53:16Z"
       }
     ],
     "http://www.w3.org/ns/prov#endedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2026-04-03T02:22:54Z"
+        "@value": "2026-04-03T07:04:04Z"
       }
     ],
     "http://www.w3.org/ns/prov#wasInformedBy": [
@@ -99,7 +99,7 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "0"
+        "@value": "2500"
       }
     ]
   },
@@ -116,7 +116,7 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "0"
+        "@value": "512"
       }
     ]
   },
@@ -133,7 +133,18 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#decimal",
-        "@value": "0"
+        "@value": "90.68359075435423"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/nac-cna-ca/2026-04-03T03_04_12#Dataset",
+    "@type": [
+      "http://www.w3.org/ns/prov#Entity"
+    ],
+    "http://www.w3.org/ns/prov#wasGeneratedBy": [
+      {
+        "@id": "urn:crawl:40e73e71-3ce4-424e-8f7a-d2ebb38d5da5"
       }
     ]
   }
