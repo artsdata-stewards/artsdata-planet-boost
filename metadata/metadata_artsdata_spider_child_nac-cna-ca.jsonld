@@ -11,18 +11,18 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
-        "@id": "https://nac-cna.ca/fr/indigenoustheatre"
+        "@id": "https://nac-cna.ca/fr/theatrefrancais"
       }
     ]
   },
   {
-    "@id": "https://nac-cna.ca/fr/indigenoustheatre",
+    "@id": "https://nac-cna.ca/fr/theatrefrancais",
     "@type": [
       "http://schema.org/Website"
     ]
   },
   {
-    "@id": "urn:crawl:40e73e71-3ce4-424e-8f7a-d2ebb38d5da5",
+    "@id": "urn:crawl:1a8a9603-1a86-485b-9b42-c27410d9d6e1",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
@@ -38,19 +38,19 @@
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "https://nac-cna.ca/fr/indigenoustheatre"
+        "@id": "https://nac-cna.ca/fr/theatrefrancais"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2026-04-03T01:53:16Z"
+        "@value": "2026-04-03T01:53:15Z"
       }
     ],
     "http://www.w3.org/ns/prov#endedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2026-04-03T07:04:04Z"
+        "@value": "2026-04-03T07:14:40Z"
       }
     ],
     "http://www.w3.org/ns/prov#wasInformedBy": [
@@ -116,7 +116,7 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "512"
+        "@value": "513"
       }
     ]
   },
@@ -138,13 +138,13 @@
     ]
   },
   {
-    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/nac-cna-ca/2026-04-03T03_04_12#Dataset",
+    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/nac-cna-ca/2026-04-03T03_14_44#Dataset",
     "@type": [
       "http://www.w3.org/ns/prov#Entity"
     ],
     "http://www.w3.org/ns/prov#wasGeneratedBy": [
       {
-        "@id": "urn:crawl:40e73e71-3ce4-424e-8f7a-d2ebb38d5da5"
+        "@id": "urn:crawl:1a8a9603-1a86-485b-9b42-c27410d9d6e1"
       }
     ]
   }
