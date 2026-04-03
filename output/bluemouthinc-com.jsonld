@@ -1,0 +1,406 @@
+[
+  {
+    "@id": "https://www.bluemouthinc.com/productions/cafe-sarajevo/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Cafe Sarajevo - bluemouth inc."
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "An immersive theatrical experience by the beloved indie performance company bluemouth inc. exploring the borders that divide and unite us, within the framework of a live podcast. Created and performed by Lucy Simic, Mariel Marshall, Stephen O'Connell, Peter Musante."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.bluemouthinc.com/productions/cafe-sarajevo/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "bluemouth inc."
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2024-04-10T18:00:59+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "http://www.bluemouthinc.com/wp-content/uploads/2020/08/CC_CafeSarajevo-0453-3-scaled.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "2560"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1708"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.bluemouthinc.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.bluemouthinc.com/productions/cafe-sarajevo/#Event",
+    "@type": [
+      "http://schema.org/TheaterEvent"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g584600"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g584620"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g584640"
+      },
+      {
+        "@id": "_:g584660"
+      }
+    ],
+    "http://schema.org/previousStartDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g584700"
+      },
+      {
+        "@id": "_:g584720"
+      },
+      {
+        "@id": "_:g584740"
+      },
+      {
+        "@id": "_:g584760"
+      },
+      {
+        "@id": "_:g584780"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g584800"
+      },
+      {
+        "@id": "_:g584820"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.bluemouthinc.com/productions/cafe-sarajevo/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.bluemouthinc.com/productions/cafe-sarajevo/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g584600",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.bluemouthinc.com/wp-content/uploads/2020/08/CC_CafeSarajevo-0453-3-scaled.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "1708"
+      }
+    ]
+  },
+  {
+    "@id": "_:g584620",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.bluemouthinc.com/productions/cafe-sarajevo/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "1970-01-01T00:00:00Z"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g584640",
+    "@type": [
+      "http://schema.org/VirtualLocation"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.bluemouthinc.com/productions/cafe-sarajevo/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g584660",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g584680"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g584700",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g584720",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Mariel Marshall"
+      }
+    ]
+  },
+  {
+    "@id": "_:g584740",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Stephen O'Connell"
+      }
+    ]
+  },
+  {
+    "@id": "_:g584760",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Lucy Simic"
+      }
+    ]
+  },
+  {
+    "@id": "_:g584780",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Peter Musante"
+      }
+    ]
+  },
+  {
+    "@id": "_:g584800",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.bluemouthinc.com/productions/cafe-sarajevo/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g584820",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Progress Festival"
+      }
+    ]
+  },
+  {
+    "@id": "_:g584680",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  }
+]
