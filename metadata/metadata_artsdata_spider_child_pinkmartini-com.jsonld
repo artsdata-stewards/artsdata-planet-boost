@@ -11,18 +11,18 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
-        "@id": "http://www.pinkmartini.com/"
+        "@id": "https://pinkmartini.com/"
       }
     ]
   },
   {
-    "@id": "http://www.pinkmartini.com/",
+    "@id": "https://pinkmartini.com/",
     "@type": [
       "http://schema.org/Website"
     ]
   },
   {
-    "@id": "urn:crawl:ee45986a-c47e-4f4c-9e5f-1ffb9f6e99d1",
+    "@id": "urn:crawl:359d8092-3d28-4071-8a28-37b05f5e096e",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
@@ -38,19 +38,19 @@
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "http://www.pinkmartini.com/"
+        "@id": "https://pinkmartini.com/"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2026-04-03T02:16:09Z"
+        "@value": "2026-04-03T02:20:27Z"
       }
     ],
     "http://www.w3.org/ns/prov#endedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2026-04-03T02:37:05Z"
+        "@value": "2026-04-03T02:40:44Z"
       }
     ],
     "http://www.w3.org/ns/prov#wasInformedBy": [
@@ -99,7 +99,7 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "663"
+        "@value": "662"
       }
     ]
   },
