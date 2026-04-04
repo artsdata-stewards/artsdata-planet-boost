@@ -1,0 +1,151 @@
+[
+  {
+    "@id": "urn:datafeed:artsdata-organizer-websites",
+    "@type": [
+      "http://schema.org/DataFeed"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Collection of Artsdata Organization websites"
+      }
+    ],
+    "http://schema.org/dataFeedElement": [
+      {
+        "@id": "https://fr.opcmelomanes.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "https://fr.opcmelomanes.ca/",
+    "@type": [
+      "http://schema.org/Website"
+    ]
+  },
+  {
+    "@id": "urn:crawl:7b73f784-6b87-45d5-9a7d-2f8b4f58276a",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.w3.org/ns/prov#used": [
+      {
+        "@id": "https://fr.opcmelomanes.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#startedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2026-04-04T01:56:19Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#endedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2026-04-04T01:57:39Z"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasInformedBy": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/SpiderActivity"
+      }
+    ],
+    "http://schema.org/additionalProperty": [
+      {
+        "@id": "_:b0"
+      },
+      {
+        "@id": "_:b1"
+      },
+      {
+        "@id": "_:b2"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/SpiderActivity",
+    "@type": [
+      "http://www.w3.org/ns/prov#Activity"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Spider crawl"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A crawl using the Artsdata-pipeline-action without a CSS selector resulting in a site wide crawl."
+      }
+    ]
+  },
+  {
+    "@id": "_:b0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "urlsCrawledCount"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "45"
+      }
+    ]
+  },
+  {
+    "@id": "_:b1",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "eventsLoadedCount"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "27"
+      }
+    ]
+  },
+  {
+    "@id": "_:b2",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "structuredScore"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#decimal",
+        "@value": "64.51086956521739"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/fr-opcmelomanes-ca/2026-04-03T21_57_40#Dataset",
+    "@type": [
+      "http://www.w3.org/ns/prov#Entity"
+    ],
+    "http://www.w3.org/ns/prov#wasGeneratedBy": [
+      {
+        "@id": "urn:crawl:7b73f784-6b87-45d5-9a7d-2f8b4f58276a"
+      }
+    ]
+  }
+]
