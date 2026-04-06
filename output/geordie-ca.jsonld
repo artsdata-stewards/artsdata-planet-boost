@@ -1,0 +1,1735 @@
+[
+  {
+    "@id": "https://geordie.ca/events/list/?eventDisplay=past",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Events Archive - Geordie Theatre"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://geordie.ca/events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Geordie Theatre"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://geordie.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://geordie.ca/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://geordie.ca/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://geordie.ca/#organization"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Geordie Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Theatre for all Audiences!"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://geordie.ca/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://geordie.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://geordie.ca/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://geordie.ca/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/geordietheatre"
+      },
+      {
+        "@id": "https://x.com/GeordieTheatre"
+      },
+      {
+        "@id": "https://www.instagram.com/geordietheatre/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Geordie Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://geordie.ca/events/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://geordie.ca/wp-content/uploads/2023/09/IMG_9985-scaled-e1714053869902.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://geordie.ca/wp-content/uploads/2023/09/IMG_9985-scaled-e1714053869902.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "955"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Group of children and adults in a park learning a new dance move from a dancer in costume at the Family Fair."
+      }
+    ]
+  },
+  {
+    "@id": "https://geordie.ca/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://geordie.ca/wp-content/uploads/2023/04/Geordie_logo_cropped-1.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://geordie.ca/wp-content/uploads/2023/04/Geordie_logo_cropped-1.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3376"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1302"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Geordie Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://geordie.ca/events/category/events/list/?eventDisplay=past",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://geordie.ca/events/category/events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Geordie Theatre"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://geordie.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://geordie.ca/events/category/events/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://geordie.ca/wp-content/uploads/2023/09/IMG_9985-scaled-e1714053869902.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://geordie.ca/wp-content/uploads/2023/09/IMG_9985-scaled-e1714053869902.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "955"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Group of children and adults in a park learning a new dance move from a dancer in costume at the Family Fair."
+      }
+    ]
+  },
+  {
+    "@id": "https://geordie.ca/events/category/theatre-show/list/?eventDisplay=past",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://geordie.ca/events/category/theatre-show/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Geordie Theatre"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://geordie.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://geordie.ca/events/category/theatre-show/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://geordie.ca/wp-content/uploads/2023/04/Geordie_logo_cropped-1.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://geordie.ca/wp-content/uploads/2023/04/Geordie_logo_cropped-1.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3376"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1302"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://geordie.ca/event/family-fair/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Family Fair - Geordie Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "A free fun–filled day for all ages! With yummy eats, all-day entertainment, and more, the Family Fair is here to educate and entertain!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://geordie.ca/event/family-fair/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Geordie Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/geordietheatre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2024-08-01T13:38:11+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://geordie.ca/wp-content/uploads/2023/09/IMG_9985-scaled-e1714053869902.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "2560"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "955"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://geordie.ca/event/family-fair/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://geordie.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://geordie.ca/event/family-fair/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://geordie.ca/event/family-fair/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://geordie.ca/wp-content/uploads/2023/09/IMG_9985-scaled-e1714053869902.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-07-25T15:16:13+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-08-01T13:38:11+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g671700"
+      },
+      {
+        "@id": "_:g820560"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://geordie.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Family Fair - Geordie Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "A free fun–filled day for all ages! With yummy eats, all-day entertainment, and more, the Family Fair is here to educate and entertain!"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://geordie.ca/event/family-fair/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://geordie.ca/wp-content/uploads/2023/09/IMG_9985-scaled-e1714053869902.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://geordie.ca/wp-content/uploads/2023/09/IMG_9985-scaled-e1714053869902.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "955"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Group of children and adults in a park learning a new dance move from a dancer in costume at the Family Fair."
+      }
+    ]
+  },
+  {
+    "@id": "_:g671700",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://geordie.ca/event/family-fair/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g820560",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://geordie.ca/event/family-fair/"
+      }
+    ]
+  },
+  {
+    "@id": "https://geordie.ca/event/family-fair/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://geordie.ca/event/family-fair/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://geordie.ca/event/family-fair/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-08-24T11:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-08-24T18:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g671840"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g671880"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g671900"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://geordie.ca/event/family-fair/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://geordie.ca/event/family-fair/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Family Fair"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Join Geordie for a fun–filled day in the sun as we celebrate the last days of summer! With yummy eats, all-day entertainment, educational activities, and local exhibitors, the Geordie Family Fair is guaranteed to get educate and entertain!"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g671840",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://geordie.ca/wp-content/uploads/2023/04/Geordie_logo_cropped-1.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://geordie.ca/event/family-fair/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g671860"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://geordie.ca/event/family-fair/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Square Sir George Etienne Cartier"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g671880",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://geordie.ca/wp-content/uploads/2023/04/Geordie_logo_cropped-1.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://geordie.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Geordie Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(514) 845-9810"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g671900",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://geordie.ca/event/family-fair/"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-07-25T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/category": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "inStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g671860",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "H4C 1S1"
+      }
+    ]
+  },
+  {
+    "@id": "https://geordie.ca/event/march-break-theatre-camp/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "March Break Theatre Camp - Geordie Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Ignite your child's creativity this spring with our March Break Theatre Camp! For youth ages 6-12, campers will explore theatrical production"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://geordie.ca/event/march-break-theatre-camp/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Geordie Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/geordietheatre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2024-01-31T21:08:38+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://geordie.ca/wp-content/uploads/2023/04/Geordie_logo_cropped-1.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "3376"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "1302"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://geordie.ca/event/march-break-theatre-camp/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://geordie.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://geordie.ca/event/march-break-theatre-camp/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://geordie.ca/event/march-break-theatre-camp/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://geordie.ca/wp-content/uploads/2023/04/Geordie_logo_cropped-1.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-01-31T21:00:22+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-01-31T21:08:38+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g695820"
+      },
+      {
+        "@id": "_:g804320"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://geordie.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "March Break Theatre Camp - Geordie Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Ignite your child's creativity this spring with our March Break Theatre Camp! For youth ages 6-12, campers will explore theatrical production"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://geordie.ca/event/march-break-theatre-camp/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://geordie.ca/wp-content/uploads/2023/04/Geordie_logo_cropped-1.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://geordie.ca/wp-content/uploads/2023/04/Geordie_logo_cropped-1.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3376"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1302"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g695820",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://geordie.ca/event/march-break-theatre-camp/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g804320",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://geordie.ca/event/march-break-theatre-camp/"
+      }
+    ]
+  },
+  {
+    "@id": "https://geordie.ca/event/march-break-theatre-camp/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://geordie.ca/event/march-break-theatre-camp/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://geordie.ca/event/march-break-theatre-camp/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-04T08:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-08T16:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g695960"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://geordie.ca/event/march-break-theatre-camp/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://geordie.ca/event/march-break-theatre-camp/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "March Break Theatre Camp"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g695960",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://geordie.ca/wp-content/uploads/2023/04/Geordie_logo_cropped-1.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://geordie.ca/event/march-break-theatre-camp/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g695980"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://geordie.ca/event/march-break-theatre-camp/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Geordie Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "5148459810"
+      }
+    ]
+  },
+  {
+    "@id": "_:g695980",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "4700 Rue Dagenais Ste. 3"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Quebec"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "H4C 1L7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://geordie.ca/event/geordie-theatre-fest/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Geordie Theatre Fest - Geordie Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Geordie Theatre Fest 2024, our annual celebration of theatre for the whole family! Join us January 26th to 28th for an exclusive showcase of shows \"Perfect Storm\" and \"Instant\""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://geordie.ca/event/geordie-theatre-fest/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Geordie Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/geordietheatre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2024-01-15T16:59:54+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://geordie.ca/wp-content/uploads/2023/04/Geordie_logo_cropped-1.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "3376"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "1302"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://geordie.ca/event/geordie-theatre-fest/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://geordie.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://geordie.ca/event/geordie-theatre-fest/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://geordie.ca/event/geordie-theatre-fest/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://geordie.ca/wp-content/uploads/2023/04/Geordie_logo_cropped-1.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-01-15T16:37:52+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-01-15T16:59:54+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g718960"
+      },
+      {
+        "@id": "_:g789020"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://geordie.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Geordie Theatre Fest - Geordie Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Geordie Theatre Fest 2024, our annual celebration of theatre for the whole family! Join us January 26th to 28th for an exclusive showcase of shows \"Perfect Storm\" and \"Instant\""
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://geordie.ca/event/geordie-theatre-fest/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://geordie.ca/wp-content/uploads/2023/04/Geordie_logo_cropped-1.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://geordie.ca/wp-content/uploads/2023/04/Geordie_logo_cropped-1.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3376"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1302"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g718960",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://geordie.ca/event/geordie-theatre-fest/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g789020",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://geordie.ca/event/geordie-theatre-fest/"
+      }
+    ]
+  },
+  {
+    "@id": "https://geordie.ca/event/geordie-theatre-fest/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://geordie.ca/event/geordie-theatre-fest/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://geordie.ca/event/geordie-theatre-fest/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-01-26T13:00:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-01-28T19:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g719100"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g719140"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://geordie.ca/event/geordie-theatre-fest/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://geordie.ca/event/geordie-theatre-fest/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Geordie Theatre Fest"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Experience the magic of Geordie Theatre Fest 2024, our annual celebration of theatre for kids, teens, and the whole family! Join us January 26th to 28th for an exclusive showcase [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g719100",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://geordie.ca/wp-content/uploads/2023/04/Geordie_logo_cropped-1.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://geordie.ca/event/geordie-theatre-fest/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g719120"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.maisontheatre.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "La Maison Théâtre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(514) 288-7211"
+      }
+    ]
+  },
+  {
+    "@id": "_:g719140",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://geordie.ca/wp-content/uploads/2023/04/Geordie_logo_cropped-1.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://geordie.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Geordie Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "(514) 845-9810"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g719120",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "245 Ontario St E"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Quebec"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "H2X 3Y6"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "http://geordie.ca/event/geordie-theatre-fest/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Geordie Theatre Fest - Geordie Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Geordie Theatre Fest 2024, our annual celebration of theatre for the whole family! Join us January 26th to 28th for an exclusive showcase of shows \"Perfect Storm\" and \"Instant\""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://geordie.ca/event/geordie-theatre-fest/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Geordie Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/geordietheatre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2024-01-15T16:59:54+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://geordie.ca/wp-content/uploads/2023/04/Geordie_logo_cropped-1.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "3376"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "1302"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en",
+        "@value": "image/png"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://geordie.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "http://geordie.ca/event/march-break-theatre-camp/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "March Break Theatre Camp - Geordie Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Ignite your child's creativity this spring with our March Break Theatre Camp! For youth ages 6-12, campers will explore theatrical production"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://geordie.ca/event/march-break-theatre-camp/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Geordie Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/geordietheatre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2024-01-31T21:08:38+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://geordie.ca/wp-content/uploads/2023/04/Geordie_logo_cropped-1.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "3376"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "1302"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en",
+        "@value": "image/png"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://geordie.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "http://geordie.ca/event/family-fair/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Family Fair - Geordie Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "A free fun–filled day for all ages! With yummy eats, all-day entertainment, and more, the Family Fair is here to educate and entertain!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://geordie.ca/event/family-fair/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Geordie Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/geordietheatre"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2024-08-01T13:38:11+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://geordie.ca/wp-content/uploads/2023/09/IMG_9985-scaled-e1714053869902.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "2560"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "955"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://geordie.ca/wp-json/"
+      }
+    ]
+  }
+]
