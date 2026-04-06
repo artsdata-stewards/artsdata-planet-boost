@@ -11,18 +11,18 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
-        "@id": "https://constantinople.ca/"
+        "@id": "https://constantinople.ca/en/home/"
       }
     ]
   },
   {
-    "@id": "https://constantinople.ca/",
+    "@id": "https://constantinople.ca/en/home/",
     "@type": [
       "http://schema.org/Website"
     ]
   },
   {
-    "@id": "urn:crawl:0de6be40-43d9-49f5-8d7d-4fc326cad95a",
+    "@id": "urn:crawl:f97292ca-ed2c-41c6-a8fa-213a4a9cb3f4",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
@@ -38,19 +38,19 @@
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "https://constantinople.ca/"
+        "@id": "https://constantinople.ca/en/home/"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2026-04-06T12:55:50Z"
+        "@value": "2026-04-06T13:29:10Z"
       }
     ],
     "http://www.w3.org/ns/prov#endedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2026-04-06T14:10:26Z"
+        "@value": "2026-04-06T14:47:00Z"
       }
     ],
     "http://www.w3.org/ns/prov#wasInformedBy": [
@@ -138,13 +138,13 @@
     ]
   },
   {
-    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/constantinople-ca/2026-04-06T10_10_40#Dataset",
+    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/constantinople-ca/2026-04-06T10_47_13#Dataset",
     "@type": [
       "http://www.w3.org/ns/prov#Entity"
     ],
     "http://www.w3.org/ns/prov#wasGeneratedBy": [
       {
-        "@id": "urn:crawl:0de6be40-43d9-49f5-8d7d-4fc326cad95a"
+        "@id": "urn:crawl:f97292ca-ed2c-41c6-a8fa-213a4a9cb3f4"
       }
     ]
   }
