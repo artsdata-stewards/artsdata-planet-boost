@@ -1,0 +1,3533 @@
+[
+  {
+    "@id": "https://spo.ca/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://spo.ca/#organization"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Great music, close to home"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "en",
+        "@value": "SPO"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://spo.ca/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://spo.ca/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/SPOGreatMusic"
+      },
+      {
+        "@id": "https://x.com/SPOGreatMusic"
+      },
+      {
+        "@id": "https://www.youtube.com/@SPOGreatMusic"
+      },
+      {
+        "@id": "https://www.instagram.com/SPOGreatMusic"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "en",
+        "@value": "SPO"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/events/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-Feb-thumb.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-Feb-thumb.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "300"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "200"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2022/12/new-logo-trans.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2022/12/new-logo-trans.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1306"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "408"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.spo.ca/temporary/09b6318d-d894-4f05-9526-e457f6415467",
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "https://spo.ca/events/list/?eventDisplay=past",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Events Archive - Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/wp-content/uploads/2022/11/logo.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "900"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "900"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://spo.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.spo.ca/temporary/2d605a6c-0312-4717-b42b-10fc60ceff85",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://spo.ca/events/list/?eventDisplay=past"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/events/list/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Events Archive - Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/wp-content/uploads/2022/11/logo.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "900"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "900"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://spo.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.spo.ca/temporary/442f8c35-ab66-4fd3-afe8-439b03cd62cc",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://spo.ca/events/list/"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/events/category/2025-2026/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-Feb-thumb.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-Feb-thumb.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "300"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "200"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.spo.ca/temporary/3bb3e534-c3ba-45d8-83b7-57f927b098b3",
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "https://spo.ca/events/category/2025-2026/list/?eventDisplay=past",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/events/category/2025-2026/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/wp-content/uploads/2022/11/logo.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "900"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "900"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://spo.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.spo.ca/temporary/eb165e81-8706-402c-9636-9cb6572341c6",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://spo.ca/events/category/2025-2026/list/?eventDisplay=past"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/events/category/2025-2026/list/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/events/category/2025-2026/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/wp-content/uploads/2022/11/logo.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "900"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "900"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://spo.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.spo.ca/temporary/0d63911c-c00a-4a93-bf56-f9448141a40b",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://spo.ca/events/category/2025-2026/list/"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/events/category/25-26-chamber/list/?eventDisplay=past",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/events/category/25-26-chamber/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/wp-content/uploads/2022/11/logo.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "900"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "900"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://spo.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/events/category/25-26-chamber/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-Feb-thumb.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-Feb-thumb.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "300"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "200"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.spo.ca/temporary/dd45f721-0193-44ee-a73d-39c966264c7a",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://spo.ca/events/category/25-26-chamber/list/?eventDisplay=past"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/events/category/2025-26-orchestra-concerts/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-10-3-25-Voyages.webp-thumbnail.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-10-3-25-Voyages.webp-thumbnail.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "389"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "259"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.spo.ca/temporary/a5718eb5-5cf2-44c3-8637-e4a355c450f9",
+    "@type": [
+      "http://schema.org/WebPage"
+    ]
+  },
+  {
+    "@id": "https://spo.ca/events/category/2025-26-orchestra-concerts/list/?eventDisplay=past",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/events/category/2025-26-orchestra-concerts/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/wp-content/uploads/2022/11/logo.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "900"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "900"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://spo.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.spo.ca/temporary/e7db4e36-62be-46c1-ad32-19cda3e3e2b8",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://spo.ca/events/category/2025-26-orchestra-concerts/list/?eventDisplay=past"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/events/category/2025-26-orchestra-concerts/list/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/events/category/2025-26-orchestra-concerts/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/wp-content/uploads/2022/11/logo.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "900"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "900"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://spo.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.spo.ca/temporary/a7392222-e62a-4d0a-b83f-f6a110a6c86c",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://spo.ca/events/category/2025-26-orchestra-concerts/list/"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/event/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Events Archive - Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/wp-content/uploads/2022/11/logo.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "900"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "900"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://spo.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.spo.ca/temporary/bfb1642d-4f04-4f32-97b0-01fb1f1078a9",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://spo.ca/event/"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/event/voyages/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Voyages - Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Scarborough Philharmonic Orchestra, Ronald Royer, Conductor; Conrad Chow, Violin Program: *Elizabeth Raum – Tall Ships, from Halifax Harbour Max Bruch – Violin Concerto No. 1, in G minor, Op.26 Nikolai Rimsky-Korsakov […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/event/voyages/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/SPOGreatMusic"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-07-24T16:14:45+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/wp-content/uploads/2025/05/2025-26-10-3-25-Voyages.webp-thumbnail.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "389"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "259"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/webp"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/voyages/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://spo.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://spo.ca/event/voyages/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://spo.ca/event/voyages/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-10-3-25-Voyages.webp-thumbnail.webp"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-01T19:26:30+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-24T16:14:45+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1183100"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://spo.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Voyages - Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/event/voyages/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-10-3-25-Voyages.webp-thumbnail.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-10-3-25-Voyages.webp-thumbnail.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "389"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "259"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1183100",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://spo.ca/event/voyages/"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/event/voyages/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://spo.ca/event/voyages/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/voyages/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-03T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-03T21:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1183240"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g1183280"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://spo.ca/event/voyages/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://spo.ca/event/voyages/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Voyages"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Scarborough Philharmonic Orchestra, Ronald Royer, Conductor; Conrad Chow, Violin Program: *Elizabeth Raum – Tall Ships, from Halifax Harbour Max Bruch – Violin Concerto No. 1, in G minor, Op.26 Nikolai Rimsky-Korsakov [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1183240",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2022/12/Scarborough-Citadel.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/voyages/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1183260"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.scarboroughcitadel.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Salvation Army Scarborough Citadel"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Plan Your Visit The venue is located on the southwest corner of Lawrence at Warden Avenue. It is a fully accessible building with an elevator from underground parking and from [&hellip;]"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1183280",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/voyages/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1183260",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "2021 Lawrence Avenue East"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Toronto"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "M1R2Z2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.spo.ca/temporary/f9eff8d1-70e5-4587-ba1f-1b8fc43b83fc",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://spo.ca/event/voyages/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Voyages"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/event/crossroads/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Crossroads - Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "With Strings of the SPO, Ronald Royer, Conductor; The Canadian Arabic Orchestra, Wanes Moubayed, Conductor; Charbel Rouhana, Oud; Karla García, Guitar"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/event/crossroads/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/SPOGreatMusic"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-10-23T19:12:12+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-art-Crossroads-thumbnail.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "559"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "373"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/webp"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/crossroads/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://spo.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://spo.ca/event/crossroads/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://spo.ca/event/crossroads/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-art-Crossroads-thumbnail.webp"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-01T14:54:52+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-23T19:12:12+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1203340"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://spo.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Crossroads - Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "With Strings of the SPO, Ronald Royer, Conductor; The Canadian Arabic Orchestra, Wanes Moubayed, Conductor; Charbel Rouhana, Oud; Karla García, Guitar"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/event/crossroads/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-art-Crossroads-thumbnail.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-art-Crossroads-thumbnail.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "559"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "373"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1203340",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://spo.ca/event/crossroads/"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/event/crossroads/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://spo.ca/event/crossroads/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/crossroads/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-01T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-01T21:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1203480"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g1203520"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://spo.ca/event/crossroads/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://spo.ca/event/crossroads/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Crossroads"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Strings of the SPO, Ronald Royer, Conductor; The Canadian Arabic Orchestra, Wanes Moubayed, Conductor; Charbel Rouhana, Oud; Karla García, Guitar Ottorino Respighi: Ancient Airs and Dances No. 3, for String Orchestra  Luigi Boccherini: [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1203480",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2022/12/Scarborough-Citadel.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/crossroads/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1203500"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.scarboroughcitadel.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Salvation Army Scarborough Citadel"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Plan Your Visit The venue is located on the southwest corner of Lawrence at Warden Avenue. It is a fully accessible building with an elevator from underground parking and from [&hellip;]"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1203520",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/crossroads/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1203500",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "2021 Lawrence Avenue East"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Toronto"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "M1R2Z2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.spo.ca/temporary/a8e04100-a0c4-47f1-8668-d5c00458332d",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://spo.ca/event/crossroads/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Crossroads"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/event/festive-fables/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Festive Fables - Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Join us for a festive family concert featuring winter-themed musical stories from around the globe.  SPO, Ronald Royer, Conductor; Bel Canto Singers and Serenata Singers, Michael Morgan, Conductor; SPO Women’s […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/event/festive-fables/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/SPOGreatMusic"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-11-10T16:36:30+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-art-Festive-Fables-thumbnail.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "559"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "338"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/webp"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/festive-fables/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://spo.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://spo.ca/event/festive-fables/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://spo.ca/event/festive-fables/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-art-Festive-Fables-thumbnail.webp"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-01T14:38:25+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-10T16:36:30+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1223680"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://spo.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Festive Fables - Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/event/festive-fables/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-art-Festive-Fables-thumbnail.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-art-Festive-Fables-thumbnail.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "559"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "338"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1223680",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://spo.ca/event/festive-fables/"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/event/festive-fables/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://spo.ca/event/festive-fables/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/festive-fables/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T22:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1223820"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g1223860"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://spo.ca/event/festive-fables/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://spo.ca/event/festive-fables/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Festive Fables"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Join us for a festive family concert featuring winter-themed musical stories from around the globe.  SPO, Ronald Royer, Conductor; Bel Canto Singers and Serenata Singers, Michael Morgan, Conductor; SPO Women’s [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1223820",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2022/12/Scarborough-Citadel.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/festive-fables/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1223840"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.scarboroughcitadel.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Salvation Army Scarborough Citadel"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Plan Your Visit The venue is located on the southwest corner of Lawrence at Warden Avenue. It is a fully accessible building with an elevator from underground parking and from [&hellip;]"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1223860",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/festive-fables/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1223840",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "2021 Lawrence Avenue East"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Toronto"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "M1R2Z2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.spo.ca/temporary/31f00ac2-0b41-406a-901d-38c4ebf1dd13",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://spo.ca/event/festive-fables/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Festive Fables"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/event/french-meditations/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "French Meditations - Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Featuring: SPO, Ronald Royer, Conductor;  Toronto Choral Society, Geoffrey Butler, Conductor; Alex Toskov, Violin   Maurice Ravel:  Rhapsodie Espagnole, for Orchestra  Jules Massenet:  Meditation from Thais, for Violin Solo and Orchestra  […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/event/french-meditations/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/SPOGreatMusic"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-11-10T16:56:30+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/wp-content/uploads/2025/05/2025-26-Mar-banner-thumb.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "300"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "200"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/webp"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/french-meditations/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://spo.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://spo.ca/event/french-meditations/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://spo.ca/event/french-meditations/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-Mar-banner-thumb.webp"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-01T11:06:48+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-10T16:56:30+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1244180"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://spo.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "French Meditations - Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/event/french-meditations/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-Mar-banner-thumb.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-Mar-banner-thumb.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "300"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "200"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1244180",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://spo.ca/event/french-meditations/"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/event/french-meditations/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://spo.ca/event/french-meditations/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/french-meditations/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-28T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-28T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1244320"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g1244360"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://spo.ca/event/french-meditations/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://spo.ca/event/french-meditations/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "French Meditations"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Featuring: SPO, Ronald Royer, Conductor;  Toronto Choral Society, Geoffrey Butler, Conductor; Alex Toskov, Violin   Maurice Ravel:  Rhapsodie Espagnole, for Orchestra  Jules Massenet:  Meditation from Thais, for Violin Solo and Orchestra  [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1244320",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2022/12/Scarborough-Citadel.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/french-meditations/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1244340"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.scarboroughcitadel.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Salvation Army Scarborough Citadel"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Plan Your Visit The venue is located on the southwest corner of Lawrence at Warden Avenue. It is a fully accessible building with an elevator from underground parking and from [&hellip;]"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1244360",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/french-meditations/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1244340",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "2021 Lawrence Avenue East"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Toronto"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "M1R2Z2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.spo.ca/temporary/42a7d25e-9a5c-4560-9103-ed83250f2a16",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://spo.ca/event/french-meditations/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "French Meditations"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/event/the-romantics/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "The Romantics - Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Featuring:  Scarborough Philharmonic Orchestra, Ronald Royer, Conductor;  Eric Abramovitz, Clarinet; Kaye Royer, Clarinet Program:  Carl Maria Weber:  Clarinet Concerto No. 1  * Eric Abramovitz:  Fantasy on Themes from Weber’s Clarinet Concerto […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/event/the-romantics/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/SPOGreatMusic"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2025-11-10T16:58:53+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-May.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1200"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "800"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/webp"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/the-romantics/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://spo.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://spo.ca/event/the-romantics/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://spo.ca/event/the-romantics/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-May-thumb.webp"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-01T15:33:06+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-10T16:58:53+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1264580"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://spo.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Romantics - Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/event/the-romantics/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-May-thumb.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-May-thumb.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "300"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "200"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1264580",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://spo.ca/event/the-romantics/"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/event/the-romantics/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://spo.ca/event/the-romantics/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/the-romantics/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-02T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-02T22:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1264720"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g1264760"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://spo.ca/event/the-romantics/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://spo.ca/event/the-romantics/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Romantics"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Featuring:  Scarborough Philharmonic Orchestra, Ronald Royer, Conductor;  Eric Abramovitz, Clarinet; Kaye Royer, Clarinet Program:  Carl Maria Weber:  Clarinet Concerto No. 1  * Eric Abramovitz:  Fantasy on Themes from Weber’s Clarinet Concerto [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1264720",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2022/12/Scarborough-Citadel.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/the-romantics/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1264740"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.scarboroughcitadel.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Salvation Army Scarborough Citadel"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Plan Your Visit The venue is located on the southwest corner of Lawrence at Warden Avenue. It is a fully accessible building with an elevator from underground parking and from [&hellip;]"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1264760",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/the-romantics/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1264740",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "2021 Lawrence Avenue East"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Toronto"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "M1R2Z2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.spo.ca/temporary/6548cf93-19f1-453a-b21f-25c6f6bee3a8",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://spo.ca/event/the-romantics/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "The Romantics"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/event/in-a-viennese-salon/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "In a Viennese Salon - Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Featuring: Winds of the SPO, Ronald Royer, Conductor Richard Strauss:  Serenade for Winds, Op. 7 *Bruno Degazio: Three Tales of Rabbi Nachman, for Narrator and Wind Ensemble Wolfgang Amadeus Mozart: […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/event/in-a-viennese-salon/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/SPOGreatMusic"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-01-06T17:33:31+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-Feb-thumb.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "300"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "200"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/webp"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/in-a-viennese-salon/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://spo.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://spo.ca/event/in-a-viennese-salon/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://spo.ca/event/in-a-viennese-salon/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-Feb-thumb.webp"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-02T10:08:33+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-06T17:33:31+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1285520"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://spo.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "In a Viennese Salon - Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/event/in-a-viennese-salon/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-Feb-thumb.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-Feb-thumb.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "300"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "200"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1285520",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://spo.ca/event/in-a-viennese-salon/"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/event/in-a-viennese-salon/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://spo.ca/event/in-a-viennese-salon/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/in-a-viennese-salon/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-28T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-28T22:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1285660"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g1285700"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://spo.ca/event/in-a-viennese-salon/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://spo.ca/event/in-a-viennese-salon/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "In a Viennese Salon"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Featuring: Winds of the SPO, Ronald Royer, Conductor Richard Strauss:  Serenade for Winds, Op. 7 *Bruno Degazio: Three Tales of Rabbi Nachman, for Narrator and Wind Ensemble Wolfgang Amadeus Mozart: [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1285660",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2024/05/Sanctuary-1.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/in-a-viennese-salon/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1285680"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://scarboroughbluffs.org/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Scarborough Bluffs United Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "PARKING:"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1285700",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/in-a-viennese-salon/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1285680",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "3739 Kingston Rd,"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Scarborough"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "M1J 3H4"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.spo.ca/temporary/c5ba332f-a532-4ed8-93a0-0a3208e9b7e7",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://spo.ca/event/in-a-viennese-salon/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "In a Viennese Salon"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/event/daniel-vnukowski-with-the-odin-quartet/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Daniel Vnukowski with the Odin Quartet - Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Featuring: Daniel Vnukowski, Piano; Odin Quartet; Kaye Royer, Clarinet Robert Schumann:  Einfach, innig from Three Romances for Clarinet and Piano, Op. 94  Robert Schumann:  Assai agitato from String Quartet No. 3 in […]"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/event/daniel-vnukowski-with-the-odin-quartet/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/SPOGreatMusic"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-01-11T14:45:22+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-art-January-thumb.webp"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "559"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "373"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/webp"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/daniel-vnukowski-with-the-odin-quartet/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://spo.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://spo.ca/event/daniel-vnukowski-with-the-odin-quartet/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://spo.ca/event/daniel-vnukowski-with-the-odin-quartet/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-art-January-thumb.webp"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-01T19:08:01+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-11T14:45:22+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g1306520"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://spo.ca/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Daniel Vnukowski with the Odin Quartet - Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/event/daniel-vnukowski-with-the-odin-quartet/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-art-January-thumb.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://spo.ca/wp-content/uploads/2025/05/2025-26-banner-art-January-thumb.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "559"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "373"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1306520",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://spo.ca/event/daniel-vnukowski-with-the-odin-quartet/"
+      }
+    ]
+  },
+  {
+    "@id": "https://spo.ca/event/daniel-vnukowski-with-the-odin-quartet/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://spo.ca/event/daniel-vnukowski-with-the-odin-quartet/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/daniel-vnukowski-with-the-odin-quartet/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-17T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-17T22:00:00-05:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1306660"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g1306700"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://spo.ca/event/daniel-vnukowski-with-the-odin-quartet/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://spo.ca/event/daniel-vnukowski-with-the-odin-quartet/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Daniel Vnukowski with the Odin Quartet"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Featuring: Daniel Vnukowski, Piano; Odin Quartet; Kaye Royer, Clarinet Robert Schumann:  Einfach, innig from Three Romances for Clarinet and Piano, Op. 94  Robert Schumann:  Assai agitato from String Quartet No. 3 in [&hellip;]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1306660",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/daniel-vnukowski-with-the-odin-quartet/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1306680"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://spo.ca/event/daniel-vnukowski-with-the-odin-quartet/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Knox United Church"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1306700",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spo.ca/event/daniel-vnukowski-with-the-odin-quartet/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Scarborough Philharmonic Orchestra"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1306680",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "2569 Midland Avenue"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Scarborough"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Ontario"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "M1S 1R3"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.spo.ca/temporary/d9203e31-fb0d-4b73-8ce8-adb19314a6ac",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://spo.ca/event/daniel-vnukowski-with-the-odin-quartet/"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "Daniel Vnukowski with the Odin Quartet"
+      }
+    ]
+  }
+]
