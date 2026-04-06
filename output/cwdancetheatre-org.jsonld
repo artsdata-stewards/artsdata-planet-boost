@@ -1,0 +1,756 @@
+[
+  {
+    "@id": "https://cwdancetheatre.org/events/category/performances/list/?eventDisplay=past",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://cwdancetheatre.org/performances/category/performances/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Contemporary West Dance Theatre"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://cwdancetheatre.org/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://cwdancetheatre.org/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cwdancetheatre.org/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://cwdancetheatre.org/#organization"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Contemporary West Dance Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Formerly Known as the Las Vegas Contemporary Dance Theater"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://cwdancetheatre.org/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cwdancetheatre.org/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://cwdancetheatre.org/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://cwdancetheatre.org/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/LVCDT"
+      },
+      {
+        "@id": "https://x.com/LVCDanceTheater"
+      },
+      {
+        "@id": "http://instagram.com/lvcontemporarydance"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Contemporary West Dance Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://cwdancetheatre.org/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cwdancetheatre.org/wp-content/uploads/2017/10/CWDT-logo.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://cwdancetheatre.org/wp-content/uploads/2017/10/CWDT-logo.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "601"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "97"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Contemporary West Dance Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "https://cwdancetheatre.org/temporary/9c3372a2-b664-4bc4-9e4f-582a7f2405a5",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://cwdancetheatre.org/events/category/performances/list/?eventDisplay=past"
+      }
+    ]
+  },
+  {
+    "@id": "https://cwdancetheatre.org/events/list/?eventDisplay=past",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Events Archive - Contemporary West Dance Theatre"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://cwdancetheatre.org/events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Contemporary West Dance Theatre"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://cwdancetheatre.org/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://cwdancetheatre.org/temporary/285090c6-2637-48ff-b25e-32d69901d591",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://cwdancetheatre.org/events/list/?eventDisplay=past"
+      }
+    ]
+  },
+  {
+    "@id": "https://cwdancetheatre.org/events/list/?eventDisplay=past&outlook-ical=1%23038;ical=1",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Events Archive - Contemporary West Dance Theatre"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://cwdancetheatre.org/events/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Contemporary West Dance Theatre"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://cwdancetheatre.org/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://cwdancetheatre.org/temporary/d01d0a2a-eacb-43eb-84b1-e068611b9062",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://cwdancetheatre.org/events/list/?eventDisplay=past&outlook-ical=1%23038;ical=1"
+      }
+    ]
+  },
+  {
+    "@id": "https://cwdancetheatre.org/event/fall-concert-2023/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Fall Concert 2023 - Contemporary West Dance Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "Fall in Love with CWDT Fall Concert Series 2023 October 6-7, 2023 | 7:30 PMCharleston Heights Arts Center800 Brush St.Las Vegas, NV 89107702.229.6383 CWDT will present four innovative works by ... Read more"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://cwdancetheatre.org/events/fall-concert-2023/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Contemporary West Dance Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/LVCDT"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en",
+        "@value": "2023-07-29T21:56:15+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://cwdancetheatre.org/wp-content/uploads/2023/06/22x28-poster-FALL-2023.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "1650"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "2100"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://cwdancetheatre.org/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://cwdancetheatre.org/events/fall-concert-2023/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cwdancetheatre.org/events/fall-concert-2023/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://cwdancetheatre.org/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://cwdancetheatre.org/events/fall-concert-2023/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://cwdancetheatre.org/events/fall-concert-2023/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://cwdancetheatre.org/wp-content/uploads/2023/06/22x28-poster-FALL-2023.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-07-29T21:52:37+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-07-29T21:56:15+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g633340"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fall Concert 2023 - Contemporary West Dance Theatre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://cwdancetheatre.org/events/fall-concert-2023/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cwdancetheatre.org/wp-content/uploads/2023/06/22x28-poster-FALL-2023.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://cwdancetheatre.org/wp-content/uploads/2023/06/22x28-poster-FALL-2023.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1650"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2100"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Fall 2023 Concert Poster"
+      }
+    ]
+  },
+  {
+    "@id": "_:g633340",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://cwdancetheatre.org/events/fall-concert-2023/"
+      }
+    ]
+  },
+  {
+    "@id": "https://cwdancetheatre.org/event/fall-concert-2023/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://cwdancetheatre.org/event/fall-concert-2023/#primaryimage"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cwdancetheatre.org/event/fall-concert-2023/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-06T19:30:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-06T19:30:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g633480"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://cwdancetheatre.org/events/fall-concert-2023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://cwdancetheatre.org/event/fall-concert-2023/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fall Concert 2023"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Fall in Love with CWDT Fall Concert Series 2023 October 6-7, 2023 | 7:30 PMCharleston Heights Arts Center800 Brush St.Las Vegas, NV 89107702.229.6383 CWDT will present four innovative works by ... <a title=\"Fall Concert 2023\" class=\"read-more\" href=\"https://cwdancetheatre.org/event/fall-concert-2023/\" aria-label=\"Read more about Fall Concert 2023\">Read more</a>"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g633480",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cwdancetheatre.org/event/fall-concert-2023/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g633500"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://cwdancetheatre.org/event/fall-concert-2023/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Charleston Heights Arts Center"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": "702-229-2787"
+      }
+    ]
+  },
+  {
+    "@id": "_:g633500",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "800 S. Brush St."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Las Vegas"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "NV"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "89107"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "United States"
+      }
+    ]
+  },
+  {
+    "@id": "https://cwdancetheatre.org/temporary/d3e7f06a-fd5b-41c1-af4f-c1336bf7d88e",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://cwdancetheatre.org/event/fall-concert-2023/"
+      }
+    ]
+  },
+  {
+    "@id": "https://cwdancetheatre.org/event/a-cool-yule-2023/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "A Cool Yule 2023 - Contemporary West Dance Theatre"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://cwdancetheatre.org/event/a-cool-yule-2023/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "Contemporary West Dance Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en",
+        "@value": "https://www.facebook.com/LVCDT"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cwdancetheatre.org/event/a-cool-yule-2023/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://cwdancetheatre.org/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-11-16T03:02:03+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g646920"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://cwdancetheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "A Cool Yule 2023 - Contemporary West Dance Theatre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "_:g646920",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://cwdancetheatre.org/event/a-cool-yule-2023/"
+      }
+    ]
+  },
+  {
+    "@id": "https://cwdancetheatre.org/event/a-cool-yule-2023/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cwdancetheatre.org/event/a-cool-yule-2023/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-12-15T19:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-12-15T21:00:00-08:00"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://cwdancetheatre.org/event/a-cool-yule-2023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://cwdancetheatre.org/event/a-cool-yule-2023/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "A Cool Yule 2023"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://cwdancetheatre.org/temporary/cf41eca8-7f41-4c8c-a0f9-03868afabff1",
+    "@type": [
+      "https://schema.org/Blog"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://cwdancetheatre.org/event/a-cool-yule-2023/"
+      }
+    ]
+  }
+]
