@@ -1,0 +1,158 @@
+[
+  {
+    "@id": "https://www.borntoruncanada.ca/event-details/casino-regina/form",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "Casino Regina | BTRC OFFICAL"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "BORN TO RUN CANADA - A Salute To The Boss.  The music of Springsteen at it's best!"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://static.wixstatic.com/media/c9c0b1_4d782556175c4571ad95c835a52dd749~mv2.jpg/v1/fill/w_2841,h_1752,al_c,q_90/c9c0b1_4d782556175c4571ad95c835a52dd749~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "2841"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "1752"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.borntoruncanada.ca/event-details/casino-regina"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "BTRC OFFICAL"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.borntoruncanada.ca/event-details/casino-regina/form"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461840",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.borntoruncanada.ca/event-details/casino-regina"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Regina"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "1880 Saskatchewan Dr, Regina, SK S4P 4A5, Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461860",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/c9c0b1_4d782556175c4571ad95c835a52dd749~mv2.jpg/v1/fill/w_2841,h_1752,al_c,q_90/c9c0b1_4d782556175c4571ad95c835a52dd749~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "2841"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "1752"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.borntoruncanada.ca/temporary/78feeb7d-7218-4501-bfca-9a713dd47ac3",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-06T20:00:00-06:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g461840"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g461860"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.borntoruncanada.ca/event-details/casino-regina/form"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.borntoruncanada.ca/event-details/casino-regina/form"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Casino Regina"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "BORN TO RUN CANADA - A Salute To The Boss.  The music of Springsteen at it's best!"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  }
+]
