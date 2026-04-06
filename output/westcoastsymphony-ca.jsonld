@@ -1,0 +1,726 @@
+[
+  {
+    "@id": "https://westcoastsymphony.ca/concerts/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Concerts | WCSO"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://westcoastsymphony.ca/concerts/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "WCSO"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/westcoastsymphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://westcoastsymphony.ca/wp-content/uploads/2019/01/facebook_og.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:secure_url": [
+      {
+        "@language": "en-us",
+        "@value": "https://westcoastsymphony.ca/wp-content/uploads/2019/01/facebook_og.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1005"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://westcoastsymphony.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://westcoastsymphony.ca/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://westcoastsymphony.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/westcoastsymphony"
+      },
+      {
+        "@id": "https://www.instagram.com/westcoastsymphony/"
+      },
+      {
+        "@id": "https://twitter.com/VancouverWCSO"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://westcoastsymphony.ca/concerts/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://westcoastsymphony.ca/concerts/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "West Coast Symphony Orchestra"
+      }
+    ]
+  },
+  {
+    "@id": "http://westcoastsymphony.ca/concerts/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Concerts | WCSO"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "http://westcoastsymphony.ca/concerts/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "WCSO"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/westcoastsymphony"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "http://westcoastsymphony.ca/wp-content/uploads/2019/01/facebook_og.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1005"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "http://westcoastsymphony.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "http://westcoastsymphony.ca/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://westcoastsymphony.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/westcoastsymphony"
+      },
+      {
+        "@id": "https://www.instagram.com/westcoastsymphony/"
+      },
+      {
+        "@id": "https://twitter.com/VancouverWCSO"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "http://westcoastsymphony.ca/concerts/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://westcoastsymphony.ca/concerts/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "West Coast Symphony Orchestra"
+      }
+    ]
+  },
+  {
+    "@id": "_:g509140",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g509180"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Christ Church Cathedral"
+      }
+    ]
+  },
+  {
+    "@id": "_:g509180",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "690 Burrard Street, Vancouver"
+      }
+    ]
+  },
+  {
+    "@id": "_:g509380",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g509420"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Christ Church Cathedral"
+      }
+    ]
+  },
+  {
+    "@id": "_:g509420",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "690 Burrard Street, Vancouver"
+      }
+    ]
+  },
+  {
+    "@id": "_:g509620",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g509660"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Christ Church Cathedral"
+      }
+    ]
+  },
+  {
+    "@id": "_:g509660",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "690 Burrard Street, Vancouver"
+      }
+    ]
+  },
+  {
+    "@id": "_:g509860",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g509900"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Christ Church Cathedral"
+      }
+    ]
+  },
+  {
+    "@id": "_:g509900",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "690 Burrard Street, Vancouver"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510100",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g510140"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Christ Church Cathedral"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510140",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "690 Burrard Street, Vancouver"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510340",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g510380"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Christ Church Cathedral"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510380",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "690 Burrard Street, Vancouver"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510580",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g510620"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Fei & Milton Wong Experimental Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510620",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "149 West Hastings Street, Vancouver"
+      }
+    ]
+  },
+  {
+    "@id": "https://westcoastsymphony.ca/temporary/33ab0c73-e3e9-4243-a15a-b959d5104392",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://westcoastsymphony.ca/events/a-night-of-opera/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g509140"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://westcoastsymphony.ca/concerts/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "en",
+        "@value": "2025-10-4"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "en",
+        "@value": "2025-10-4"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "A Night of Opera"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\tThe West Coast Symphony Orchestra launches a new season in grand style with two dazzling Canadian voices: soprano Chloé Hurst and baritone Aaron Durand. From Mozart’s elegance to Verdi’s passion, Offenbach’s wit, Puccini’s romance, and Copland’s vibrant Americana, the evening brims with operatic favourites and orchestral gems. A night of soaring arias, playful duets, and thrilling symphonic moments — the perfect start to a season of unforgettable music.\nBujar Llapaj, Conductor\nChloe Hurst, Soprano\nAaron Durand, Baritone\nAdmission to our concerts is by donation.\nBook your tickets at our Eventbrite page HERE\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://westcoastsymphony.ca/temporary/015029ec-5a18-4f85-9d5c-9d3f9a9b76f6",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://westcoastsymphony.ca/events/french-masterworks/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2025-11-15"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2025-11-15"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g509380"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://westcoastsymphony.ca/concerts/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "French Masterworks"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\tCome join the West Coast Symphony Orchestra as we journey through four French masterpieces in one unforgettable night!\nProgram:\nBerlioz: Overture to King Lear, Op. 4, H 53\nRavel: Piano Concerto for the Left Hand, M. 82*\nDukas: La Péri\nDebussy: La Mer\nBujar Llapaj, Conductor\n*Barry Tan, Piano\nAdmission to our concerts is by donation.\nBook your tickets at our Eventbrite page HERE\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://westcoastsymphony.ca/temporary/c196bfb2-1ce0-452b-91a5-05a011386f15",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://westcoastsymphony.ca/events/all-aboard-for-christmas/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2025-12-20"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2025-12-20"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g509620"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://westcoastsymphony.ca/concerts/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "All Aboard for Christmas"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\tThe evening opens with the sparkling brilliance of Laura Nobili’s Overture, setting the stage for Handel’s elegant Harp Concerto in B-flat, Op. 4 No. 6, brought to life by acclaimed harpist Rita Costanzi* with grace and poise. She returns for Samuel Rousseau’s Pastoral Variations, a lyrical and evocative gem that showcases her exquisite artistry. Vaughan Williams’ English Folk Song Suite (final movement) bursts with rustic charm, while Prokofiev’s Troika whisks us into a brisk Russian sleigh ride. Strauss’s lively Tritsch-Tratsch-Polka follows, adding spirited Viennese flair before the Vancouver Bach Choir joins for The Polar Express, capturing the wonder and magic of the season. The celebration concludes with Leroy Anderson’s beloved A Christmas Festival and a joyful selection of carols, bringing the evening to a radiant, heartwarming close.\nBryan Deans and Nicholas Urquhart, Associate Conductors\nRita Costanzi, Harp soloist\nVancouver Bach Choir\nAdmission to our concerts is by donation.\nBook your tickets at our Eventbrite page HERE\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://westcoastsymphony.ca/temporary/648bc277-e9f9-4d4e-b415-c474c25171db",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://westcoastsymphony.ca/events/lunar-new-year-with-love/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g509860"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://westcoastsymphony.ca/concerts/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "en",
+        "@value": "2026-2-7"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "en",
+        "@value": "2026-2-7"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Lunar New Year with Love"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\tExperience the joy of new beginnings, a one-of-a-kind family concerto premiere, and the dramatic power of Prokofiev’s Romeo and Juliet.\nProgram:\nHuahzhi Li: Spring Festival Overture\nChe Yi-Lee: Golden Era Violin Concerto*\nProkofiev: Romeo and Juliet Suite (No. 1 & 2)\nBujar Llapaj, Conductor\nPatricia Shih, violin soloist\nNikita Pogrebnoy, violin soloist\nNicholas Shih-Pogrebnoy, violin soloist\nAdmission to our concerts is by donation.\nBook your tickets at our Eventbrite page HERE\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://westcoastsymphony.ca/temporary/09754580-5054-45ae-9f01-b462627891f6",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://westcoastsymphony.ca/events/mendelssohn-and-saint-saens/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g510100"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://westcoastsymphony.ca/concerts/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "en",
+        "@value": "2026-3-14"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "en",
+        "@value": "2026-3-14"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Mendelssohn and Saint-Saëns"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\tFrom moonlit forests to sunlit piazzas, Mendelssohn and Saint-Saëns deliver an evening of magic, passion, and radiant energy.\nProgram:\nMendelssohn: A Midsummer Night’s Dream Overture, Op. 21\nSaint Saens: Cello Concerto No. 1, Op. 33*\nMendelssohn: Symphony No. 4 in A major, Op. 90 “Italian”\nYariv Aloni, Guest Conductor\n*Jonathan Lo, Cello Soloist\nAdmission to our concerts is by donation.\nBook your tickets at our Eventbrite page HERE\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://westcoastsymphony.ca/temporary/0216471d-1bf2-41a1-8843-f42b255036fc",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://westcoastsymphony.ca/events/libby-yu-plays-tchaikovsky/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g510340"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://westcoastsymphony.ca/concerts/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "en",
+        "@value": "2026-4-25"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "en",
+        "@value": "2026-4-25"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Libby Yu plays Tchaikovsky"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\tFrom Ibrahimi’s epic dance to Tchaikovsky’s passion and Shostakovich’s biting drama, this concert crackles with energy and emotion.\nProgram:\nIbrahimi: Valle Epike\nTchaikovsky: Piano Concerto No. 1 in B♭ minor, Op. 23*\nShostakovich: Suite “Lady Macbeth from Mtzensk”\nBujar Llapaj, Conductor\n*Libby Yu, Piano Soloist\nAdmission to our concerts is by donation.\nBook your tickets at our Eventbrite page HERE\n"
+      }
+    ]
+  },
+  {
+    "@id": "https://westcoastsymphony.ca/temporary/52c52f52-4370-4591-85d1-0d84df400f47",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://westcoastsymphony.ca/events/mahler-the-titan/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g510580"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://westcoastsymphony.ca/concerts/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@language": "en",
+        "@value": "2026-6-12"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@language": "en",
+        "@value": "2026-6-12"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Mahler- the Titan"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\tA sparkling overture, a brilliant piccolo concerto, and Mahler’s mighty Titan — the season ends in triumph.\nProgram:\nKorngold: Much Ado about Nothing Suite, Op. 11, Overture\nLiebermann: Piccolo Concerto, Op. 50*\nMahler: Symphony No. 1 in D major, “The Titan”\nBujar Llapaj, Conductor\n*Sarah Jackson, Piccolo Soloist\nAdmission to our concerts is by donation.\nBook your tickets at our Eventbrite page HERE\n"
+      }
+    ]
+  }
+]
