@@ -11,46 +11,46 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
-        "@id": "https://www.reginasymphony.com"
+        "@id": "http://www.reginasymphony.com/"
       }
     ]
   },
   {
-    "@id": "https://www.reginasymphony.com",
+    "@id": "http://www.reginasymphony.com/",
     "@type": [
       "http://schema.org/Website"
     ]
   },
   {
-    "@id": "urn:crawl:86513e18-2c3d-4adb-8180-4ca0342b6f1c",
+    "@id": "urn:crawl:891eac4f-ef07-4b6f-9f19-f399b8b78a32",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
     "http://schema.org/name": [
       {
-        "@value": "No Structured Data Found"
+        "@value": ""
       }
     ],
     "http://schema.org/description": [
       {
-        "@value": "This crawl resulted in an empty graph."
+        "@value": ""
       }
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "https://www.reginasymphony.com"
+        "@id": "http://www.reginasymphony.com/"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2026-04-06T12:14:22Z"
+        "@value": "2026-04-06T12:15:41Z"
       }
     ],
     "http://www.w3.org/ns/prov#endedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2026-04-06T12:14:23Z"
+        "@value": "2026-04-06T12:43:00Z"
       }
     ],
     "http://www.w3.org/ns/prov#wasInformedBy": [
@@ -99,7 +99,7 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "2"
+        "@value": "424"
       }
     ]
   },
@@ -116,7 +116,7 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "0"
+        "@value": "1"
       }
     ]
   },
@@ -133,7 +133,18 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#decimal",
-        "@value": "0.0"
+        "@value": "73.91304347826087"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/reginasymphony-com/2026-04-06T08_43_01#Dataset",
+    "@type": [
+      "http://www.w3.org/ns/prov#Entity"
+    ],
+    "http://www.w3.org/ns/prov#wasGeneratedBy": [
+      {
+        "@id": "urn:crawl:891eac4f-ef07-4b6f-9f19-f399b8b78a32"
       }
     ]
   }
