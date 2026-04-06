@@ -1,0 +1,147 @@
+[
+  {
+    "@id": "https://www.choppingspree.ca/event-details/soma-fest-2026-the-biltmore-cabaret-march-21st",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "SOMA Fest 2026 @ The Biltmore Cabaret, March 21st | My Site 1"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://static.wixstatic.com/media/971def_432c6e6aaade4ac6969f344ffe28829e~mv2.jpg/v1/fill/w_2300,h_800,al_c,q_85/971def_432c6e6aaade4ac6969f344ffe28829e~mv2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en",
+        "@value": "2300"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en",
+        "@value": "800"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.choppingspree.ca/event-details/soma-fest-2026-the-biltmore-cabaret-march-21st"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "My Site 1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463060",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.choppingspree.ca/event-details/soma-fest-2026-the-biltmore-cabaret-march-21st"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "The Biltmore Cabaret"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463080",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://static.wixstatic.com/media/971def_432c6e6aaade4ac6969f344ffe28829e~mv2.jpg/v1/fill/w_2300,h_800,al_c,q_85/971def_432c6e6aaade4ac6969f344ffe28829e~mv2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "en",
+        "@value": "2300"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "en",
+        "@value": "800"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.choppingspree.ca/temporary/377898d7-6eed-435c-b3cd-19dbd9c5a27e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-21T22:30:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-21T23:00:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g463060"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g463080"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.choppingspree.ca/event-details/soma-fest-2026-the-biltmore-cabaret-march-21st"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.choppingspree.ca/event-details/soma-fest-2026-the-biltmore-cabaret-march-21st"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "SOMA Fest 2026 @ The Biltmore Cabaret, March 21st"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  }
+]
