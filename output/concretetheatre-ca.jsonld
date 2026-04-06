@@ -1,0 +1,99 @@
+[
+  {
+    "@id": "https://www.concretetheatre.ca/availability/",
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.concretetheatre.ca/wp-json/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.concretetheatre.ca/availability/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g490000",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Sprouts School Shows"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "Sprouts School Shows"
+      }
+    ]
+  },
+  {
+    "@id": "_:g490140",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Sprouts Public Shows"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "Sprouts Public Shows"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.concretetheatre.ca/temporary/8d948121-ec7b-4e95-b907-d6595988bfac",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g490000"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.concretetheatre.ca/availability/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.concretetheatre.ca/availability/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Sprouts School Shows"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.concretetheatre.ca/temporary/97cd2ce4-3d54-4f7e-9a06-5b0acc4e5b5a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g490140"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.concretetheatre.ca/availability/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.concretetheatre.ca/availability/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Sprouts Public Shows"
+      }
+    ]
+  }
+]
