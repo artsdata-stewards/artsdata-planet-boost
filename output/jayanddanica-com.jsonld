@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "_:g463560",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Bassment"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "202 4th Avenue North, Saskatoon, Saskatchewan"
+      }
+    ]
+  },
+  {
+    "@id": "https://jayanddanica.com/temporary/228543b3-5125-42a7-9c20-8adf03c01aec",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-17T20:30:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://jayanddanica.com/event/6259910/757920468/jay-and-danica-in-concert-at-the-bassment-album-release-show"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g463560"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://jayanddanica.com/go/events/6259910?feature_id=1120617&occurrence_id=757920468&popup=1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Jay and Danica in concert at The Bassment - album release show"
+      }
+    ]
+  }
+]
