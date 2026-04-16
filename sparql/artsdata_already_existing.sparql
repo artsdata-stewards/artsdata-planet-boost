@@ -7,4 +7,10 @@ WHERE {
     FILTER NOT EXISTS {
         ?dataset prov:wasGeneratedBy/prov:wasInformedBy adr:SpiderActivity  
     }
+    FILTER EXISTS {
+        ?dataset <http://rdfs.org/ns/void#classPortion> ?stat .
+        ?stat <http://rdfs.org/ns/void#class> schema:Event ;
+        <http://rdfs.org/ns/void#entities> ?events .
+        FILTER(?events > 0)
+    }
 }
