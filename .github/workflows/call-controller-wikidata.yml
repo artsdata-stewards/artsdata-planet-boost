@@ -1,4 +1,4 @@
-name: Call Controller - incremental
+name: Call Controller - Wikidata incremental, register only
 
 on:
   workflow_dispatch:
@@ -11,3 +11,4 @@ jobs:
     with:
       incremental: true
       register_only: true
+      source: wikidata
