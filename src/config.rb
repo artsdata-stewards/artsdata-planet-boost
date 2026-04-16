@@ -22,7 +22,8 @@ module Config
       "https://www.theplayhouse.ca",
       "http://www.violonsduroy.com/en",
       "https://ipaa.ca/",
-      "https://chancentre.com"
+      "https://chancentre.com",
+      "https://harrisonfestival.com"
     ]
   }.freeze
 end
