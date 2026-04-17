@@ -21,9 +21,19 @@ module Config
       "https://grandsballets.com/en/",
       "https://www.theplayhouse.ca",
       "http://www.violonsduroy.com/en",
+      "http://www.violonsduroy.com",
       "https://ipaa.ca/",
       "https://chancentre.com",
-      "https://harrisonfestival.com"
+      "https://harrisonfestival.com",
+      "https://nac-cna.ca/",
+      "https://www.larotonde.qc.ca/",
+      "https://co-motion.ca/",
+      "https://www.theplayhouse.ca/",
+      "https://grandsballets.com/",
+      "https://burlingtonpac.ca/",
+      "https://thecultch.com/",
+      "https://hector-charland.com/",
+      "https://www.yardbirdsuite.com/"
     ]
   }.freeze
 end
