@@ -1,7 +1,7 @@
 PREFIX prov: <http://www.w3.org/ns/prov#>
 PREFIX adr: <http://kg.artsdata.ca/resource/>
 
-# URLs that satify this query will be marked as "Skipped Crawl: Website Loaded Elsewhere"
+# URLs that satify this query will be skipped and the crawl activity will be marked as "Skipped Crawl: Website Loaded Elsewhere"
 SELECT DISTINCT ?url  
 WHERE {
     ?dataset a <http://dataid.dbpedia.org/ns/core#Dataset> ;
