@@ -74,7 +74,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g471940"
+        "@id": "_:g476760"
       }
     ],
     "https://api.w.org/": [
@@ -119,7 +119,7 @@
     ]
   },
   {
-    "@id": "_:g471940",
+    "@id": "_:g476760",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -140,7 +140,7 @@
     ]
   },
   {
-    "@id": "_:g472960",
+    "@id": "_:g477800",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -163,13 +163,13 @@
     ]
   },
   {
-    "@id": "_:g472980",
+    "@id": "_:g477820",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g473000"
+        "@id": "_:g477840"
       }
     ],
     "http://schema.org/name": [
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "@id": "_:g473000",
+    "@id": "_:g477840",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -216,7 +216,7 @@
     ]
   },
   {
-    "@id": "_:g473040",
+    "@id": "_:g477880",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -239,7 +239,7 @@
     ]
   },
   {
-    "@id": "_:g473060",
+    "@id": "_:g477900",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -251,7 +251,7 @@
     ]
   },
   {
-    "@id": "_:g473080",
+    "@id": "_:g477920",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -268,33 +268,33 @@
     ]
   },
   {
-    "@id": "https://chorleoni.org/temporary/8b7a18ea-207e-427e-a819-e39d2ecd55e8",
+    "@id": "https://chorleoni.org/temporary/0ec13e13-f121-44a2-b3de-14bf1705aa74",
     "@type": [
       "http://schema.org/MusicEvent"
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g472960"
+        "@id": "_:g477800"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g472980"
+        "@id": "_:g477820"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g473040"
+        "@id": "_:g477880"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g473060"
+        "@id": "_:g477900"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g473080"
+        "@id": "_:g477920"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -417,7 +417,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g483600"
+        "@id": "_:g488400"
       }
     ],
     "https://api.w.org/": [
@@ -433,7 +433,7 @@
     ]
   },
   {
-    "@id": "_:g483600",
+    "@id": "_:g488400",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -445,13 +445,13 @@
     ]
   },
   {
-    "@id": "_:g484640",
+    "@id": "_:g489440",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g484660"
+        "@id": "_:g489460"
       }
     ],
     "http://schema.org/name": [
@@ -462,7 +462,7 @@
     ]
   },
   {
-    "@id": "_:g484660",
+    "@id": "_:g489460",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -498,7 +498,7 @@
     ]
   },
   {
-    "@id": "_:g484700",
+    "@id": "_:g489500",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -521,7 +521,7 @@
     ]
   },
   {
-    "@id": "_:g484720",
+    "@id": "_:g489520",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -533,7 +533,7 @@
     ]
   },
   {
-    "@id": "_:g484740",
+    "@id": "_:g489540",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -550,7 +550,7 @@
     ]
   },
   {
-    "@id": "https://chorleoni.org/temporary/64fe37d6-eed2-4d1b-9459-291f87373c43",
+    "@id": "https://chorleoni.org/temporary/71d305d5-1e32-455e-bf57-857bd26188eb",
     "@type": [
       "http://schema.org/MusicEvent"
     ],
@@ -561,22 +561,22 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g484640"
+        "@id": "_:g489440"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g484700"
+        "@id": "_:g489500"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g484720"
+        "@id": "_:g489520"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g484740"
+        "@id": "_:g489540"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -611,570 +611,6 @@
       {
         "@type": "http://schema.org/Date",
         "@value": "1970-01-01T00:00:00+00:00"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://chorleoni.org/event/popcappella/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "en-ca",
-        "@value": "en_US"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-ca",
-        "@value": "PopCappella - Chor Leoni"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-ca",
-        "@value": "https://chorleoni.org/event/popcappella/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en-ca",
-        "@value": "Chor Leoni"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "en-ca",
-        "@value": "2026-03-08T07:11:24+00:00"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://chorleoni.org/event/popcappella/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "PopCappella - Chor Leoni"
-      },
-      {
-        "@language": "en",
-        "@value": "PopCappella"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://chorleoni.org/#website"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-08-12T21:48:26+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-08T07:11:24+00:00"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "_:g495300"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://chorleoni.org/wp-json/"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g495300",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "en",
-        "@value": "https://chorleoni.org/event/popcappella/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g496340",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g496360"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "St. Andrew's-Wesley United Church"
-      }
-    ]
-  },
-  {
-    "@id": "_:g496360",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "1012 Nelson Street"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Vancouver"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "V6E 4S7"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "BC"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g496400",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://chorleoni.org/event/popcappella/"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "en",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "_:g496420",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Chor Leoni Choir"
-      }
-    ]
-  },
-  {
-    "@id": "_:g496440",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://chorleoni.org/event/popcappella/www.chorleoni.org"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Chor Leoni Choir"
-      }
-    ]
-  },
-  {
-    "@id": "https://chorleoni.org/temporary/64de8ae5-10fa-4eae-ab38-bf9af1e35a41",
-    "@type": [
-      "http://schema.org/MusicEvent"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://chorleoni.org/wp-content/uploads/2025/08/PopCappella_Web-Banner_solo.jpg"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g496340"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g496400"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g496420"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g496440"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://chorleoni.org/event/popcappella/"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://chorleoni.org/event/popcappella/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "PopCappella"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "PopCappella returns to St. Andrew’s-Wesley United! Enjoy Chor Leoni’s signature pop-choral mix at one of Vancouver&#8217;s most iconic venues. Experience high-impact harmonies and dazzling lights, all backed by a band of Vancouver’s finest players. Enjoy bespoke arrangements of classics by The Beach Boys, Bruce Springsteen, Sara Bareilles, the B-52’s, and more, sung as only Chor Leoni can. Bring your friends and experience a thrill like no other!\nTickets from $20-$70\n35 and Under Ticket Pricing Available."
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-06-03T00:00:00+00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-03T00:00:00+00:00"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://chorleoni.org/event/the-big-roar/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "en-ca",
-        "@value": "en_US"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-ca",
-        "@value": "The Big Roar - Chor Leoni"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-ca",
-        "@value": "https://chorleoni.org/event/the-big-roar/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en-ca",
-        "@value": "Chor Leoni"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "en-ca",
-        "@value": "2026-03-14T18:03:17+00:00"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://chorleoni.org/event/the-big-roar/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "The Big Roar - Chor Leoni"
-      },
-      {
-        "@language": "en",
-        "@value": "The Big Roar"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://chorleoni.org/#website"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-07-25T05:22:31+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-14T18:03:17+00:00"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "_:g506460"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://chorleoni.org/wp-json/"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g506460",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "en",
-        "@value": "https://chorleoni.org/event/the-big-roar/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g507500",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g507520"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "The Chan Centre for the Performing Arts"
-      }
-    ]
-  },
-  {
-    "@id": "_:g507520",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "6265 Crescent Rd, Vancouver"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Vancouver"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "V6E 4S7"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "BC"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g507560",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://chorleoni.org/event/the-big-roar/"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "en",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "_:g507580",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Chor Leoni Choir"
-      }
-    ]
-  },
-  {
-    "@id": "_:g507600",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://chorleoni.org/event/the-big-roar/www.chorleoni.org"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Chor Leoni Choir"
-      }
-    ]
-  },
-  {
-    "@id": "https://chorleoni.org/temporary/d0b1361f-cebe-4161-9aee-6b4330e9cd1b",
-    "@type": [
-      "http://schema.org/MusicEvent"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://chorleoni.org/wp-content/uploads/2025/07/Big-Roar_Web-Banner-1.jpg"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g507500"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g507560"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g507580"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g507600"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://chorleoni.org/event/the-big-roar/"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://chorleoni.org/event/the-big-roar/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "The Big Roar"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "The Big Roar takes the Chan Centre stage, louder and grander than ever before! These two unforgettable concerts offer something for everyone, from the polished close harmonies of just nine voices to the thrilling, inimitable roar of 350 singers. Witness the magic of The Leonids, our professional ensemble of world-class singers that only come together once a year, and experience the warmth of the soaring voices of Chor Leoni as each ensemble performs their solo sets. Then, celebrate Vancouver’s thriving singing community as these two ensembles are joined by Chor Leoni’s MYVoice youth choirs, the young PRÉLUDE singers, and the participants of the Emerging Choral Artist Program, as well as two of the province’s finest high school choirs. Join us for an inspiring, joy-filled concert experience that showcases the next generation of choral artists.\nTickets from $70-$80\n35 and Under Ticket Pricing Available.\nTicketing by The Chan Centre for the Performing Arts.\nDeepen your experience and get to know the members of The Leonids at an exclusive reception after The Big Roar performance at The Chan Centre on Friday, May 8! Tickets for the reception are $50, and can be purchased as a part of your concert ticket by selecting Supporter Ticket (Includes Reception) when selecting your seat. We hope you can join us for this special post-concert celebration."
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-05T00:00:00+00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-05T00:00:00+00:00"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -1269,10 +705,10 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g517740"
+        "@id": "_:g500060"
       },
       {
-        "@id": "_:g1270400"
+        "@id": "_:g1231820"
       }
     ],
     "https://api.w.org/": [
@@ -1294,7 +730,7 @@
     ]
   },
   {
-    "@id": "_:g517740",
+    "@id": "_:g500060",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -1306,7 +742,7 @@
     ]
   },
   {
-    "@id": "_:g1270400",
+    "@id": "_:g1231820",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -1314,6 +750,288 @@
       {
         "@language": "en",
         "@value": "https://chorleoni.org/event/the-leonids/"
+      }
+    ]
+  },
+  {
+    "@id": "https://chorleoni.org/event/the-big-roar/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "The Big Roar - Chor Leoni"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://chorleoni.org/event/the-big-roar/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Chor Leoni"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-04-16T18:45:42+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://chorleoni.org/event/the-big-roar/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Big Roar - Chor Leoni"
+      },
+      {
+        "@language": "en",
+        "@value": "The Big Roar"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://chorleoni.org/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-25T05:22:31+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-16T18:45:42+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g511160"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://chorleoni.org/wp-json/"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g511160",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://chorleoni.org/event/the-big-roar/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g512200",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g512220"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Chan Centre for the Performing Arts"
+      }
+    ]
+  },
+  {
+    "@id": "_:g512220",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "6265 Crescent Rd, Vancouver"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": "V6E 4S7"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g512260",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://chorleoni.org/event/the-big-roar/"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g512280",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Chor Leoni Choir"
+      }
+    ]
+  },
+  {
+    "@id": "_:g512300",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://chorleoni.org/event/the-big-roar/www.chorleoni.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Chor Leoni Choir"
+      }
+    ]
+  },
+  {
+    "@id": "https://chorleoni.org/temporary/7ce5270e-2440-43b9-b31d-77a8fb70d9d3",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://chorleoni.org/wp-content/uploads/2025/07/Big-Roar_Web-Banner-1.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g512200"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "09/05/2026"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g512260"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g512280"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g512300"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://chorleoni.org/event/the-big-roar/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://chorleoni.org/event/the-big-roar/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Big Roar"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "The Big Roar takes the Chan Centre stage, louder and grander than ever before! These two unforgettable concerts offer something for everyone, from the polished close harmonies of just nine voices to the thrilling, inimitable roar of 350 singers. Witness the magic of The Leonids, our professional ensemble of world-class singers that only come together once a year, and experience the warmth of the soaring voices of Chor Leoni as each ensemble performs their solo sets. Then, celebrate Vancouver’s thriving singing community as these two ensembles are joined by Chor Leoni’s MYVoice youth choirs, the young PRÉLUDE singers, and the participants of the Emerging Choral Artist Program, as well as two of the province’s finest high school choirs. Join us for an inspiring, joy-filled concert experience that showcases the next generation of choral artists.nCommunity Access Tickets available for $25nSupporter Tickets from $70-$80n35 and Under Ticket Pricing Available.nTicketing by The Chan Centre for the Performing Arts.nDeepen your experience and get to know the members of The Leonids at an exclusive reception after The Big Roar performance at The Chan Centre on Friday, May 8! Tickets for the reception are $50, and can be purchased as a part of your concert ticket by selecting Premium Ticket when selecting your seat. We hope you can join us for this special post-concert celebration."
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-05T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ]
   },
@@ -1373,18 +1091,18 @@
     ]
   },
   {
-    "@id": "_:g1271400",
+    "@id": "_:g1232840",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1271420"
+        "@id": "_:g1232860"
       }
     ]
   },
   {
-    "@id": "_:g1271420",
+    "@id": "_:g1232860",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1414,7 +1132,7 @@
     ]
   },
   {
-    "@id": "_:g1271460",
+    "@id": "_:g1232900",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1437,7 +1155,7 @@
     ]
   },
   {
-    "@id": "_:g1271480",
+    "@id": "_:g1232920",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -1449,7 +1167,7 @@
     ]
   },
   {
-    "@id": "_:g1271500",
+    "@id": "_:g1232940",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1466,7 +1184,7 @@
     ]
   },
   {
-    "@id": "https://chorleoni.org/temporary/7a1a0069-0d79-447d-ae4a-e05fddf1dfef",
+    "@id": "https://chorleoni.org/temporary/3591a3a0-afd2-489d-bec4-be02cba3f052",
     "@type": [
       "http://schema.org/MusicEvent"
     ],
@@ -1477,22 +1195,22 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1271400"
+        "@id": "_:g1232840"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1271460"
+        "@id": "_:g1232900"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g1271480"
+        "@id": "_:g1232920"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1271500"
+        "@id": "_:g1232940"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
