@@ -1,25 +1,5 @@
 [
   {
-    "@id": "https://www.jmcanada.ca/fr/concerts/carnets-du-front-notes-fraternelles-pour-voix-et-piano/",
-    "fb:app_id": [
-      {
-        "@language": "fr",
-        "@value": "638461720737909"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://www.jmcanada.ca/wp-content/themes/jmc/assets/images/share.png"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.jmcanada.ca/fr/concerts/carnets-du-front-notes-fraternelles-pour-voix-et-piano/"
-      }
-    ]
-  },
-  {
     "@id": "https://www.jmcanada.ca/fr/concerts/koperkus/",
     "fb:app_id": [
       {
@@ -40,107 +20,22 @@
     ]
   },
   {
-    "@id": "https://www.jmcanada.ca/en/concerts/12635/",
+    "@id": "https://www.jmcanada.ca/fr/concerts/carnets-du-front-notes-fraternelles-pour-voix-et-piano/",
     "fb:app_id": [
       {
-        "@language": "en",
+        "@language": "fr",
         "@value": "638461720737909"
       }
     ],
     "http://ogp.me/ns#image": [
       {
-        "@language": "en",
+        "@language": "fr",
         "@value": "https://www.jmcanada.ca/wp-content/themes/jmc/assets/images/share.png"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.jmcanada.ca/en/concerts/12635/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g3260200",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g3260220"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Salle Joseph-Rouleau"
-      }
-    ]
-  },
-  {
-    "@id": "_:g3260220",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "305 Avenue du Mont-Royal E\r\nMontreal, QC H2T 1P8\r\nCanada"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Montréal (QC)"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.jmcanada.ca/temporary/6366b7e7-9a65-45f2-a4b3-a047b54cb693",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-16T19:00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-16T20:30:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g3260200"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.jmcanada.ca/wp-content/uploads/concerts/12503/jm240325web-53-1-scaled-1200x630.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.jmcanada.ca/en/concerts/12635/"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.jmcanada.ca/en/concerts/12635/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Notes from the Front: Fraternal Music for Voice and Piano"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "ARTISTS Mathilde Duval-Laplante, sopranoRosemarie Duval-Laplante, pianoJean-Michel Dubé, piano VIEW THE CONCERT PROGRAMME HERE On tour from January 11 to February 20, 2026!In this concert, soprano Mathilde Duval-Laplante and pianists Rosemarie Duval-Laplante and Jean-Michel Dubé create a space for contemplation of peace in a time of war. From the fragmentation of musical forms to the creation [&hellip;]"
+        "@id": "https://www.jmcanada.ca/fr/concerts/carnets-du-front-notes-fraternelles-pour-voix-et-piano/"
       }
     ]
   },
@@ -165,188 +60,13 @@
     ]
   },
   {
-    "@id": "_:g3295160",
+    "@id": "_:g3246080",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g3295180"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "L’Auberge de la Butte ronde"
-      }
-    ]
-  },
-  {
-    "@id": "_:g3295180",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "Auberge La Butte Ronde\r\n70, chemin des Buttes, Havre-aux-Maisons\r\nTel: (418) 969-2047 ou 1-866-969-2047"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Havre-aux-Maisons"
-      }
-    ]
-  },
-  {
-    "@id": "_:g3295220",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g3295240"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Centre communautaire Sainte-Anne"
-      }
-    ]
-  },
-  {
-    "@id": "_:g3295240",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "715 Rue Priestman\nFredericton, NB E3B 5W7\nCanada"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Fredericton (NB)"
-      }
-    ]
-  },
-  {
-    "@id": "_:g3295280",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g3295300"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Amphithéâtre du pavillon Louis-A.-LeBel"
-      }
-    ]
-  },
-  {
-    "@id": "_:g3295300",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "165 Boulevard Hébert\nEdmundston, NB E3V\nCanada"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Edmundston (NB)"
-      }
-    ]
-  },
-  {
-    "@id": "_:g3295340",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g3295360"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Salle Pierrette-Gaudreault"
-      }
-    ]
-  },
-  {
-    "@id": "_:g3295360",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Saguenay, arr. Jonquière"
-      }
-    ]
-  },
-  {
-    "@id": "_:g3295400",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g3295420"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Café-théâtre Graffiti"
-      }
-    ]
-  },
-  {
-    "@id": "_:g3295420",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "50, chemin des Iles\r\nPort-Cartier\r\nG5B2W8"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Port-Cartier (QC)"
-      }
-    ]
-  },
-  {
-    "@id": "_:g3295460",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g3295480"
+        "@id": "_:g3246100"
       }
     ],
     "http://schema.org/name": [
@@ -357,7 +77,7 @@
     ]
   },
   {
-    "@id": "_:g3295480",
+    "@id": "_:g3246100",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -375,257 +95,7 @@
     ]
   },
   {
-    "@id": "https://www.jmcanada.ca/temporary/8eb977d4-1d6e-43dc-98f1-d3ec18bcd9b5",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-03T17:00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-03T00:00:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g3295160"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.jmcanada.ca/wp-content/uploads/concerts/11526/duo-aster_cartes-postales-vignette-683x400.png"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.jmcanada.ca/en/concerts/postcards/"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.jmcanada.ca/en/concerts/postcards/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Postcards: from Isaac Albeniz to John Williams"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "ARTISTS Duo Aster Clio Theodoridis, saxophoneJonathan Nemtanu, piano VIEW THE CONCERT PROGRAMME HERE On tour from March 7 to April 30, 2026! Duo Aster—composed of saxophonist Clio Theodoridis and pianist Jonathan Nemtanu—invite you to explore the world of classical music as they take you on a journey around the globe. Through Spanish, Hellenic, and Arab [&hellip;]"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.jmcanada.ca/temporary/bbd6694c-e04a-4654-b6bc-4ed1324e086d",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-08T19:00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-08T00:00:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g3295220"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.jmcanada.ca/wp-content/uploads/concerts/11526/duo-aster_cartes-postales-vignette-683x400.png"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.jmcanada.ca/en/concerts/postcards/"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.jmcanada.ca/en/concerts/postcards/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Postcards: from Isaac Albeniz to John Williams"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "ARTISTS Duo Aster Clio Theodoridis, saxophoneJonathan Nemtanu, piano VIEW THE CONCERT PROGRAMME HERE On tour from March 7 to April 30, 2026! Duo Aster—composed of saxophonist Clio Theodoridis and pianist Jonathan Nemtanu—invite you to explore the world of classical music as they take you on a journey around the globe. Through Spanish, Hellenic, and Arab [&hellip;]"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.jmcanada.ca/temporary/11682189-f328-4f61-be3f-10a33802e88a",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-10T19:30:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-10T00:00:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g3295280"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.jmcanada.ca/wp-content/uploads/concerts/11526/duo-aster_cartes-postales-vignette-683x400.png"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.jmcanada.ca/en/concerts/postcards/"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.jmcanada.ca/en/concerts/postcards/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Postcards: from Isaac Albeniz to John Williams"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "ARTISTS Duo Aster Clio Theodoridis, saxophoneJonathan Nemtanu, piano VIEW THE CONCERT PROGRAMME HERE On tour from March 7 to April 30, 2026! Duo Aster—composed of saxophonist Clio Theodoridis and pianist Jonathan Nemtanu—invite you to explore the world of classical music as they take you on a journey around the globe. Through Spanish, Hellenic, and Arab [&hellip;]"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.jmcanada.ca/temporary/5f71960e-6e89-4423-a461-b64fb75e530d",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-13T19:00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-13T00:00:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g3295340"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.jmcanada.ca/wp-content/uploads/concerts/11526/duo-aster_cartes-postales-vignette-683x400.png"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.jmcanada.ca/en/concerts/postcards/"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.jmcanada.ca/en/concerts/postcards/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Postcards: from Isaac Albeniz to John Williams"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "ARTISTS Duo Aster Clio Theodoridis, saxophoneJonathan Nemtanu, piano VIEW THE CONCERT PROGRAMME HERE On tour from March 7 to April 30, 2026! Duo Aster—composed of saxophonist Clio Theodoridis and pianist Jonathan Nemtanu—invite you to explore the world of classical music as they take you on a journey around the globe. Through Spanish, Hellenic, and Arab [&hellip;]"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.jmcanada.ca/temporary/18d33e17-bf5c-4541-ac8f-7aacc364a533",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-15T19:30:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-15T00:00:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g3295400"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.jmcanada.ca/wp-content/uploads/concerts/11526/duo-aster_cartes-postales-vignette-683x400.png"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.jmcanada.ca/en/concerts/postcards/"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.jmcanada.ca/en/concerts/postcards/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Postcards: from Isaac Albeniz to John Williams"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "ARTISTS Duo Aster Clio Theodoridis, saxophoneJonathan Nemtanu, piano VIEW THE CONCERT PROGRAMME HERE On tour from March 7 to April 30, 2026! Duo Aster—composed of saxophonist Clio Theodoridis and pianist Jonathan Nemtanu—invite you to explore the world of classical music as they take you on a journey around the globe. Through Spanish, Hellenic, and Arab [&hellip;]"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.jmcanada.ca/temporary/4a683394-b722-4db3-9993-1e10b89b017c",
+    "@id": "https://www.jmcanada.ca/temporary/18a97920-f4c3-48be-9d65-359beca827fa",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -643,7 +113,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g3295460"
+        "@id": "_:g3246080"
       }
     ],
     "http://schema.org/image": [
@@ -695,13 +165,13 @@
     ]
   },
   {
-    "@id": "_:g3373520",
+    "@id": "_:g3290360",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g3373540"
+        "@id": "_:g3290380"
       }
     ],
     "http://schema.org/name": [
@@ -712,7 +182,7 @@
     ]
   },
   {
-    "@id": "_:g3373540",
+    "@id": "_:g3290380",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -730,13 +200,13 @@
     ]
   },
   {
-    "@id": "_:g3373580",
+    "@id": "_:g3290420",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g3373600"
+        "@id": "_:g3290440"
       }
     ],
     "http://schema.org/name": [
@@ -747,7 +217,7 @@
     ]
   },
   {
-    "@id": "_:g3373600",
+    "@id": "_:g3290440",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -765,7 +235,7 @@
     ]
   },
   {
-    "@id": "https://www.jmcanada.ca/temporary/f6aad0c8-6fab-4642-adef-df1f0b6bfb89",
+    "@id": "https://www.jmcanada.ca/temporary/ea43b37f-ae1a-428c-9936-ba18d107ffb4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -783,7 +253,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g3373520"
+        "@id": "_:g3290360"
       }
     ],
     "http://schema.org/image": [
@@ -815,7 +285,7 @@
     ]
   },
   {
-    "@id": "https://www.jmcanada.ca/temporary/68346d03-220d-4983-a0df-53fe529fa289",
+    "@id": "https://www.jmcanada.ca/temporary/e81aae02-5e02-4257-ad7c-e9800c0c22f0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -833,7 +303,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g3373580"
+        "@id": "_:g3290420"
       }
     ],
     "http://schema.org/image": [
@@ -861,6 +331,301 @@
       {
         "@language": "en",
         "@value": "A Duo Airs productionChildren are invited to enter the welcoming, dreamlike world of Quebec composer Claude Vivier. They will meet Emma, who uses the power of her imagination to transform objects, shapes, and sounds. Her bed pillows become characters, shadows become music, melodies turn into colourful lights&#8230; In Koperkus, the percussion and saxophones are as beautiful to [&hellip;]"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.jmcanada.ca/en/concerts/12635/",
+    "fb:app_id": [
+      {
+        "@language": "en",
+        "@value": "638461720737909"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en",
+        "@value": "https://www.jmcanada.ca/wp-content/themes/jmc/assets/images/share.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.jmcanada.ca/en/concerts/12635/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3313860",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g3313880"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Salle Joseph-Rouleau"
+      }
+    ]
+  },
+  {
+    "@id": "_:g3313880",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "305 Avenue du Mont-Royal E\r\nMontreal, QC H2T 1P8\r\nCanada"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Montréal (QC)"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.jmcanada.ca/temporary/214a468e-2f3a-4759-ae32-29baa7320b32",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-16T19:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-16T20:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g3313860"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.jmcanada.ca/wp-content/uploads/concerts/12503/jm240325web-53-1-scaled-1200x630.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.jmcanada.ca/en/concerts/12635/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.jmcanada.ca/en/concerts/12635/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Notes from the Front: Fraternal Music for Voice and Piano"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "ARTISTS Mathilde Duval-Laplante, sopranoRosemarie Duval-Laplante, pianoJean-Michel Dubé, piano VIEW THE CONCERT PROGRAMME HERE On tour from January 11 to February 20, 2026!In this concert, soprano Mathilde Duval-Laplante and pianists Rosemarie Duval-Laplante and Jean-Michel Dubé create a space for contemplation of peace in a time of war. From the fragmentation of musical forms to the creation [&hellip;]"
+      }
+    ]
+  },
+  {
+    "@id": "https://jmcanada.ca/fr/concerts/koperkus/",
+    "fb:app_id": [
+      {
+        "@language": "fr",
+        "@value": "638461720737909"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://jmcanada.ca/wp-content/themes/jmc/assets/images/share.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://jmcanada.ca/fr/concerts/koperkus/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g7638180",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g7638200"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Joseph-Rouleau"
+      }
+    ]
+  },
+  {
+    "@id": "_:g7638200",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "305 Avenue du Mont-Royal E\r\nMontreal, QC H2T 1P8\r\nCanada"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Montréal (QC)"
+      }
+    ]
+  },
+  {
+    "@id": "_:g7638240",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g7638260"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Joseph-Rouleau"
+      }
+    ]
+  },
+  {
+    "@id": "_:g7638260",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "305 Avenue du Mont-Royal E\r\nMontreal, QC H2T 1P8\r\nCanada"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Montréal (QC)"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.jmcanada.ca/temporary/407b2a85-159b-4222-8de3-ecef7a3dfe04",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-10T10:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-10T11:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g7638180"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://jmcanada.ca/wp-content/uploads/concerts/13842/koperkus-683x400.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://jmcanada.ca/fr/concerts/koperkus/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://jmcanada.ca/fr/concerts/koperkus/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Koperkus"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Une production de Duo Airs ​Les tout-petits sont invités à entrer dans le monde chaleureux et onirique du compositeur québécois Claude Vivier. Ils y feront la connaissance d’Emma qui utilise le pouvoir de son imagination pour transformer les objets, les formes et les sons. Ainsi, les coussins de son lit deviennent des personnages, l’ombre devient [&hellip;]"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.jmcanada.ca/temporary/80734fb9-a0c8-4a11-997b-0ce045c73fe2",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-10T11:30:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-10T12:00:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g7638240"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://jmcanada.ca/wp-content/uploads/concerts/13842/koperkus-683x400.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://jmcanada.ca/fr/concerts/koperkus/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://jmcanada.ca/fr/concerts/koperkus/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Koperkus"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Une production de Duo Airs ​Les tout-petits sont invités à entrer dans le monde chaleureux et onirique du compositeur québécois Claude Vivier. Ils y feront la connaissance d’Emma qui utilise le pouvoir de son imagination pour transformer les objets, les formes et les sons. Ainsi, les coussins de son lit deviennent des personnages, l’ombre devient [&hellip;]"
       }
     ]
   },
@@ -885,13 +650,13 @@
     ]
   },
   {
-    "@id": "_:g7760780",
+    "@id": "_:g7673500",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g7760800"
+        "@id": "_:g7673520"
       }
     ],
     "http://schema.org/name": [
@@ -902,7 +667,7 @@
     ]
   },
   {
-    "@id": "_:g7760800",
+    "@id": "_:g7673520",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -920,7 +685,7 @@
     ]
   },
   {
-    "@id": "https://www.jmcanada.ca/temporary/0df95ed9-3d9f-416e-828e-5aec9c5890e1",
+    "@id": "https://www.jmcanada.ca/temporary/9e7bed45-6162-4ef7-98e7-0cfd51b0f6ac",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -938,7 +703,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g7760780"
+        "@id": "_:g7673500"
       }
     ],
     "http://schema.org/image": [
@@ -966,196 +731,6 @@
       {
         "@language": "fr",
         "@value": "ARTISTES Mathilde Duval-Laplante, sopranoRosemarie Duval-Laplante, pianoJean-Michel Dubé, piano CONSULTEZ LE PROGRAMME DU CONCERT En tournée du 11 janvier au 20 février 2026 !À travers ce concert, la soprano Mathilde Duval-Laplante et les pianistes Rosemarie Duval-Laplante et Jean-Michel Dubé proposent avec sensibilité un espace contemplatif autour de la paix en temps de guerre. De l’éclatement des [&hellip;]"
-      }
-    ]
-  },
-  {
-    "@id": "https://jmcanada.ca/fr/concerts/koperkus/",
-    "fb:app_id": [
-      {
-        "@language": "fr",
-        "@value": "638461720737909"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr",
-        "@value": "https://jmcanada.ca/wp-content/themes/jmc/assets/images/share.png"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://jmcanada.ca/fr/concerts/koperkus/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g7795580",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g7795600"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Salle Joseph-Rouleau"
-      }
-    ]
-  },
-  {
-    "@id": "_:g7795600",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "305 Avenue du Mont-Royal E\r\nMontreal, QC H2T 1P8\r\nCanada"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Montréal (QC)"
-      }
-    ]
-  },
-  {
-    "@id": "_:g7795640",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g7795660"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Salle Joseph-Rouleau"
-      }
-    ]
-  },
-  {
-    "@id": "_:g7795660",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "305 Avenue du Mont-Royal E\r\nMontreal, QC H2T 1P8\r\nCanada"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Montréal (QC)"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.jmcanada.ca/temporary/597cbb75-d7c9-4371-902e-4ab4a3b63fb1",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-05-10T10:00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-05-10T11:30:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g7795580"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://jmcanada.ca/wp-content/uploads/concerts/13842/koperkus-683x400.png"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://jmcanada.ca/fr/concerts/koperkus/"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://jmcanada.ca/fr/concerts/koperkus/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Koperkus"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Une production de Duo Airs ​Les tout-petits sont invités à entrer dans le monde chaleureux et onirique du compositeur québécois Claude Vivier. Ils y feront la connaissance d’Emma qui utilise le pouvoir de son imagination pour transformer les objets, les formes et les sons. Ainsi, les coussins de son lit deviennent des personnages, l’ombre devient [&hellip;]"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.jmcanada.ca/temporary/80f9cb22-ce91-46ee-adab-fcc327946fe7",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-05-10T11:30:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-05-10T12:00:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g7795640"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://jmcanada.ca/wp-content/uploads/concerts/13842/koperkus-683x400.png"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://jmcanada.ca/fr/concerts/koperkus/"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://jmcanada.ca/fr/concerts/koperkus/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Koperkus"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Une production de Duo Airs ​Les tout-petits sont invités à entrer dans le monde chaleureux et onirique du compositeur québécois Claude Vivier. Ils y feront la connaissance d’Emma qui utilise le pouvoir de son imagination pour transformer les objets, les formes et les sons. Ainsi, les coussins de son lit deviennent des personnages, l’ombre devient [&hellip;]"
       }
     ]
   }
