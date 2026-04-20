@@ -250,6 +250,50 @@
     ]
   },
   {
+    "@id": "https://www.voyageursimmobiles.ca/evenements/month/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Évènements - Voyageurs Immobiles"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Évènements Archive - Voyageurs Immobiles"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.voyageursimmobiles.ca/evenements/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Voyageurs Immobiles"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.voyageursimmobiles.ca/wp-json/"
+      }
+    ]
+  },
+  {
     "@id": "https://www.voyageursimmobiles.ca/evenements/list/page/2/",
     "https://ogp.me/ns#locale": [
       {
@@ -370,7 +414,7 @@
     ]
   },
   {
-    "@id": "_:g595920",
+    "@id": "_:g617520",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -381,7 +425,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g595940"
+        "@id": "_:g617540"
       }
     ],
     "http://schema.org/sameAs": [
@@ -409,7 +453,7 @@
     ]
   },
   {
-    "@id": "_:g595940",
+    "@id": "_:g617540",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -433,7 +477,7 @@
     ]
   },
   {
-    "@id": "_:g595960",
+    "@id": "_:g617560",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -473,7 +517,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/cc66c30b-ed43-43e0-83fa-91978ced199c",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/c3793a72-2ada-4b2c-9e3c-c9e3039b451c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -496,12 +540,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g595920"
+        "@id": "_:g617520"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g595960"
+        "@id": "_:g617560"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -627,7 +671,7 @@
     ]
   },
   {
-    "@id": "_:g645480",
+    "@id": "_:g668240",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -638,7 +682,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g645500"
+        "@id": "_:g668260"
       }
     ],
     "http://schema.org/sameAs": [
@@ -666,7 +710,7 @@
     ]
   },
   {
-    "@id": "_:g645500",
+    "@id": "_:g668260",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -690,7 +734,7 @@
     ]
   },
   {
-    "@id": "_:g645520",
+    "@id": "_:g668280",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -730,7 +774,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/44ed7690-b676-4567-9ede-cea7209d102c",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/d24180bb-4346-4d4c-9702-3dec0071a140",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -753,12 +797,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g645480"
+        "@id": "_:g668240"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g645520"
+        "@id": "_:g668280"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -852,7 +896,7 @@
     ]
   },
   {
-    "@id": "_:g668600",
+    "@id": "_:g691600",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -863,7 +907,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g668620"
+        "@id": "_:g691620"
       }
     ],
     "http://schema.org/sameAs": [
@@ -891,7 +935,7 @@
     ]
   },
   {
-    "@id": "_:g668620",
+    "@id": "_:g691620",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -915,7 +959,7 @@
     ]
   },
   {
-    "@id": "_:g668640",
+    "@id": "_:g691640",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -955,7 +999,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/d4b1f836-61d6-43ea-99e0-8ee752e8e219",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/0b468644-9bb0-4399-acab-5393f97e504d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -978,12 +1022,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g668600"
+        "@id": "_:g691600"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g668640"
+        "@id": "_:g691640"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1195,23 +1239,55 @@
     ]
   },
   {
-    "@id": "_:g746560",
+    "@id": "https://www.voyageursimmobiles.ca/evenements/tag/gzaagiin-malenki-je-te-promets-une-foret/month/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.voyageursimmobiles.ca/?taxonomy=&term="
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Voyageurs Immobiles"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.voyageursimmobiles.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g787920",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.voyageursimmobiles.ca/evenements/tag/gzaagiin-malenki-je-te-promets-une-foret/list/"
+        "@id": "https://www.voyageursimmobiles.ca/evenements/tag/gzaagiin-malenki-je-te-promets-une-foret/month/"
       }
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g746580"
+        "@id": "_:g787940"
       }
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://www.voyageursimmobiles.ca/evenements/tag/gzaagiin-malenki-je-te-promets-une-foret/list/"
+        "@id": "https://www.voyageursimmobiles.ca/evenements/tag/gzaagiin-malenki-je-te-promets-une-foret/month/"
       }
     ],
     "http://schema.org/name": [
@@ -1234,7 +1310,7 @@
     ]
   },
   {
-    "@id": "_:g746580",
+    "@id": "_:g787940",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1264,7 +1340,7 @@
     ]
   },
   {
-    "@id": "_:g746600",
+    "@id": "_:g787960",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -1304,7 +1380,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/3cbf7bfc-52dd-43ae-a194-62dc66aa5624",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/35f13a89-80b7-4ff6-811f-fc49a45de226",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1327,17 +1403,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g746560"
+        "@id": "_:g787920"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g746600"
+        "@id": "_:g787960"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.voyageursimmobiles.ca/evenements/tag/gzaagiin-malenki-je-te-promets-une-foret/list/"
+        "@id": "https://www.voyageursimmobiles.ca/evenements/tag/gzaagiin-malenki-je-te-promets-une-foret/month/"
       }
     ],
     "http://schema.org/name": [
@@ -1500,23 +1576,61 @@
     ]
   },
   {
-    "@id": "_:g819500",
+    "@id": "https://www.voyageursimmobiles.ca/evenements/category/representation-scolaire/month/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Représentation scolaire Archives - Voyageurs Immobiles"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.voyageursimmobiles.ca/evenements/category/representation-scolaire/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Voyageurs Immobiles"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.voyageursimmobiles.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g865240",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.voyageursimmobiles.ca/evenements/category/representation-scolaire/list/"
+        "@id": "https://www.voyageursimmobiles.ca/evenements/category/representation-scolaire/month/"
       }
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g819520"
+        "@id": "_:g865260"
       }
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://www.voyageursimmobiles.ca/evenements/category/representation-scolaire/list/"
+        "@id": "https://www.voyageursimmobiles.ca/evenements/category/representation-scolaire/month/"
       }
     ],
     "http://schema.org/name": [
@@ -1539,7 +1653,7 @@
     ]
   },
   {
-    "@id": "_:g819520",
+    "@id": "_:g865260",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1569,7 +1683,7 @@
     ]
   },
   {
-    "@id": "_:g819540",
+    "@id": "_:g865280",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -1609,7 +1723,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/55512639-1c87-4d87-a99b-9454daaa60ef",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/bed709c3-717a-488f-91ee-0a8d3ab076e9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1632,17 +1746,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g819500"
+        "@id": "_:g865240"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g819540"
+        "@id": "_:g865280"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.voyageursimmobiles.ca/evenements/category/representation-scolaire/list/"
+        "@id": "https://www.voyageursimmobiles.ca/evenements/category/representation-scolaire/month/"
       }
     ],
     "http://schema.org/name": [
@@ -1735,7 +1849,7 @@
     ]
   },
   {
-    "@id": "_:g853620",
+    "@id": "_:g888660",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1746,7 +1860,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g853640"
+        "@id": "_:g888680"
       }
     ],
     "http://schema.org/sameAs": [
@@ -1774,7 +1888,7 @@
     ]
   },
   {
-    "@id": "_:g853640",
+    "@id": "_:g888680",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1804,7 +1918,7 @@
     ]
   },
   {
-    "@id": "_:g853660",
+    "@id": "_:g888700",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -1844,7 +1958,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/981a51b3-ea4b-496e-93a3-9ad87fc28ac6",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/0f13444b-593b-487b-a9ba-97de5f9e0762",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1867,12 +1981,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g853620"
+        "@id": "_:g888660"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g853660"
+        "@id": "_:g888700"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1970,7 +2084,7 @@
     ]
   },
   {
-    "@id": "_:g863360",
+    "@id": "_:g897420",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1981,7 +2095,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g863380"
+        "@id": "_:g897440"
       }
     ],
     "http://schema.org/sameAs": [
@@ -2009,7 +2123,7 @@
     ]
   },
   {
-    "@id": "_:g863380",
+    "@id": "_:g897440",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2039,7 +2153,7 @@
     ]
   },
   {
-    "@id": "_:g863400",
+    "@id": "_:g897460",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -2079,7 +2193,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/07b7814a-0bcb-4883-b477-5ebb12b38252",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/e92fc80f-6623-408f-87da-13cdd30595f5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2102,12 +2216,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g863360"
+        "@id": "_:g897420"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g863400"
+        "@id": "_:g897460"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2205,7 +2319,7 @@
     ]
   },
   {
-    "@id": "_:g873200",
+    "@id": "_:g907360",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2216,7 +2330,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g873220"
+        "@id": "_:g907380"
       }
     ],
     "http://schema.org/sameAs": [
@@ -2244,7 +2358,7 @@
     ]
   },
   {
-    "@id": "_:g873220",
+    "@id": "_:g907380",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2274,7 +2388,7 @@
     ]
   },
   {
-    "@id": "_:g873240",
+    "@id": "_:g907400",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -2314,7 +2428,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/3942a6bb-e0ea-455f-8067-0e8da53db3cf",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/87ee949f-1dbe-471b-af35-c7e6ec4a1982",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2337,12 +2451,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g873200"
+        "@id": "_:g907360"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g873240"
+        "@id": "_:g907400"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2440,7 +2554,7 @@
     ]
   },
   {
-    "@id": "_:g883040",
+    "@id": "_:g917320",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2451,7 +2565,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g883060"
+        "@id": "_:g917340"
       }
     ],
     "http://schema.org/sameAs": [
@@ -2479,7 +2593,7 @@
     ]
   },
   {
-    "@id": "_:g883060",
+    "@id": "_:g917340",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2509,7 +2623,7 @@
     ]
   },
   {
-    "@id": "_:g883080",
+    "@id": "_:g917360",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -2549,7 +2663,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/1be639ea-363e-4033-ae6c-064ec85ef48d",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/f8bfd6bc-9900-487c-b5cb-2b3a1a19da69",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2572,12 +2686,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g883040"
+        "@id": "_:g917320"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g883080"
+        "@id": "_:g917360"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2675,7 +2789,7 @@
     ]
   },
   {
-    "@id": "_:g892820",
+    "@id": "_:g927280",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2686,7 +2800,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g892840"
+        "@id": "_:g927300"
       }
     ],
     "http://schema.org/sameAs": [
@@ -2714,7 +2828,7 @@
     ]
   },
   {
-    "@id": "_:g892840",
+    "@id": "_:g927300",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2744,7 +2858,7 @@
     ]
   },
   {
-    "@id": "_:g892860",
+    "@id": "_:g927320",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -2784,7 +2898,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/d82ae7bd-0773-4e7a-b646-4e191d086d06",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/49691c49-e7a8-4b4b-aa4b-07e28296d277",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2807,12 +2921,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g892820"
+        "@id": "_:g927280"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g892860"
+        "@id": "_:g927320"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2910,7 +3024,7 @@
     ]
   },
   {
-    "@id": "_:g902780",
+    "@id": "_:g937240",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2921,7 +3035,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g902800"
+        "@id": "_:g937260"
       }
     ],
     "http://schema.org/sameAs": [
@@ -2949,7 +3063,7 @@
     ]
   },
   {
-    "@id": "_:g902800",
+    "@id": "_:g937260",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2979,7 +3093,7 @@
     ]
   },
   {
-    "@id": "_:g902820",
+    "@id": "_:g937280",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -3019,7 +3133,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/68885820-96d6-4b40-9f08-b80d3817bcbd",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/2a5a847a-37f1-4860-a5f1-a5ac95a5ae92",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3042,12 +3156,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g902780"
+        "@id": "_:g937240"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g902820"
+        "@id": "_:g937280"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3145,7 +3259,7 @@
     ]
   },
   {
-    "@id": "_:g912720",
+    "@id": "_:g947200",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3156,7 +3270,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g912740"
+        "@id": "_:g947220"
       }
     ],
     "http://schema.org/sameAs": [
@@ -3184,7 +3298,7 @@
     ]
   },
   {
-    "@id": "_:g912740",
+    "@id": "_:g947220",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3214,7 +3328,7 @@
     ]
   },
   {
-    "@id": "_:g912760",
+    "@id": "_:g947240",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -3254,7 +3368,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/16276f95-e2b7-402c-b7f7-ac0197d177a2",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/8e8c4b90-242a-492d-a4be-a04d8b9d36f5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3277,12 +3391,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g912720"
+        "@id": "_:g947200"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g912760"
+        "@id": "_:g947240"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3380,7 +3494,7 @@
     ]
   },
   {
-    "@id": "_:g922640",
+    "@id": "_:g956980",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3391,7 +3505,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g922660"
+        "@id": "_:g957000"
       }
     ],
     "http://schema.org/sameAs": [
@@ -3419,7 +3533,7 @@
     ]
   },
   {
-    "@id": "_:g922660",
+    "@id": "_:g957000",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3449,7 +3563,7 @@
     ]
   },
   {
-    "@id": "_:g922680",
+    "@id": "_:g957020",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -3489,7 +3603,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/c339b902-0853-475d-a7e9-af9f48209f90",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/80a17283-b8dc-4a7c-889c-218ab10b9e64",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3512,12 +3626,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g922640"
+        "@id": "_:g956980"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g922680"
+        "@id": "_:g957020"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3615,7 +3729,7 @@
     ]
   },
   {
-    "@id": "_:g932600",
+    "@id": "_:g966760",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3626,7 +3740,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g932620"
+        "@id": "_:g966780"
       }
     ],
     "http://schema.org/sameAs": [
@@ -3654,7 +3768,7 @@
     ]
   },
   {
-    "@id": "_:g932620",
+    "@id": "_:g966780",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3684,7 +3798,7 @@
     ]
   },
   {
-    "@id": "_:g932640",
+    "@id": "_:g966800",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -3724,7 +3838,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/ff4fabb0-28ab-4e44-a861-e15dc6ea26c8",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/465bcef7-fcff-4350-86cc-d52ae3396f3d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3747,12 +3861,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g932600"
+        "@id": "_:g966760"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g932640"
+        "@id": "_:g966800"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3850,7 +3964,7 @@
     ]
   },
   {
-    "@id": "_:g942600",
+    "@id": "_:g976600",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3861,7 +3975,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g942620"
+        "@id": "_:g976620"
       }
     ],
     "http://schema.org/sameAs": [
@@ -3889,7 +4003,7 @@
     ]
   },
   {
-    "@id": "_:g942620",
+    "@id": "_:g976620",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3919,7 +4033,7 @@
     ]
   },
   {
-    "@id": "_:g942640",
+    "@id": "_:g976640",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -3959,7 +4073,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/741670c4-ea30-4433-82ee-a26108d1e563",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/bb58d3f2-3c1f-42f9-a8e3-e71bcad42dcb",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3982,12 +4096,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g942600"
+        "@id": "_:g976600"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g942640"
+        "@id": "_:g976640"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4079,7 +4193,7 @@
     ]
   },
   {
-    "@id": "_:g952580",
+    "@id": "_:g986400",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4090,7 +4204,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g952600"
+        "@id": "_:g986420"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4118,7 +4232,7 @@
     ]
   },
   {
-    "@id": "_:g952600",
+    "@id": "_:g986420",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4148,7 +4262,7 @@
     ]
   },
   {
-    "@id": "_:g952620",
+    "@id": "_:g986440",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -4188,7 +4302,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/b113fedd-6898-481f-8d71-ce5e803ab6b1",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/021d012b-7c93-4795-bcd9-8fa4852ab272",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4211,12 +4325,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g952580"
+        "@id": "_:g986400"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g952620"
+        "@id": "_:g986440"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4308,7 +4422,7 @@
     ]
   },
   {
-    "@id": "_:g962540",
+    "@id": "_:g996200",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4319,7 +4433,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g962560"
+        "@id": "_:g996220"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4347,7 +4461,7 @@
     ]
   },
   {
-    "@id": "_:g962560",
+    "@id": "_:g996220",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4377,7 +4491,7 @@
     ]
   },
   {
-    "@id": "_:g962580",
+    "@id": "_:g996240",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -4417,7 +4531,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/68825cda-d8a5-435d-bd8f-2806427d3053",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/f2b97055-73b4-43cb-988d-3c7acb68a8cc",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4440,12 +4554,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g962540"
+        "@id": "_:g996200"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g962580"
+        "@id": "_:g996240"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4537,7 +4651,7 @@
     ]
   },
   {
-    "@id": "_:g972520",
+    "@id": "_:g1005860",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4548,7 +4662,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g972540"
+        "@id": "_:g1005880"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4576,7 +4690,7 @@
     ]
   },
   {
-    "@id": "_:g972540",
+    "@id": "_:g1005880",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4606,7 +4720,7 @@
     ]
   },
   {
-    "@id": "_:g972560",
+    "@id": "_:g1005900",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -4646,7 +4760,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/3cc6dbe1-ecce-433f-bbed-f676be58c775",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/5194f60e-b335-464b-8e50-75fffcf8c5ef",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4669,12 +4783,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g972520"
+        "@id": "_:g1005860"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g972560"
+        "@id": "_:g1005900"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4844,7 +4958,7 @@
     ]
   },
   {
-    "@id": "_:g1008080",
+    "@id": "_:g1041060",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4855,7 +4969,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1008100"
+        "@id": "_:g1041080"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4883,7 +4997,7 @@
     ]
   },
   {
-    "@id": "_:g1008100",
+    "@id": "_:g1041080",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4907,7 +5021,7 @@
     ]
   },
   {
-    "@id": "_:g1008120",
+    "@id": "_:g1041100",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -4947,7 +5061,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/d9b46a25-9282-4a75-b81a-1fbfd3f9308d",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/35fccd56-f2ca-44a5-a725-2763ba0bc514",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4970,12 +5084,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1008080"
+        "@id": "_:g1041060"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1008120"
+        "@id": "_:g1041100"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5069,7 +5183,7 @@
     ]
   },
   {
-    "@id": "_:g1030680",
+    "@id": "_:g1064280",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -5080,7 +5194,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1030700"
+        "@id": "_:g1064300"
       }
     ],
     "http://schema.org/sameAs": [
@@ -5108,7 +5222,7 @@
     ]
   },
   {
-    "@id": "_:g1030700",
+    "@id": "_:g1064300",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5132,7 +5246,7 @@
     ]
   },
   {
-    "@id": "_:g1030720",
+    "@id": "_:g1064320",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -5172,7 +5286,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/d3a98c49-4a25-4058-b391-1f5af642535c",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/c4633e37-26ad-4e86-9988-0f4260dc8b43",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5195,12 +5309,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1030680"
+        "@id": "_:g1064280"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1030720"
+        "@id": "_:g1064320"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5294,7 +5408,7 @@
     ]
   },
   {
-    "@id": "_:g1039840",
+    "@id": "_:g1073480",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -5334,7 +5448,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/ea977893-268b-4c58-aff4-7505ad6b2f6f",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/7fef1cde-5c69-43bf-83a5-9149203f6995",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5357,7 +5471,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1039840"
+        "@id": "_:g1073480"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5451,7 +5565,7 @@
     ]
   },
   {
-    "@id": "_:g1048860",
+    "@id": "_:g1082720",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -5462,7 +5576,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1048880"
+        "@id": "_:g1082740"
       }
     ],
     "http://schema.org/sameAs": [
@@ -5490,7 +5604,7 @@
     ]
   },
   {
-    "@id": "_:g1048880",
+    "@id": "_:g1082740",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5514,7 +5628,7 @@
     ]
   },
   {
-    "@id": "_:g1048900",
+    "@id": "_:g1082760",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -5554,7 +5668,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/5d10b2d5-aee8-43c5-b3c4-0779d49303bb",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/08d02a43-2e9c-422d-b158-f64370e959bc",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5577,12 +5691,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1048860"
+        "@id": "_:g1082720"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1048900"
+        "@id": "_:g1082760"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5620,7 +5734,7 @@
     ]
   },
   {
-    "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle/",
+    "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-5/",
     "https://ogp.me/ns#locale": [
       {
         "@language": "en-us",
@@ -5642,7 +5756,7 @@
     "https://ogp.me/ns#url": [
       {
         "@language": "en-us",
-        "@value": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle/"
+        "@value": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-5/"
       }
     ],
     "https://ogp.me/ns#site_name": [
@@ -5664,7 +5778,7 @@
     "https://ogp.me/ns#updated_time": [
       {
         "@language": "en-us",
-        "@value": "2025-09-08T18:53:52+00:00"
+        "@value": "2025-09-08T18:52:51+00:00"
       }
     ],
     "https://api.w.org/": [
@@ -5819,7 +5933,7 @@
     ]
   },
   {
-    "@id": "_:g1098540",
+    "@id": "_:g1132420",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -5830,7 +5944,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1098560"
+        "@id": "_:g1132440"
       }
     ],
     "http://schema.org/sameAs": [
@@ -5858,7 +5972,7 @@
     ]
   },
   {
-    "@id": "_:g1098560",
+    "@id": "_:g1132440",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5882,7 +5996,7 @@
     ]
   },
   {
-    "@id": "_:g1098580",
+    "@id": "_:g1132460",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -5922,7 +6036,213 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/d546092a-168f-4240-af16-aae91324f6b0",
+    "@id": "_:g1132500",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.voyageursimmobiles.ca/en/evenements/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1132520"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.voyageursimmobiles.ca/en/evenements/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "St-Paul-de-Serre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1132520",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "St-Paul-de-Serre"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Dordogne"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "France"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1132540",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.cieflorencelavaud.com/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.cieflorencelavaud.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Cie Florence Lavaud &#8211; Chantier Théâtre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1132580",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.voyageursimmobiles.ca/en/evenements/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1132600"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.voyageursimmobiles.ca/en/evenements/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Gatineau"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1132600",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Gatineau"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Québec"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1132620",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.voyageursimmobiles.ca/en/evenements/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.voyageursimmobiles.ca/en/evenements/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Maison Scott-Fairview"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "http://www.voyageursimmobiles.ca/temporary/2d0e3db7-64be-40a3-bca5-5d6f6dffdd13",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5945,12 +6265,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1098540"
+        "@id": "_:g1132420"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1098580"
+        "@id": "_:g1132460"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5962,6 +6282,138 @@
       {
         "@language": "en",
         "@value": "ONDE à table"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.voyageursimmobiles.ca/temporary/0db96144-3498-431f-8865-4ef9fdaf858f",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.voyageursimmobiles.ca/en/evenement/pulsations-france/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-11T18:00:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-11T20:00:00+00:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1132500"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g1132540"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.voyageursimmobiles.ca/en/evenements/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "PulsationS-France"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": "Organization"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.voyageursimmobiles.ca/temporary/6f251835-890d-4022-845a-c20ab9c1ba5c",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.voyageursimmobiles.ca/en/evenement/pulsations-gatineau/"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-13T15:00:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-13T17:00:00+00:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g1132580"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g1132620"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.voyageursimmobiles.ca/en/evenements/list/?eventDisplay=past"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "PulsationS-Gatineau"
       }
     ],
     "http://schema.org/description": [
@@ -6032,23 +6484,67 @@
     ]
   },
   {
-    "@id": "_:g1112060",
+    "@id": "https://www.voyageursimmobiles.ca/en/evenements/month/",
+    "https://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "https://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "https://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Events - Voyageurs Immobiles"
+      }
+    ],
+    "https://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Events Archive - Voyageurs Immobiles"
+      }
+    ],
+    "https://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.voyageursimmobiles.ca/en/evenements/"
+      }
+    ],
+    "https://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Voyageurs Immobiles"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.voyageursimmobiles.ca/en/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1183100",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenements/list/"
+        "@id": "https://www.voyageursimmobiles.ca/en/evenements/month/"
       }
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1112080"
+        "@id": "_:g1183120"
       }
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenements/list/"
+        "@id": "https://www.voyageursimmobiles.ca/en/evenements/month/"
       }
     ],
     "http://schema.org/name": [
@@ -6071,7 +6567,7 @@
     ]
   },
   {
-    "@id": "_:g1112080",
+    "@id": "_:g1183120",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6101,7 +6597,7 @@
     ]
   },
   {
-    "@id": "_:g1112100",
+    "@id": "_:g1183140",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -6141,7 +6637,334 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/05a2b993-5394-45d8-8960-277e1866d2e1",
+    "@id": "_:g1183180",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.voyageursimmobiles.ca/en/evenements/month/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1183200"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.voyageursimmobiles.ca/en/evenements/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "St-Jean-sur-Richelieu"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1183200",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "30, boulevard du Séminaire N."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "St-Jean-sur-Richelieu"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Québec"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1183220",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spec.qc.ca/programmation"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://spec.qc.ca/programmation"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "SPEC du Haut Richelieu"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1183260",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.voyageursimmobiles.ca/en/evenements/month/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1183280"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.voyageursimmobiles.ca/en/evenements/month/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "St-Jean-sur-Richelieu"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1183280",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "30, boulevard du Séminaire N."
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "St-Jean-sur-Richelieu"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Québec"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1183300",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://spec.qc.ca/programmation"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://spec.qc.ca/programmation"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "SPEC du Haut Richelieu"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1183500",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.voyageursimmobiles.ca/en/evenements/month/"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g1183520"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.culture3r.com/programmation/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Trois-Rivières"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g1183520",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "1425 place de l&#039;Hôtel de Ville"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "Trois-Rivières"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": "Québec"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "_:g1183540",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.culture3r.com/programmation/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.culture3r.com/programmation/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Culture3R"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "http://www.voyageursimmobiles.ca/temporary/44d4e291-c17c-4e4e-a7df-df81307c2960",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6164,17 +6987,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1112060"
+        "@id": "_:g1183100"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1112100"
+        "@id": "_:g1183140"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenements/list/"
+        "@id": "https://www.voyageursimmobiles.ca/en/evenements/month/"
       }
     ],
     "http://schema.org/name": [
@@ -6207,614 +7030,7 @@
     ]
   },
   {
-    "@id": "https://www.voyageursimmobiles.ca/en/evenement/pulsations-gatineau/",
-    "https://ogp.me/ns#locale": [
-      {
-        "@language": "en-us",
-        "@value": "en_US"
-      }
-    ],
-    "https://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "article"
-      }
-    ],
-    "https://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "PulsationS-Gatineau - Voyageurs Immobiles"
-      }
-    ],
-    "https://ogp.me/ns#url": [
-      {
-        "@language": "en-us",
-        "@value": "https://www.voyageursimmobiles.ca/en/evenement/pulsations-gatineau/"
-      }
-    ],
-    "https://ogp.me/ns#site_name": [
-      {
-        "@language": "en-us",
-        "@value": "Voyageurs Immobiles"
-      }
-    ],
-    "article:tag": [
-      {
-        "@language": "en-us",
-        "@value": "PulsationS"
-      }
-    ],
-    "https://ogp.me/ns#updated_time": [
-      {
-        "@language": "en-us",
-        "@value": "2025-11-24T16:24:14+00:00"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://www.voyageursimmobiles.ca/en/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "PulsationS-Gatineau"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1146260",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenement/pulsations-gatineau/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g1146280"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenement/pulsations-gatineau/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Gatineau"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "_:g1146280",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Gatineau"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "Québec"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "Canada"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1146300",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenement/pulsations-gatineau/"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenement/pulsations-gatineau/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Maison Scott-Fairview"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/9671cc14-0577-42f4-bf24-3be5fe438d19",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenement/pulsations-gatineau/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-12-13T15:00:00+00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-12-13T17:00:00+00:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g1146260"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g1146300"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenement/pulsations-gatineau/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "PulsationS-Gatineau"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@language": "en",
-        "@value": "Organization"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.voyageursimmobiles.ca/en/evenement/pulsations-france/",
-    "https://ogp.me/ns#locale": [
-      {
-        "@language": "en-us",
-        "@value": "en_US"
-      }
-    ],
-    "https://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "article"
-      }
-    ],
-    "https://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "PulsationS-France - Voyageurs Immobiles"
-      }
-    ],
-    "https://ogp.me/ns#url": [
-      {
-        "@language": "en-us",
-        "@value": "https://www.voyageursimmobiles.ca/en/evenement/pulsations-france/"
-      }
-    ],
-    "https://ogp.me/ns#site_name": [
-      {
-        "@language": "en-us",
-        "@value": "Voyageurs Immobiles"
-      }
-    ],
-    "article:tag": [
-      {
-        "@language": "en-us",
-        "@value": "PulsationS"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://www.voyageursimmobiles.ca/en/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "PulsationS-France"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1155260",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenement/pulsations-france/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g1155280"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenement/pulsations-france/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "St-Paul-de-Serre"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "_:g1155280",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "St-Paul-de-Serre"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "Dordogne"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "France"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1155300",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.cieflorencelavaud.com/"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.cieflorencelavaud.com/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Cie Florence Lavaud &#8211; Chantier Théâtre"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/a82b4f55-cd91-4394-b877-bcc6aeac39ea",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenement/pulsations-france/"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-10-11T18:00:00+00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-10-11T20:00:00+00:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g1155260"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g1155300"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenement/pulsations-france/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "PulsationS-France"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@language": "en",
-        "@value": "Organization"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-4/",
-    "https://ogp.me/ns#locale": [
-      {
-        "@language": "en-us",
-        "@value": "en_US"
-      }
-    ],
-    "https://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "article"
-      }
-    ],
-    "https://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "G'zaagiin maleńki - Je te promets une forêt - Voyageurs Immobiles"
-      }
-    ],
-    "https://ogp.me/ns#url": [
-      {
-        "@language": "en-us",
-        "@value": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-4/"
-      }
-    ],
-    "https://ogp.me/ns#site_name": [
-      {
-        "@language": "en-us",
-        "@value": "Voyageurs Immobiles"
-      }
-    ],
-    "article:tag": [
-      {
-        "@language": "en-us",
-        "@value": "G'zaagiin maleńki - Je te promets une forêt (en salle)"
-      },
-      {
-        "@language": "en-us",
-        "@value": "G’zaagiin maleńki – je te promets une forêt"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://www.voyageursimmobiles.ca/en/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "G&#8217;zaagiin maleńki &#8211; Je te promets une forêt"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1164920",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-4/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g1164940"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-4/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "St-Jean-sur-Richelieu"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "_:g1164940",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "30, boulevard du Séminaire N."
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "St-Jean-sur-Richelieu"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "Québec"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "Canada"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1164960",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://spec.qc.ca/programmation"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://spec.qc.ca/programmation"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "SPEC du Haut Richelieu"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/5aa02c33-03c2-4479-9102-18dacdc5dd94",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/00687a93-6eaa-44de-9916-80f6b7344c17",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6837,17 +7053,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1164920"
+        "@id": "_:g1183180"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1164960"
+        "@id": "_:g1183220"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-4/"
+        "@id": "https://www.voyageursimmobiles.ca/en/evenements/month/"
       }
     ],
     "http://schema.org/name": [
@@ -6880,176 +7096,7 @@
     ]
   },
   {
-    "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-2/",
-    "https://ogp.me/ns#locale": [
-      {
-        "@language": "en-us",
-        "@value": "en_US"
-      }
-    ],
-    "https://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "article"
-      }
-    ],
-    "https://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "G'zaagiin maleńki - Je te promets une forêt - Voyageurs Immobiles"
-      }
-    ],
-    "https://ogp.me/ns#url": [
-      {
-        "@language": "en-us",
-        "@value": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-2/"
-      }
-    ],
-    "https://ogp.me/ns#site_name": [
-      {
-        "@language": "en-us",
-        "@value": "Voyageurs Immobiles"
-      }
-    ],
-    "article:tag": [
-      {
-        "@language": "en-us",
-        "@value": "G'zaagiin maleńki - Je te promets une forêt (en salle)"
-      },
-      {
-        "@language": "en-us",
-        "@value": "G’zaagiin maleńki – je te promets une forêt"
-      }
-    ],
-    "https://ogp.me/ns#updated_time": [
-      {
-        "@language": "en-us",
-        "@value": "2025-09-08T18:53:36+00:00"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://www.voyageursimmobiles.ca/en/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "G&#8217;zaagiin maleńki &#8211; Je te promets une forêt"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1178660",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-2/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g1178680"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-2/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "St-Jean-sur-Richelieu"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "_:g1178680",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "30, boulevard du Séminaire N."
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "St-Jean-sur-Richelieu"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "Québec"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "Canada"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1178700",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://spec.qc.ca/programmation"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://spec.qc.ca/programmation"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "SPEC du Haut Richelieu"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/63591057-e317-4b36-92fb-7616aec72446",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/85b1529d-3e46-4d61-b801-5e2d420cd468",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7072,17 +7119,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1178660"
+        "@id": "_:g1183260"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1178700"
+        "@id": "_:g1183300"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-2/"
+        "@id": "https://www.voyageursimmobiles.ca/en/evenements/month/"
       }
     ],
     "http://schema.org/name": [
@@ -7115,209 +7162,40 @@
     ]
   },
   {
-    "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-3/",
-    "https://ogp.me/ns#locale": [
-      {
-        "@language": "en-us",
-        "@value": "en_US"
-      }
-    ],
-    "https://ogp.me/ns#type": [
-      {
-        "@language": "en-us",
-        "@value": "article"
-      }
-    ],
-    "https://ogp.me/ns#title": [
-      {
-        "@language": "en-us",
-        "@value": "G'zaagiin maleńki - Je te promets une forêt - Voyageurs Immobiles"
-      }
-    ],
-    "https://ogp.me/ns#url": [
-      {
-        "@language": "en-us",
-        "@value": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-3/"
-      }
-    ],
-    "https://ogp.me/ns#site_name": [
-      {
-        "@language": "en-us",
-        "@value": "Voyageurs Immobiles"
-      }
-    ],
-    "article:tag": [
-      {
-        "@language": "en-us",
-        "@value": "G'zaagiin maleńki - Je te promets une forêt (en salle)"
-      },
-      {
-        "@language": "en-us",
-        "@value": "G’zaagiin maleńki – je te promets une forêt"
-      }
-    ],
-    "https://ogp.me/ns#updated_time": [
-      {
-        "@language": "en-us",
-        "@value": "2025-09-08T18:53:22+00:00"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://www.voyageursimmobiles.ca/en/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "G&#8217;zaagiin maleńki &#8211; Je te promets une forêt"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1188440",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-3/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g1188460"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-3/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "St-Jean-sur-Richelieu"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "_:g1188460",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "30, boulevard du Séminaire N."
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "St-Jean-sur-Richelieu"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "Québec"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "Canada"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1188480",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://spec.qc.ca/programmation"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://spec.qc.ca/programmation"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "SPEC du Haut Richelieu"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/email": [
-      {
-        "@language": "en",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/5ff09e61-3a58-4624-92be-200829cfa49e",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/655e58ca-085e-4e06-a7cc-70651b75599b",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-3/"
+        "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-5/"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-04-15T09:30:00+00:00"
+        "@value": "2026-04-26T11:00:00+00:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-04-15T17:00:00+00:00"
+        "@value": "2026-04-26T17:00:00+00:00"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1188440"
+        "@id": "_:g1183500"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1188480"
+        "@id": "_:g1183540"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-3/"
+        "@id": "https://www.voyageursimmobiles.ca/en/evenements/month/"
       }
     ],
     "http://schema.org/name": [
@@ -7410,7 +7288,7 @@
     ]
   },
   {
-    "@id": "_:g1198380",
+    "@id": "_:g1209720",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -7421,7 +7299,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1198400"
+        "@id": "_:g1209740"
       }
     ],
     "http://schema.org/sameAs": [
@@ -7449,7 +7327,7 @@
     ]
   },
   {
-    "@id": "_:g1198400",
+    "@id": "_:g1209740",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7479,7 +7357,7 @@
     ]
   },
   {
-    "@id": "_:g1198420",
+    "@id": "_:g1209760",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -7519,7 +7397,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/d57da251-52a1-4391-a7f2-478e3043f389",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/7e7327e5-a340-4850-8a1c-67976746557f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -7542,12 +7420,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1198380"
+        "@id": "_:g1209720"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1198420"
+        "@id": "_:g1209760"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -7585,7 +7463,7 @@
     ]
   },
   {
-    "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-5/",
+    "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-3/",
     "https://ogp.me/ns#locale": [
       {
         "@language": "en-us",
@@ -7607,7 +7485,7 @@
     "https://ogp.me/ns#url": [
       {
         "@language": "en-us",
-        "@value": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-5/"
+        "@value": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-3/"
       }
     ],
     "https://ogp.me/ns#site_name": [
@@ -7629,7 +7507,7 @@
     "https://ogp.me/ns#updated_time": [
       {
         "@language": "en-us",
-        "@value": "2025-09-08T18:52:51+00:00"
+        "@value": "2025-09-08T18:53:22+00:00"
       }
     ],
     "https://api.w.org/": [
@@ -7645,29 +7523,29 @@
     ]
   },
   {
-    "@id": "_:g1208340",
+    "@id": "_:g1222860",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-5/"
+        "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-3/"
       }
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1208360"
+        "@id": "_:g1222880"
       }
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://www.culture3r.com/programmation/"
+        "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-3/"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Trois-Rivières"
+        "@value": "St-Jean-sur-Richelieu"
       }
     ],
     "http://schema.org/description": [
@@ -7684,20 +7562,20 @@
     ]
   },
   {
-    "@id": "_:g1208360",
+    "@id": "_:g1222880",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/streetAddress": [
       {
         "@language": "en",
-        "@value": "1425 place de l&#039;Hôtel de Ville"
+        "@value": "30, boulevard du Séminaire N."
       }
     ],
     "http://schema.org/addressLocality": [
       {
         "@language": "en",
-        "@value": "Trois-Rivières"
+        "@value": "St-Jean-sur-Richelieu"
       }
     ],
     "http://schema.org/addressRegion": [
@@ -7714,24 +7592,24 @@
     ]
   },
   {
-    "@id": "_:g1208380",
+    "@id": "_:g1222900",
     "@type": [
       "http://schema.org/Person"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.culture3r.com/programmation/"
+        "@id": "https://spec.qc.ca/programmation"
       }
     ],
     "http://schema.org/sameAs": [
       {
-        "@id": "https://www.culture3r.com/programmation/"
+        "@id": "https://spec.qc.ca/programmation"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "Culture3R"
+        "@value": "SPEC du Haut Richelieu"
       }
     ],
     "http://schema.org/description": [
@@ -7754,40 +7632,40 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/fa57c591-e474-479f-bfa9-ca072635e871",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/5553a545-4294-4dd4-a46e-cd35a855cc89",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-5/"
+        "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-3/"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-04-26T11:00:00+00:00"
+        "@value": "2026-04-15T09:30:00+00:00"
       }
     ],
     "http://schema.org/endDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-04-26T17:00:00+00:00"
+        "@value": "2026-04-15T17:00:00+00:00"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1208340"
+        "@id": "_:g1222860"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1208380"
+        "@id": "_:g1222900"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-5/"
+        "@id": "https://www.voyageursimmobiles.ca/en/evenement/gzaagiin-malenki-je-te-promets-une-foret-en-salle-3/"
       }
     ],
     "http://schema.org/name": [
@@ -7880,7 +7758,7 @@
     ]
   },
   {
-    "@id": "_:g1218300",
+    "@id": "_:g1231660",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -7891,7 +7769,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1218320"
+        "@id": "_:g1231680"
       }
     ],
     "http://schema.org/sameAs": [
@@ -7919,7 +7797,7 @@
     ]
   },
   {
-    "@id": "_:g1218320",
+    "@id": "_:g1231680",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7949,7 +7827,7 @@
     ]
   },
   {
-    "@id": "_:g1218340",
+    "@id": "_:g1231700",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -7989,7 +7867,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/182c47fd-e0d4-446e-96a4-048baa15d437",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/77467d0a-43f5-48e3-961b-ff19f192631b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8012,12 +7890,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1218300"
+        "@id": "_:g1231660"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1218340"
+        "@id": "_:g1231700"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -8115,7 +7993,7 @@
     ]
   },
   {
-    "@id": "_:g1228260",
+    "@id": "_:g1241560",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -8126,7 +8004,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1228280"
+        "@id": "_:g1241580"
       }
     ],
     "http://schema.org/sameAs": [
@@ -8154,7 +8032,7 @@
     ]
   },
   {
-    "@id": "_:g1228280",
+    "@id": "_:g1241580",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -8184,7 +8062,7 @@
     ]
   },
   {
-    "@id": "_:g1228300",
+    "@id": "_:g1241600",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -8224,7 +8102,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/ac5c1176-1d86-4ea6-99bc-7bc5fe587674",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/20a7b04b-e953-4d06-8706-031ee505d88f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8247,12 +8125,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1228260"
+        "@id": "_:g1241560"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1228300"
+        "@id": "_:g1241600"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -8350,7 +8228,7 @@
     ]
   },
   {
-    "@id": "_:g1238220",
+    "@id": "_:g1251460",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -8361,7 +8239,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1238240"
+        "@id": "_:g1251480"
       }
     ],
     "http://schema.org/sameAs": [
@@ -8389,7 +8267,7 @@
     ]
   },
   {
-    "@id": "_:g1238240",
+    "@id": "_:g1251480",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -8419,7 +8297,7 @@
     ]
   },
   {
-    "@id": "_:g1238260",
+    "@id": "_:g1251500",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -8459,7 +8337,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/0c2fbbf7-bfb4-4cdb-9242-6770684aeca9",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/9ecc338b-5c2b-42f8-b53a-1ed53c8bc803",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8482,12 +8360,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1238220"
+        "@id": "_:g1251460"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1238260"
+        "@id": "_:g1251500"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -8585,7 +8463,7 @@
     ]
   },
   {
-    "@id": "_:g1248180",
+    "@id": "_:g1261380",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -8596,7 +8474,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1248200"
+        "@id": "_:g1261400"
       }
     ],
     "http://schema.org/sameAs": [
@@ -8624,7 +8502,7 @@
     ]
   },
   {
-    "@id": "_:g1248200",
+    "@id": "_:g1261400",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -8654,7 +8532,7 @@
     ]
   },
   {
-    "@id": "_:g1248220",
+    "@id": "_:g1261420",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -8694,7 +8572,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/80707295-ee87-43f0-a327-118c9f918ef7",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/25c2c13b-bc13-4000-ba6a-9aba4c029aa6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8717,12 +8595,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1248180"
+        "@id": "_:g1261380"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1248220"
+        "@id": "_:g1261420"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -8820,7 +8698,7 @@
     ]
   },
   {
-    "@id": "_:g1258140",
+    "@id": "_:g1271260",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -8831,7 +8709,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1258160"
+        "@id": "_:g1271280"
       }
     ],
     "http://schema.org/sameAs": [
@@ -8859,7 +8737,7 @@
     ]
   },
   {
-    "@id": "_:g1258160",
+    "@id": "_:g1271280",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -8889,7 +8767,7 @@
     ]
   },
   {
-    "@id": "_:g1258180",
+    "@id": "_:g1271300",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -8929,7 +8807,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/2b3a452c-3a37-434f-8496-a43adf891633",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/8b0b7f1c-bd31-4781-abf7-ac422bfb4ce9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -8952,12 +8830,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1258140"
+        "@id": "_:g1271260"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1258180"
+        "@id": "_:g1271300"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -9055,7 +8933,7 @@
     ]
   },
   {
-    "@id": "_:g1268100",
+    "@id": "_:g1281060",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -9066,7 +8944,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1268120"
+        "@id": "_:g1281080"
       }
     ],
     "http://schema.org/sameAs": [
@@ -9094,7 +8972,7 @@
     ]
   },
   {
-    "@id": "_:g1268120",
+    "@id": "_:g1281080",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -9124,7 +9002,7 @@
     ]
   },
   {
-    "@id": "_:g1268140",
+    "@id": "_:g1281100",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -9164,7 +9042,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/74179ff8-611a-442a-8fe8-c5a8a812b91b",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/524d0260-83c8-4692-b8c1-25ce026dbac4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9187,12 +9065,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1268100"
+        "@id": "_:g1281060"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1268140"
+        "@id": "_:g1281100"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -9284,7 +9162,7 @@
     ]
   },
   {
-    "@id": "_:g1278040",
+    "@id": "_:g1290980",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -9295,7 +9173,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1278060"
+        "@id": "_:g1291000"
       }
     ],
     "http://schema.org/sameAs": [
@@ -9323,7 +9201,7 @@
     ]
   },
   {
-    "@id": "_:g1278060",
+    "@id": "_:g1291000",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -9353,7 +9231,7 @@
     ]
   },
   {
-    "@id": "_:g1278080",
+    "@id": "_:g1291020",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -9393,7 +9271,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/1e17d9b5-cabe-44ca-8101-5afd3582218b",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/16ff65d4-283b-4018-b784-6d6ab356efcf",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9416,12 +9294,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1278040"
+        "@id": "_:g1290980"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1278080"
+        "@id": "_:g1291020"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -9513,7 +9391,7 @@
     ]
   },
   {
-    "@id": "_:g1287960",
+    "@id": "_:g1300880",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -9524,7 +9402,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1287980"
+        "@id": "_:g1300900"
       }
     ],
     "http://schema.org/sameAs": [
@@ -9552,7 +9430,7 @@
     ]
   },
   {
-    "@id": "_:g1287980",
+    "@id": "_:g1300900",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -9582,7 +9460,7 @@
     ]
   },
   {
-    "@id": "_:g1288000",
+    "@id": "_:g1300920",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -9622,7 +9500,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/b3bd963f-0d92-4106-9717-46319fc9f58d",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/4fb44d5e-7775-43dc-bbb0-ed52f2f9f7c7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9645,12 +9523,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1287960"
+        "@id": "_:g1300880"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1288000"
+        "@id": "_:g1300920"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -9742,7 +9620,7 @@
     ]
   },
   {
-    "@id": "_:g1298000",
+    "@id": "_:g1310920",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -9753,7 +9631,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1298020"
+        "@id": "_:g1310940"
       }
     ],
     "http://schema.org/sameAs": [
@@ -9781,7 +9659,7 @@
     ]
   },
   {
-    "@id": "_:g1298020",
+    "@id": "_:g1310940",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -9811,7 +9689,7 @@
     ]
   },
   {
-    "@id": "_:g1298040",
+    "@id": "_:g1310960",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -9851,7 +9729,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/8691f8d5-6de6-47db-852d-0c1d83cb4dda",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/813b6e9c-cd72-489d-895b-0282d2263891",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -9874,12 +9752,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1298000"
+        "@id": "_:g1310920"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1298040"
+        "@id": "_:g1310960"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -9973,7 +9851,7 @@
     ]
   },
   {
-    "@id": "_:g1308040",
+    "@id": "_:g1321020",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -9984,7 +9862,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1308060"
+        "@id": "_:g1321040"
       }
     ],
     "http://schema.org/sameAs": [
@@ -10012,7 +9890,7 @@
     ]
   },
   {
-    "@id": "_:g1308060",
+    "@id": "_:g1321040",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -10036,7 +9914,7 @@
     ]
   },
   {
-    "@id": "_:g1308080",
+    "@id": "_:g1321060",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -10076,7 +9954,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/02e083f2-0563-4bca-888f-b7ab4748c44b",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/02b48d6e-222f-4f7b-b48f-bfb206814f7a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10099,12 +9977,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1308040"
+        "@id": "_:g1321020"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1308080"
+        "@id": "_:g1321060"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -10198,7 +10076,7 @@
     ]
   },
   {
-    "@id": "_:g1317980",
+    "@id": "_:g1331040",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -10209,7 +10087,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1318000"
+        "@id": "_:g1331060"
       }
     ],
     "http://schema.org/sameAs": [
@@ -10237,7 +10115,7 @@
     ]
   },
   {
-    "@id": "_:g1318000",
+    "@id": "_:g1331060",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -10261,7 +10139,7 @@
     ]
   },
   {
-    "@id": "_:g1318020",
+    "@id": "_:g1331080",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -10301,7 +10179,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/3b2e6e55-968c-4e6e-b299-52d538b833c8",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/a536b4e0-26ae-412b-b19c-c9bb2bd12f3b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10324,12 +10202,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1317980"
+        "@id": "_:g1331040"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1318020"
+        "@id": "_:g1331080"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -10423,7 +10301,7 @@
     ]
   },
   {
-    "@id": "_:g1328020",
+    "@id": "_:g1341060",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -10463,7 +10341,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/58246a5f-6336-409d-858d-a2d135159ad9",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/75a0a97a-e08a-4a2b-9ddc-36b319edde24",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10486,7 +10364,7 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1328020"
+        "@id": "_:g1341060"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -10580,7 +10458,7 @@
     ]
   },
   {
-    "@id": "_:g1337400",
+    "@id": "_:g1350420",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -10591,7 +10469,7 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1337420"
+        "@id": "_:g1350440"
       }
     ],
     "http://schema.org/sameAs": [
@@ -10619,7 +10497,7 @@
     ]
   },
   {
-    "@id": "_:g1337420",
+    "@id": "_:g1350440",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -10643,7 +10521,7 @@
     ]
   },
   {
-    "@id": "_:g1337440",
+    "@id": "_:g1350460",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -10683,7 +10561,7 @@
     ]
   },
   {
-    "@id": "http://www.voyageursimmobiles.ca/temporary/e434ef6e-527b-4c37-9b61-d802d1f9e56b",
+    "@id": "http://www.voyageursimmobiles.ca/temporary/cb97cf2c-c319-4e94-bbb3-86b99aebf820",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -10706,12 +10584,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1337400"
+        "@id": "_:g1350420"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1337440"
+        "@id": "_:g1350460"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
