@@ -1,0 +1,734 @@
+[
+  {
+    "@id": "_:g531080",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Harmony Centre"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "890 4th Ave East, Owen Sound, ON"
+      }
+    ]
+  },
+  {
+    "@id": "_:g531100",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.eventbrite.ca/e/queens-bush-bluegrass-club-presents-the-barrel-boys-onion-honey-tickets-1983613042006?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Tickets"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.thebarrelboys.com/temporary/d7b96106-1967-467a-8bb9-9b291677ee2c",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-02T19:00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thebarrelboys.com/event/6426571/750922265/the-barrel-boys-with-onion-honey-queen-s-bush-bluegrass-club"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g531080"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g531100"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.thebarrelboys.com/go/events/6426571?feature_id=232806&occurrence_id=750922265&popup=1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Barrel Boys (with Onion Honey) - Queen's Bush Bluegrass Club"
+      }
+    ]
+  },
+  {
+    "@id": "https://thebarrelboys.com/event/6452544/757161833/the-barrel-boys-at-goodlot",
+    "http://opengraphprotocol.org/schema/title": [
+      {
+        "@value": "The Barrel Boys at GoodLot @ GoodLot Farmstead Brewing Co. - May 1, 2026, 8:00PM"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/description": [
+      {
+        "@value": "The Barrel Boys at GoodLot — GoodLot Farmstead Brewing Co., Alton, ON"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/image": [
+      {
+        "@value": "https://images.zoogletools.com/s:bzglfiles/u/227858/9a15b7eb0e8c765ea283d7b8352c670541d251a2/original/word-mark.png/!!/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/image:width": [
+      {
+        "@value": "2500"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/image:height": [
+      {
+        "@value": "2500"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/url": [
+      {
+        "@value": "https://thebarrelboys.com/event/6452544/757161833"
+      }
+    ]
+  },
+  {
+    "@id": "_:g555600",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "GoodLot Farmstead Brewing Co."
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "18825 Shaws Creek Rd, Alton, ON"
+      }
+    ]
+  },
+  {
+    "@id": "_:g555620",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.showpass.com/the-barrel-boys-at-goodlot/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Tickets"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.thebarrelboys.com/temporary/4b7f9d6a-85f3-4d25-988e-6bbce52645db",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thebarrelboys.com/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://thebarrelboys.com/event/6452544/757161833/the-barrel-boys-at-goodlot"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Barrel Boys"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.thebarrelboys.com/temporary/5d786fc3-89bf-4846-8f77-e7422f4f5458",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-01T20:00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thebarrelboys.com/event/6452544/757161833/the-barrel-boys-at-goodlot"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g555600"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g555620"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://thebarrelboys.com/event/6452544/757161833/the-barrel-boys-at-goodlot"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Barrel Boys at GoodLot"
+      }
+    ]
+  },
+  {
+    "@id": "https://thebarrelboys.com/event/6521658/758334498/the-barrel-boys-bluegrass-at-the-muse",
+    "http://opengraphprotocol.org/schema/title": [
+      {
+        "@value": "The Barrel Boys: Bluegrass at The Muse @ Co-operator’s Theatre, Stratford Perth Museum - May 3, 2026, 2:00PM"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/description": [
+      {
+        "@value": "The Barrel Boys: Bluegrass at The Muse — Co-operator’s Theatre, Stratford Perth Museum, Stratford, ON"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/image": [
+      {
+        "@value": "https://images.zoogletools.com/s:bzglfiles/u/227858/9a15b7eb0e8c765ea283d7b8352c670541d251a2/original/word-mark.png/!!/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/image:width": [
+      {
+        "@value": "2500"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/image:height": [
+      {
+        "@value": "2500"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/url": [
+      {
+        "@value": "https://thebarrelboys.com/event/6521658/758334498"
+      }
+    ]
+  },
+  {
+    "@id": "_:g561480",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Co-operator’s Theatre, Stratford Perth Museum"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "4275 Huron Road, Stratford, ON"
+      }
+    ]
+  },
+  {
+    "@id": "_:g561500",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.stratfordperthmuseum.ca/the-barrel-boys-bluegrass-at-the-muse/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Tickets"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$35 (+tax and fees) General Admission"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.thebarrelboys.com/temporary/2d5abe56-ffde-42c8-8331-6786229d4601",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thebarrelboys.com/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://thebarrelboys.com/event/6521658/758334498/the-barrel-boys-bluegrass-at-the-muse"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Barrel Boys"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.thebarrelboys.com/temporary/419cc497-7d18-4786-9d56-3e2058346e14",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-03T14:00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thebarrelboys.com/event/6521658/758334498/the-barrel-boys-bluegrass-at-the-muse"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g561480"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g561500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://thebarrelboys.com/event/6521658/758334498/the-barrel-boys-bluegrass-at-the-muse"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Barrel Boys: Bluegrass at The Muse"
+      }
+    ]
+  },
+  {
+    "@id": "https://thebarrelboys.com/event/6426582/750922276/kluane-mountain-bluegrass-festival",
+    "http://opengraphprotocol.org/schema/title": [
+      {
+        "@value": "Kluane Mountain Bluegrass Festival @ St. Elias Centre - Jun 12, 2026"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/description": [
+      {
+        "@value": "Kluane Mountain Bluegrass Festival — St. Elias Centre, Haine's Junction, YT"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/image": [
+      {
+        "@value": "https://images.zoogletools.com/s:bzglfiles/u/227858/9a15b7eb0e8c765ea283d7b8352c670541d251a2/original/word-mark.png/!!/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/image:width": [
+      {
+        "@value": "2500"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/image:height": [
+      {
+        "@value": "2500"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/url": [
+      {
+        "@value": "https://thebarrelboys.com/event/6426582/750922276"
+      }
+    ]
+  },
+  {
+    "@id": "_:g567560",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "St. Elias Centre"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "Haine's Junction, YT"
+      }
+    ]
+  },
+  {
+    "@id": "_:g567580",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://yukonbluegrass.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Tickets"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.thebarrelboys.com/temporary/5953ca92-b271-428a-880f-41cb970c7b9f",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thebarrelboys.com/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://thebarrelboys.com/event/6426582/750922276/kluane-mountain-bluegrass-festival"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Barrel Boys"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.thebarrelboys.com/temporary/d15ba861-9865-40f2-a3e2-809180a40bb5",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-12T00:00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thebarrelboys.com/event/6426582/750922276/kluane-mountain-bluegrass-festival"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-14T00:00:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g567560"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g567580"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://thebarrelboys.com/event/6426582/750922276/kluane-mountain-bluegrass-festival"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Kluane Mountain Bluegrass Festival"
+      }
+    ]
+  },
+  {
+    "@id": "https://thebarrelboys.com/event/6426587/750922281/cowichan-valley-bluegrass-festival",
+    "http://opengraphprotocol.org/schema/title": [
+      {
+        "@value": "Cowichan Valley Bluegrass Festival @ Laketown Ranch Music Park - Jun 19, 2026"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/description": [
+      {
+        "@value": "Cowichan Valley Bluegrass Festival — Laketown Ranch Music Park, Lake Cowichan, BC"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/image": [
+      {
+        "@value": "https://images.zoogletools.com/s:bzglfiles/u/227858/9a15b7eb0e8c765ea283d7b8352c670541d251a2/original/word-mark.png/!!/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/image:width": [
+      {
+        "@value": "2500"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/image:height": [
+      {
+        "@value": "2500"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/url": [
+      {
+        "@value": "https://thebarrelboys.com/event/6426587/750922281"
+      }
+    ]
+  },
+  {
+    "@id": "_:g573680",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Laketown Ranch Music Park"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "Lake Cowichan, BC"
+      }
+    ]
+  },
+  {
+    "@id": "_:g573700",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cowichanbluegrass.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Tickets"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.thebarrelboys.com/temporary/aabecb2a-5d40-45f3-b10d-24d904d40640",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thebarrelboys.com/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://thebarrelboys.com/event/6426587/750922281/cowichan-valley-bluegrass-festival"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Barrel Boys"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.thebarrelboys.com/temporary/1ee64d74-b3d9-4454-8b1b-63591fa4fccf",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-19T00:00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thebarrelboys.com/event/6426587/750922281/cowichan-valley-bluegrass-festival"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-21T00:00:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g573680"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g573700"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://thebarrelboys.com/event/6426587/750922281/cowichan-valley-bluegrass-festival"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Cowichan Valley Bluegrass Festival"
+      }
+    ]
+  },
+  {
+    "@id": "https://thebarrelboys.com/event/6426596/750922338/trout-forest-music-festival",
+    "http://opengraphprotocol.org/schema/title": [
+      {
+        "@value": "Trout Forest Music Festival @ Ear Falls Waterfront Park - Aug 14, 2026"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/description": [
+      {
+        "@value": "Trout Forest Music Festival — Ear Falls Waterfront Park, Ear Falls, ON"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/image": [
+      {
+        "@value": "https://images.zoogletools.com/s:bzglfiles/u/227858/9a15b7eb0e8c765ea283d7b8352c670541d251a2/original/word-mark.png/!!/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/image:width": [
+      {
+        "@value": "2500"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/image:height": [
+      {
+        "@value": "2500"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/url": [
+      {
+        "@value": "https://thebarrelboys.com/event/6426596/750922338"
+      }
+    ]
+  },
+  {
+    "@id": "_:g579900",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Ear Falls Waterfront Park"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "Ear Falls, ON"
+      }
+    ]
+  },
+  {
+    "@id": "_:g579920",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.troutfest.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Tickets"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.thebarrelboys.com/temporary/42c0e653-0c62-4c13-b34a-46e5cfe22ade",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thebarrelboys.com/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://thebarrelboys.com/event/6426596/750922338/trout-forest-music-festival"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Barrel Boys"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.thebarrelboys.com/temporary/5b8c3df6-e3fd-4067-a872-8aa105fc35b4",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-14T00:00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thebarrelboys.com/event/6426596/750922338/trout-forest-music-festival"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-16T00:00:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g579900"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g579920"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://thebarrelboys.com/event/6426596/750922338/trout-forest-music-festival"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Trout Forest Music Festival"
+      }
+    ]
+  }
+]
