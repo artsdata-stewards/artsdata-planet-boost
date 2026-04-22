@@ -1,0 +1,382 @@
+[
+  {
+    "@id": "_:g478380",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Carrot Community Arts Coffeehouse"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "9351 118 Avenue NW, Edmonton, AB"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478400",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.thecarrot.ca/events-at-the-carrot/loudinthepines"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Tickets"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$20 general | $10 youth"
+      }
+    ]
+  },
+  {
+    "@id": "https://loudinthepines.com/temporary/ab8ae4cc-fd1b-4197-83ae-c88a88551ca1",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-15T19:00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://loudinthepines.com/event/6546939/760503883/friday-nite-live-spotlight-performers-one-year-anniversary-concert"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.zoogletools.com/s:bzglfiles/u/456570/25cd0a0d9a9687947a6fa17d3a7f056462f4d68f/original/litp-tree-logo-square.png/!!/b%3AW1sicmVzaXplIixbNjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g478380"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g478400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://loudinthepines.com/go/events/6546939?feature_id=1373561&occurrence_id=760503883&popup=1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Friday Nite Live Spotlight Performers: One Year Anniversary Concert!"
+      }
+    ]
+  },
+  {
+    "@id": "https://loudinthepines.com/event/6436504/758587584/battle-for-jarred-with-0stella-susan-isaac",
+    "http://opengraphprotocol.org/schema/title": [
+      {
+        "@value": "Battle for Jarred (with 0Stella & Susan Isaac) @ 9910 - May 21, 2026, 7:00PM"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/description": [
+      {
+        "@value": "A good bandmate is worth fighting for! This triple bill of artists has one thing in common: their favourite bandmate Jarred Albright. Talented multi-instrumentalist Jarred is constantly in demand; come for a night of watching Jarred change instruments (and outfits) as fast as he can, playing every genre and role Susan Isaac, Loud in the Pines, and 0Stella can ask of him."
+      }
+    ],
+    "http://opengraphprotocol.org/schema/image": [
+      {
+        "@value": "https://images.zoogletools.com/s:bzglfiles/u/456570/73028618a97cf6e869f038bca33d31b8419476dd/original/litp-tree-logo-copy-2.png/!!/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/image:width": [
+      {
+        "@value": "1000"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/image:height": [
+      {
+        "@value": "1000"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/url": [
+      {
+        "@value": "https://loudinthepines.com/event/6436504/758587584"
+      }
+    ]
+  },
+  {
+    "@id": "_:g494780",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "9910"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "9910 109 St NW, Edmonton, AB"
+      }
+    ]
+  },
+  {
+    "@id": "_:g494800",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.eventbrite.ca/e/battle-for-jarred-tickets-1986186404001"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Tickets"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$20, general admission"
+      }
+    ]
+  },
+  {
+    "@id": "https://loudinthepines.com/temporary/c9ba9bb2-1f6d-481e-afce-8203a0099360",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://loudinthepines.com/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://loudinthepines.bandcamp.com/"
+      },
+      {
+        "@id": "https://instagram.com/loudinthepines"
+      },
+      {
+        "@id": "https://open.spotify.com/artist/1aUnYKGuh8SxJFeUYT9V1i?si=qsjadF93QQCHF3cGeW0W8w"
+      },
+      {
+        "@id": "https://youtube.com/@LoudinthePines"
+      },
+      {
+        "@id": "https://music.apple.com/ca/artist/loud-in-the-pines/1690516876"
+      },
+      {
+        "@id": "https://www.tiktok.com/@loudinthepines"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://loudinthepines.com/event/6436504/758587584/battle-for-jarred-with-0stella-susan-isaac"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Loud in the Pines"
+      }
+    ]
+  },
+  {
+    "@id": "https://loudinthepines.com/temporary/efbc8eb8-3157-4072-a5a4-bd8023051652",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-21T19:00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://loudinthepines.com/event/6436504/758587584/battle-for-jarred-with-0stella-susan-isaac"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g494780"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g494800"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://loudinthepines.com/event/6436504/758587584/battle-for-jarred-with-0stella-susan-isaac"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Battle for Jarred (with 0Stella & Susan Isaac)"
+      }
+    ]
+  },
+  {
+    "@id": "https://loudinthepines.com/event/6436505/755885310/music-in-the-badlands",
+    "http://opengraphprotocol.org/schema/title": [
+      {
+        "@value": "Music in the Badlands @ Dinosaur Provincial Park, Visitor Centre Outdoor Stage - Jun 5, 2026, 7:30PM"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/description": [
+      {
+        "@value": "Experience the magic of Dinosaur Provincial Park in a whole new way! Join us for an unforgettable evening of live music and captivating storytelling as the sun sets behind the iconic Alberta badlands. The show will take place outside at the Park Visitor Centre outdoor stage. In case of inclement weather, the show will be moved indoors to the Sternberg-Anderson Theatre."
+      }
+    ],
+    "http://opengraphprotocol.org/schema/image": [
+      {
+        "@value": "https://images.zoogletools.com/s:bzglfiles/u/456570/c73bbefbe182d95737fe59d4a5636cae4f1ff51e/original/dinosaur-poster.png/!!/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/image:width": [
+      {
+        "@value": "2000"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/image:height": [
+      {
+        "@value": "2000"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/url": [
+      {
+        "@value": "https://loudinthepines.com/event/6436505/755885310"
+      }
+    ]
+  },
+  {
+    "@id": "_:g502160",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Dinosaur Provincial Park, Visitor Centre Outdoor Stage"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "Iddesleigh, AB"
+      }
+    ]
+  },
+  {
+    "@id": "_:g502180",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://loud-in-the-pines.bloomtickets.ca/event/695?MusicintheBadlands:LoudinthePines"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Tickets"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "Adults $12, Ages 12 and under free"
+      }
+    ]
+  },
+  {
+    "@id": "https://loudinthepines.com/temporary/ebf63ace-8124-4909-b37d-941dd6af0a7d",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://loudinthepines.com/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://loudinthepines.bandcamp.com/"
+      },
+      {
+        "@id": "https://instagram.com/loudinthepines"
+      },
+      {
+        "@id": "https://open.spotify.com/artist/1aUnYKGuh8SxJFeUYT9V1i?si=qsjadF93QQCHF3cGeW0W8w"
+      },
+      {
+        "@id": "https://youtube.com/@LoudinthePines"
+      },
+      {
+        "@id": "https://music.apple.com/ca/artist/loud-in-the-pines/1690516876"
+      },
+      {
+        "@id": "https://www.tiktok.com/@loudinthepines"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://loudinthepines.com/event/6436505/755885310/music-in-the-badlands"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Loud in the Pines"
+      }
+    ]
+  },
+  {
+    "@id": "https://loudinthepines.com/temporary/3aec167d-0e61-41d3-9516-01d4a7bb7f72",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-05T19:30:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://loudinthepines.com/event/6436505/755885310/music-in-the-badlands"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.zoogletools.com/s:bzglfiles/u/456570/c73bbefbe182d95737fe59d4a5636cae4f1ff51e/original/dinosaur-poster.png/!!/b%3AW1sicmVzaXplIixbNjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g502160"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g502180"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://loudinthepines.com/event/6436505/755885310/music-in-the-badlands"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Music in the Badlands"
+      }
+    ]
+  }
+]
