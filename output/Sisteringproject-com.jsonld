@@ -1,0 +1,109 @@
+[
+  {
+    "@id": "https://sisteringproject.com/event/6439288/754101052/the-sistering-at-carnegie-hall",
+    "http://opengraphprotocol.org/schema/title": [
+      {
+        "@value": "The Sistering at Carnegie Hall @ Carnegie Hall - Apr 1, 2026, 9:00PM"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/description": [
+      {
+        "@value": "The Sistering at Carnegie Hall — Carnegie Hall, New York, NY 10019"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/image": [
+      {
+        "@value": "https://images.zoogletools.com/s:bzglfiles/u/1059082/64b1517d2f1f679f8b4e9ef6f0b2e8c2e8e68d20/original/carnegie-hall-facade.jpg/!!/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/image:width": [
+      {
+        "@value": "301"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/image:height": [
+      {
+        "@value": "406"
+      }
+    ],
+    "http://opengraphprotocol.org/schema/url": [
+      {
+        "@value": "https://sisteringproject.com/event/6439288/754101052"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466500",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Carnegie Hall"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "881 Seventh Avenue, New York, NY 10019"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.Sisteringproject.com/temporary/b0cfd932-4dce-4f54-ac1a-6f7e72e06d72",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sisteringproject.com/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sisteringproject.com/event/6439288/754101052/the-sistering-at-carnegie-hall"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Sistering"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.Sisteringproject.com/temporary/3dd1080a-2cb7-4298-9f68-7a080bb96476",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-01T21:00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://sisteringproject.com/event/6439288/754101052/the-sistering-at-carnegie-hall"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.zoogletools.com/s:bzglfiles/u/1059082/64b1517d2f1f679f8b4e9ef6f0b2e8c2e8e68d20/original/carnegie-hall-facade.jpg/!!/b%3AW1sicmVzaXplIixbNjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g466500"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://sisteringproject.com/event/6439288/754101052/the-sistering-at-carnegie-hall"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Sistering at Carnegie Hall"
+      }
+    ]
+  }
+]
