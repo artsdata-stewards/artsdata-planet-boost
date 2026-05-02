@@ -1,0 +1,1002 @@
+[
+  {
+    "@id": "https://www.unfaithfulservants.com/event-details/the-venue",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "The Venue | The Unfaithful Servants"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "I’m an event description. Click here to open up the Event Editor and change my text. I’m a great place for you to say a little more about your upcoming event."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.unfaithfulservants.com/event-details/the-venue"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "The Unfaithful Servants"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461520",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.unfaithfulservants.com/event-details/the-venue"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "San Francisco"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "San Francisco, CA, USA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461540",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-27T02:28:07.237Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.unfaithfulservants.com/event-details/the-venue"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g461560"
+      },
+      {
+        "@id": "_:g461580"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "en",
+        "@value": "15.38"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "en",
+        "@value": "10.25"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "en",
+        "@value": "2"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461560",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-27T02:28:07.237Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.unfaithfulservants.com/event-details/the-venue"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Early Bird"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "10.25"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g461580",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-27T02:28:07.237Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.unfaithfulservants.com/event-details/the-venue"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "General"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "15.38"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://unfaithfulservants.com/temporary/baa79322-1267-4952-b3f9-f1e4999329b8",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2035-02-07T21:00:00-08:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2035-02-07T23:00:00-08:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g461520"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g461540"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.unfaithfulservants.com/event-details/the-venue"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.unfaithfulservants.com/event-details/the-venue"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Venue"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "I’m an event description. Click here to open up the Event Editor and change my text. I’m a great place for you to say a little more about your upcoming event."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.unfaithfulservants.com/event-details/the-venue-2",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "The Venue | The Unfaithful Servants"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "I’m an event description. Click here to open up the Event Editor and change my text. I’m a great place for you to say a little more about your upcoming event."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.unfaithfulservants.com/event-details/the-venue-2"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "The Unfaithful Servants"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469720",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.unfaithfulservants.com/event-details/the-venue-2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "New York"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "New York, NY, USA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469740",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-27T02:28:06.804Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.unfaithfulservants.com/event-details/the-venue-2"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g469760"
+      },
+      {
+        "@id": "_:g469780"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "en",
+        "@value": "15.38"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "en",
+        "@value": "10.25"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "en",
+        "@value": "2"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469760",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-27T02:28:06.804Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.unfaithfulservants.com/event-details/the-venue-2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Early Bird"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "10.25"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g469780",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-27T02:28:06.804Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.unfaithfulservants.com/event-details/the-venue-2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "General"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "15.38"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://unfaithfulservants.com/temporary/ef289ef8-8170-42a8-a206-c83486ad4b04",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2035-03-12T21:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2035-03-12T23:00:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g469720"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g469740"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.unfaithfulservants.com/event-details/the-venue-2"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.unfaithfulservants.com/event-details/the-venue-2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Venue"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "I’m an event description. Click here to open up the Event Editor and change my text. I’m a great place for you to say a little more about your upcoming event."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.unfaithfulservants.com/event-details/the-venue-3",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "The Venue  | The Unfaithful Servants"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "I’m an event description. Click here to open up the Event Editor and change my text. I’m a great place for you to say a little more about your upcoming event."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.unfaithfulservants.com/event-details/the-venue-3"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "The Unfaithful Servants"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477920",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.unfaithfulservants.com/event-details/the-venue-3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "New Orleans"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "New Orleans, LA, USA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477940",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-27T02:28:07.750Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.unfaithfulservants.com/event-details/the-venue-3"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g477960"
+      },
+      {
+        "@id": "_:g477980"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "en",
+        "@value": "15.38"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "en",
+        "@value": "10.25"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "en",
+        "@value": "2"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477960",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-27T02:28:07.750Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.unfaithfulservants.com/event-details/the-venue-3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Early Bird"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "10.25"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g477980",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-27T02:28:07.750Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.unfaithfulservants.com/event-details/the-venue-3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "General"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "15.38"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://unfaithfulservants.com/temporary/7ca0a417-d4ab-419c-9dcb-d47092adcce2",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2035-04-22T21:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2035-04-22T23:00:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g477920"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g477940"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.unfaithfulservants.com/event-details/the-venue-3"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.unfaithfulservants.com/event-details/the-venue-3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Venue "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "I’m an event description. Click here to open up the Event Editor and change my text. I’m a great place for you to say a little more about your upcoming event."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.unfaithfulservants.com/event-details/the-venue-4",
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en",
+        "@value": "The Venue   | The Unfaithful Servants"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en",
+        "@value": "I’m an event description. Click here to open up the Event Editor and change my text. I’m a great place for you to say a little more about your upcoming event."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en",
+        "@value": "https://www.unfaithfulservants.com/event-details/the-venue-4"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en",
+        "@value": "The Unfaithful Servants"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en",
+        "@value": "website"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486120",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.unfaithfulservants.com/event-details/the-venue-4"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Austin"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": "Austin, TX, USA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486140",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-27T02:28:06.976Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.unfaithfulservants.com/event-details/the-venue-4"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g486160"
+      },
+      {
+        "@id": "_:g486180"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "en",
+        "@value": "15.38"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "en",
+        "@value": "10.25"
+      }
+    ],
+    "http://schema.org/offerCount": [
+      {
+        "@language": "en",
+        "@value": "2"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486160",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-27T02:28:06.976Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.unfaithfulservants.com/event-details/the-venue-4"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Early Bird"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "10.25"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "_:g486180",
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-27T02:28:06.976Z"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.unfaithfulservants.com/event-details/the-venue-4"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "General"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "15.38"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "USD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "@type": [
+      "http://schema.org/Offer"
+    ]
+  },
+  {
+    "@id": "https://unfaithfulservants.com/temporary/6f57604d-bcc1-407f-b0f5-bc2e136fb0e8",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2035-05-01T21:00:00-07:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2035-05-01T23:00:00-07:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g486120"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g486140"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.unfaithfulservants.com/event-details/the-venue-4"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.unfaithfulservants.com/event-details/the-venue-4"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Venue  "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "I’m an event description. Click here to open up the Event Editor and change my text. I’m a great place for you to say a little more about your upcoming event."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  }
+]
