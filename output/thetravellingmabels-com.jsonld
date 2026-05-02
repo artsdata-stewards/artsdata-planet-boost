@@ -1,0 +1,177 @@
+[
+  {
+    "@id": "_:g466320",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Willow Hill Lodge"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "554044-159st W, Longview, AB"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466340",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.willowhilllodge.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Tickets"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "$125.00 per person"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thetravellingmabels.com/temporary/e393ba00-8d27-4c93-a74d-9241dbfe79b8",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-13T17:00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thetravellingmabels.com/event/6573591/762802345/willow-hill-lodge-presents-harvest-dinner-the-travelling-mabels"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.zoogletools.com/s:bzglfiles/u/4916/9d521b696566f3dd043dd98f6ec476c72e0a6302/original/sept-13-harvest-dinner-and-show.jpg/!!/b%3AW1sicmVzaXplIixbNjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g466320"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g466340"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thetravellingmabels.com/go/events/6573591?feature_id=4755&occurrence_id=762802345&popup=1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Willow Hill Lodge presents - Harvest Dinner & The Travelling Mabels"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471100",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Spruce View Community Hall"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "2127 - 10 Ave, Spruce View, AB"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thetravellingmabels.com/temporary/7081eee5-63be-45a9-9a68-0f665bf330b8",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-02T17:30:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thetravellingmabels.com/event/6464130/753719669/dickson-store-museum-society-presents-gettin-groovy-with-the-travelling-mabels-60-s-70-s-show"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g471100"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thetravellingmabels.com/go/events/6464130?feature_id=4755&occurrence_id=753719669&popup=1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Dickson Store Museum Society Presents - \"Gettin Groovy\" with The Travelling Mabels 60's/70's show"
+      }
+    ]
+  },
+  {
+    "@id": "_:g475540",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "SCA Commnity Association"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "277 Strathcona Dr SW, Calgary, AB T3H 2A4"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.thetravellingmabels.com/temporary/cbe7c0ef-cdab-4457-b98a-5187209cfd5e",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-10T19:00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://thetravellingmabels.com/event/6464138/753719677/bow-valley-music-club-presents-gettin-groovy-with-the-travelling-mabels-60-s-70-s-show"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g475540"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "http://www.thetravellingmabels.com/go/events/6464138?feature_id=4755&occurrence_id=753719677&popup=1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Bow Valley Music Club Presents - \"Gettin Groovy\" with The Travelling Mabels 60's/70's show"
+      }
+    ]
+  }
+]
