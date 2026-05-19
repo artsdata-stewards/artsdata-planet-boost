@@ -74,25 +74,7 @@
     ]
   },
   {
-    "@id": "_:g466680",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://ccgh.ca/temporary/3bdf02f3-ba68-469b-adfe-95d3816760e2",
+    "@id": "https://www.ccgh.ca/temporary/7d495771-eede-41f5-b0bf-98bf9fb7d5f9",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -125,13 +107,13 @@
     ]
   },
   {
-    "@id": "https://ccgh.ca/temporary/e87f4c7c-6dd9-48b1-9585-a3bb95e26c57",
+    "@id": "https://www.ccgh.ca/temporary/8557f967-ba75-42f6-92c8-c32c286cfd52",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1764100697838/"
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -144,8 +126,94 @@
         "@language": "fr",
         "@value": ""
       }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/programmation/event-one-hraz3",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
     ],
-    "http://schema.org/openingHours": [
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Festival Grou Tyme — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.00076130000002"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/event-one-hraz3"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Rejoignez-nous pour célébrer l’Acadie le 14 et 15 août !"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/689ce3a36d28586bbf0f6f63/1755114930769/Banniere2juillet+%281%29.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "843"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/event-one-hraz3"
+      }
+    ]
+  },
+  {
+    "@id": "_:g491240",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
       {
         "@language": "fr",
         "@value": ""
@@ -153,7 +221,62 @@
     ]
   },
   {
-    "@id": "https://ccgh.ca/temporary/8e3ee3fd-ffac-4233-8fd8-40ac95e7f5ad",
+    "@id": "https://www.ccgh.ca/temporary/0b4cc16c-94ff-4957-9f81-8fca3c14d60a",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/event-one-hraz3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/c567c909-6f9d-4445-8468-0e5c23b43525",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/event-one-hraz3"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/cb43b8cf-2d76-418f-9349-a35c7d9afbc0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -164,12 +287,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g466680"
+        "@id": "_:g491240"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://ccgh.ca/programmation/event-one-hraz3"
+        "@id": "https://www.ccgh.ca/programmation/event-one-hraz3"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/event-one-hraz3"
       }
     ],
     "http://schema.org/name": [
@@ -188,6 +316,2199 @@
       {
         "@type": "http://schema.org/Date",
         "@value": "2025-08-15T13:15:00-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://ccgh.ca/programmation/les-grande-causeries",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Les Grandes Causeries — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/les-grande-causeries"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "La Fédération acadienne de la Nouvelle-Écosse (FANE) et ses partenaires communautaires sont fières de lancer « Les grandes causeries » : une tournée provinciale d’échanges collectifs portant sur l’avenir de nos communautés."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69fc976447754618133cfa4e/1778163675602/Grandes+Causeries+-+Poster+RS+-+Dates+2.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1875"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/les-grande-causeries"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/141fce9a-ec0a-4b4c-ab9a-f9064c9389cd",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/les-grande-causeries"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/56b02f66-9868-4153-ae59-672fc165586b",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/les-grande-causeries"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://ccgh.ca/programmation/5-7-hho-1",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "5 à 7 Hého — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/5-7-hho-1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Rejoignez-nous pour le 5 à 7 Hého du mois de mai !"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69fc8cb92a90fd79b5d9ed3a/1778161435034/Les+5+a%CC%80+7+He%CC%81ho.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/5-7-hho-1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/f2179e38-95b3-441e-bc78-3683d181ca42",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/5-7-hho-1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/c6d5de52-4412-4e08-8c03-8a89af9aa64b",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/5-7-hho-1"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://ccgh.ca/programmation/6z9k8i80v5c48bys962hjch43hgmhc",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Gagne ton ciel (projection Québec cinéma) — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/6z9k8i80v5c48bys962hjch43hgmhc"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Conseil Communautaire du Grand-Havre est heureux d'accueillir cette année encore la tournée Québec Cinéma!"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69f38d2de69ebb6da5f488a8/1777569293223/3.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/6z9k8i80v5c48bys962hjch43hgmhc"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/5d7f6773-a75b-42f8-a531-b33cc5d20332",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/6z9k8i80v5c48bys962hjch43hgmhc"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/d8d31fdc-bc86-4744-af42-99366ee81347",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/6z9k8i80v5c48bys962hjch43hgmhc"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://ccgh.ca/programmation/ouverture-du-jardin-communautaire",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Ouverture du jardin communautaire — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/ouverture-du-jardin-communautaire"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le CCGH, le RANE, et la FPANÉ vous invitent à l’ouverture du jardin communautaire 2026 ! 🙌"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69f38c31a4f21c12f64732a3/1777568980601/Affiche+jArdin+juin+2026+%28Instagram+Post%29.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/ouverture-du-jardin-communautaire"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/d59ed3c3-dec7-44bb-a8ce-5f10843a8367",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/ouverture-du-jardin-communautaire"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/1d9f9562-0c74-4f25-b227-4d4d3bae6e60",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/ouverture-du-jardin-communautaire"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://ccgh.ca/programmation/amir-mon-petit-prince-projection-qubec-cinma",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Amir mon petit prince (projection Québec cinéma) — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/amir-mon-petit-prince-projection-qubec-cinma"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Conseil Communautaire du Grand-Havre est heureux d'accueillir cette année encore la tournée Québec Cinéma!"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69f38aaa6e616c61e2a572f2/1777568798883/4.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/amir-mon-petit-prince-projection-qubec-cinma"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/e813ae5f-e11e-4e86-bda7-fb5d85125574",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/amir-mon-petit-prince-projection-qubec-cinma"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/337ec890-f0ee-420f-9110-6a76ba47886c",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/amir-mon-petit-prince-projection-qubec-cinma"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://ccgh.ca/programmation/chavirer-lacadie-rcits-pomes-histoires-et-conversations",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Chavirer l’Acadie : récits, poèmes, histoires et conversations — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/chavirer-lacadie-rcits-pomes-histoires-et-conversations"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "En célébration de Joseph Willie Comeau, mis à l'honneur cette année pour la Journée du Patrimoine, le CCGH et ses partenaires vous invitent à l'événement ✨ Chavirer l’Acadie : récits, poèmes, histoires et conversations ✨"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69f388ad41429927a7c5b22e/1777568721100/Chavirer+l%27Acadie+Re%CC%81cits%2C+poe%CC%80mes%2C+histoires+et+conversations+%284%29.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/chavirer-lacadie-rcits-pomes-histoires-et-conversations"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/d05a2366-047a-4f12-b880-fde2226c0e5e",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/chavirer-lacadie-rcits-pomes-histoires-et-conversations"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/0cd2bd2d-ba2c-44df-9681-f172b778d404",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/chavirer-lacadie-rcits-pomes-histoires-et-conversations"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://ccgh.ca/programmation/trouv-dans-la-traduction",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Trouvé dans la traduction — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/trouv-dans-la-traduction"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Trouvé dans la traduction est une performance interactive où de petits objets se transforment en mouvements, dessins et poèmes grâce à une série de métamorphoses ludiques. Le public est invité à se joindre aux artistes pour découvrir le potentiel insoupçonné des objets qui nous entourent."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69e8c421e110ee01e6f60618/1776862745633/Mayworks2026-instaPost-FoundInTranslation.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1875"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/trouv-dans-la-traduction"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/ecba1644-5cc1-499e-ad74-a168503b2d68",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/trouv-dans-la-traduction"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/dc711a5b-237d-483a-a8b9-499dd9b36857",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/trouv-dans-la-traduction"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://ccgh.ca/programmation/tout-de-que-javais-envie-de-te-dire-8",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Tout de que j'avais envie de te dire — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/tout-de-que-javais-envie-de-te-dire-8"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Cette pièce est une œuvre de danse-théâtre virtuose et empathique qui lève son verre (avant de le briser) à l’amour, à la loyauté et aux difficultés auxquelles nous espérons ne jamais échapper."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69e8c2af68d64c0d0d3410e2/1777568751410/Mayworks2026-instaPost-Everything.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1875"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/tout-de-que-javais-envie-de-te-dire-8"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/8ff4c495-2370-4e9c-bfee-4cf29910a63c",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/tout-de-que-javais-envie-de-te-dire-8"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/245b50d4-e243-44ce-bab5-c6ccb4a311ec",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/tout-de-que-javais-envie-de-te-dire-8"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://ccgh.ca/programmation/tout-de-que-javais-envie-de-te-dire",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "tout ce que j’avais envie de te dire — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/tout-de-que-javais-envie-de-te-dire"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Cette pièce est une œuvre de danse-théâtre virtuose et empathique qui lève son verre (avant de le briser) à l’amour, à la loyauté et aux difficultés auxquelles nous espérons ne jamais échapper."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69e8c0b9d49cfe289dd1b964/1777568740430/Mayworks2026-instaPost-Everything.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1875"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/tout-de-que-javais-envie-de-te-dire"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/61fffea6-d278-450f-a70e-4a84fcaeff1b",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/tout-de-que-javais-envie-de-te-dire"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/436a0042-da43-4908-b25a-f7f0eb3159bf",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/tout-de-que-javais-envie-de-te-dire"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://ccgh.ca/programmation/lydia-et-le-vaisseau-des-temptes-tourne-qubec-cinma",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Lydia et le vaisseau des tempêtes (tournée Québec Cinéma) — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/lydia-et-le-vaisseau-des-temptes-tourne-qubec-cinma"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Retrouvez nous le dimanche 26 avril 2026 à 15h pour la projection du film d'animation Lydia et le vaisseau des tempêtes de Emilie Rosas."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69de92abc944ab3e201ba680/1776194422395/Lydia+et+le+vaisseau+des+tempe%CC%82tes.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/lydia-et-le-vaisseau-des-temptes-tourne-qubec-cinma"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/270acb2e-90e0-4251-8ea7-98f9e4fcba40",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/lydia-et-le-vaisseau-des-temptes-tourne-qubec-cinma"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/7a7f298b-e6db-46d8-9b00-b1656a43f8eb",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/lydia-et-le-vaisseau-des-temptes-tourne-qubec-cinma"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://ccgh.ca/programmation/xxoaj7d3f6avbfyayqwqe0oy8m834r",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "5 à 7 Hého — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/xxoaj7d3f6avbfyayqwqe0oy8m834r"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Rejoignez-nous pour le 5 à 7 Hého du mois d’avril !  Profitez de belles conversations, d’un rabais de 15 % sur les boissons en fût, et d’un petit défi qui pourrait vous faire gagner un super prix&nbsp;!   Aucune inscription nécessaire : présentez-vous simplement dans la salle principale de la ci"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69ca8a63fd627a474edaf280/1774881749800/Les+5+a%CC%80+7+He%CC%81ho+%289%29.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/xxoaj7d3f6avbfyayqwqe0oy8m834r"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/1f4c6e7b-47e0-44bb-a837-55124f3367ee",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/xxoaj7d3f6avbfyayqwqe0oy8m834r"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/e0de9266-6c5a-45ab-9f63-14c1b4ed3c0c",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/xxoaj7d3f6avbfyayqwqe0oy8m834r"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://ccgh.ca/programmation/pj9iokqq0ooo64k258rbdap9db3fce",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "5 à 7 Hého - mars — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/pj9iokqq0ooo64k258rbdap9db3fce"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Venez jaser au 5 à 7 !"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69b8185000b4f13f43195ad8/1773672767100/Les+5+a%CC%80+7+He%CC%81ho+%288%29.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/pj9iokqq0ooo64k258rbdap9db3fce"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/b783d474-8552-4147-b426-93a20e009383",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/pj9iokqq0ooo64k258rbdap9db3fce"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/8508131a-d33d-43c4-9e01-b384a522deaf",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/pj9iokqq0ooo64k258rbdap9db3fce"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://ccgh.ca/programmation/la-cabane-sucre",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "La cabane à sucre — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/la-cabane-sucre"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "La cabane à sucre est de retour ! Venez vous sucrer le bec en cette journée où la neige rencontre le sirop d’érable."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/6995d018aba40c726534e279/1771425984979/La+cabane+a%CC%80+sucre+2026.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/la-cabane-sucre"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/e8fad78f-8011-4d6c-a581-b86cb1fe9480",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/la-cabane-sucre"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/0e27ea85-0d16-4eea-a59b-bd09e2165d93",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/la-cabane-sucre"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://ccgh.ca/programmation/docu-fiction-thtral-parler-mal",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Docu-fiction théâtral : Parler mal — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/docu-fiction-thtral-parler-mal"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Dans le cadre du mois de la francophonie, le Conseil Communautaire du Grand-Havre présente Parler Mal, un docu-fiction théâtral créé par Bianca Richard et Gabriel Robichaud sur l'insécurité linguistique."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/6995cf61a50bbd76ccb6d4a9/1771425794529/Parler+mal+-+mars+2026.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/docu-fiction-thtral-parler-mal"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/55c2045d-b979-4a97-9583-1b033a5e5100",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/docu-fiction-thtral-parler-mal"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/868f7686-d82b-44b4-81a2-23412595ac99",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/docu-fiction-thtral-parler-mal"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://ccgh.ca/programmation/5-7-hho",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "5 à 7 Hého — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/5-7-hho"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Participez aux 5 à 7 Hého ! À chaque mois, on se rencontre pour un p’tit moment social :)"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/6995ce3454e6384c2f88f33e/1771425630626/Les+5+a%CC%80+7+He%CC%81ho+%287%29.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/5-7-hho"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/f1de218a-cd51-4d31-b2f4-5a51bf1a2c79",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/5-7-hho"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/4b143ae6-0f5d-447a-a1b2-637356777d85",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/5-7-hho"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://ccgh.ca/programmation/un-aprs-midi-en-musique-avec-alphonse-bisaillon",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Un après-midi en musique avec Alphonse Bisaillon — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/un-aprs-midi-en-musique-avec-alphonse-bisaillon"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Alphonse Bisaillon se distingue par l’utilisation d’images évocatrices, de trames narratives riches et de jeux de mots ingénieux. Chaque composition est minutieusement ciselée pour créer une expérience véritablement immersive."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/6945bae5f138206394be8c3f/1766177711355/alphonse.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/un-aprs-midi-en-musique-avec-alphonse-bisaillon"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/ceab34cf-f78d-4c3e-9cfd-c7bc2c317dbf",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/un-aprs-midi-en-musique-avec-alphonse-bisaillon"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/6afad431-f9b1-429f-b628-40bd34c4ce94",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/un-aprs-midi-en-musique-avec-alphonse-bisaillon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://ccgh.ca/programmation/5a7hehodec",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "5 à 7 Hého - décembre — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/5a7hehodec"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Venez vous mettre à l’abris de la neige à notre 5 à 7 Hého du mois de décembre !"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/693729fa23dba5233d77cba9/1765224707865/Les+5+a%CC%80+7+He%CC%81ho+%285%29.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/5a7hehodec"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/3bb62427-9d92-4403-b6c5-f61995ab935d",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/5a7hehodec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/2b8d61e4-290d-4fd2-be44-6ef34b40262c",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://ccgh.ca/programmation/5a7hehodec"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
       }
     ]
   },
@@ -262,13 +2583,13 @@
     "http://ogp.me/ns#description": [
       {
         "@language": "fr-ca",
-        "@value": "Un spectacle encore mystérieux…. mais du rire garanti !"
+        "@value": "Cette année, le public aura la chance de retrouver le charme irrésistible de  Mario Jean , la verve audacieuse de&nbsp; Sinem&nbsp;Kara , le dynamisme éclaté de  Jonathan Dion , ainsi que la franchise rafraîchissante de&nbsp; Stéphanie Morin-Robert ."
       }
     ],
     "http://ogp.me/ns#image": [
       {
         "@language": "fr-ca",
-        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/6929b2e30759705d9c47dce1/1764459046164/1.png?format=1500w"
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/6929b2e30759705d9c47dce1/1765222884003/3.png?format=1500w"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -290,25 +2611,7 @@
     ]
   },
   {
-    "@id": "_:g484300",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Sanctuary Arts Centre"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@language": "fr",
-        "@value": "100 Ochterloney Street\nDartmouth, NS, B2Y 0G2\nCanada"
-      }
-    ]
-  },
-  {
-    "@id": "https://ccgh.ca/temporary/0aa35133-3408-4467-8dee-522811d40f64",
+    "@id": "https://www.ccgh.ca/temporary/c49b832b-ee8d-435e-9d95-61fff0dce776",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -341,13 +2644,13 @@
     ]
   },
   {
-    "@id": "https://ccgh.ca/temporary/60b159d7-ff62-48b1-97fe-05dd817cac34",
+    "@id": "https://www.ccgh.ca/temporary/566a6b72-5675-4c43-ad5e-b78623180790",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1764100697838/"
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -359,51 +2662,6 @@
       {
         "@language": "fr",
         "@value": ""
-      }
-    ],
-    "http://schema.org/openingHours": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://ccgh.ca/temporary/7981ac74-87e7-4334-915d-c5c5aaf9e2e0",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/6929b2e30759705d9c47dce1/1764459046164/1.png?format=1500w"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g484300"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://ccgh.ca/programmation/ksnnl4uk07n0ze44hrln32gr0qdppr"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Le Gala d’humour des Rendez-vous de la francophonie — Conseil communautaire du Grand-Havre"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-01-22T19:30:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-01-22T19:30:00-04:00"
       }
     ]
   },
@@ -506,25 +2764,7 @@
     ]
   },
   {
-    "@id": "_:g493720",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Halifax Forum"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@language": "fr",
-        "@value": "2901 Windsor Street\nHalifax, NS, B3K 5E8\nCanada"
-      }
-    ]
-  },
-  {
-    "@id": "https://ccgh.ca/temporary/6727e277-db46-419d-b766-0be77c9d630b",
+    "@id": "https://www.ccgh.ca/temporary/3cc9e539-caf4-44e2-9b70-a9376a0d31f9",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -557,13 +2797,13 @@
     ]
   },
   {
-    "@id": "https://ccgh.ca/temporary/1e295bd4-f617-4f27-a5f8-ef8cb1eb5e16",
+    "@id": "https://www.ccgh.ca/temporary/1d26fbf7-c045-4a0f-86c9-5d1b687fda59",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1764100697838/"
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -575,51 +2815,6 @@
       {
         "@language": "fr",
         "@value": ""
-      }
-    ],
-    "http://schema.org/openingHours": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://ccgh.ca/temporary/49fa7e80-5d46-4d04-a290-b9b7fe19932e",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/6929b1dec07046028e11d75f/1764340447500/589635087_1451309953664930_4401386169704273073_n+%281%29.jpg?format=1500w"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g493720"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://ccgh.ca/programmation/patinage-en-famille"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Patinage en famille — Conseil communautaire du Grand-Havre"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-12-23T14:00:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-12-23T14:00:00-04:00"
       }
     ]
   },
@@ -698,25 +2893,7 @@
     ]
   },
   {
-    "@id": "_:g503380",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://ccgh.ca/temporary/1ff6007c-3138-4cd0-b39a-23c5600041b4",
+    "@id": "https://www.ccgh.ca/temporary/a78ebc7b-f9ed-4e6b-a7f5-c2513a4f2c28",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -749,13 +2926,13 @@
     ]
   },
   {
-    "@id": "https://ccgh.ca/temporary/2075b8cb-5317-4189-8a47-02e51f25a213",
+    "@id": "https://www.ccgh.ca/temporary/c0800e27-a8bf-4e64-a3de-a4a68f285d72",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1764100697838/"
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -767,51 +2944,6 @@
       {
         "@language": "fr",
         "@value": ""
-      }
-    ],
-    "http://schema.org/openingHours": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://ccgh.ca/temporary/f1fdebcb-9f0a-4a9b-a8d7-d2f1b5b5a63d",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/68f2414e98bb484e37b9b187/1760707226406/Les+Bilinguish+Boys+-+Nov+2025+%281%29.png?format=1500w"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g503380"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://ccgh.ca/programmation/xrfw14fgoe2bqlco891viv8hmxkb70"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Les Billinguish Boys — Conseil communautaire du Grand-Havre"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-29T19:30:00-04:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-29T21:00:00-04:00"
       }
     ]
   },
@@ -890,25 +3022,7 @@
     ]
   },
   {
-    "@id": "_:g512640",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://ccgh.ca/temporary/a15f5456-b8e3-40aa-bb5a-c44919a68214",
+    "@id": "https://www.ccgh.ca/temporary/b95accf0-e960-4350-a0ec-1d5278bad9da",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -941,13 +3055,13 @@
     ]
   },
   {
-    "@id": "https://ccgh.ca/temporary/48305238-7eb3-4bb3-a99f-71c0671706cd",
+    "@id": "https://www.ccgh.ca/temporary/7b63fa8f-b2ea-44a3-97c3-6be036a7c6e0",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1764100697838/"
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -959,51 +3073,6 @@
       {
         "@language": "fr",
         "@value": ""
-      }
-    ],
-    "http://schema.org/openingHours": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://ccgh.ca/temporary/26201f65-11de-46da-a7b6-1c85b9e11af6",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/68e6789aed44b32916083aa6/1759935888012/AEM_visuels_2025_%281%29.png?format=1500w"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g512640"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://ccgh.ca/programmation/aga-2025"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "AGA 2025 — Conseil communautaire du Grand-Havre"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-10-08T19:00:00-03:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-10-08T20:00:00-03:00"
       }
     ]
   },
@@ -1082,25 +3151,7 @@
     ]
   },
   {
-    "@id": "_:g522660",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@language": "fr",
-        "@value": ""
-      }
-    ]
-  },
-  {
-    "@id": "https://ccgh.ca/temporary/36425a13-5dd7-4894-a61d-a5ed7a546682",
+    "@id": "https://www.ccgh.ca/temporary/a3cc6ed6-470b-4122-8e4f-ed0902db783e",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -1133,13 +3184,13 @@
     ]
   },
   {
-    "@id": "https://ccgh.ca/temporary/1982e7d9-885a-479e-bb4d-c05dd8ea21e1",
+    "@id": "https://www.ccgh.ca/temporary/82aa4977-a1e7-422a-aeec-c4293c812955",
     "@type": [
       "http://schema.org/LocalBusiness"
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1764100697838/"
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1152,8 +3203,94 @@
         "@language": "fr",
         "@value": ""
       }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/programmation/5-7-hho-1",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
     ],
-    "http://schema.org/openingHours": [
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "5 à 7 Hého — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/5-7-hho-1"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Rejoignez-nous pour le 5 à 7 Hého du mois de mai !"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69fc8cb92a90fd79b5d9ed3a/1778161435034/Les+5+a%CC%80+7+He%CC%81ho.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/5-7-hho-1"
+      }
+    ]
+  },
+  {
+    "@id": "_:g748240",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
       {
         "@language": "fr",
         "@value": ""
@@ -1161,7 +3298,3930 @@
     ]
   },
   {
-    "@id": "https://ccgh.ca/temporary/76194ea7-8224-479c-b08a-fe26311c8c0b",
+    "@id": "https://www.ccgh.ca/temporary/d5ce4cfc-eed7-4819-9ec0-badc19d7382e",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/5-7-hho-1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/ca17f613-960e-42ef-8a57-330c4d5aada3",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/5-7-hho-1"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/8dc313c3-f57b-48d9-b315-f228e21ad05a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69fc8cb92a90fd79b5d9ed3a/1778161435034/Les+5+a%CC%80+7+He%CC%81ho.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g748240"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/5-7-hho-1"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/5-7-hho-1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "5 à 7 Hého — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-20T17:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-20T19:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/programmation/amir-mon-petit-prince-projection-qubec-cinma",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Amir mon petit prince (projection Québec cinéma) — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/amir-mon-petit-prince-projection-qubec-cinma"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Conseil Communautaire du Grand-Havre est heureux d'accueillir cette année encore la tournée Québec Cinéma!"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69f38aaa6e616c61e2a572f2/1777568798883/4.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/amir-mon-petit-prince-projection-qubec-cinma"
+      }
+    ]
+  },
+  {
+    "@id": "_:g758300",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/4c75294c-94c7-45ed-a0e8-8d0886bff6a1",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/amir-mon-petit-prince-projection-qubec-cinma"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/211e1e37-8335-4557-9dcb-85e700f88a27",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/amir-mon-petit-prince-projection-qubec-cinma"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/aa3d3bfa-5eb8-4b13-bc58-cbaab8a1a76b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69f38aaa6e616c61e2a572f2/1777568798883/4.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g758300"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/amir-mon-petit-prince-projection-qubec-cinma"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/amir-mon-petit-prince-projection-qubec-cinma"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Amir mon petit prince (projection Québec cinéma) — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-21T18:30:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-21T20:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/programmation/ouverture-du-jardin-communautaire",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Ouverture du jardin communautaire — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/ouverture-du-jardin-communautaire"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le CCGH, le RANE, et la FPANÉ vous invitent à l’ouverture du jardin communautaire 2026 ! 🙌"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69f38c31a4f21c12f64732a3/1777568980601/Affiche+jArdin+juin+2026+%28Instagram+Post%29.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/ouverture-du-jardin-communautaire"
+      }
+    ]
+  },
+  {
+    "@id": "_:g768840",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/55eb54e6-ac99-4d14-947f-0c311e6a3643",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/ouverture-du-jardin-communautaire"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/c5420f87-6920-479c-a6c8-932d9b815391",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/ouverture-du-jardin-communautaire"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/db9092a2-d3ea-4461-b17e-0eba82c0b221",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69f38c31a4f21c12f64732a3/1777568980601/Affiche+jArdin+juin+2026+%28Instagram+Post%29.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g768840"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/ouverture-du-jardin-communautaire"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/ouverture-du-jardin-communautaire"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Ouverture du jardin communautaire — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-23T10:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-23T13:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/programmation/6z9k8i80v5c48bys962hjch43hgmhc",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Gagne ton ciel (projection Québec cinéma) — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/6z9k8i80v5c48bys962hjch43hgmhc"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Conseil Communautaire du Grand-Havre est heureux d'accueillir cette année encore la tournée Québec Cinéma!"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69f38d2de69ebb6da5f488a8/1777569293223/3.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/6z9k8i80v5c48bys962hjch43hgmhc"
+      }
+    ]
+  },
+  {
+    "@id": "_:g779480",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/d299a94b-1044-49fc-aef7-3949ab7297e9",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/6z9k8i80v5c48bys962hjch43hgmhc"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/56f636ec-1424-41bc-a38c-8da54a282c4a",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/6z9k8i80v5c48bys962hjch43hgmhc"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/a7caad0e-9209-4030-8ec6-5054737d7aab",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69f38d2de69ebb6da5f488a8/1777569293223/3.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g779480"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/6z9k8i80v5c48bys962hjch43hgmhc"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/6z9k8i80v5c48bys962hjch43hgmhc"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Gagne ton ciel (projection Québec cinéma) — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-04T18:30:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-04T20:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/programmation/les-grande-causeries",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Les Grandes Causeries — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/les-grande-causeries"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "La Fédération acadienne de la Nouvelle-Écosse (FANE) et ses partenaires communautaires sont fières de lancer « Les grandes causeries » : une tournée provinciale d’échanges collectifs portant sur l’avenir de nos communautés."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69fc976447754618133cfa4e/1778163675602/Grandes+Causeries+-+Poster+RS+-+Dates+2.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1875"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/les-grande-causeries"
+      }
+    ]
+  },
+  {
+    "@id": "_:g790460",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/4e112487-99a7-437b-88b8-526d45a1367c",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/les-grande-causeries"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/a0ddf5c1-7084-4814-bbd8-32b2a6eb2b86",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/les-grande-causeries"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/3bdb56f0-71c0-4352-887d-bd3dc759775c",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69fc976447754618133cfa4e/1778163675602/Grandes+Causeries+-+Poster+RS+-+Dates+2.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g790460"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/les-grande-causeries"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/les-grande-causeries"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Grandes Causeries — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-09T18:30:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-13T14:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/programmation/trouv-dans-la-traduction",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Trouvé dans la traduction — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/trouv-dans-la-traduction"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Trouvé dans la traduction est une performance interactive où de petits objets se transforment en mouvements, dessins et poèmes grâce à une série de métamorphoses ludiques. Le public est invité à se joindre aux artistes pour découvrir le potentiel insoupçonné des objets qui nous entourent."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69e8c421e110ee01e6f60618/1776862745633/Mayworks2026-instaPost-FoundInTranslation.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1875"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/trouv-dans-la-traduction"
+      }
+    ]
+  },
+  {
+    "@id": "_:g801540",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/fc04dc31-8333-4a45-881b-59399d0c1f72",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/trouv-dans-la-traduction"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/6137a759-bfda-428d-870a-e6c8cb483582",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/trouv-dans-la-traduction"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/894093ff-f6c1-4c4e-908c-c8e5295c5f9d",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69e8c421e110ee01e6f60618/1776862745633/Mayworks2026-instaPost-FoundInTranslation.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g801540"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/trouv-dans-la-traduction"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/trouv-dans-la-traduction"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Trouvé dans la traduction — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-10T16:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-10T18:15:00-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/programmation/tout-de-que-javais-envie-de-te-dire-8",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Tout de que j'avais envie de te dire — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/tout-de-que-javais-envie-de-te-dire-8"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Cette pièce est une œuvre de danse-théâtre virtuose et empathique qui lève son verre (avant de le briser) à l’amour, à la loyauté et aux difficultés auxquelles nous espérons ne jamais échapper."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69e8c2af68d64c0d0d3410e2/1777568751410/Mayworks2026-instaPost-Everything.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1875"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/tout-de-que-javais-envie-de-te-dire-8"
+      }
+    ]
+  },
+  {
+    "@id": "_:g812780",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/185d8fa2-016e-4f9b-9bcf-d01acfc89706",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/tout-de-que-javais-envie-de-te-dire-8"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/33959be4-1161-42e5-8bc1-d791ed013a33",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/tout-de-que-javais-envie-de-te-dire-8"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/d7980db1-6a44-4047-95af-f8789ba3d8ee",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69e8c2af68d64c0d0d3410e2/1777568751410/Mayworks2026-instaPost-Everything.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g812780"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/tout-de-que-javais-envie-de-te-dire-8"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/tout-de-que-javais-envie-de-te-dire-8"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Tout de que j'avais envie de te dire — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-08T19:30:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-08T21:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/programmation/tout-de-que-javais-envie-de-te-dire",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "tout ce que j’avais envie de te dire — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/tout-de-que-javais-envie-de-te-dire"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Cette pièce est une œuvre de danse-théâtre virtuose et empathique qui lève son verre (avant de le briser) à l’amour, à la loyauté et aux difficultés auxquelles nous espérons ne jamais échapper."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69e8c0b9d49cfe289dd1b964/1777568740430/Mayworks2026-instaPost-Everything.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1875"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/tout-de-que-javais-envie-de-te-dire"
+      }
+    ]
+  },
+  {
+    "@id": "_:g824020",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/79717c7d-132b-4e3e-8a94-de628b5f9b2e",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/tout-de-que-javais-envie-de-te-dire"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/c9c7b177-f0f8-465a-b9ea-0f5121c486b8",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/tout-de-que-javais-envie-de-te-dire"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/f3ed7f29-bad9-463b-a7b2-588b50722c7d",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69e8c0b9d49cfe289dd1b964/1777568740430/Mayworks2026-instaPost-Everything.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g824020"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/tout-de-que-javais-envie-de-te-dire"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/tout-de-que-javais-envie-de-te-dire"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "tout ce que j’avais envie de te dire — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-07T19:30:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-07T21:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/programmation/chavirer-lacadie-rcits-pomes-histoires-et-conversations",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Chavirer l’Acadie : récits, poèmes, histoires et conversations — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/chavirer-lacadie-rcits-pomes-histoires-et-conversations"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "En célébration de Joseph Willie Comeau, mis à l'honneur cette année pour la Journée du Patrimoine, le CCGH et ses partenaires vous invitent à l'événement ✨ Chavirer l’Acadie : récits, poèmes, histoires et conversations ✨"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69f388ad41429927a7c5b22e/1777568721100/Chavirer+l%27Acadie+Re%CC%81cits%2C+poe%CC%80mes%2C+histoires+et+conversations+%284%29.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/chavirer-lacadie-rcits-pomes-histoires-et-conversations"
+      }
+    ]
+  },
+  {
+    "@id": "_:g834800",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/5e1176e7-386f-46d8-9303-a0b9c09e8d8a",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/chavirer-lacadie-rcits-pomes-histoires-et-conversations"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/a29d47cc-19c0-4f3d-b680-be8d9da3ac32",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/chavirer-lacadie-rcits-pomes-histoires-et-conversations"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/48faa2f0-2b54-4f53-90a9-5027daee6caa",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69f388ad41429927a7c5b22e/1777568721100/Chavirer+l%27Acadie+Re%CC%81cits%2C+poe%CC%80mes%2C+histoires+et+conversations+%284%29.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g834800"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/chavirer-lacadie-rcits-pomes-histoires-et-conversations"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/chavirer-lacadie-rcits-pomes-histoires-et-conversations"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chavirer l’Acadie : récits, poèmes, histoires et conversations — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-06T19:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-06T21:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/programmation/lydia-et-le-vaisseau-des-temptes-tourne-qubec-cinma",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Lydia et le vaisseau des tempêtes (tournée Québec Cinéma) — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/lydia-et-le-vaisseau-des-temptes-tourne-qubec-cinma"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Retrouvez nous le dimanche 26 avril 2026 à 15h pour la projection du film d'animation Lydia et le vaisseau des tempêtes de Emilie Rosas."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69de92abc944ab3e201ba680/1776194422395/Lydia+et+le+vaisseau+des+tempe%CC%82tes.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/lydia-et-le-vaisseau-des-temptes-tourne-qubec-cinma"
+      }
+    ]
+  },
+  {
+    "@id": "_:g845460",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/e83ae502-3906-4e87-870c-de901e535158",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/lydia-et-le-vaisseau-des-temptes-tourne-qubec-cinma"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/7fc36fee-6f5a-4945-944c-2b148aab19a9",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/lydia-et-le-vaisseau-des-temptes-tourne-qubec-cinma"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/183a6fed-5445-409c-89dd-3b3e8fc51bcf",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69de92abc944ab3e201ba680/1776194422395/Lydia+et+le+vaisseau+des+tempe%CC%82tes.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g845460"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/lydia-et-le-vaisseau-des-temptes-tourne-qubec-cinma"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/lydia-et-le-vaisseau-des-temptes-tourne-qubec-cinma"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Lydia et le vaisseau des tempêtes (tournée Québec Cinéma) — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-26T15:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-26T17:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/programmation/xxoaj7d3f6avbfyayqwqe0oy8m834r",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "5 à 7 Hého — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/xxoaj7d3f6avbfyayqwqe0oy8m834r"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Rejoignez-nous pour le 5 à 7 Hého du mois d’avril !  Profitez de belles conversations, d’un rabais de 15 % sur les boissons en fût, et d’un petit défi qui pourrait vous faire gagner un super prix&nbsp;!   Aucune inscription nécessaire : présentez-vous simplement dans la salle principale de la ci"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69ca8a63fd627a474edaf280/1774881749800/Les+5+a%CC%80+7+He%CC%81ho+%289%29.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/xxoaj7d3f6avbfyayqwqe0oy8m834r"
+      }
+    ]
+  },
+  {
+    "@id": "_:g856100",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/5a1dbee9-2294-44ad-ad7f-5ad191b6a51a",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/xxoaj7d3f6avbfyayqwqe0oy8m834r"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/8e189164-0319-4d8e-826a-281d122c6d3e",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/xxoaj7d3f6avbfyayqwqe0oy8m834r"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/b9879fc2-aaae-4908-bbf8-45e1d66d0810",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69ca8a63fd627a474edaf280/1774881749800/Les+5+a%CC%80+7+He%CC%81ho+%289%29.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g856100"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/xxoaj7d3f6avbfyayqwqe0oy8m834r"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/xxoaj7d3f6avbfyayqwqe0oy8m834r"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "5 à 7 Hého — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-15T17:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-15T19:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/programmation/la-cabane-sucre",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "La cabane à sucre — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/la-cabane-sucre"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "La cabane à sucre est de retour ! Venez vous sucrer le bec en cette journée où la neige rencontre le sirop d’érable."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/6995d018aba40c726534e279/1771425984979/La+cabane+a%CC%80+sucre+2026.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/la-cabane-sucre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g866940",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/2eae7417-4bcf-4f73-a9de-6a104baf8294",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/la-cabane-sucre"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/db05228d-e6e1-486d-a270-a44ff5c8dd4c",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/la-cabane-sucre"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/41c93583-f5bc-463a-8726-8e7f7bccd905",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/6995d018aba40c726534e279/1771425984979/La+cabane+a%CC%80+sucre+2026.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g866940"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/la-cabane-sucre"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/la-cabane-sucre"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La cabane à sucre — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-22T10:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-22T15:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/programmation/pj9iokqq0ooo64k258rbdap9db3fce",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "5 à 7 Hého - mars — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/pj9iokqq0ooo64k258rbdap9db3fce"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Venez jaser au 5 à 7 !"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69b8185000b4f13f43195ad8/1773672767100/Les+5+a%CC%80+7+He%CC%81ho+%288%29.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/pj9iokqq0ooo64k258rbdap9db3fce"
+      }
+    ]
+  },
+  {
+    "@id": "_:g878000",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/ef638376-a082-47d5-8d63-c16d53d7d5c5",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/pj9iokqq0ooo64k258rbdap9db3fce"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/7d754c1d-6383-4a94-9129-16808317748d",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/pj9iokqq0ooo64k258rbdap9db3fce"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/251390a5-b838-4812-86b4-49b925e2f560",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/69b8185000b4f13f43195ad8/1773672767100/Les+5+a%CC%80+7+He%CC%81ho+%288%29.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g878000"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/pj9iokqq0ooo64k258rbdap9db3fce"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/pj9iokqq0ooo64k258rbdap9db3fce"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "5 à 7 Hého - mars — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-18T17:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-18T19:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/programmation/docu-fiction-thtral-parler-mal",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Docu-fiction théâtral : Parler mal — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/docu-fiction-thtral-parler-mal"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Dans le cadre du mois de la francophonie, le Conseil Communautaire du Grand-Havre présente Parler Mal, un docu-fiction théâtral créé par Bianca Richard et Gabriel Robichaud sur l'insécurité linguistique."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/6995cf61a50bbd76ccb6d4a9/1771425794529/Parler+mal+-+mars+2026.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/docu-fiction-thtral-parler-mal"
+      }
+    ]
+  },
+  {
+    "@id": "_:g889020",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/321c05a5-0638-4d75-8329-bad6d9842f41",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/docu-fiction-thtral-parler-mal"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/d2359203-ad09-4081-be73-0815b24a6e1f",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/docu-fiction-thtral-parler-mal"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/9f44ce9d-25fa-4ed4-8ffc-cacb37a3d695",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/6995cf61a50bbd76ccb6d4a9/1771425794529/Parler+mal+-+mars+2026.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g889020"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/docu-fiction-thtral-parler-mal"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/docu-fiction-thtral-parler-mal"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Docu-fiction théâtral : Parler mal — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-05T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-05T20:30:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/programmation/5-7-hho",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "5 à 7 Hého — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/5-7-hho"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Participez aux 5 à 7 Hého ! À chaque mois, on se rencontre pour un p’tit moment social :)"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/6995ce3454e6384c2f88f33e/1771425630626/Les+5+a%CC%80+7+He%CC%81ho+%287%29.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/5-7-hho"
+      }
+    ]
+  },
+  {
+    "@id": "_:g900140",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/c0e72482-dceb-4014-b20f-4efad417ebda",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/5-7-hho"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/9717edd1-6e94-45b9-9995-6750690374c6",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/5-7-hho"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/42acedfe-0b5a-43ab-a2d6-3b45629a1c77",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/6995ce3454e6384c2f88f33e/1771425630626/Les+5+a%CC%80+7+He%CC%81ho+%287%29.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g900140"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/5-7-hho"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/5-7-hho"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "5 à 7 Hého — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-18T17:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-18T19:00:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/programmation/un-aprs-midi-en-musique-avec-alphonse-bisaillon",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Un après-midi en musique avec Alphonse Bisaillon — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/un-aprs-midi-en-musique-avec-alphonse-bisaillon"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Alphonse Bisaillon se distingue par l’utilisation d’images évocatrices, de trames narratives riches et de jeux de mots ingénieux. Chaque composition est minutieusement ciselée pour créer une expérience véritablement immersive."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/6945bae5f138206394be8c3f/1766177711355/alphonse.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/un-aprs-midi-en-musique-avec-alphonse-bisaillon"
+      }
+    ]
+  },
+  {
+    "@id": "_:g911360",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/1620d9e0-c4ae-45b0-b2b6-fccdc7972d8e",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/un-aprs-midi-en-musique-avec-alphonse-bisaillon"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/d6f68912-d27f-4f24-a091-7cfcac0878df",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/un-aprs-midi-en-musique-avec-alphonse-bisaillon"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/6674c2d7-2218-4ff6-b5ec-ca8cbbf071e1",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/6945bae5f138206394be8c3f/1766177711355/alphonse.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g911360"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/un-aprs-midi-en-musique-avec-alphonse-bisaillon"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/un-aprs-midi-en-musique-avec-alphonse-bisaillon"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Un après-midi en musique avec Alphonse Bisaillon — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-01T15:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-01T17:00:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/programmation/ksnnl4uk07n0ze44hrln32gr0qdppr",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Gala d’humour des Rendez-vous de la francophonie — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "fr-ca",
+        "@value": "100 Ochterloney Street"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": "Dartmouth"
+      }
+    ],
+    "http://ogp.me/ns#region": [
+      {
+        "@language": "fr-ca",
+        "@value": "NS"
+      }
+    ],
+    "http://ogp.me/ns#postal-code": [
+      {
+        "@language": "fr-ca",
+        "@value": "B2Y 0G2"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/ksnnl4uk07n0ze44hrln32gr0qdppr"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Cette année, le public aura la chance de retrouver le charme irrésistible de  Mario Jean , la verve audacieuse de&nbsp; Sinem&nbsp;Kara , le dynamisme éclaté de  Jonathan Dion , ainsi que la franchise rafraîchissante de&nbsp; Stéphanie Morin-Robert ."
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/6929b2e30759705d9c47dce1/1765222884003/3.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/ksnnl4uk07n0ze44hrln32gr0qdppr"
+      }
+    ]
+  },
+  {
+    "@id": "_:g922580",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Sanctuary Arts Centre"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "100 Ochterloney Street\nDartmouth, NS, B2Y 0G2\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/3ea8051e-0ca7-4df8-b993-9ad4d65633ad",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/ksnnl4uk07n0ze44hrln32gr0qdppr"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/725e0272-e51a-43f8-845c-871f737b9699",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/ksnnl4uk07n0ze44hrln32gr0qdppr"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/dd007086-5531-4f38-9441-c01beaf75092",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/6929b2e30759705d9c47dce1/1765222884003/3.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g922580"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/ksnnl4uk07n0ze44hrln32gr0qdppr"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/ksnnl4uk07n0ze44hrln32gr0qdppr"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Gala d’humour des Rendez-vous de la francophonie — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-22T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-22T19:30:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/programmation/patinage-en-famille",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Patinage en famille — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#street-address": [
+      {
+        "@language": "fr-ca",
+        "@value": "2901 Windsor Street"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": "Halifax"
+      }
+    ],
+    "http://ogp.me/ns#region": [
+      {
+        "@language": "fr-ca",
+        "@value": "NS"
+      }
+    ],
+    "http://ogp.me/ns#postal-code": [
+      {
+        "@language": "fr-ca",
+        "@value": "B3K 5E8"
+      }
+    ],
+    "http://ogp.me/ns#country-name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Canada"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/patinage-en-famille"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Venez patiner en famille avec nous !"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/6929b1dec07046028e11d75f/1764340447500/589635087_1451309953664930_4401386169704273073_n+%281%29.jpg?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "940"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "788"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/patinage-en-famille"
+      }
+    ]
+  },
+  {
+    "@id": "_:g933520",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Halifax Forum"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": "2901 Windsor Street\nHalifax, NS, B3K 5E8\nCanada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/658822e8-78fd-4ecc-b98f-94c5222ca5e5",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/patinage-en-famille"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/b52989d2-f101-4507-b048-6557d096a8e7",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/patinage-en-famille"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/9fe97383-5184-4f04-840b-3e9e2be03259",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/6929b1dec07046028e11d75f/1764340447500/589635087_1451309953664930_4401386169704273073_n+%281%29.jpg?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g933520"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/patinage-en-famille"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/patinage-en-famille"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Patinage en famille — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-23T14:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-23T14:00:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/programmation/5a7hehodec",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "5 à 7 Hého - décembre — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/5a7hehodec"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Venez vous mettre à l’abris de la neige à notre 5 à 7 Hého du mois de décembre !"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/693729fa23dba5233d77cba9/1765224707865/Les+5+a%CC%80+7+He%CC%81ho+%285%29.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/5a7hehodec"
+      }
+    ]
+  },
+  {
+    "@id": "_:g944000",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/01e42dd8-1919-4b85-acc0-b77552581219",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/5a7hehodec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/cf25ca51-e94a-432d-875e-6d959ca67f9e",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/5a7hehodec"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/45f13a26-d65f-4055-9f15-7db6fc500a98",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/693729fa23dba5233d77cba9/1765224707865/Les+5+a%CC%80+7+He%CC%81ho+%285%29.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g944000"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/5a7hehodec"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/5a7hehodec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "5 à 7 Hého - décembre — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-17T17:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-17T19:00:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/programmation/xrfw14fgoe2bqlco891viv8hmxkb70",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Les Billinguish Boys — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/xrfw14fgoe2bqlco891viv8hmxkb70"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Rejoignez le Conseil Communautaire du Grand-Havre le samedi 29 novembre 2025 pour une soirée de rires avec les Billinguish Boys au Sanctuary Arts Centre à Dartmouth!&nbsp;"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/68f2414e98bb484e37b9b187/1760707226406/Les+Bilinguish+Boys+-+Nov+2025+%281%29.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1350"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/xrfw14fgoe2bqlco891viv8hmxkb70"
+      }
+    ]
+  },
+  {
+    "@id": "_:g954100",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/2cc2836f-b8bd-4db2-92b8-73b1f4c8c082",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/xrfw14fgoe2bqlco891viv8hmxkb70"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/824881ac-302d-429b-b541-7cb2a82102ca",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/xrfw14fgoe2bqlco891viv8hmxkb70"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/d17364b8-6cc2-43ae-8b9c-a14560575a8f",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/68f2414e98bb484e37b9b187/1760707226406/Les+Bilinguish+Boys+-+Nov+2025+%281%29.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g954100"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/xrfw14fgoe2bqlco891viv8hmxkb70"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/xrfw14fgoe2bqlco891viv8hmxkb70"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Billinguish Boys — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-29T21:00:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/programmation/festival-francofest",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Festival Francofest — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/festival-francofest"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Venez célébrer les cultures francophones à Halifax au festival Francofest !"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/689ce7c70b0409701a8c786f/1759936664026/LogoIllustration.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "843"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/festival-francofest"
+      }
+    ]
+  },
+  {
+    "@id": "_:g964580",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/eab75d7d-f0cc-41c4-8702-15808e530bd7",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/festival-francofest"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/87f12c3c-ca1c-4d80-ae84-471343aeccca",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/festival-francofest"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/711d9cfe-1b10-449f-bbad-2af385caba40",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1172,12 +7232,17 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g522660"
+        "@id": "_:g964580"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://ccgh.ca/programmation/festival-francofest"
+        "@id": "https://www.ccgh.ca/programmation/festival-francofest"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/festival-francofest"
       }
     ],
     "http://schema.org/name": [
@@ -1196,6 +7261,197 @@
       {
         "@type": "http://schema.org/Date",
         "@value": "2025-11-01T21:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/programmation/aga-2025",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "AGA 2025 — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://ogp.me/ns#latitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "40.7207559"
+      }
+    ],
+    "http://ogp.me/ns#longitude": [
+      {
+        "@language": "fr-ca",
+        "@value": "-74.0007613"
+      }
+    ],
+    "http://ogp.me/ns#locality": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://ccgh.ca/programmation/aga-2025"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Venez participer à l’Assemblée générale annuelle du CCGH !"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/68e6789aed44b32916083aa6/1759935888012/AEM_visuels_2025_%281%29.png?format=1500w"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": "1080"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/aga-2025"
+      }
+    ]
+  },
+  {
+    "@id": "_:g975160",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/10cb52ac-5185-40d0-aa6f-413958dcfe4d",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ccgh.ca"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://images.squarespace-cdn.com/content/v1/67b27dca652970764b6cb265/24e7d4f1-7993-405a-839c-fc8d6a4b43a5/ccgh+couleur.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/aga-2025"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/c04083f7-6e62-4fb1-93e7-5737d9067c41",
+    "@type": [
+      "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://static1.squarespace.com/static/67b27dca652970764b6cb265/t/689ce6cd61272c0c197299c7/1775048193023/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/aga-2025"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.ccgh.ca/temporary/3b70714d-6c3f-44dd-bcd8-fad4faea9d62",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://static1.squarespace.com/static/67b27dca652970764b6cb265/689ce3a36d28586bbf0f6f5e/68e6789aed44b32916083aa6/1759935888012/AEM_visuels_2025_%281%29.png?format=1500w"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g975160"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/aga-2025"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ccgh.ca/programmation/aga-2025"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "AGA 2025 — Conseil communautaire du Grand-Havre"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-08T19:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-08T20:00:00-03:00"
       }
     ]
   }
