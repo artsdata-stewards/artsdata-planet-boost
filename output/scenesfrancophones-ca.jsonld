@@ -1,671 +1,5 @@
 [
   {
-    "@id": "https://scenesfrancophones.ca/id/9240",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/brian-st-pierre-malgre-tout-9240"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-09T19:30:00-04:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/4149"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g468160"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/79"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/4109"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/brian-st-pierre-malgre-tout-9240"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Brian St-Pierre - SIMPLEMENT BRIAN"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Récipiendaire du prix Hommage Trille Or 2023 et ambassadeur de la francophonie ontarienne, Brian St-Pierre revient en force avec son nouveau spectacle et album “Malgré tout”.  Accompagné de deux autres musiciens, son spectacle est à la fois festif et intimiste allant du pop au folk, du rock à la ballade.  L’énergie, la vitalité, la passion ne sont que quelques mots qui décrivent cette bête de scène qui transporte les spectateurs dans son univers sonore.  On y découvre ses compositions originales de son nouvel album et on revit ses plus grands succès."
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/4149",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/node/4149"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g468120"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g468140"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "École secondaire Trillium"
-      }
-    ]
-  },
-  {
-    "@id": "_:g468160",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/79",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-louis-hemon"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Centre culturel Louis-Hémon"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/4109",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/artistes/brian-st-pierre"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Brian St-Pierre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g468120",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "9 Broomhead Rd"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Chapleau"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "ON"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "P0M 1K0"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g468140",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "47.839585"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-83.40972"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/11921",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/grand-poney-onoff-11921"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g483280"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-09T19:00:00-03:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/10382"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g483340"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/37"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/8479"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/grand-poney-onoff-11921"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Grand Poney - ON/OFF"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "ON / OFF met en scène un quintette d'interprètes en action sur un dispositif étonnant, un tapis de course. Cinq interprètes évoluent dans un espace restreint où le mouvement devient à la fois contraint et spectaculaire. Le spectacle explore des thèmes tels que le dépassement de soi, la liberté, l’identité, le vivre-ensemble et la complexité des émotions humaines. Le tapis symbolise le passage de l’enfance à l’âge adulte. Les interprètes, tantôt en maîtrise, tantôt dépassés, cherchent leur place dans le monde à travers un dialogue constant entre corps, machine et espace."
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "_:g483280",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/png%20%285%29.png?itok=UXzrPb8G"
-      }
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "430"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "430"
-      }
-    ],
-    "http://schema.org/creditText": [
-      {
-        "@value": "Christine Berthiaume"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/10382",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/node/10382"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g483300"
-      },
-      {
-        "@id": "_:g496020"
-      },
-      {
-        "@id": "_:g505220"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g483320"
-      },
-      {
-        "@id": "_:g496040"
-      },
-      {
-        "@id": "_:g505240"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Théâtre Gilles Laplante"
-      }
-    ]
-  },
-  {
-    "@id": "_:g483340",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://carbeau.tuxedobillet.com/main/grand-poney"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/37",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/carrefour-communautaire-beausoleil"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Carrefour communautaire Beausoleil"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/8479",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/artistes/grand-poney"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Grand Poney"
-      }
-    ]
-  },
-  {
-    "@id": "_:g483300",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "300 Beaverbrook Rd,"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Miramichi"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E1V 1A1"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g496020",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "300 Beaverbrook Rd,"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Miramichi"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E1V 1A1"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g505220",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "300 Beaverbrook Rd,"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Miramichi"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E1V 1A1"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g483320",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "47.008958"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-65.587482"
-      }
-    ]
-  },
-  {
-    "@id": "_:g496040",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "47.008958"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-65.587482"
-      }
-    ]
-  },
-  {
-    "@id": "_:g505240",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "47.008958"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-65.587482"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/11932",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/les-illusionnistes-recital-de-magie-11932"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g496000"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-24T18:30:00-03:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/10382"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g496060"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/37"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/10024"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/les-illusionnistes-recital-de-magie-11932"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Les Illusionnistes  - Récital de magie"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Rescapé d’un music hall des années 20, un couple de télépathes dysfonctionnel livre un croisement unique de prouesses de magie actuelle et d'un concert de femme-orchestre aux instruments inusités. Lévitations, disparitions, évasion et télépathie: un duo captivant, classique et spectaculaire qui saura envouter toute la famille!"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "_:g496000",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/png%20%286%29.png?itok=8WDmkbye"
-      }
-    ],
-    "http://schema.org/creditText": [
-      {
-        "@value": "Olivier Bousquet (MU)"
-      },
-      {
-        "@value": "Anne-Marie Hamel"
-      },
-      {
-        "@value": "Philippe Brûlé"
-      },
-      {
-        "@value": "Vincent Deronde"
-      },
-      {
-        "@value": "Andrée-Anne Gingras-Roy"
-      },
-      {
-        "@value": "Laurence Rosset @lolographer"
-      },
-      {
-        "@value": "Caroline Hayeur"
-      }
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "430"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "430"
-      }
-    ]
-  },
-  {
-    "@id": "_:g496060",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://carbeau.tuxedobillet.com/main/recital-de-magie"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/10024",
-    "@type": [
-      "http://schema.org/PerformingGroup"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/artistes/les-illusionnistes"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Les Illusionnistes"
-      }
-    ]
-  },
-  {
     "@id": "https://scenesfrancophones.ca/id/11942",
     "@type": [
       "http://schema.org/Event"
@@ -677,7 +11,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g505200"
+        "@id": "_:g469020"
       }
     ],
     "http://schema.org/startDate": [
@@ -693,7 +27,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g505260"
+        "@id": "_:g469080"
       }
     ],
     "http://schema.org/organizer": [
@@ -738,7 +72,7 @@
     ]
   },
   {
-    "@id": "_:g505200",
+    "@id": "_:g469020",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -764,7 +98,33 @@
     ]
   },
   {
-    "@id": "_:g505260",
+    "@id": "https://scenesfrancophones.ca/id/10382",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/node/10382"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g469040"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g469060"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Théâtre Gilles Laplante"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469080",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -776,6 +136,22 @@
     "http://schema.org/availability": [
       {
         "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/37",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/carrefour-communautaire-beausoleil"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Carrefour communautaire Beausoleil"
       }
     ]
   },
@@ -807,59 +183,106 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/id/11920",
+    "@id": "_:g469040",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "300 Beaverbrook Rd,"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Miramichi"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E1V 1A1"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469060",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "47.008958"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-65.587482"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/8813",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/spectacles/alex-roy-debout-11920"
+        "@id": "https://scenesfrancophones.ca/spectacles/megan-brouillard-chiendent-8813"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g514280"
+        "@id": "_:g478040"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-04-09T20:00:00-03:00"
+        "@value": "2026-05-22T19:30:00-03:00"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "https://scenesfrancophones.ca/id/523"
+        "@id": "https://scenesfrancophones.ca/id/509"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g514340"
+        "@id": "_:g478100"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://scenesfrancophones.ca/id/41"
+        "@id": "https://scenesfrancophones.ca/id/56"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "https://scenesfrancophones.ca/id/8869"
+        "@id": "https://scenesfrancophones.ca/id/8811"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://scenesfrancophones.ca/spectacles/alex-roy-debout-11920"
+        "@id": "https://scenesfrancophones.ca/spectacles/megan-brouillard-chiendent-8813"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Alex Roy - Debout"
+        "@value": "Mégan Brouillard -"
       }
     ],
     "http://schema.org/description": [
       {
-        "@value": "Dans “Debout”, je vous raconte tout ce qui me pousse à sortir du lit chaque matin : mon métier, mes jumelles (qui n’ont aucune pitié pour la grasse matinée), et un quotidien rempli d’anecdotes aussi farfelues qu’inattendues. Un spectacle drôle, sincère et énergique... parce que rester debout, c’est déjà une victoire ! “Debout”, c’est plus qu’un simple spectacle de stand-up, c’est une plongée dans tout ce qui me donne envie de me lever le matin. Entre rêves, galères, absurdités du quotidien et grandes questions existentielles, je vous embarque dans un voyage drôle et sincère à travers mes motivations (parfois étranges) pour affronter chaque journée. Alors, qu’est-ce qui me tient debout ? \r\n\r\n\r\nL’artiste\r\n\r\nVenez le découvrir... et peut-être que vous repartirez avec des raisons en plus de vous lever demain ! Alex Roy est un humoriste qui manie l’art du stand-up avec une énergie débordante et un sens aigu de l’autodérision. Avec son franc-parler et sa capacité à transformer les situations du quotidien en histoires hilarantes, il vous embarque dans un univers où chaque détail devient matière à rire. Que ce soit pour parler de sa famille, de ses expériences de vie ou de ses réflexions improbables, Alex Roy sait comment captiver son public en mêlant sincérité, absurdité et une bonne dose d’impertinence. Préparez-vous à rire... et à vous reconnaître (parfois malgré vous) dans ses anecdotes décapantes !"
+        "@value": "Le chiendent, c’est subjectif. La mauvaise herbe, c’est quelque chose qui pousse là où toi, tu ne voulais pas. Ce qui est du chiendent pour l’un ne l’est peut-être pas pour l’autre et ce qui est du chiendent quelque part, ne l’est pas ailleurs… Mon spectacle tourne autour de cette perspective, des différentes perceptions de chacun et chacune et autour de mes propres perceptions.\r\n\r\nLe premier one-woman-show de Mégan Brouillard est un spectacle mordant et authentique, où Mégan présente elle et les siens, sans filtre et toujours de façon hilarante!"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -879,13 +302,13 @@
     ]
   },
   {
-    "@id": "_:g514280",
+    "@id": "_:g478040",
     "@type": [
       "http://schema.org/ImageObject"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%284%29.png?itok=vWXyzexx"
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/800x800.png?itok=HAv40fzh"
       }
     ],
     "http://schema.org/representativeOfPage": [
@@ -905,39 +328,45 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/id/523",
+    "@id": "https://scenesfrancophones.ca/id/509",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/node/523"
+        "@id": "https://scenesfrancophones.ca/node/509"
       }
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g514300"
+        "@id": "_:g478060"
+      },
+      {
+        "@id": "_:g548640"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g514320"
+        "@id": "_:g478080"
+      },
+      {
+        "@id": "_:g548660"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Salle Léo-Poulin"
+        "@value": "Théâtre Capitol"
       }
     ]
   },
   {
-    "@id": "_:g514340",
+    "@id": "_:g478100",
     "@type": [
       "http://schema.org/Offer"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://artsedmundston.ca/evenements/alex-roy-debout-en-rodage/?lang=fr"
+        "@id": "https://capitol.nb.ca/fr/spectacles-et-billets/megan-brouillard"
       }
     ],
     "http://schema.org/availability": [
@@ -947,50 +376,61 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/id/41",
+    "@id": "https://scenesfrancophones.ca/id/56",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/le-centre-des-arts-dedmundston"
+        "@id": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Le Centre des arts d’Edmundston"
+        "@value": "Théâtre Capitol"
       }
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/id/8869",
+    "@id": "https://scenesfrancophones.ca/id/8811",
     "@type": [
-      "http://schema.org/Person"
+      "http://schema.org/Thing"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/artistes/alex-roy"
+        "@id": "https://scenesfrancophones.ca/artistes/megan-brouillard-0"
+      }
+    ],
+    "http://schema.org/schema_organization_additional_type": [
+      {
+        "@value": "http://dbpedia.org/ontology/Agent"
+      },
+      {
+        "@value": "http://xmlns.com/foaf/0.1/Agent"
+      },
+      {
+        "@value": "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Alex Roy"
+        "@value": "Mégan Brouillard"
       }
     ]
   },
   {
-    "@id": "_:g514300",
+    "@id": "_:g478060",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/streetAddress": [
       {
-        "@value": "300, rue Martin"
+        "@value": "811, rue Main"
       }
     ],
     "http://schema.org/addressLocality": [
       {
-        "@value": "Edmundston"
+        "@value": "Moncton"
       }
     ],
     "http://schema.org/addressRegion": [
@@ -1000,7 +440,7 @@
     ],
     "http://schema.org/postalCode": [
       {
-        "@value": "E3V 2N6"
+        "@value": "E1C 1G1"
       }
     ],
     "http://schema.org/addressCountry": [
@@ -1010,55 +450,102 @@
     ]
   },
   {
-    "@id": "_:g514320",
+    "@id": "_:g548640",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "811, rue Main"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Moncton"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E1C 1G1"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478080",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
     "http://schema.org/latitude": [
       {
-        "@value": "47.367979"
+        "@value": "46.088338"
       }
     ],
     "http://schema.org/longitude": [
       {
-        "@value": "-68.313597"
+        "@value": "-64.779037"
       }
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/id/11934",
+    "@id": "_:g548660",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "46.088338"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-64.779037"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/11943",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/spectacles/empire-pagaille-mme-brule-11934"
+        "@id": "https://scenesfrancophones.ca/spectacles/empire-pagaille-mme-brule-11943"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g529960"
+        "@id": "_:g487020"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-04-24T20:00:00-03:00"
+        "@value": "2026-05-22T18:40:00-03:00"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "https://scenesfrancophones.ca/id/521"
+        "@id": "https://scenesfrancophones.ca/id/503"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g530020"
+        "@id": "_:g487080"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://scenesfrancophones.ca/id/41"
+        "@id": "https://scenesfrancophones.ca/id/53"
       }
     ],
     "http://schema.org/performer": [
@@ -1068,7 +555,7 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://scenesfrancophones.ca/spectacles/empire-pagaille-mme-brule-11934"
+        "@id": "https://scenesfrancophones.ca/spectacles/empire-pagaille-mme-brule-11943"
       }
     ],
     "http://schema.org/name": [
@@ -1098,13 +585,13 @@
     ]
   },
   {
-    "@id": "_:g529960",
+    "@id": "_:g487020",
     "@type": [
       "http://schema.org/ImageObject"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/1-%20MmeBru%CC%82le%CC%81_cre%CC%81ditsPhilipDeAndrade%20%28officielle%29%20%281%29.jpg?itok=6UBqMy9a"
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-03/Mme-Brule-SCLC.png?itok=P1D-Td1m"
       }
     ],
     "http://schema.org/representativeOfPage": [
@@ -1124,39 +611,39 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/id/521",
+    "@id": "https://scenesfrancophones.ca/id/503",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/node/521"
+        "@id": "https://scenesfrancophones.ca/node/503"
       }
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g529980"
+        "@id": "_:g487040"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g530000"
+        "@id": "_:g487060"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Centre des arts d'Edmundston"
+        "@value": "Auditorium Richelieu"
       }
     ]
   },
   {
-    "@id": "_:g530020",
+    "@id": "_:g487080",
     "@type": [
       "http://schema.org/Offer"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://artsedmundston.ca/evenements/mme-brule/?lang=fr"
+        "@id": "https://leschutes.tuxedobillet.com/main/mme-brulee/20260522200000"
       }
     ],
     "http://schema.org/availability": [
@@ -1166,18 +653,34 @@
     ]
   },
   {
-    "@id": "_:g529980",
+    "@id": "https://scenesfrancophones.ca/id/53",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-les-chutes"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Société culturelle régionale Les Chutes"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487040",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/streetAddress": [
       {
-        "@value": "82, rue Canada"
+        "@value": "215, rue Guimont"
       }
     ],
     "http://schema.org/addressLocality": [
       {
-        "@value": "Edmundston"
+        "@value": "Grand-Sault"
       }
     ],
     "http://schema.org/addressRegion": [
@@ -1187,7 +690,7 @@
     ],
     "http://schema.org/postalCode": [
       {
-        "@value": "E3V 1V5"
+        "@value": "E3Y 3W3"
       }
     ],
     "http://schema.org/addressCountry": [
@@ -1197,75 +700,70 @@
     ]
   },
   {
-    "@id": "_:g530000",
+    "@id": "_:g487060",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
     "http://schema.org/latitude": [
       {
-        "@value": "47.363907"
+        "@value": "47.056374"
       }
     ],
     "http://schema.org/longitude": [
       {
-        "@value": "-68.330138"
+        "@value": "-67.73096"
       }
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/id/12105",
+    "@id": "https://scenesfrancophones.ca/id/12642",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/spectacles/waahli-12105"
+        "@id": "https://scenesfrancophones.ca/spectacles/reglement-17-r17-2026-12642"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g537360"
+        "@id": "_:g496040"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-04-10T19:00:00-04:00"
+        "@value": "2026-05-28T20:00:00-04:00"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "https://scenesfrancophones.ca/id/1045"
+        "@id": "https://scenesfrancophones.ca/id/1050"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g537420"
+        "@id": "_:g496100"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://scenesfrancophones.ca/id/68"
+        "@id": "https://scenesfrancophones.ca/id/73"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "https://scenesfrancophones.ca/id/8629"
+        "@id": "https://scenesfrancophones.ca/id/255"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://scenesfrancophones.ca/spectacles/waahli-12105"
+        "@id": "https://scenesfrancophones.ca/spectacles/reglement-17-r17-2026-12642"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Waahli"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Waahli est un artiste montréalais d’origine haïtienne dont la musique est un vibrant mélange de hip-hop, afrobeat, reggae et funk haïtien. Sa démarche artistique singulière est profondément ancrée dans ses origines et son identité plurielle. Il interprète ses chansons en anglais, français et créole haïtien. Sur scène, il est accompagné de 3 musiciens avec qui il partage une complicité exceptionnelle, créant une énergie contagieuse. Il ne se contente pas de livrer une performance musicale : il interagit avec son public, l’invite à participer et à vivre une expérience inoubliable."
+        "@value": "Règlement 17 - Contre-courant"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -1285,13 +783,1137 @@
     ]
   },
   {
-    "@id": "_:g537360",
+    "@id": "_:g496040",
     "@type": [
       "http://schema.org/ImageObject"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/waahli---bruno-destombes.jpg?itok=fibeIpIN"
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/Groupe%20R17.jpg?itok=s7ggip_q"
+      }
+    ],
+    "http://schema.org/representativeOfPage": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@value": "430"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@value": "430"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/1050",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/node/1050"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g496060"
+      },
+      {
+        "@id": "_:g536420"
+      },
+      {
+        "@id": "_:g636200"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g496080"
+      },
+      {
+        "@id": "_:g536440"
+      },
+      {
+        "@id": "_:g636220"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Maison de la francophonie d’Ottawa (CMFO)"
+      }
+    ]
+  },
+  {
+    "@id": "_:g496100",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cmfo.ca/produit/r17-jeudi-28-mai-2026-a-19h/"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/73",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/maison-de-la-francophonie-dottawa-cmfo"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Maison de la francophonie d’Ottawa (CMFO)"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/255",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/artistes/reglement-17"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Règlement 17"
+      }
+    ]
+  },
+  {
+    "@id": "_:g496060",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "2720, chemin Richmond"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Ottawa"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "K2B 6S2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g536420",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "2720, chemin Richmond"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Ottawa"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "K2B 6S2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g636200",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "2720, chemin Richmond"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Ottawa"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "K2B 6S2"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g496080",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "45.358648"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-75.792699"
+      }
+    ]
+  },
+  {
+    "@id": "_:g536440",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "45.358648"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-75.792699"
+      }
+    ]
+  },
+  {
+    "@id": "_:g636220",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "45.358648"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-75.792699"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/10033",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/gabrielle-goulet-10033"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-30T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/9229"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g504980"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/70"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/5401"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/gabrielle-goulet-10033"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Gabrielle Goulet - Gabrielle Goulet"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/9229",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/node/9229"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g504940"
+      },
+      {
+        "@id": "_:g527480"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g504960"
+      },
+      {
+        "@id": "_:g527500"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Centre d’Action"
+      }
+    ]
+  },
+  {
+    "@id": "_:g504980",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://lepointdevente.com/billets/xda260530001"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/70",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Centre culturel Les trois p’tits points"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/5401",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/artistes/gabrielle-goulet-0"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Gabrielle Goulet"
+      }
+    ]
+  },
+  {
+    "@id": "_:g504940",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "7888 Arthur Lavigne St"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Ste-Anne-de-Prescott"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "K0B 1M0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527480",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "7888 Arthur Lavigne St"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Ste-Anne-de-Prescott"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "K0B 1M0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g504960",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "45.443622"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-74.470964"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527500",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "45.443622"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-74.470964"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/12304",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/gabrielle-goulet-12304"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g520240"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-20T17:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/12303"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g520300"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/88"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/5401"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/gabrielle-goulet-12304"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Gabrielle Goulet - Gabrielle Goulet"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520240",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/GG%20-%20photo%20promo.jpg?itok=D3I-YMTF"
+      }
+    ],
+    "http://schema.org/representativeOfPage": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@value": "430"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@value": "430"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/12303",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/node/12303"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g520260"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g520280"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Parc Rotary Champlain Wendat"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520300",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/88",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "La Clé"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520260",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "Trans-Canada Trail, Owen S"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Penetanguishene"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L9M 1M8"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520280",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "44.768969"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-79.939351"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/10034",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/buscadero-10034"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g527460"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-30T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/9229"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g527520"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/70"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/9245"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/buscadero-10034"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Buscadero -"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Un nouveau groupe de musique BUSCADERO, émerge de la scène artistique offrant une prise moderniste sur la musique country. Fondé par quatre musiciens talentueux, Brandon Girouard, Maxime Renaud, Noah Rivard et Martin Rocheleau ce quatuor dégage une énergie exceptionnelle sur la scène. Leurs rythmes entraînants, sons distinctifs et paroles évocatrices vous réservent une soirée inoubliable, avec l'avenir prometteur devant eux, BUSCADERO continue de repousser les frontières de la musique country."
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527460",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/Image%209_0.jpeg?itok=tG392Bca"
+      }
+    ],
+    "http://schema.org/representativeOfPage": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@value": "430"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@value": "430"
+      }
+    ]
+  },
+  {
+    "@id": "_:g527520",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://lepointdevente.com/billets/xda260530001"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/9245",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/artistes/buscadero"
+      }
+    ],
+    "http://schema.org/schema_organization_additional_type": [
+      {
+        "@value": "http://dbpedia.org/ontology/Agent"
+      },
+      {
+        "@value": "http://xmlns.com/foaf/0.1/Agent"
+      },
+      {
+        "@value": "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Buscadero"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/12640",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/jessy-lindsay-12640"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-04T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/1050"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g536460"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/73"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/5405"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/jessy-lindsay-12640"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Jessy Lindsay - J'explose"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "La franco-ontarienne Jessy Lindsay vous propose un spectacle pop-groovy entraînant et rafraîchissant qui inspire tout public à danser librement au battement de leur propre coeur. Ses paroles authentiques et mélodies accrocheuses incitent une réflexion sur les réalités actuelles des jeunes femmes queers. Elle explore, en particulier les thèmes d'identité, l'appartenance, la réclamation de soi et le « queer joy ». Ce spectacle férocement groovy marque le début d’une époque remplie de confiance, d’écoute de soi et de musique libératrice pour l’artiste. Plongez vivement dans son univers coloré !"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "_:g536460",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cmfo.ca/produit/paiement-pour-billet-jachete-mon-billet/"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/5405",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/artistes/jessy-lindsay"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Jessy Lindsay"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/12290",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/justin-guitard-gaspiller-du-talent-12290"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g548620"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-08T19:00:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/509"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g548680"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/56"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/908"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/justin-guitard-gaspiller-du-talent-12290"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Justin Guitard - La loi du plus corps"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "On lui demande depuis qu’il est tout petit : C’est pour quand, le spectacle d’humour? Eh bien, le voilà.\r\n\r\nNe manquez pas votre chance de constater par vous-même si Justin aurait dû continuer de s’écouter et se dire qu’il n’est pas un humoriste, ou si, finalement, le public avait raison et qu’il gaspille son vrai talent depuis le début de sa carrière.\r\n\r\nGaspiller du talent, c’est le tout premier one-man show de Justin Guitard, un artiste pluridisciplinaire qui saura vous faire rire et vous divertir avec ses anecdotes dans un feu roulant de comédie, de \"stepettes\" et de surprises."
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "_:g548620",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/IMG_4807.jpg?itok=RpbWqh_9"
+      }
+    ],
+    "http://schema.org/representativeOfPage": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@value": "430"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@value": "430"
+      }
+    ]
+  },
+  {
+    "@id": "_:g548680",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/fr/spectacles-et-billets/justin-guitard"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/908",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/artistes/justin-guitard"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Justin Guitard"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/12121",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/matiu-tipatshimushtunan-12121"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g560940"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-11T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/12312"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g561000"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/88"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/12109"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/matiu-tipatshimushtunan-12121"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Matiu - Tipatshimushtunan"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Matiu vient de Maliotenam, une communauté innue située sur la Côte-Nord du Québec. Paré de sa guitare, l’auteur-compositeur-interprète présente un spectacle folk-blues où les textes en français et en innu s’entrecroisent. Matiu relate son histoire et celle de sa communauté à travers des textes qui traitent du quotidien, des relations humaines et familiales ainsi que la quête identitaire autochtone. Il se démarque partout où il passe et séduit le public grâce à sa personnalité colorée, attachante et authentique."
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "_:g560940",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/vitrine_ontario_2024-2025/photo-1-matiu-credit_drowster-%281.jpg?itok=s25AKbEU"
       }
     ],
     "http://schema.org/representativeOfPage": [
@@ -1311,56 +1933,44 @@
     ],
     "http://schema.org/creditText": [
       {
-        "@value": "Bruno Destombes"
+        "@value": "Drowster"
       }
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/id/1045",
+    "@id": "https://scenesfrancophones.ca/id/12312",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/node/1045"
+        "@id": "https://scenesfrancophones.ca/node/12312"
       }
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g537380"
-      },
-      {
-        "@id": "_:g550060"
-      },
-      {
-        "@id": "_:g557360"
+        "@id": "_:g560960"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g537400"
-      },
-      {
-        "@id": "_:g550080"
-      },
-      {
-        "@id": "_:g557380"
+        "@id": "_:g560980"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Théâtre Le Sésame"
+        "@value": "Flying Monkeys Craft Brewery"
       }
     ]
   },
   {
-    "@id": "_:g537420",
+    "@id": "_:g561000",
     "@type": [
       "http://schema.org/Offer"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://centreculturelfrontenac.com/saison2526-waahli/"
+        "@id": "https://events.digibot.ca/event/9749/56085669"
       }
     ],
     "http://schema.org/availability": [
@@ -1370,50 +1980,34 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/id/68",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Centre culturel Frontenac"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/8629",
+    "@id": "https://scenesfrancophones.ca/id/12109",
     "@type": [
       "http://schema.org/Person"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/artistes/waahli"
+        "@id": "https://scenesfrancophones.ca/artistes/matiu"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Waahli"
+        "@value": "Matiu"
       }
     ]
   },
   {
-    "@id": "_:g537380",
+    "@id": "_:g560960",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/streetAddress": [
       {
-        "@value": "1290 rue Wheathill"
+        "@value": "107 Dunlop St E"
       }
     ],
     "http://schema.org/addressLocality": [
       {
-        "@value": "Kingston"
+        "@value": "Barrie"
       }
     ],
     "http://schema.org/addressRegion": [
@@ -1423,7 +2017,7 @@
     ],
     "http://schema.org/postalCode": [
       {
-        "@value": "K7M 0A7"
+        "@value": "L4M 1A6"
       }
     ],
     "http://schema.org/addressCountry": [
@@ -1433,253 +2027,18 @@
     ]
   },
   {
-    "@id": "_:g550060",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "1290 rue Wheathill"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Kingston"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "ON"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "K7M 0A7"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g557360",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "1290 rue Wheathill"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Kingston"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "ON"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "K7M 0A7"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g537400",
+    "@id": "_:g560980",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
     "http://schema.org/latitude": [
       {
-        "@value": "44.24737"
+        "@value": "44.389024"
       }
     ],
     "http://schema.org/longitude": [
       {
-        "@value": "-76.56108"
-      }
-    ]
-  },
-  {
-    "@id": "_:g550080",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "44.24737"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-76.56108"
-      }
-    ]
-  },
-  {
-    "@id": "_:g557380",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "44.24737"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-76.56108"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/12055",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/francois-massicotte-massicotte-80-12055"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g550040"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-05-02T19:00:00-04:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/1045"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g550100"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/68"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/9175"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/francois-massicotte-massicotte-80-12055"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Francois Massicotte - Massicotte 8.0!"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "François Massicotte, l’humoriste établi apprécié de tous qui cumule plus de 35 ans d’expérience en humour, est de retour sur scène avec son 8e one-man-show : 8.0!\r\n\r\nAvec son sens du timing unique, François aborde des thèmes unificateurs à travers lesquels tous se reconnaissent, tels que la famille, le couple, la parentalité, la vieillesse et plus encore, avec humour et dérision. À travers ses aventures et histoires savoureuses, ce père de cinq enfants nous entraîne dans le tourbillon de la famille moderne avec son énergie scénique contagieuse! Doté d’un talent naturel, François s’assume, s’anime et nous transporte dans le tourbillonnement fou de la vie contemporaine. 8.0!, pour se reconnaître et en rire!"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "_:g550040",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/francois-massicotte.jpg?itok=W87rCo8Q"
-      }
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "430"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "430"
-      }
-    ]
-  },
-  {
-    "@id": "_:g550100",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://centreculturelfrontenac.com/saison2526-francois-massicotte/"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/9175",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/artistes/francois-massicotte-0"
-      }
-    ],
-    "http://schema.org/schema_organization_additional_type": [
-      {
-        "@value": "http://dbpedia.org/ontology/Agent"
-      },
-      {
-        "@value": "http://xmlns.com/foaf/0.1/Agent"
-      },
-      {
-        "@value": "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Francois Massicotte"
+        "@value": "-79.686674"
       }
     ]
   },
@@ -1695,7 +2054,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g557340"
+        "@id": "_:g568460"
       }
     ],
     "http://schema.org/startDate": [
@@ -1711,7 +2070,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g557400"
+        "@id": "_:g568520"
       }
     ],
     "http://schema.org/organizer": [
@@ -1756,7 +2115,7 @@
     ]
   },
   {
-    "@id": "_:g557340",
+    "@id": "_:g568460",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1787,7 +2146,33 @@
     ]
   },
   {
-    "@id": "_:g557400",
+    "@id": "https://scenesfrancophones.ca/id/1045",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/node/1045"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g568480"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g568500"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Théâtre Le Sésame"
+      }
+    ]
+  },
+  {
+    "@id": "_:g568520",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1803,190 +2188,34 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/id/12109",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/artistes/matiu"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Matiu"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/12117",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/brian-st-pierre-malgre-tout-12117"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g566280"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-10T09:00:00-03:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/4155"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g566340"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/77"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/4109"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/brian-st-pierre-malgre-tout-12117"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Brian St-Pierre - Malgré tout"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Récipiendaire du prix Hommage Trille Or 2023 et ambassadeur de la francophonie ontarienne, Brian St-Pierre revient en force avec son nouveau spectacle et album “Malgré tout”.  Accompagné de deux autres musiciens, son spectacle est à la fois festif et intimiste allant du pop au folk, du rock à la ballade.  L’énergie, la vitalité, la passion ne sont que quelques mots qui décrivent cette bête de scène qui transporte les spectateurs dans son univers sonore.  On y découvre ses compositions originales de son nouvel album et on revit ses plus grands succès."
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "_:g566280",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/brian-st-pierre-cr-Lexine_Photographie.jpg?itok=FFP0AAcH"
-      }
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "430"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "430"
-      }
-    ],
-    "http://schema.org/creditText": [
-      {
-        "@value": "Les Productions St-Pierre"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/4155",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/node/4155"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g566300"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g566320"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Centre culturel La Ronde"
-      }
-    ]
-  },
-  {
-    "@id": "_:g566340",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/77",
+    "@id": "https://scenesfrancophones.ca/id/68",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-la-ronde"
+        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Centre culturel La Ronde"
+        "@value": "Centre culturel Frontenac"
       }
     ]
   },
   {
-    "@id": "_:g566300",
+    "@id": "_:g568480",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/streetAddress": [
       {
-        "@value": "32, rue Mountjoy nord"
+        "@value": "1290 rue Wheathill"
       }
     ],
     "http://schema.org/addressLocality": [
       {
-        "@value": "Timmins"
+        "@value": "Kingston"
       }
     ],
     "http://schema.org/addressRegion": [
@@ -1996,7 +2225,7 @@
     ],
     "http://schema.org/postalCode": [
       {
-        "@value": "P4N 4V6"
+        "@value": "K7M 0A7"
       }
     ],
     "http://schema.org/addressCountry": [
@@ -2006,547 +2235,40 @@
     ]
   },
   {
-    "@id": "_:g566320",
+    "@id": "_:g568500",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
     "http://schema.org/latitude": [
       {
-        "@value": "48.476702"
+        "@value": "44.24737"
       }
     ],
     "http://schema.org/longitude": [
       {
-        "@value": "-81.335287"
+        "@value": "-76.56108"
       }
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/id/11922",
+    "@id": "https://scenesfrancophones.ca/id/12119",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/spectacles/alex-roy-debout-11922"
+        "@id": "https://scenesfrancophones.ca/spectacles/matiu-tipatshimushtunan-12119"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g575020"
+        "@id": "_:g580840"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-04-10T20:00:00-03:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/524"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g575080"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/54"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/8869"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/alex-roy-debout-11922"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Alex Roy - Debout"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Dans “Debout”, je vous raconte tout ce qui me pousse à sortir du lit chaque matin : mon métier, mes jumelles (qui n’ont aucune pitié pour la grasse matinée), et un quotidien rempli d’anecdotes aussi farfelues qu’inattendues. Un spectacle drôle, sincère et énergique... parce que rester debout, c’est déjà une victoire ! “Debout”, c’est plus qu’un simple spectacle de stand-up, c’est une plongée dans tout ce qui me donne envie de me lever le matin. Entre rêves, galères, absurdités du quotidien et grandes questions existentielles, je vous embarque dans un voyage drôle et sincère à travers mes motivations (parfois étranges) pour affronter chaque journée. Alors, qu’est-ce qui me tient debout ? \r\n\r\n\r\nL’artiste\r\n\r\nVenez le découvrir... et peut-être que vous repartirez avec des raisons en plus de vous lever demain ! Alex Roy est un humoriste qui manie l’art du stand-up avec une énergie débordante et un sens aigu de l’autodérision. Avec son franc-parler et sa capacité à transformer les situations du quotidien en histoires hilarantes, il vous embarque dans un univers où chaque détail devient matière à rire. Que ce soit pour parler de sa famille, de ses expériences de vie ou de ses réflexions improbables, Alex Roy sait comment captiver son public en mêlant sincérité, absurdité et une bonne dose d’impertinence. Préparez-vous à rire... et à vous reconnaître (parfois malgré vous) dans ses anecdotes décapantes !"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "_:g575020",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%284%29.png?itok=vWXyzexx"
-      }
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "430"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "430"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/524",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/node/524"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g575040"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g575060"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Salle Multifonctionnelle Denis-Richard"
-      }
-    ]
-  },
-  {
-    "@id": "_:g575080",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scrn.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=67"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/54",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-nepisiguit"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Société culturelle régionale Nepisiguit"
-      }
-    ]
-  },
-  {
-    "@id": "_:g575040",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "706, rue Principale"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Petit-Rocher"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E8J 1V1"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g575060",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "47.77321"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-65.71659"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/11923",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/alex-roy-debout-11923"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g583960"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-11T19:30:00-03:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/476"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g584020"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/40"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/8869"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/alex-roy-debout-11923"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Alex Roy - Debout"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Dans “Debout”, je vous raconte tout ce qui me pousse à sortir du lit chaque matin : mon métier, mes jumelles (qui n’ont aucune pitié pour la grasse matinée), et un quotidien rempli d’anecdotes aussi farfelues qu’inattendues. Un spectacle drôle, sincère et énergique... parce que rester debout, c’est déjà une victoire ! “Debout”, c’est plus qu’un simple spectacle de stand-up, c’est une plongée dans tout ce qui me donne envie de me lever le matin. Entre rêves, galères, absurdités du quotidien et grandes questions existentielles, je vous embarque dans un voyage drôle et sincère à travers mes motivations (parfois étranges) pour affronter chaque journée. Alors, qu’est-ce qui me tient debout ? \r\n\r\n\r\nL’artiste\r\n\r\nVenez le découvrir... et peut-être que vous repartirez avec des raisons en plus de vous lever demain ! Alex Roy est un humoriste qui manie l’art du stand-up avec une énergie débordante et un sens aigu de l’autodérision. Avec son franc-parler et sa capacité à transformer les situations du quotidien en histoires hilarantes, il vous embarque dans un univers où chaque détail devient matière à rire. Que ce soit pour parler de sa famille, de ses expériences de vie ou de ses réflexions improbables, Alex Roy sait comment captiver son public en mêlant sincérité, absurdité et une bonne dose d’impertinence. Préparez-vous à rire... et à vous reconnaître (parfois malgré vous) dans ses anecdotes décapantes !"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "_:g583960",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%284%29.png?itok=vWXyzexx"
-      }
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "430"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "430"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/476",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/node/476"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g583980"
-      },
-      {
-        "@id": "_:g706180"
-      },
-      {
-        "@id": "_:g713500"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g584000"
-      },
-      {
-        "@id": "_:g706200"
-      },
-      {
-        "@id": "_:g713520"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "La Caserne"
-      }
-    ]
-  },
-  {
-    "@id": "_:g584020",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/40",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Centre des arts et de la culture de Dieppe"
-      }
-    ]
-  },
-  {
-    "@id": "_:g583980",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "331, ave. Acadie"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Dieppe"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E1A 1G9"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g706180",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "331, ave. Acadie"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Dieppe"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E1A 1G9"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g713500",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "331, ave. Acadie"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Dieppe"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E1A 1G9"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g584000",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "46.094515"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-64.748301"
-      }
-    ]
-  },
-  {
-    "@id": "_:g706200",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "46.094515"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-64.748301"
-      }
-    ]
-  },
-  {
-    "@id": "_:g713520",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "46.094515"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-64.748301"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/12106",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/waahli-12106"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g592780"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-11T09:00:00-03:00"
+        "@value": "2026-06-13T09:00:00-03:00"
       }
     ],
     "http://schema.org/location": [
@@ -2556,7 +2278,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g592840"
+        "@id": "_:g580900"
       }
     ],
     "http://schema.org/organizer": [
@@ -2566,22 +2288,22 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "https://scenesfrancophones.ca/id/8629"
+        "@id": "https://scenesfrancophones.ca/id/12109"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://scenesfrancophones.ca/spectacles/waahli-12106"
+        "@id": "https://scenesfrancophones.ca/spectacles/matiu-tipatshimushtunan-12119"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Waahli"
+        "@value": "Matiu - Tipatshimushtunan"
       }
     ],
     "http://schema.org/description": [
       {
-        "@value": "Waahli est un artiste montréalais d’origine haïtienne dont la musique est un vibrant mélange de hip-hop, afrobeat, reggae et funk haïtien. Sa démarche artistique singulière est profondément ancrée dans ses origines et son identité plurielle. Il interprète ses chansons en anglais, français et créole haïtien. Sur scène, il est accompagné de 3 musiciens avec qui il partage une complicité exceptionnelle, créant une énergie contagieuse. Il ne se contente pas de livrer une performance musicale : il interagit avec son public, l’invite à participer et à vivre une expérience inoubliable."
+        "@value": "Matiu vient de Maliotenam, une communauté innue située sur la Côte-Nord du Québec. Paré de sa guitare, l’auteur-compositeur-interprète présente un spectacle folk-blues où les textes en français et en innu s’entrecroisent. Matiu relate son histoire et celle de sa communauté à travers des textes qui traitent du quotidien, des relations humaines et familiales ainsi que la quête identitaire autochtone. Il se démarque partout où il passe et séduit le public grâce à sa personnalité colorée, attachante et authentique."
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -2601,13 +2323,13 @@
     ]
   },
   {
-    "@id": "_:g592780",
+    "@id": "_:g580840",
     "@type": [
       "http://schema.org/ImageObject"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/waahli---bruno-destombes.jpg?itok=fibeIpIN"
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/vitrine_ontario_2024-2025/photo-1-matiu-credit_drowster-%281.jpg?itok=s25AKbEU"
       }
     ],
     "http://schema.org/representativeOfPage": [
@@ -2627,7 +2349,7 @@
     ],
     "http://schema.org/creditText": [
       {
-        "@value": "Carl Hungerbuehler"
+        "@value": "Drowster"
       }
     ]
   },
@@ -2643,18 +2365,12 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g592800"
-      },
-      {
-        "@id": "_:g605300"
+        "@id": "_:g580860"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g592820"
-      },
-      {
-        "@id": "_:g605320"
+        "@id": "_:g580880"
       }
     ],
     "http://schema.org/name": [
@@ -2664,7 +2380,7 @@
     ]
   },
   {
-    "@id": "_:g592840",
+    "@id": "_:g580900",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2691,7 +2407,7 @@
     ]
   },
   {
-    "@id": "_:g592800",
+    "@id": "_:g580860",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2722,38 +2438,7 @@
     ]
   },
   {
-    "@id": "_:g605300",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "1 rue Elgin"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Ottawa"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "ON"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "K1P 5W1"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g592820",
+    "@id": "_:g580880",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2769,75 +2454,49 @@
     ]
   },
   {
-    "@id": "_:g605320",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "45.423309"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-75.693456"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/12119",
+    "@id": "https://scenesfrancophones.ca/id/12660",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/spectacles/matiu-tipatshimushtunan-12119"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g605280"
+        "@id": "https://scenesfrancophones.ca/spectacles/leflofranco-avec-dj-unpier-12660"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-06-13T09:00:00-03:00"
+        "@value": "2026-05-16T19:00:00-04:00"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "https://scenesfrancophones.ca/id/12089"
+        "@id": "https://scenesfrancophones.ca/id/1050"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g605340"
+        "@id": "_:g636240"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://scenesfrancophones.ca/id/71"
+        "@id": "https://scenesfrancophones.ca/id/73"
       }
     ],
     "http://schema.org/performer": [
       {
-        "@id": "https://scenesfrancophones.ca/id/12109"
+        "@id": "https://scenesfrancophones.ca/id/5976"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://scenesfrancophones.ca/spectacles/matiu-tipatshimushtunan-12119"
+        "@id": "https://scenesfrancophones.ca/spectacles/leflofranco-avec-dj-unpier-12660"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Matiu - Tipatshimushtunan"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Matiu vient de Maliotenam, une communauté innue située sur la Côte-Nord du Québec. Paré de sa guitare, l’auteur-compositeur-interprète présente un spectacle folk-blues où les textes en français et en innu s’entrecroisent. Matiu relate son histoire et celle de sa communauté à travers des textes qui traitent du quotidien, des relations humaines et familiales ainsi que la quête identitaire autochtone. Il se démarque partout où il passe et séduit le public grâce à sa personnalité colorée, attachante et authentique."
+        "@value": "LeFLOFRANCO -"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -2857,38 +2516,7 @@
     ]
   },
   {
-    "@id": "_:g605280",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/vitrine_ontario_2024-2025/photo-1-matiu-credit_drowster-%281.jpg?itok=s25AKbEU"
-      }
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "430"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "430"
-      }
-    ],
-    "http://schema.org/creditText": [
-      {
-        "@value": "Drowster"
-      }
-    ]
-  },
-  {
-    "@id": "_:g605340",
+    "@id": "_:g636240",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2899,913 +2527,18 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/id/12122",
+    "@id": "https://scenesfrancophones.ca/id/5976",
     "@type": [
-      "http://schema.org/Event"
+      "http://schema.org/Person"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/spectacles/quen-dit-raton-aureo-et-lunette-12122"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g614100"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-11T14:00:00-04:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/1061"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g614160"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/84"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/9217"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/quen-dit-raton-aureo-et-lunette-12122"
+        "@id": "https://scenesfrancophones.ca/artistes/leflofranco-1"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Qu'en dit raton? - Auréo et Lunette"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Monsieur Crapulet, marchand avare et cupide, vend paisiblement ses légumes au marché, jusqu’au jour où le Docteur Alèse s’installe à côté de son kiosque pour vendre ses « boissons énergisantes ». Alarmé à la perspective de sa ruine, Crapulet cherche par tous les moyens à se débarrasser de ce nouvel arrivant. Jusqu’où ira-t-il? Inconscient de cette menace, le Docteur Alèse espère trouver en ces lieux les solutions à ses soucis. Auréo, son fils, aimerait bien l’aider lorsqu'il croise Lunette, fille de Crapulet, qui rompt sa solitude. Les enfants réconcilieront-ils leurs parents rivaux?"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "_:g614100",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/vitrine_ontario_2024-2025/aureoetlunette-affiche--hugo-b-lefort.jpg?itok=-Lh-H97f"
-      }
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "430"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "430"
-      }
-    ],
-    "http://schema.org/creditText": [
-      {
-        "@value": "Hugo Lefort"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/1061",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/node/1061"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g614120"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g614140"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Alliance Française de Toronto"
-      }
-    ]
-  },
-  {
-    "@id": "_:g614160",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.alliance-francaise.ca/fr/art/saison-culturelle/jeune-public/285-aureo-et-lunette"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/84",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Alliance Française de Toronto"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/9217",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/artistes/quen-dit-raton-0"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Qu'en dit raton?"
-      }
-    ]
-  },
-  {
-    "@id": "_:g614120",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "24, rue Spadina"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Toronto"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "ON"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "M5R 2S7"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g614140",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "43.643474"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-79.394464"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/11924",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/grand-poney-onoff-11924"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g626600"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-11T15:00:00-03:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/518"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g626660"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/36"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/8479"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/grand-poney-onoff-11924"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Grand Poney - ON/OFF"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "ON / OFF met en scène un quintette d'interprètes en action sur un dispositif étonnant, un tapis de course. Cinq interprètes évoluent dans un espace restreint où le mouvement devient à la fois contraint et spectaculaire. Le spectacle explore des thèmes tels que le dépassement de soi, la liberté, l’identité, le vivre-ensemble et la complexité des émotions humaines. Le tapis symbolise le passage de l’enfance à l’âge adulte. Les interprètes, tantôt en maîtrise, tantôt dépassés, cherchent leur place dans le monde à travers un dialogue constant entre corps, machine et espace."
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "_:g626600",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/png%20%285%29.png?itok=UXzrPb8G"
-      }
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "430"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "430"
-      }
-    ],
-    "http://schema.org/creditText": [
-      {
-        "@value": "Christine Berthiaume"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/518",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/node/518"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g626620"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g626640"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Théâtre Louis Vermeersch"
-      }
-    ]
-  },
-  {
-    "@id": "_:g626660",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://arcf.tuxedobillet.com/main/danse-onoff-grand-poney/20260411150000"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/36",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/association-regionale-de-la-communaute-francophone-de-saint-jean-arcf"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Association régionale de la Communauté Francophone de Saint-Jean (ARCf)"
-      }
-    ]
-  },
-  {
-    "@id": "_:g626620",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "67, chemin Ragged Point"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Saint-Jean"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E2K 5C3"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g626640",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "45.294095"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-66.116083"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/11925",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/alex-roy-debout-11925"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g635540"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-12T19:30:00-03:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/468"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g635600"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/38"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/8869"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/alex-roy-debout-11925"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Alex Roy - Debout"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Dans “Debout”, je vous raconte tout ce qui me pousse à sortir du lit chaque matin : mon métier, mes jumelles (qui n’ont aucune pitié pour la grasse matinée), et un quotidien rempli d’anecdotes aussi farfelues qu’inattendues. Un spectacle drôle, sincère et énergique... parce que rester debout, c’est déjà une victoire ! “Debout”, c’est plus qu’un simple spectacle de stand-up, c’est une plongée dans tout ce qui me donne envie de me lever le matin. Entre rêves, galères, absurdités du quotidien et grandes questions existentielles, je vous embarque dans un voyage drôle et sincère à travers mes motivations (parfois étranges) pour affronter chaque journée. Alors, qu’est-ce qui me tient debout ? \r\n\r\n\r\nL’artiste\r\n\r\nVenez le découvrir... et peut-être que vous repartirez avec des raisons en plus de vous lever demain ! Alex Roy est un humoriste qui manie l’art du stand-up avec une énergie débordante et un sens aigu de l’autodérision. Avec son franc-parler et sa capacité à transformer les situations du quotidien en histoires hilarantes, il vous embarque dans un univers où chaque détail devient matière à rire. Que ce soit pour parler de sa famille, de ses expériences de vie ou de ses réflexions improbables, Alex Roy sait comment captiver son public en mêlant sincérité, absurdité et une bonne dose d’impertinence. Préparez-vous à rire... et à vous reconnaître (parfois malgré vous) dans ses anecdotes décapantes !"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "_:g635540",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%284%29.png?itok=vWXyzexx"
-      }
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "430"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "430"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/468",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/node/468"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g635560"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g635580"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Théâtre Bernard Poirier"
-      }
-    ]
-  },
-  {
-    "@id": "_:g635600",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://ccsa.yapsody.com/event/index/850905/Alex-Roy"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/38",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-communautaire-sainte-anne"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Centre communautaire Sainte-Anne"
-      }
-    ]
-  },
-  {
-    "@id": "_:g635560",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "715, rue Priestman"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Fredericton"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E3B 5W7"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g635580",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "45.941773"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-66.651817"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/8877",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/beltuner-beltuner-8877"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g706160"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-05-05T19:30:00-03:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/476"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g706220"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/40"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/8875"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/beltuner-beltuner-8877"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Beltuner -"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Coprésenté avec l'Alliance Française de Moncton\r\nMené par l'accordéoniste Johann Riche, Beltuner est de retour avec un nouveau projet vibrant qui mêle habilement swing, rock et improvisation. Né à Paris en 2001, ce groupe emblématique s'est rapidement forgé une réputation grâce à son son unique et ses prestations live généreuses et débridées. Sur scène, l'énergie, l'expressivité et la complicité des musiciens sont poussées à l'extrême, créant une expérience où Johann Riche se livre corps et âme à sa musique.\r\n\r\nAyant déjà fait sensation en France et conquis les publics de l'Italie à l'Asie, en passant par la Russie et les Émirats, Beltuner promet un spectacle vibrant qui ne laisse personne indifférent."
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "_:g706160",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/l_beltuner.jpg?itok=YjSfDyLF"
-      }
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "430"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "430"
-      }
-    ]
-  },
-  {
-    "@id": "_:g706220",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://centredesartsdieppe.ca/fr/programmation/spectacle/beltuner"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/8875",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/artistes/beltuner"
-      }
-    ],
-    "http://schema.org/schema_organization_additional_type": [
-      {
-        "@value": "http://dbpedia.org/ontology/Agent"
-      },
-      {
-        "@value": "http://xmlns.com/foaf/0.1/Agent"
-      },
-      {
-        "@value": "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Beltuner"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/11946",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/ecarlate-11946"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g713480"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-06-20T19:30:00-03:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/476"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g713540"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/40"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/215"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/ecarlate-11946"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Écarlate"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Clémence Langlois, Daphnée McIntyre et Samuel LeBlanc sont trois adolescent.es originaires de Moncton qui sortent récemment de leur coquille pour trouver réconfort dans la musique. Ils ont fait leur début en pleine pandémie et montrent leurs créations pour la première fois en remportant Accros 17 et la 52e édition du Gala de la Chanson de Caraquet. C’est dans le but de partager leur passion pour la musique avec le public qu’ils présentent leurs balades riches en émotions purement venues du cœur."
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "_:g713480",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf_.png?itok=k-P8U5JP"
-      }
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "430"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "430"
-      }
-    ],
-    "http://schema.org/creditText": [
-      {
-        "@value": "Éléonore Delveaux-Beaudoin"
-      }
-    ]
-  },
-  {
-    "@id": "_:g713540",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://centredesartsdieppe.ca/fr/programmation/spectacle/ecarlate"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/215",
-    "@type": [
-      "http://schema.org/PerformingGroup"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/artistes/ecarlate"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Écarlate"
+        "@value": "LeFLOFRANCO"
       }
     ]
   }
