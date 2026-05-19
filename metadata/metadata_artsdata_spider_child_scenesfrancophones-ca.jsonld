@@ -11,18 +11,18 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
-        "@id": "https://scenesfrancophones.ca/artistes/citadel-compagnie"
+        "@id": "https://scenesfrancophones.ca/artistes/la-patente"
       }
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/artistes/citadel-compagnie",
+    "@id": "https://scenesfrancophones.ca/artistes/la-patente",
     "@type": [
       "http://schema.org/Website"
     ]
   },
   {
-    "@id": "urn:crawl:7ed7aec2-1da4-4807-aef6-3696001a47b3",
+    "@id": "urn:crawl:73e66ba0-8024-4432-9acc-8ec71b2a59ce",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
@@ -38,19 +38,19 @@
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "https://scenesfrancophones.ca/artistes/citadel-compagnie"
+        "@id": "https://scenesfrancophones.ca/artistes/la-patente"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2026-05-19T02:44:08Z"
+        "@value": "2026-05-19T02:46:35Z"
       }
     ],
     "http://www.w3.org/ns/prov#endedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2026-05-19T03:03:02Z"
+        "@value": "2026-05-19T03:08:49Z"
       }
     ],
     "http://www.w3.org/ns/prov#wasInformedBy": [
@@ -116,7 +116,7 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "13"
+        "@value": "14"
       }
     ]
   },
@@ -133,18 +133,18 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#decimal",
-        "@value": "81.28544423440454"
+        "@value": "80.33596837944664"
       }
     ]
   },
   {
-    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/scenesfrancophones-ca/2026-05-18T23_03_03#Dataset",
+    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/scenesfrancophones-ca/2026-05-18T23_08_50#Dataset",
     "@type": [
       "http://www.w3.org/ns/prov#Entity"
     ],
     "http://www.w3.org/ns/prov#wasGeneratedBy": [
       {
-        "@id": "urn:crawl:7ed7aec2-1da4-4807-aef6-3696001a47b3"
+        "@id": "urn:crawl:73e66ba0-8024-4432-9acc-8ec71b2a59ce"
       }
     ]
   }
