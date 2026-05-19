@@ -11,46 +11,46 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
-        "@id": "https://scenesfrancophones.ca/artistes/musique-bouches"
+        "@id": "https://scenesfrancophones.ca/artistes/blue-rivera"
       }
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/artistes/musique-bouches",
+    "@id": "https://scenesfrancophones.ca/artistes/blue-rivera",
     "@type": [
       "http://schema.org/Website"
     ]
   },
   {
-    "@id": "urn:crawl:8ca55003-0570-41cb-a9bd-162f15391962",
+    "@id": "urn:crawl:ddf91953-1572-4318-aca1-1a14287de7bd",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
     "http://schema.org/name": [
       {
-        "@value": "No Structured Data Found"
+        "@value": ""
       }
     ],
     "http://schema.org/description": [
       {
-        "@value": "This crawl resulted in an empty graph."
+        "@value": ""
       }
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "https://scenesfrancophones.ca/artistes/musique-bouches"
+        "@id": "https://scenesfrancophones.ca/artistes/blue-rivera"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2026-05-19T02:47:33Z"
+        "@value": "2026-05-19T02:44:10Z"
       }
     ],
     "http://www.w3.org/ns/prov#endedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2026-05-19T02:51:52Z"
+        "@value": "2026-05-19T02:58:23Z"
       }
     ],
     "http://www.w3.org/ns/prov#wasInformedBy": [
@@ -99,7 +99,7 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "2"
+        "@value": "49"
       }
     ]
   },
@@ -116,7 +116,7 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "0"
+        "@value": "13"
       }
     ]
   },
@@ -133,7 +133,18 @@
     "http://schema.org/value": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#decimal",
-        "@value": "0.0"
+        "@value": "81.28544423440454"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/scenesfrancophones-ca/2026-05-18T22_58_25#Dataset",
+    "@type": [
+      "http://www.w3.org/ns/prov#Entity"
+    ],
+    "http://www.w3.org/ns/prov#wasGeneratedBy": [
+      {
+        "@id": "urn:crawl:ddf91953-1572-4318-aca1-1a14287de7bd"
       }
     ]
   }
