@@ -11,7 +11,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g468860"
+        "@id": "_:g468740"
       }
     ],
     "http://schema.org/startDate": [
@@ -27,7 +27,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g468920"
+        "@id": "_:g468800"
       }
     ],
     "http://schema.org/organizer": [
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "@id": "_:g468860",
+    "@id": "_:g468740",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -109,12 +109,12 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g468880"
+        "@id": "_:g468760"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g468900"
+        "@id": "_:g468780"
       }
     ],
     "http://schema.org/name": [
@@ -124,7 +124,7 @@
     ]
   },
   {
-    "@id": "_:g468920",
+    "@id": "_:g468800",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -183,7 +183,7 @@
     ]
   },
   {
-    "@id": "_:g468880",
+    "@id": "_:g468760",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -214,7 +214,7 @@
     ]
   },
   {
-    "@id": "_:g468900",
+    "@id": "_:g468780",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -241,7 +241,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g477900"
+        "@id": "_:g477060"
       }
     ],
     "http://schema.org/startDate": [
@@ -257,7 +257,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g477960"
+        "@id": "_:g477120"
       }
     ],
     "http://schema.org/organizer": [
@@ -302,7 +302,7 @@
     ]
   },
   {
-    "@id": "_:g477900",
+    "@id": "_:g477060",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -339,18 +339,12 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g477920"
-      },
-      {
-        "@id": "_:g548520"
+        "@id": "_:g477080"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g477940"
-      },
-      {
-        "@id": "_:g548540"
+        "@id": "_:g477100"
       }
     ],
     "http://schema.org/name": [
@@ -360,7 +354,7 @@
     ]
   },
   {
-    "@id": "_:g477960",
+    "@id": "_:g477120",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -419,7 +413,7 @@
     ]
   },
   {
-    "@id": "_:g477920",
+    "@id": "_:g477080",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -450,54 +444,7 @@
     ]
   },
   {
-    "@id": "_:g548520",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "811, rue Main"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Moncton"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E1C 1G1"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g477940",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "46.088338"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-64.779037"
-      }
-    ]
-  },
-  {
-    "@id": "_:g548540",
+    "@id": "_:g477100",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -524,7 +471,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g486900"
+        "@id": "_:g486040"
       }
     ],
     "http://schema.org/startDate": [
@@ -540,7 +487,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g486960"
+        "@id": "_:g486100"
       }
     ],
     "http://schema.org/organizer": [
@@ -585,7 +532,7 @@
     ]
   },
   {
-    "@id": "_:g486900",
+    "@id": "_:g486040",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -622,12 +569,12 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g486920"
+        "@id": "_:g486060"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g486940"
+        "@id": "_:g486080"
       }
     ],
     "http://schema.org/name": [
@@ -637,7 +584,7 @@
     ]
   },
   {
-    "@id": "_:g486960",
+    "@id": "_:g486100",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -669,7 +616,7 @@
     ]
   },
   {
-    "@id": "_:g486920",
+    "@id": "_:g486060",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -700,7 +647,7 @@
     ]
   },
   {
-    "@id": "_:g486940",
+    "@id": "_:g486080",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -727,7 +674,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g495940"
+        "@id": "_:g495100"
       }
     ],
     "http://schema.org/startDate": [
@@ -743,7 +690,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g496000"
+        "@id": "_:g495160"
       }
     ],
     "http://schema.org/organizer": [
@@ -783,7 +730,7 @@
     ]
   },
   {
-    "@id": "_:g495940",
+    "@id": "_:g495100",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -820,18 +767,18 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g495960"
+        "@id": "_:g495120"
       },
       {
-        "@id": "_:g536300"
+        "@id": "_:g534900"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g495980"
+        "@id": "_:g495140"
       },
       {
-        "@id": "_:g536320"
+        "@id": "_:g534920"
       }
     ],
     "http://schema.org/name": [
@@ -841,7 +788,7 @@
     ]
   },
   {
-    "@id": "_:g496000",
+    "@id": "_:g495160",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -889,7 +836,7 @@
     ]
   },
   {
-    "@id": "_:g495960",
+    "@id": "_:g495120",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -920,7 +867,7 @@
     ]
   },
   {
-    "@id": "_:g536300",
+    "@id": "_:g534900",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -951,7 +898,7 @@
     ]
   },
   {
-    "@id": "_:g495980",
+    "@id": "_:g495140",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -967,7 +914,7 @@
     ]
   },
   {
-    "@id": "_:g536320",
+    "@id": "_:g534920",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1005,7 +952,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g504840"
+        "@id": "_:g504060"
       }
     ],
     "http://schema.org/organizer": [
@@ -1056,18 +1003,18 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g504800"
+        "@id": "_:g504020"
       },
       {
-        "@id": "_:g527340"
+        "@id": "_:g525940"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g504820"
+        "@id": "_:g504040"
       },
       {
-        "@id": "_:g527360"
+        "@id": "_:g525960"
       }
     ],
     "http://schema.org/name": [
@@ -1077,7 +1024,7 @@
     ]
   },
   {
-    "@id": "_:g504840",
+    "@id": "_:g504060",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1125,7 +1072,7 @@
     ]
   },
   {
-    "@id": "_:g504800",
+    "@id": "_:g504020",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1156,7 +1103,7 @@
     ]
   },
   {
-    "@id": "_:g527340",
+    "@id": "_:g525940",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1187,7 +1134,7 @@
     ]
   },
   {
-    "@id": "_:g504820",
+    "@id": "_:g504040",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1203,7 +1150,7 @@
     ]
   },
   {
-    "@id": "_:g527360",
+    "@id": "_:g525960",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1230,7 +1177,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g520100"
+        "@id": "_:g518680"
       }
     ],
     "http://schema.org/startDate": [
@@ -1246,7 +1193,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g520160"
+        "@id": "_:g518740"
       }
     ],
     "http://schema.org/organizer": [
@@ -1286,7 +1233,7 @@
     ]
   },
   {
-    "@id": "_:g520100",
+    "@id": "_:g518680",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1323,12 +1270,12 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g520120"
+        "@id": "_:g518700"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g520140"
+        "@id": "_:g518720"
       }
     ],
     "http://schema.org/name": [
@@ -1338,7 +1285,7 @@
     ]
   },
   {
-    "@id": "_:g520160",
+    "@id": "_:g518740",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1365,7 +1312,7 @@
     ]
   },
   {
-    "@id": "_:g520120",
+    "@id": "_:g518700",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1396,7 +1343,7 @@
     ]
   },
   {
-    "@id": "_:g520140",
+    "@id": "_:g518720",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1423,7 +1370,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g527320"
+        "@id": "_:g525920"
       }
     ],
     "http://schema.org/startDate": [
@@ -1439,7 +1386,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g527380"
+        "@id": "_:g525980"
       }
     ],
     "http://schema.org/organizer": [
@@ -1484,7 +1431,7 @@
     ]
   },
   {
-    "@id": "_:g527320",
+    "@id": "_:g525920",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1510,7 +1457,7 @@
     ]
   },
   {
-    "@id": "_:g527380",
+    "@id": "_:g525980",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1575,7 +1522,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g536340"
+        "@id": "_:g534940"
       }
     ],
     "http://schema.org/organizer": [
@@ -1620,7 +1567,7 @@
     ]
   },
   {
-    "@id": "_:g536340",
+    "@id": "_:g534940",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1652,136 +1599,6 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/id/12290",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/justin-guitard-gaspiller-du-talent-12290"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g548500"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-06-08T19:00:00-03:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/509"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g548560"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/56"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/908"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/justin-guitard-gaspiller-du-talent-12290"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Justin Guitard - La loi du plus corps"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "On lui demande depuis qu’il est tout petit : C’est pour quand, le spectacle d’humour? Eh bien, le voilà.\r\n\r\nNe manquez pas votre chance de constater par vous-même si Justin aurait dû continuer de s’écouter et se dire qu’il n’est pas un humoriste, ou si, finalement, le public avait raison et qu’il gaspille son vrai talent depuis le début de sa carrière.\r\n\r\nGaspiller du talent, c’est le tout premier one-man show de Justin Guitard, un artiste pluridisciplinaire qui saura vous faire rire et vous divertir avec ses anecdotes dans un feu roulant de comédie, de \"stepettes\" et de surprises."
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "_:g548500",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/IMG_4807.jpg?itok=RpbWqh_9"
-      }
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "430"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "430"
-      }
-    ]
-  },
-  {
-    "@id": "_:g548560",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://capitol.nb.ca/fr/spectacles-et-billets/justin-guitard"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/908",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/artistes/justin-guitard"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Justin Guitard"
-      }
-    ]
-  },
-  {
     "@id": "https://scenesfrancophones.ca/id/12121",
     "@type": [
       "http://schema.org/Event"
@@ -1793,7 +1610,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g560400"
+        "@id": "_:g547100"
       }
     ],
     "http://schema.org/startDate": [
@@ -1809,7 +1626,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g560460"
+        "@id": "_:g547160"
       }
     ],
     "http://schema.org/organizer": [
@@ -1854,7 +1671,7 @@
     ]
   },
   {
-    "@id": "_:g560400",
+    "@id": "_:g547100",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1896,12 +1713,12 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g560420"
+        "@id": "_:g547120"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g560440"
+        "@id": "_:g547140"
       }
     ],
     "http://schema.org/name": [
@@ -1911,7 +1728,7 @@
     ]
   },
   {
-    "@id": "_:g560460",
+    "@id": "_:g547160",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1943,7 +1760,7 @@
     ]
   },
   {
-    "@id": "_:g560420",
+    "@id": "_:g547120",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1974,7 +1791,7 @@
     ]
   },
   {
-    "@id": "_:g560440",
+    "@id": "_:g547140",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2001,7 +1818,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g568100"
+        "@id": "_:g555140"
       }
     ],
     "http://schema.org/startDate": [
@@ -2017,7 +1834,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g568160"
+        "@id": "_:g555200"
       }
     ],
     "http://schema.org/organizer": [
@@ -2062,7 +1879,7 @@
     ]
   },
   {
-    "@id": "_:g568100",
+    "@id": "_:g555140",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2104,12 +1921,12 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g568120"
+        "@id": "_:g555160"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g568140"
+        "@id": "_:g555180"
       }
     ],
     "http://schema.org/name": [
@@ -2119,7 +1936,7 @@
     ]
   },
   {
-    "@id": "_:g568160",
+    "@id": "_:g555200",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2151,7 +1968,7 @@
     ]
   },
   {
-    "@id": "_:g568120",
+    "@id": "_:g555160",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2182,7 +1999,7 @@
     ]
   },
   {
-    "@id": "_:g568140",
+    "@id": "_:g555180",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2209,7 +2026,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g580480"
+        "@id": "_:g567600"
       }
     ],
     "http://schema.org/startDate": [
@@ -2225,7 +2042,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g580540"
+        "@id": "_:g567660"
       }
     ],
     "http://schema.org/organizer": [
@@ -2270,7 +2087,7 @@
     ]
   },
   {
-    "@id": "_:g580480",
+    "@id": "_:g567600",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2312,12 +2129,12 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g580500"
+        "@id": "_:g567620"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g580520"
+        "@id": "_:g567640"
       }
     ],
     "http://schema.org/name": [
@@ -2327,7 +2144,7 @@
     ]
   },
   {
-    "@id": "_:g580540",
+    "@id": "_:g567660",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2354,7 +2171,7 @@
     ]
   },
   {
-    "@id": "_:g580500",
+    "@id": "_:g567620",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2385,7 +2202,7 @@
     ]
   },
   {
-    "@id": "_:g580520",
+    "@id": "_:g567640",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2397,6 +2214,1032 @@
     "http://schema.org/longitude": [
       {
         "@value": "-75.693456"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/12158",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/justin-guitard-de-nature-mature-12158"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g579000"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-13T14:00:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/12154"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g579060"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/39"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/12156"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/justin-guitard-de-nature-mature-12158"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Justin Guitard -"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Justin Guitard est de retour au printemps 2026 avec un nouvel album, son troisième en carrière. Après avoir exploré les thèmes de l’image de soi et avoir exprimé l’envie de demeurer jeune toute sa vie, l’artiste assume maintenant pleinement son âge et la maturité qui vient avec…ou pas ! Ses fidèles complices de toujours seront de la partie et Justin vous prépare un troisième spectacle qui comprendra les grands succès de ses deux premiers albums, mais aussi plusieurs nouvelles chansons de son plus récent album à venir au printemps."
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "_:g579000",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Affiches%20JUSTIN%20GUITARD%20Nature%20mature%2025-26%20%28695%20x%20380%20px%29.jpg?itok=SJ49Zinj"
+      }
+    ],
+    "http://schema.org/representativeOfPage": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@value": "430"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@value": "430"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/12154",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/node/12154"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g579020"
+      },
+      {
+        "@id": "_:g633400"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g579040"
+      },
+      {
+        "@id": "_:g633420"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Centre culturel de Caraquet"
+      }
+    ]
+  },
+  {
+    "@id": "_:g579060",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://billetterieacces.tuxedobillet.com/main/de-nature-mature"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/39",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/evencia"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Évencia"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/12156",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/artistes/justin-guitard-0"
+      }
+    ],
+    "http://schema.org/schema_organization_additional_type": [
+      {
+        "@value": "http://dbpedia.org/ontology/Agent"
+      },
+      {
+        "@value": "http://xmlns.com/foaf/0.1/Agent"
+      },
+      {
+        "@value": "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Justin Guitard"
+      }
+    ]
+  },
+  {
+    "@id": "_:g579020",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "220 Boulevard Saint-Pierre O"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Caraquet"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E1W 1A5"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g633400",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "220 Boulevard Saint-Pierre O"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Caraquet"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E1W 1A5"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g579040",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "47.788816"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-64.964982"
+      }
+    ]
+  },
+  {
+    "@id": "_:g633420",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "47.788816"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-64.964982"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/12161",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/justin-guitard-gaspiller-du-talent-12161"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g633380"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-13T19:00:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/12154"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g633440"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/39"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/12159"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/justin-guitard-gaspiller-du-talent-12161"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Justin Guitard -"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "On lui demande depuis qu’il est tout petit : C’est pour quand, le spectacle d’humour ? Eh bien, le voilà.\r\n\r\nNe manquez pas votre chance de constater par vous-même si Justin aurait dû continuer de s’écouter et se dire qu’il n’est pas un humoriste, ou si, finalement, le public avait raison et qu’il gaspille son vrai talent depuis le début de sa carrière.\r\n\r\nGaspiller du talent, c’est le tout premier one-man show de Justin Guitard, un artiste pluridisciplinaire qui saura vous faire rire et vous divertir avec ses anecdotes dans un feu roulant de comédie, de \"stepettes\" et de surprises."
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "_:g633380",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Affiches%20TSAR%2025-26%20%28695%20x%20380%20px%29%20%281%29.jpg?itok=C00mGsxI"
+      }
+    ],
+    "http://schema.org/representativeOfPage": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@value": "430"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@value": "430"
+      }
+    ]
+  },
+  {
+    "@id": "_:g633440",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://billetterieacces.tuxedobillet.com/main/gaspiller-du-talent"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/12159",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/artistes/justin-guitard-1"
+      }
+    ],
+    "http://schema.org/schema_organization_additional_type": [
+      {
+        "@value": "http://dbpedia.org/ontology/Agent"
+      },
+      {
+        "@value": "http://xmlns.com/foaf/0.1/Agent"
+      },
+      {
+        "@value": "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Justin Guitard"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/12165",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/philippe-bond-rebondir-en-rodage-12165"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g642380"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-26T20:00:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/12164"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g642440"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/39"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/12162"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/philippe-bond-rebondir-en-rodage-12165"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Philippe Bond -"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Dans ce 4e one-man-show, je vous reviens avec de nouvelles anecdotes et de nombreuses réflexions. On dit que ce qui ne nous tue pas nous rend plus fort. C'est pourquoi je suis fébrile à l'idée de vous retrouver et de vous présenter mon tout nouveau spectacle : Rebondir."
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "_:g642380",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/REBONDIR-2%20tux.png?itok=Cun-XjWa"
+      }
+    ],
+    "http://schema.org/representativeOfPage": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@value": "430"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@value": "430"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/12164",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/node/12164"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g642400"
+      },
+      {
+        "@id": "_:g651360"
+      },
+      {
+        "@id": "_:g659520"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g642420"
+      },
+      {
+        "@id": "_:g651380"
+      },
+      {
+        "@id": "_:g659540"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Carrefour de la mer"
+      }
+    ]
+  },
+  {
+    "@id": "_:g642440",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://billetterieacces.tuxedobillet.com/main/philippe-bond"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/12162",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/artistes/philippe-bond"
+      }
+    ],
+    "http://schema.org/schema_organization_additional_type": [
+      {
+        "@value": "http://dbpedia.org/ontology/Agent"
+      },
+      {
+        "@value": "http://xmlns.com/foaf/0.1/Agent"
+      },
+      {
+        "@value": "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Philippe Bond"
+      }
+    ]
+  },
+  {
+    "@id": "_:g642400",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "29 Av. du Carrefour"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Caraquet"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E1W 1A5"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g651360",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "29 Av. du Carrefour"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Caraquet"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E1W 1A5"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g659520",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "29 Av. du Carrefour"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Caraquet"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E1W 1A5"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g642420",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "47.794707"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-64.937286"
+      }
+    ]
+  },
+  {
+    "@id": "_:g651380",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "47.794707"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-64.937286"
+      }
+    ]
+  },
+  {
+    "@id": "_:g659540",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "47.794707"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-64.937286"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/12371",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/michel-rivard-apres-va-ou-12371"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g651340"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-18T20:00:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/12164"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g651400"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/39"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/12369"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/michel-rivard-apres-va-ou-12371"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "MICHEL RIVARD -"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Durant les deux semaines ( symboliques ) que dure la magnifique floraison du magnolia qui illumine la fenêtre de sa chambre, «l'homme qui me ressemble» ( 74 ans ) se questionne sur sa vie, avant et après la mort, en confrontant ses doutes et ses certitudes.\r\n\r\n Entre un rendez-vous médical et le choix d'une urne dans un catalogue, entre un premier amour et une marche en forêt avec son petit-fils de sept ans, «l'homme qui me ressemble» monologue, poétise et chante sa recherche du «plus-grand-que-soi»."
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "_:g651340",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/359_064_ApresOnVaOu_1200x628.png?itok=DedsLbhF"
+      }
+    ],
+    "http://schema.org/representativeOfPage": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@value": "430"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@value": "430"
+      }
+    ]
+  },
+  {
+    "@id": "_:g651400",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://billetterieacces.tuxedobillet.com/main/rivard"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/12369",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/artistes/michel-rivard"
+      }
+    ],
+    "http://schema.org/schema_organization_additional_type": [
+      {
+        "@value": "http://dbpedia.org/ontology/Agent"
+      },
+      {
+        "@value": "http://xmlns.com/foaf/0.1/Agent"
+      },
+      {
+        "@value": "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "MICHEL RIVARD"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/12223",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/mariana-mazza-foie-gras-12223"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g659500"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-27T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/12164"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g659560"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/39"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/12221"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/mariana-mazza-foie-gras-12223"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Mariana Mazza -"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Pour son troisième spectacle, Foie Gras, Mariana Mazza décide de s’exprimer avec sa tête et son coeur… pour faire changement. Dans ce one-woman-show bien personnel, la jeune fille qui a grandi à Montréal-Nord, maintenant rendue une femme embourgeoisée qui vit à Saint-Lambert avec ses caniches et ses toiles invendues, se montre aussi brillante qu’hilarante. Étant habituée à dire des choses uniquement pour provoquer un rire, elle souhaite aller plus loin cette fois et faire un coming out au public : elle est émotive et vulnérable. Le chihuahua sur le Red Bull est officiellement remplacé par le tank au coeur de porcelaine. Comme elle le dit si bien : « C’est moi la meilleure tabarnak! » Oui, Mariana a changé. Mais à quel point?"
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "_:g659500",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/2410_MMaz_MEV-E_600x300_coverCMQ.png?itok=pV8_q0S7"
+      }
+    ],
+    "http://schema.org/representativeOfPage": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@value": "430"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@value": "430"
+      }
+    ]
+  },
+  {
+    "@id": "_:g659560",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://billetterieacces.tuxedobillet.com/main/mariana-mazza-foie-gras"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/12221",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/artistes/mariana-mazza-0"
+      }
+    ],
+    "http://schema.org/schema_organization_additional_type": [
+      {
+        "@value": "http://dbpedia.org/ontology/Agent"
+      },
+      {
+        "@value": "http://xmlns.com/foaf/0.1/Agent"
+      },
+      {
+        "@value": "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Mariana Mazza"
       }
     ]
   }
