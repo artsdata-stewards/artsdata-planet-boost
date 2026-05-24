@@ -1,465 +1,5 @@
 [
   {
-    "@id": "https://scenesfrancophones.ca/id/8813",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/megan-brouillard-chiendent-8813"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g468680"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-05-22T19:30:00-03:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/509"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g468740"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/56"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/8811"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/megan-brouillard-chiendent-8813"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Mégan Brouillard -"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Le chiendent, c’est subjectif. La mauvaise herbe, c’est quelque chose qui pousse là où toi, tu ne voulais pas. Ce qui est du chiendent pour l’un ne l’est peut-être pas pour l’autre et ce qui est du chiendent quelque part, ne l’est pas ailleurs… Mon spectacle tourne autour de cette perspective, des différentes perceptions de chacun et chacune et autour de mes propres perceptions.\r\n\r\nLe premier one-woman-show de Mégan Brouillard est un spectacle mordant et authentique, où Mégan présente elle et les siens, sans filtre et toujours de façon hilarante!"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "_:g468680",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/800x800.png?itok=HAv40fzh"
-      }
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "430"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "430"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/509",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/node/509"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g468700"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g468720"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Théâtre Capitol"
-      }
-    ]
-  },
-  {
-    "@id": "_:g468740",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://capitol.nb.ca/fr/spectacles-et-billets/megan-brouillard"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/56",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Théâtre Capitol"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/8811",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/artistes/megan-brouillard-0"
-      }
-    ],
-    "http://schema.org/schema_organization_additional_type": [
-      {
-        "@value": "http://dbpedia.org/ontology/Agent"
-      },
-      {
-        "@value": "http://xmlns.com/foaf/0.1/Agent"
-      },
-      {
-        "@value": "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Mégan Brouillard"
-      }
-    ]
-  },
-  {
-    "@id": "_:g468700",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "811, rue Main"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Moncton"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E1C 1G1"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g468720",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "46.088338"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-64.779037"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/11943",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/empire-pagaille-mme-brule-11943"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g476900"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-05-22T18:40:00-03:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/503"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g476960"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/53"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://scenesfrancophones.ca/id/10468"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/empire-pagaille-mme-brule-11943"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Empire Pagaille - Mme Brûlé"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Mme Brûlé est une enseignante qui s’accroche à sa vocation contre vents et marées. Dans un spectacle qui allie le théâtre, l’art clownesque et l’improvisation, la comédienne Évelyne Laniel offre un numéro solo à la fois humoristique et critique. Appelée pour un remplacement de dernière minute, Mme Brûlé est euphorique à l'idée d'obtenir son premier contrat d'enseignement. Son enthousiasme laisse cependant rapidement place à la panique en réalisant qu'elle est la quatrième remplaçante de l'année. Son arrivée dans la classe coïncide également avec la rencontre annuelle de parents lors de laquelle elle doit remettre les bulletins qui sont… introuvables. Dans un enchaînement de numéros de comédie physique, entremêlant slapstick et théâtre d’objets, le spectateur qui endosse tantôt le rôle de l’élève, tantôt celui du parent, assiste à la descente aux enfers d’une enseignante qui s’accroche malgré tout à un seul espoir, sa vocation : changer le monde un enfant à la fois."
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "_:g476900",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-03/Mme-Brule-SCLC.png?itok=P1D-Td1m"
-      }
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "430"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "430"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/503",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/node/503"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g476920"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g476940"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Auditorium Richelieu"
-      }
-    ]
-  },
-  {
-    "@id": "_:g476960",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://leschutes.tuxedobillet.com/main/mme-brulee/20260522200000"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/53",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-les-chutes"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Société culturelle régionale Les Chutes"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/10468",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/artistes/empire-pagaille-1"
-      }
-    ],
-    "http://schema.org/schema_organization_additional_type": [
-      {
-        "@value": "http://dbpedia.org/ontology/Agent"
-      },
-      {
-        "@value": "http://xmlns.com/foaf/0.1/Agent"
-      },
-      {
-        "@value": "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Empire Pagaille"
-      }
-    ]
-  },
-  {
-    "@id": "_:g476920",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "215, rue Guimont"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Grand-Sault"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E3Y 3W3"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g476940",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "47.056374"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-67.73096"
-      }
-    ]
-  },
-  {
     "@id": "https://scenesfrancophones.ca/id/12642",
     "@type": [
       "http://schema.org/Event"
@@ -471,7 +11,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g485900"
+        "@id": "_:g468700"
       }
     ],
     "http://schema.org/startDate": [
@@ -487,7 +27,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g485960"
+        "@id": "_:g468760"
       }
     ],
     "http://schema.org/organizer": [
@@ -527,7 +67,7 @@
     ]
   },
   {
-    "@id": "_:g485900",
+    "@id": "_:g468700",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -564,18 +104,18 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g485920"
+        "@id": "_:g468720"
       },
       {
-        "@id": "_:g525600"
+        "@id": "_:g509420"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g485940"
+        "@id": "_:g468740"
       },
       {
-        "@id": "_:g525620"
+        "@id": "_:g509440"
       }
     ],
     "http://schema.org/name": [
@@ -585,7 +125,7 @@
     ]
   },
   {
-    "@id": "_:g485960",
+    "@id": "_:g468760",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -633,7 +173,7 @@
     ]
   },
   {
-    "@id": "_:g485920",
+    "@id": "_:g468720",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -664,7 +204,7 @@
     ]
   },
   {
-    "@id": "_:g525600",
+    "@id": "_:g509420",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -695,7 +235,7 @@
     ]
   },
   {
-    "@id": "_:g485940",
+    "@id": "_:g468740",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -711,7 +251,7 @@
     ]
   },
   {
-    "@id": "_:g525620",
+    "@id": "_:g509440",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -749,7 +289,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g494860"
+        "@id": "_:g477480"
       }
     ],
     "http://schema.org/organizer": [
@@ -800,18 +340,18 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g494820"
+        "@id": "_:g477440"
       },
       {
-        "@id": "_:g516620"
+        "@id": "_:g500480"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g494840"
+        "@id": "_:g477460"
       },
       {
-        "@id": "_:g516640"
+        "@id": "_:g500500"
       }
     ],
     "http://schema.org/name": [
@@ -821,7 +361,7 @@
     ]
   },
   {
-    "@id": "_:g494860",
+    "@id": "_:g477480",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -869,7 +409,7 @@
     ]
   },
   {
-    "@id": "_:g494820",
+    "@id": "_:g477440",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -900,7 +440,7 @@
     ]
   },
   {
-    "@id": "_:g516620",
+    "@id": "_:g500480",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -931,7 +471,7 @@
     ]
   },
   {
-    "@id": "_:g494840",
+    "@id": "_:g477460",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -947,7 +487,7 @@
     ]
   },
   {
-    "@id": "_:g516640",
+    "@id": "_:g500500",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -974,7 +514,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g508860"
+        "@id": "_:g493220"
       }
     ],
     "http://schema.org/startDate": [
@@ -990,7 +530,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g508920"
+        "@id": "_:g493280"
       }
     ],
     "http://schema.org/organizer": [
@@ -1030,7 +570,7 @@
     ]
   },
   {
-    "@id": "_:g508860",
+    "@id": "_:g493220",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1067,18 +607,18 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g508880"
+        "@id": "_:g493240"
       },
       {
-        "@id": "_:g661760"
+        "@id": "_:g678580"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g508900"
+        "@id": "_:g493260"
       },
       {
-        "@id": "_:g661780"
+        "@id": "_:g678600"
       }
     ],
     "http://schema.org/name": [
@@ -1088,7 +628,7 @@
     ]
   },
   {
-    "@id": "_:g508920",
+    "@id": "_:g493280",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1115,7 +655,7 @@
     ]
   },
   {
-    "@id": "_:g508880",
+    "@id": "_:g493240",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1146,7 +686,7 @@
     ]
   },
   {
-    "@id": "_:g661760",
+    "@id": "_:g678580",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1177,7 +717,7 @@
     ]
   },
   {
-    "@id": "_:g508900",
+    "@id": "_:g493260",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1193,7 +733,7 @@
     ]
   },
   {
-    "@id": "_:g661780",
+    "@id": "_:g678600",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1220,7 +760,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g516600"
+        "@id": "_:g500460"
       }
     ],
     "http://schema.org/startDate": [
@@ -1236,7 +776,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g516660"
+        "@id": "_:g500520"
       }
     ],
     "http://schema.org/organizer": [
@@ -1281,7 +821,7 @@
     ]
   },
   {
-    "@id": "_:g516600",
+    "@id": "_:g500460",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1307,7 +847,7 @@
     ]
   },
   {
-    "@id": "_:g516660",
+    "@id": "_:g500520",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1372,7 +912,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g525640"
+        "@id": "_:g509460"
       }
     ],
     "http://schema.org/organizer": [
@@ -1417,7 +957,7 @@
     ]
   },
   {
-    "@id": "_:g525640",
+    "@id": "_:g509460",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1460,7 +1000,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g537880"
+        "@id": "_:g521620"
       }
     ],
     "http://schema.org/startDate": [
@@ -1476,7 +1016,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g537940"
+        "@id": "_:g521680"
       }
     ],
     "http://schema.org/organizer": [
@@ -1521,7 +1061,7 @@
     ]
   },
   {
-    "@id": "_:g537880",
+    "@id": "_:g521620",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1563,12 +1103,12 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g537900"
+        "@id": "_:g521640"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g537920"
+        "@id": "_:g521660"
       }
     ],
     "http://schema.org/name": [
@@ -1578,7 +1118,7 @@
     ]
   },
   {
-    "@id": "_:g537940",
+    "@id": "_:g521680",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1610,7 +1150,7 @@
     ]
   },
   {
-    "@id": "_:g537900",
+    "@id": "_:g521640",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1641,7 +1181,7 @@
     ]
   },
   {
-    "@id": "_:g537920",
+    "@id": "_:g521660",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1668,7 +1208,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g545200"
+        "@id": "_:g529840"
       }
     ],
     "http://schema.org/startDate": [
@@ -1684,7 +1224,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g545260"
+        "@id": "_:g529900"
       }
     ],
     "http://schema.org/organizer": [
@@ -1729,7 +1269,7 @@
     ]
   },
   {
-    "@id": "_:g545200",
+    "@id": "_:g529840",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1771,12 +1311,12 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g545220"
+        "@id": "_:g529860"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g545240"
+        "@id": "_:g529880"
       }
     ],
     "http://schema.org/name": [
@@ -1786,7 +1326,7 @@
     ]
   },
   {
-    "@id": "_:g545260",
+    "@id": "_:g529900",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1818,7 +1358,7 @@
     ]
   },
   {
-    "@id": "_:g545220",
+    "@id": "_:g529860",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1849,7 +1389,7 @@
     ]
   },
   {
-    "@id": "_:g545240",
+    "@id": "_:g529880",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1876,7 +1416,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g557580"
+        "@id": "_:g542180"
       }
     ],
     "http://schema.org/startDate": [
@@ -1892,7 +1432,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g557640"
+        "@id": "_:g542240"
       }
     ],
     "http://schema.org/organizer": [
@@ -1937,7 +1477,7 @@
     ]
   },
   {
-    "@id": "_:g557580",
+    "@id": "_:g542180",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1979,12 +1519,12 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g557600"
+        "@id": "_:g542200"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g557620"
+        "@id": "_:g542220"
       }
     ],
     "http://schema.org/name": [
@@ -1994,7 +1534,7 @@
     ]
   },
   {
-    "@id": "_:g557640",
+    "@id": "_:g542240",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2021,7 +1561,7 @@
     ]
   },
   {
-    "@id": "_:g557600",
+    "@id": "_:g542200",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2052,7 +1592,7 @@
     ]
   },
   {
-    "@id": "_:g557620",
+    "@id": "_:g542220",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2079,7 +1619,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g568500"
+        "@id": "_:g552800"
       }
     ],
     "http://schema.org/startDate": [
@@ -2095,7 +1635,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g568560"
+        "@id": "_:g552860"
       }
     ],
     "http://schema.org/organizer": [
@@ -2140,7 +1680,7 @@
     ]
   },
   {
-    "@id": "_:g568500",
+    "@id": "_:g552800",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2177,18 +1717,18 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g568520"
+        "@id": "_:g552820"
       },
       {
-        "@id": "_:g575840"
+        "@id": "_:g560140"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g568540"
+        "@id": "_:g552840"
       },
       {
-        "@id": "_:g575860"
+        "@id": "_:g560160"
       }
     ],
     "http://schema.org/name": [
@@ -2198,7 +1738,7 @@
     ]
   },
   {
-    "@id": "_:g568560",
+    "@id": "_:g552860",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2257,7 +1797,7 @@
     ]
   },
   {
-    "@id": "_:g568520",
+    "@id": "_:g552820",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2288,7 +1828,7 @@
     ]
   },
   {
-    "@id": "_:g575840",
+    "@id": "_:g560140",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2319,7 +1859,7 @@
     ]
   },
   {
-    "@id": "_:g568540",
+    "@id": "_:g552840",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2335,7 +1875,7 @@
     ]
   },
   {
-    "@id": "_:g575860",
+    "@id": "_:g560160",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2362,7 +1902,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g575820"
+        "@id": "_:g560120"
       }
     ],
     "http://schema.org/startDate": [
@@ -2378,7 +1918,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g575880"
+        "@id": "_:g560180"
       }
     ],
     "http://schema.org/organizer": [
@@ -2423,7 +1963,7 @@
     ]
   },
   {
-    "@id": "_:g575820",
+    "@id": "_:g560120",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2449,7 +1989,7 @@
     ]
   },
   {
-    "@id": "_:g575880",
+    "@id": "_:g560180",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2492,6 +2032,438 @@
     ]
   },
   {
+    "@id": "https://scenesfrancophones.ca/id/11945",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/ecarlate-11945"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g569140"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-18T19:00:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/11944"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g569200"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/48"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/215"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/ecarlate-11945"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Écarlate"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Clémence Langlois, Daphnée McIntyre et Samuel LeBlanc sont trois adolescent.es originaires de Moncton qui sortent récemment de leur coquille pour trouver réconfort dans la musique. Ils ont fait leur début en pleine pandémie et montrent leurs créations pour la première fois en remportant Accros 17 et la 52e édition du Gala de la Chanson de Caraquet. C’est dans le but de partager leur passion pour la musique avec le public qu’ils présentent leurs balades riches en émotions purement venues du cœur."
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "_:g569140",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf_.png?itok=k-P8U5JP"
+      }
+    ],
+    "http://schema.org/representativeOfPage": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@value": "430"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@value": "430"
+      }
+    ],
+    "http://schema.org/creditText": [
+      {
+        "@value": "Éléonore Delveaux-Beaudoin"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/11944",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/node/11944"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g569160"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g569180"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Centre des arts et de la culture"
+      }
+    ]
+  },
+  {
+    "@id": "_:g569200",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.societeculturellebdc.com/programmation"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/48",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-de-la-baie-des-chaleurs"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Société culturelle de la Baie des Chaleurs"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/215",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/artistes/ecarlate"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Écarlate"
+      }
+    ]
+  },
+  {
+    "@id": "_:g569160",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "56 Salmon Blvd"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Campbellton"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E3N 3T7"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g569180",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "48.008718"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-66.675601"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/11946",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/ecarlate-11946"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g578180"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-20T19:30:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/476"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g578240"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/40"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/215"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/ecarlate-11946"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Écarlate"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Clémence Langlois, Daphnée McIntyre et Samuel LeBlanc sont trois adolescent.es originaires de Moncton qui sortent récemment de leur coquille pour trouver réconfort dans la musique. Ils ont fait leur début en pleine pandémie et montrent leurs créations pour la première fois en remportant Accros 17 et la 52e édition du Gala de la Chanson de Caraquet. C’est dans le but de partager leur passion pour la musique avec le public qu’ils présentent leurs balades riches en émotions purement venues du cœur."
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "_:g578180",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf_.png?itok=k-P8U5JP"
+      }
+    ],
+    "http://schema.org/representativeOfPage": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@value": "430"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@value": "430"
+      }
+    ],
+    "http://schema.org/creditText": [
+      {
+        "@value": "Éléonore Delveaux-Beaudoin"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/476",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/node/476"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g578200"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g578220"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "La Caserne"
+      }
+    ]
+  },
+  {
+    "@id": "_:g578240",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://centredesartsdieppe.ca/fr/programmation/spectacle/ecarlate"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/40",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Centre des arts et de la culture de Dieppe"
+      }
+    ]
+  },
+  {
+    "@id": "_:g578200",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "331, ave. Acadie"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Dieppe"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E1A 1G9"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g578220",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "46.094515"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-64.748301"
+      }
+    ]
+  },
+  {
     "@id": "https://scenesfrancophones.ca/id/12165",
     "@type": [
       "http://schema.org/Event"
@@ -2503,7 +2475,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g628980"
+        "@id": "_:g625360"
       }
     ],
     "http://schema.org/startDate": [
@@ -2519,7 +2491,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g629040"
+        "@id": "_:g625420"
       }
     ],
     "http://schema.org/organizer": [
@@ -2564,7 +2536,7 @@
     ]
   },
   {
-    "@id": "_:g628980",
+    "@id": "_:g625360",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2601,24 +2573,24 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g629000"
+        "@id": "_:g625380"
       },
       {
-        "@id": "_:g636420"
+        "@id": "_:g634380"
       },
       {
-        "@id": "_:g645460"
+        "@id": "_:g643220"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g629020"
+        "@id": "_:g625400"
       },
       {
-        "@id": "_:g636440"
+        "@id": "_:g634400"
       },
       {
-        "@id": "_:g645480"
+        "@id": "_:g643240"
       }
     ],
     "http://schema.org/name": [
@@ -2628,7 +2600,7 @@
     ]
   },
   {
-    "@id": "_:g629040",
+    "@id": "_:g625420",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2671,7 +2643,7 @@
     ]
   },
   {
-    "@id": "_:g629000",
+    "@id": "_:g625380",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2702,7 +2674,7 @@
     ]
   },
   {
-    "@id": "_:g636420",
+    "@id": "_:g634380",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2733,7 +2705,7 @@
     ]
   },
   {
-    "@id": "_:g645460",
+    "@id": "_:g643220",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2764,7 +2736,7 @@
     ]
   },
   {
-    "@id": "_:g629020",
+    "@id": "_:g625400",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2780,7 +2752,7 @@
     ]
   },
   {
-    "@id": "_:g636440",
+    "@id": "_:g634400",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2796,7 +2768,7 @@
     ]
   },
   {
-    "@id": "_:g645480",
+    "@id": "_:g643240",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2823,7 +2795,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g636400"
+        "@id": "_:g634360"
       }
     ],
     "http://schema.org/startDate": [
@@ -2839,7 +2811,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g636460"
+        "@id": "_:g634420"
       }
     ],
     "http://schema.org/organizer": [
@@ -2884,7 +2856,7 @@
     ]
   },
   {
-    "@id": "_:g636400",
+    "@id": "_:g634360",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2910,7 +2882,7 @@
     ]
   },
   {
-    "@id": "_:g636460",
+    "@id": "_:g634420",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2964,7 +2936,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g645440"
+        "@id": "_:g643200"
       }
     ],
     "http://schema.org/startDate": [
@@ -2980,7 +2952,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g645500"
+        "@id": "_:g643260"
       }
     ],
     "http://schema.org/organizer": [
@@ -3025,7 +2997,7 @@
     ]
   },
   {
-    "@id": "_:g645440",
+    "@id": "_:g643200",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3051,7 +3023,7 @@
     ]
   },
   {
-    "@id": "_:g645500",
+    "@id": "_:g643260",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3094,6 +3066,209 @@
     ]
   },
   {
+    "@id": "https://scenesfrancophones.ca/id/11982",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/ecarlate-11982"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g661240"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-21T19:00:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/11981"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g661300"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/36"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://scenesfrancophones.ca/id/215"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/ecarlate-11982"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Écarlate"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Clémence Langlois, Daphnée McIntyre et Samuel LeBlanc sont trois adolescent.es originaires de Moncton qui sortent récemment de leur coquille pour trouver réconfort dans la musique. Ils ont fait leur début en pleine pandémie et montrent leurs créations pour la première fois en remportant Accros 17 et la 52e édition du Gala de la Chanson de Caraquet. C’est dans le but de partager leur passion pour la musique avec le public qu’ils présentent leurs balades riches en émotions purement venues du cœur."
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "_:g661240",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf_.png?itok=k-P8U5JP"
+      }
+    ],
+    "http://schema.org/representativeOfPage": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@value": "430"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@value": "430"
+      }
+    ],
+    "http://schema.org/creditText": [
+      {
+        "@value": "Éléonore Delveaux-Beaudoin"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/11981",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/node/11981"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g661260"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g661280"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "AREA 506 Waterfront Container Village"
+      }
+    ]
+  },
+  {
+    "@id": "_:g661300",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/36",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/association-regionale-de-la-communaute-francophone-de-saint-jean-arcf"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Association régionale de la Communauté Francophone de Saint-Jean (ARCf)"
+      }
+    ]
+  },
+  {
+    "@id": "_:g661260",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "85, rue Water"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Saint John"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E2L 5G1"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g661280",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "45.26938"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-66.062291"
+      }
+    ]
+  },
+  {
     "@id": "https://scenesfrancophones.ca/id/12307",
     "@type": [
       "http://schema.org/Event"
@@ -3105,7 +3280,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g661740"
+        "@id": "_:g678560"
       }
     ],
     "http://schema.org/startDate": [
@@ -3121,7 +3296,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g661800"
+        "@id": "_:g678620"
       }
     ],
     "http://schema.org/organizer": [
@@ -3166,7 +3341,7 @@
     ]
   },
   {
-    "@id": "_:g661740",
+    "@id": "_:g678560",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3192,7 +3367,7 @@
     ]
   },
   {
-    "@id": "_:g661800",
+    "@id": "_:g678620",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3241,7 +3416,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g670620"
+        "@id": "_:g687400"
       }
     ],
     "http://schema.org/startDate": [
@@ -3252,7 +3427,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g670640"
+        "@id": "_:g687420"
       }
     ],
     "http://schema.org/organizer": [
@@ -3297,7 +3472,7 @@
     ]
   },
   {
-    "@id": "_:g670620",
+    "@id": "_:g687400",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3328,7 +3503,7 @@
     ]
   },
   {
-    "@id": "_:g670640",
+    "@id": "_:g687420",
     "@type": [
       "http://schema.org/Offer"
     ],
