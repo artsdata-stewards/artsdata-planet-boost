@@ -11,18 +11,18 @@
     ],
     "http://schema.org/dataFeedElement": [
       {
-        "@id": "https://scenesfrancophones.ca/artistes/lgs"
+        "@id": "https://scenesfrancophones.ca/artistes/compagnie-de-creation-le-gros-orteil"
       }
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/artistes/lgs",
+    "@id": "https://scenesfrancophones.ca/artistes/compagnie-de-creation-le-gros-orteil",
     "@type": [
       "http://schema.org/Website"
     ]
   },
   {
-    "@id": "urn:crawl:130765be-9c28-43d5-a94e-477d27566ab2",
+    "@id": "urn:crawl:9769dac5-25d0-425d-b68b-1e29f339819d",
     "@type": [
       "http://www.w3.org/ns/prov#Activity"
     ],
@@ -38,19 +38,19 @@
     ],
     "http://www.w3.org/ns/prov#used": [
       {
-        "@id": "https://scenesfrancophones.ca/artistes/lgs"
+        "@id": "https://scenesfrancophones.ca/artistes/compagnie-de-creation-le-gros-orteil"
       }
     ],
     "http://www.w3.org/ns/prov#startedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2026-05-28T02:38:42Z"
+        "@value": "2026-05-28T02:38:38Z"
       }
     ],
     "http://www.w3.org/ns/prov#endedAtTime": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2026-05-28T02:41:12Z"
+        "@value": "2026-05-28T02:41:13Z"
       }
     ],
     "http://www.w3.org/ns/prov#wasInformedBy": [
@@ -138,13 +138,13 @@
     ]
   },
   {
-    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/scenesfrancophones-ca/2026-05-27T22_41_13#Dataset",
+    "@id": "http://kg.artsdata.ca/databus/capacoa/artsdata-planet-boost/scenesfrancophones-ca/2026-05-27T22_41_14#Dataset",
     "@type": [
       "http://www.w3.org/ns/prov#Entity"
     ],
     "http://www.w3.org/ns/prov#wasGeneratedBy": [
       {
-        "@id": "urn:crawl:130765be-9c28-43d5-a94e-477d27566ab2"
+        "@id": "urn:crawl:9769dac5-25d0-425d-b68b-1e29f339819d"
       }
     ]
   }
