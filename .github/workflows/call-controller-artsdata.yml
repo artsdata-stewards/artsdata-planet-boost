@@ -2,8 +2,8 @@ name: Call Controller - Artsdata incremental, register only
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight UTC
+ # schedule:
+ #   - cron: '0 0 * * *' # Runs every day at midnight UTC
 
 jobs:
   call-controller:
