@@ -52,7 +52,8 @@ module FetchOrganizationsService
       data = data.uniq { |d| d["url"] }
       data = data.uniq { |d| d["same_as"] }
       data = data.reject do |d|
-        if @already_crawled_urls.include?(d["url"]) || (d["same_as"] != @only_uri_to_crawl && @only_uri_to_crawl)
+        if @already_crawled_urls.include?(d["url"]) || 
+          (@only_uri_to_crawl && d["url"] != @only_uri_to_crawl)
           true
         else
           false
