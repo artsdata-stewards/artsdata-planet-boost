@@ -35,7 +35,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Action setup
-        uses: culturecreates/artsdata-pipeline-action@v4
+        uses: culturecreates/artsdata-pipeline-action
         with:
           mode: "fetch-push"
           artifact: "WEBSITE-ARTIFACT"
@@ -47,9 +47,9 @@ jobs:
 
 ## Instructions to re-crawl a Boost organization
 
-You can manually re-crawl any source in the Boost program by going to the action and clicking run, and entering the associate URL of the organization.
+You can manually re-crawl any website in the Boost program by going to the action and clicking run, and entering the associate URL of the organization.
 
 1. Go here https://github.com/artsdata-stewards/artsdata-planet-boost/actions/workflows/controller.yml
 2. Click “run”
 3. Enter the exact URL of the organization to re-crawl. For example https://duceppe.com/. It should be the exact same URL as the previous boost crawl which you can find in this report https://kg.artsdata.ca/query/show?sparql=https://raw.githubusercontent.com/artsdata-stewards/artsdata-actions/main/queries/website_spider_crawls.sparql
-4. Enter "artsdata" in the Source of organizations to fetch (ignore the other fields).
+4. Enter "artsdata" or "wikidata" in the Source of organizations to fetch (ignore the other fields). It must match the source of the URL.  You can check the report to see which source to enter for the organization you want to re-crawl.
