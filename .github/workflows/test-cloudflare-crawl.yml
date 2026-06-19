@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Crawl URL with Cloudflare signing
-        uses: culturecreates/artsdata-pipeline-action@v3
+        uses: culturecreates/artsdata-pipeline-action@v4
         with:
           mode: 'fetch'
           artifact: 'cloudflare-test-ca'
