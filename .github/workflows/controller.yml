@@ -111,7 +111,7 @@ jobs:
 
     steps:
       - name: Crawl and push using pipeline-action
-        uses: culturecreates/artsdata-pipeline-action@v3
+        uses: culturecreates/artsdata-pipeline-action@v4
         with:
           mode: 'fetch-push'
           artifact: '${{ matrix.org.artifact }}'
@@ -182,7 +182,7 @@ jobs:
           echo "metadata_artifact=metadata_${{ inputs.source }}_spider" >> $GITHUB_OUTPUT
 
       - name: Push metadata to artsdata
-        uses: culturecreates/artsdata-pipeline-action@v3
+        uses: culturecreates/artsdata-pipeline-action@v4
         with:
           mode: 'push'
           artifact: metadata_${{ inputs.source }}_spider
