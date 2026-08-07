@@ -63,7 +63,7 @@ module FetchOrganizationsService
 
       data = data.reject do |d|
         @already_crawled_urls.include?(d["url"]) ||
-          (@only_uri_to_crawl && d["artsdata_uri"] != @only_uri_to_crawl)
+          (@only_uri_to_crawl && d["url"] != @only_uri_to_crawl)
       end
 
       data
