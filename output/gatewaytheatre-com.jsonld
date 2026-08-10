@@ -1,687 +1,5 @@
 [
   {
-    "@id": "https://www.gatewaytheatre.com/events/the-flame/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "en-ca",
-        "@value": "en_US"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-ca",
-        "@value": "The Flame: Storytelling Showcase"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-ca",
-        "@value": "Join us at Gateway Theatre for a performance of Vancouver's popular storytelling series, The Flame, featuring stories after a 2-day workshop."
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-ca",
-        "@value": "https://www.gatewaytheatre.com/events/the-flame/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en-ca",
-        "@value": "Gateway Theatre"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "en-ca",
-        "@value": "https://www.facebook.com/GatewayThtr"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "en-ca",
-        "@value": "2025-10-22T22:26:05+00:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-ca",
-        "@value": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/The-Flame-600x400-2.png"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-ca",
-        "@value": "600"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-ca",
-        "@value": "400"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "en-ca",
-        "@value": "image/png"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/the-flame/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://www.gatewaytheatre.com/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/the-flame/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/the-flame/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/The-Flame-600x400-2.png"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-06-13T02:24:32+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-10-22T22:26:05+00:00"
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/the-flame/#breadcrumb"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "_:g1482380"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://www.gatewaytheatre.com/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "The Flame: Storytelling Showcase"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Join us at Gateway Theatre for a performance of Vancouver's popular storytelling series, The Flame, featuring stories after a 2-day workshop."
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.gatewaytheatre.com/#website",
-    "@type": [
-      "http://schema.org/WebSite"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/"
-      }
-    ],
-    "http://schema.org/publisher": [
-      {
-        "@id": "https://www.gatewaytheatre.com/#organization"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "_:g1482460"
-      },
-      {
-        "@id": "_:g1499300"
-      },
-      {
-        "@id": "_:g1535560"
-      },
-      {
-        "@id": "_:g1563160"
-      },
-      {
-        "@id": "_:g1582600"
-      },
-      {
-        "@id": "_:g1603940"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Gateway Theatre"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Gateway Theatre is A Stage for Richmond, providing a platform for the whole community to contribute to, and benefit from, the performing arts. It’s a place where we can all learn from each other, see ourselves represented, and take pride in the rich cultural landscape that Richmond has to offer."
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.gatewaytheatre.com/events/the-flame/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/The-Flame-600x400-2.png"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/The-Flame-600x400-2.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "600"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "400"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1482380",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "en",
-        "@value": "https://www.gatewaytheatre.com/events/the-flame/"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.gatewaytheatre.com/#organization",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://www.gatewaytheatre.com/#/schema/logo/image/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.gatewaytheatre.com/#/schema/logo/image/"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.facebook.com/GatewayThtr"
-      },
-      {
-        "@id": "https://www.instagram.com/gatewaythtr/"
-      },
-      {
-        "@id": "https://www.youtube.com/@GatewayThtr"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Gateway Theatre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1482460",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g1482480"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@id": "_:g1482500"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1499300",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g1499320"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@id": "_:g1499340"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1535560",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g1535580"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@id": "_:g1535600"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1563160",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g1563180"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@id": "_:g1563200"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1582600",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g1582620"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@id": "_:g1582640"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1603940",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g1603960"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@id": "_:g1603980"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.gatewaytheatre.com/#/schema/logo/image/",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/09/Gateway_Logos-Arch_DarkBlue-Square.png"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/09/Gateway_Logos-Arch_DarkBlue-Square.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "500"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "500"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-CA"
-      }
-    ],
-    "http://schema.org/caption": [
-      {
-        "@language": "en",
-        "@value": "Gateway Theatre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1482480",
-    "@type": [
-      "http://schema.org/EntryPoint"
-    ],
-    "http://schema.org/urlTemplate": [
-      {
-        "@language": "en",
-        "@value": "https://www.gatewaytheatre.com/?s={search_term_string}"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1482500",
-    "@type": [
-      "http://schema.org/PropertyValueSpecification"
-    ],
-    "http://schema.org/valueRequired": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
-        "@value": "true"
-      }
-    ],
-    "http://schema.org/valueName": [
-      {
-        "@language": "en",
-        "@value": "search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1484540",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g1484560"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q111731668"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Gateway Theatre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1484560",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Richmond"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "BC"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "V7C 3V4"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "6500 Gilbert Road"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1484580",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q111731772"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Gateway Theatre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1484600",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/tickets/?eid=the-flame"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": ":00"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "en",
-        "@value": "http://schema.org/InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "en",
-        "@value": "0"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1484620",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/the-flame/"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-10-22T00:00:00"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en"
-      }
-    ]
-  },
-  {
-    "@id": "https://gatewaytheatre.com/temporary/af7d3090-cff6-4905-af83-79507335512d",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/StorytellingPerformance"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-12T19:00:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g1484540"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-12T21:00:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/the-flame/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/The-Flame-1800x1000-2-1536x853.png"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g1484580"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g1484600"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "_:g1484620"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/the-flame/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "The Flame: Storytelling Showcase"
-      }
-    ],
-    "http://schema.org/keywords": [
-      {
-        "@language": "en",
-        "@value": "the flame, storytelling, true stories"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Hosted by Deborah Williams, Award-winning actor and one of the creators of Mom’s the Word, Deborah Williams is bringing the hit storytelling event, The Flame, back to Gateway Theatre. The Flame is a storytelling series that features real people, sharing their personal true stories in front of a live audience. Since its inception in 2009, The Flame has flourished and grown into a wildly popular event that has packed venues in Vancouver and Victoria."
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "02:00:00"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
     "@id": "https://www.gatewaytheatre.com/events/mm/",
     "http://ogp.me/ns#locale": [
       {
@@ -795,14 +113,9 @@
         "@value": "2025-10-28T18:08:35+00:00"
       }
     ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/mm/#breadcrumb"
-      }
-    ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1499220"
+        "@id": "https://gatewaytheatre.com/genid/9318c9c08cf523bc"
       }
     ],
     "https://api.w.org/": [
@@ -820,6 +133,40 @@
       {
         "@language": "en",
         "@value": "Join us for a mystery! Ms. Holmes & Ms. Watson - Apt. 2B is a feminist comedy that you don't want to miss at Gateway this fall!"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#organization"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Gateway Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Gateway Theatre is A Stage for Change, creating outstanding professional theatre and be a celebrated stage for the performing arts in BC, guided by the diverse stories of this place and beyond."
       }
     ],
     "http://schema.org/inLanguage": [
@@ -864,7 +211,7 @@
     ]
   },
   {
-    "@id": "_:g1499220",
+    "@id": "https://gatewaytheatre.com/genid/9318c9c08cf523bc",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -876,43 +223,91 @@
     ]
   },
   {
-    "@id": "_:g1499320",
+    "@id": "https://www.gatewaytheatre.com/#organization",
     "@type": [
-      "http://schema.org/EntryPoint"
+      "http://schema.org/Organization"
     ],
-    "http://schema.org/urlTemplate": [
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/GatewayThtr"
+      },
+      {
+        "@id": "https://www.instagram.com/gatewaythtr/"
+      },
+      {
+        "@id": "https://www.youtube.com/@GatewayThtr"
+      }
+    ],
+    "http://schema.org/name": [
       {
         "@language": "en",
-        "@value": "https://www.gatewaytheatre.com/?s={search_term_string}"
+        "@value": "Gateway Theatre"
       }
     ]
   },
   {
-    "@id": "_:g1499340",
+    "@id": "https://www.gatewaytheatre.com/#/schema/logo/image/",
     "@type": [
-      "http://schema.org/PropertyValueSpecification"
+      "http://schema.org/ImageObject"
     ],
-    "http://schema.org/valueRequired": [
+    "http://schema.org/url": [
       {
-        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
-        "@value": "true"
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/09/Gateway_Logos-Arch_DarkBlue-Square.png"
       }
     ],
-    "http://schema.org/valueName": [
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/09/Gateway_Logos-Arch_DarkBlue-Square.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
       {
         "@language": "en",
-        "@value": "search_term_string"
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Gateway Theatre"
       }
     ]
   },
   {
-    "@id": "_:g1500580",
+    "@id": "https://gatewaytheatre.com/genid/8948b475b9cfb3f2",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g1500600"
+        "@id": "https://gatewaytheatre.com/genid/79efcf4f699dc6db"
       }
     ],
     "http://schema.org/sameAs": [
@@ -928,7 +323,7 @@
     ]
   },
   {
-    "@id": "_:g1500600",
+    "@id": "https://gatewaytheatre.com/genid/79efcf4f699dc6db",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -964,7 +359,7 @@
     ]
   },
   {
-    "@id": "_:g1500620",
+    "@id": "https://gatewaytheatre.com/genid/1270ba1445e0f761",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -986,7 +381,7 @@
     ]
   },
   {
-    "@id": "_:g1500640",
+    "@id": "https://gatewaytheatre.com/genid/8e85ae377625d65a",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1015,7 +410,7 @@
     ]
   },
   {
-    "@id": "_:g1500660",
+    "@id": "https://gatewaytheatre.com/genid/66cb505903812b1a",
     "@type": [
       "http://schema.org/WebPage"
     ],
@@ -1038,7 +433,7 @@
     ]
   },
   {
-    "@id": "https://gatewaytheatre.com/temporary/f5990fb9-27e5-4595-ba39-1098e281f54e",
+    "@id": "https://gatewaytheatre.com/temporary/baf09293-0f47-48e6-bb8d-e86b1640a949",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1055,7 +450,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1500580"
+        "@id": "https://gatewaytheatre.com/genid/8948b475b9cfb3f2"
       }
     ],
     "http://schema.org/endDate": [
@@ -1076,17 +471,17 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1500620"
+        "@id": "https://gatewaytheatre.com/genid/1270ba1445e0f761"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1500640"
+        "@id": "https://gatewaytheatre.com/genid/8e85ae377625d65a"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
       {
-        "@id": "_:g1500660"
+        "@id": "https://gatewaytheatre.com/genid/66cb505903812b1a"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1110,1362 +505,6 @@
       {
         "@language": "en",
         "@value": "This sharp and comedic reinvention of the classic detective tale is exactly what you’re looking for this fall. Join us for this modern take, following the eccentric Sherlock Holmes and Joan Watson as they stumble through post-pandemic life, solving crimes with chaotic brilliance. Watch as their dysfunctional partnership comes to life, as they face a cunning supervillain who just might have all the answers."
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "02:30:00"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.gatewaytheatre.com/events/silk-road/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "en-ca",
-        "@value": "en_US"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-ca",
-        "@value": "Silk Road Music: Lunar New Year Celebration"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-ca",
-        "@value": "Celebrate Lunar New Year and come on a musical journey with the award-winning Silk Road Music, a blend of Chinese music with Western styles."
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-ca",
-        "@value": "https://www.gatewaytheatre.com/events/silk-road/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en-ca",
-        "@value": "Gateway Theatre"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "en-ca",
-        "@value": "https://www.facebook.com/GatewayThtr"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "en-ca",
-        "@value": "2025-11-03T19:59:38+00:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-ca",
-        "@value": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Silk-Road-Music-600x400-2.png"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-ca",
-        "@value": "600"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-ca",
-        "@value": "400"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "en-ca",
-        "@value": "image/png"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/silk-road/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://www.gatewaytheatre.com/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/silk-road/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/silk-road/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Silk-Road-Music-600x400-2.png"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-06-13T02:20:49+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-11-03T19:59:38+00:00"
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/silk-road/#breadcrumb"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "_:g1535480"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://www.gatewaytheatre.com/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Silk Road Music: Lunar New Year Celebration"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Celebrate Lunar New Year and come on a musical journey with the award-winning Silk Road Music, a blend of Chinese music with Western styles."
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.gatewaytheatre.com/events/silk-road/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Silk-Road-Music-600x400-2.png"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Silk-Road-Music-600x400-2.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "600"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "400"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1535480",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "en",
-        "@value": "https://www.gatewaytheatre.com/events/silk-road/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1535580",
-    "@type": [
-      "http://schema.org/EntryPoint"
-    ],
-    "http://schema.org/urlTemplate": [
-      {
-        "@language": "en",
-        "@value": "https://www.gatewaytheatre.com/?s={search_term_string}"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1535600",
-    "@type": [
-      "http://schema.org/PropertyValueSpecification"
-    ],
-    "http://schema.org/valueRequired": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
-        "@value": "true"
-      }
-    ],
-    "http://schema.org/valueName": [
-      {
-        "@language": "en",
-        "@value": "search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1537520",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g1537540"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q111731668"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Gateway Theatre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1537540",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Richmond"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "BC"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "V7C 3V4"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "6500 Gilbert Road"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1537560",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q111731772"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Gateway Theatre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1537580",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/tickets/?eid=silk-road"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": ":00"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "en",
-        "@value": "http://schema.org/InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "en",
-        "@value": "25"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1537600",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/silk-road/"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-10-22T00:00:00"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en"
-      }
-    ]
-  },
-  {
-    "@id": "https://gatewaytheatre.com/temporary/b11a4b30-dd05-4fff-85a1-b93731205ef8",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/MusicPerformance"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-02-28T14:00:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g1537520"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-02-28T15:10:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/silk-road/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Silk-Road-Music-1800x1000-2-1536x853.png"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g1537560"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g1537580"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "_:g1537600"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/silk-road/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Silk Road Music: Lunar New Year Celebration"
-      }
-    ],
-    "http://schema.org/keywords": [
-      {
-        "@language": "en",
-        "@value": "chinese folk music, classical music, fusion music "
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Celebrate Lunar New Year with the award-winning Silk Road Music! Join us for a celebratory concert, blending the rich traditions of Asian and non-Asian music. For over two decades, Silk Road Music’s pioneering musical fusions have blended Chinese folk and classical music with jazz, blues, Brazilian, Celtic, Spanish, Arabic and Aboriginal music to create a unique sound. Don’t miss this unforgettable performance that promises to enchant, showcasing the harmonious fusion of East and West."
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "01:10:00"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.gatewaytheatre.com/events/buffalo/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "en-ca",
-        "@value": "en_US"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-ca",
-        "@value": "Where Have All The Buffalo Gone?"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-ca",
-        "@value": "Come along for a Metis love story that transcends through time. Gateway presents Where Have All The Buffalo Gone? for young audiences."
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-ca",
-        "@value": "https://www.gatewaytheatre.com/events/buffalo/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en-ca",
-        "@value": "Gateway Theatre"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "en-ca",
-        "@value": "https://www.facebook.com/GatewayThtr"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "en-ca",
-        "@value": "2025-12-01T21:07:18+00:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-ca",
-        "@value": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Where-Have-All-The-Buffalo-Gone_-600x400-2.png"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-ca",
-        "@value": "600"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-ca",
-        "@value": "400"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "en-ca",
-        "@value": "image/png"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/buffalo/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://www.gatewaytheatre.com/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/buffalo/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/buffalo/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Where-Have-All-The-Buffalo-Gone_-600x400-2.png"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-06-13T01:55:25+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-12-01T21:07:18+00:00"
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/buffalo/#breadcrumb"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "_:g1563080"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://www.gatewaytheatre.com/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Where Have All The Buffalo Gone?"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Come along for a Metis love story that transcends through time. Gateway presents Where Have All The Buffalo Gone? for young audiences."
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.gatewaytheatre.com/events/buffalo/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Where-Have-All-The-Buffalo-Gone_-600x400-2.png"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Where-Have-All-The-Buffalo-Gone_-600x400-2.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "600"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "400"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1563080",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "en",
-        "@value": "https://www.gatewaytheatre.com/events/buffalo/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1563180",
-    "@type": [
-      "http://schema.org/EntryPoint"
-    ],
-    "http://schema.org/urlTemplate": [
-      {
-        "@language": "en",
-        "@value": "https://www.gatewaytheatre.com/?s={search_term_string}"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1563200",
-    "@type": [
-      "http://schema.org/PropertyValueSpecification"
-    ],
-    "http://schema.org/valueRequired": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
-        "@value": "true"
-      }
-    ],
-    "http://schema.org/valueName": [
-      {
-        "@language": "en",
-        "@value": "search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1565160",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g1565180"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q111731668"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Gateway Theatre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1565180",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Richmond"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "BC"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "V7C 3V4"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "6500 Gilbert Road"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1565200",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q111731772"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Gateway Theatre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1565220",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/tickets/?eid=buffalo"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": ":00"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "en",
-        "@value": "http://schema.org/InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "en",
-        "@value": "13.5"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1565240",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/buffalo/"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-10-22T00:00:00"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en"
-      }
-    ]
-  },
-  {
-    "@id": "https://gatewaytheatre.com/temporary/d0cfbbc1-88a5-4ab3-baaf-c5abb08654e1",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/TheatrePerformance"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-02-16T10:00:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g1565160"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-02-21T10:50:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/buffalo/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Where-Have-All-The-Buffalo-Gone_-1800x1000-2-1536x853.png"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g1565200"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g1565220"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "_:g1565240"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/buffalo/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Where Have All The Buffalo Gone?"
-      }
-    ],
-    "http://schema.org/keywords": [
-      {
-        "@language": "en",
-        "@value": "theatre for young audiences, indigenous story"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Where Have All The Buffalo Gone? follows two souls as they journey through seven important moments in Métis history – from the birth of Métis nations on the plains to the colonization driven by the fur trade, the disappearance of the buffalo, and the rise of the Métis Association of Alberta. This moving tale weaves together stories and a life-like buffalo puppet, with true historical events to explore the love, loss, and resilience of Treaty 6’s Métis people."
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "en",
-        "@value": "00:50:00"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.gatewaytheatre.com/events/wildwoman/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "en-ca",
-        "@value": "en_US"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-ca",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-ca",
-        "@value": "Wildwoman"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-ca",
-        "@value": "Join us for Wildwoman at Gateway and step into a twisted historical world as we follow the story of Catherine de Medici and her life at court"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-ca",
-        "@value": "https://www.gatewaytheatre.com/events/wildwoman/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "en-ca",
-        "@value": "Gateway Theatre"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "en-ca",
-        "@value": "https://www.facebook.com/GatewayThtr"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "en-ca",
-        "@value": "2025-12-01T21:09:23+00:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-ca",
-        "@value": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Wildwoman-600x400-2.png"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "en-ca",
-        "@value": "600"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "en-ca",
-        "@value": "400"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "en-ca",
-        "@value": "image/png"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/wildwoman/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://www.gatewaytheatre.com/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/wildwoman/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/wildwoman/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Wildwoman-600x400-2.png"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-06-13T02:04:26+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-12-01T21:09:23+00:00"
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/wildwoman/#breadcrumb"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "_:g1582520"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://www.gatewaytheatre.com/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Wildwoman"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Join us for Wildwoman at Gateway and step into a twisted historical world as we follow the story of Catherine de Medici and her life at court"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-CA"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.gatewaytheatre.com/events/wildwoman/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Wildwoman-600x400-2.png"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Wildwoman-600x400-2.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "600"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "400"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en-CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1582520",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "en",
-        "@value": "https://www.gatewaytheatre.com/events/wildwoman/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1582620",
-    "@type": [
-      "http://schema.org/EntryPoint"
-    ],
-    "http://schema.org/urlTemplate": [
-      {
-        "@language": "en",
-        "@value": "https://www.gatewaytheatre.com/?s={search_term_string}"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1582640",
-    "@type": [
-      "http://schema.org/PropertyValueSpecification"
-    ],
-    "http://schema.org/valueRequired": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
-        "@value": "true"
-      }
-    ],
-    "http://schema.org/valueName": [
-      {
-        "@language": "en",
-        "@value": "search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1584820",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g1584840"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q111731668"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Gateway Theatre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1584840",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Richmond"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "BC"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "V7C 3V4"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "6500 Gilbert Road"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1584860",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q111731772"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Gateway Theatre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1584880",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/tickets/?eid=wildwoman"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "en",
-        "@value": "http://schema.org/InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "en",
-        "@value": "37"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "en",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1584900",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/wildwoman/"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-10-22T00:00:00"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "en",
-        "@value": "en"
-      }
-    ]
-  },
-  {
-    "@id": "https://gatewaytheatre.com/temporary/eb90d40d-b99b-4ffb-b1ae-2a3223f711bb",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/TheatrePerformance"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-03-26T19:30:00"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g1584820"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-04-04T22:00:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/wildwoman/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Wildwoman-1800x1000-1-1536x853.png"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g1584860"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g1584880"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "_:g1584900"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/wildwoman/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Wildwoman"
-      }
-    ],
-    "http://schema.org/keywords": [
-      {
-        "@language": "en",
-        "@value": "regal, royal history, history drama, beauty and the beast"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Catherine de Medici, young newlywed to King Henry II, expects a life of politics—but court is a cruel world where her only role is to bear heirs. Surrounded by rivals, she finds unexpected kinship with a wild, imprisoned man who awakens her feral side. Once unleashed, no one is safe. Based on the true story that inspired Beauty and the Beast, Kat Sandler’s Wildwoman is a sexy, viciously funny thrill ride about what happens when we let the monster out."
       }
     ],
     "http://schema.org/duration": [
@@ -2532,7 +571,7 @@
     "article:modified_time": [
       {
         "@language": "en-ca",
-        "@value": "2025-12-04T00:09:09+00:00"
+        "@value": "2026-01-05T19:14:56+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -2596,17 +635,12 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-12-04T00:09:09+00:00"
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://www.gatewaytheatre.com/events/annie/#breadcrumb"
+        "@value": "2026-01-05T19:14:56+00:00"
       }
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g1603860"
+        "@id": "https://gatewaytheatre.com/genid/2ed94d0e4cf40d93"
       }
     ],
     "https://api.w.org/": [
@@ -2668,7 +702,7 @@
     ]
   },
   {
-    "@id": "_:g1603860",
+    "@id": "https://gatewaytheatre.com/genid/2ed94d0e4cf40d93",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -2680,95 +714,7 @@
     ]
   },
   {
-    "@id": "_:g1603960",
-    "@type": [
-      "http://schema.org/EntryPoint"
-    ],
-    "http://schema.org/urlTemplate": [
-      {
-        "@language": "en",
-        "@value": "https://www.gatewaytheatre.com/?s={search_term_string}"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1603980",
-    "@type": [
-      "http://schema.org/PropertyValueSpecification"
-    ],
-    "http://schema.org/valueRequired": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
-        "@value": "true"
-      }
-    ],
-    "http://schema.org/valueName": [
-      {
-        "@language": "en",
-        "@value": "search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1605540",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g1605560"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q111731668"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Gateway Theatre"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1605560",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "en",
-        "@value": "Richmond"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "en",
-        "@value": "BC"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "en",
-        "@value": "V7C 3V4"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "en",
-        "@value": "6500 Gilbert Road"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "en",
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g1605580",
+    "@id": "https://gatewaytheatre.com/genid/33f319d3c21bb9a2",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2790,7 +736,7 @@
     ]
   },
   {
-    "@id": "_:g1605600",
+    "@id": "https://gatewaytheatre.com/genid/048e3ca7937fe1cd",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2819,7 +765,7 @@
     ]
   },
   {
-    "@id": "_:g1605620",
+    "@id": "https://gatewaytheatre.com/genid/50bb5addd382c7ff",
     "@type": [
       "http://schema.org/WebPage"
     ],
@@ -2842,7 +788,7 @@
     ]
   },
   {
-    "@id": "https://gatewaytheatre.com/temporary/17c748bb-287a-4fb0-97c6-a69b4665e43d",
+    "@id": "https://gatewaytheatre.com/temporary/7ff8237c-a2aa-43db-967a-50a91834d4c6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2859,7 +805,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g1605540"
+        "@id": "https://gatewaytheatre.com/genid/8948b475b9cfb3f2"
       }
     ],
     "http://schema.org/endDate": [
@@ -2880,17 +826,17 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g1605580"
+        "@id": "https://gatewaytheatre.com/genid/33f319d3c21bb9a2"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g1605600"
+        "@id": "https://gatewaytheatre.com/genid/048e3ca7937fe1cd"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
       {
-        "@id": "_:g1605620"
+        "@id": "https://gatewaytheatre.com/genid/50bb5addd382c7ff"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2920,6 +866,4209 @@
       {
         "@language": "en",
         "@value": "03:00:00"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/buffalo/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Where Have All The Buffalo Gone?"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Come along for a Metis love story that transcends through time. Gateway presents Where Have All The Buffalo Gone? for young audiences."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/events/buffalo/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Gateway Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/GatewayThtr"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-02-23T20:32:51+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Where-Have-All-The-Buffalo-Gone_-600x400-2.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "600"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/buffalo/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/buffalo/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/buffalo/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Where-Have-All-The-Buffalo-Gone_-600x400-2.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-13T01:55:25+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-23T20:32:51+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/5ad27353312e49f2"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Where Have All The Buffalo Gone?"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Come along for a Metis love story that transcends through time. Gateway presents Where Have All The Buffalo Gone? for young audiences."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/buffalo/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Where-Have-All-The-Buffalo-Gone_-600x400-2.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Where-Have-All-The-Buffalo-Gone_-600x400-2.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "600"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "400"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/5ad27353312e49f2",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.gatewaytheatre.com/events/buffalo/"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/1488770192b2b824",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/tickets/?eid=buffalo"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ":00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "13.5"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/7318f6c51875a5bf",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/buffalo/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-22T00:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/temporary/936f1812-0faf-4119-9733-69b40a6ae310",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/TheatrePerformance"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-16T10:00:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/8948b475b9cfb3f2"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-21T10:50:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/buffalo/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Where-Have-All-The-Buffalo-Gone_-1800x1000-2-1536x853.png"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/33f319d3c21bb9a2"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/1488770192b2b824"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/7318f6c51875a5bf"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/buffalo/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Where Have All The Buffalo Gone?"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "theatre for young audiences, indigenous story"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Where Have All The Buffalo Gone? follows two souls as they journey through seven important moments in Métis history – from the birth of Métis nations on the plains to the colonization driven by the fur trade, the disappearance of the buffalo, and the rise of the Métis Association of Alberta. This moving tale weaves together stories and a life-like buffalo puppet, with true historical events to explore the love, loss, and resilience of Treaty 6’s Métis people."
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "00:50:00"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/silk-road/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Silk Road Music: Lunar New Year Celebration"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Celebrate Lunar New Year and come on a musical journey with the award-winning Silk Road Music, a blend of Chinese music with Western styles."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/events/silk-road/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Gateway Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/GatewayThtr"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-03-02T19:20:08+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Silk-Road-Music-600x400-3.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "600"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/silk-road/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/silk-road/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/silk-road/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Silk-Road-Music-600x400-3.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-13T02:20:49+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-02T19:20:08+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/883fad16ec981239"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Silk Road Music: Lunar New Year Celebration"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Celebrate Lunar New Year and come on a musical journey with the award-winning Silk Road Music, a blend of Chinese music with Western styles."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/silk-road/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Silk-Road-Music-600x400-3.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Silk-Road-Music-600x400-3.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "600"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "400"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/883fad16ec981239",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.gatewaytheatre.com/events/silk-road/"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/f3da7e22dc436577",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/tickets/?eid=silk-road"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ":00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "25"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/060330f05a0e9f9c",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/silk-road/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-22T00:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/temporary/54b22980-7590-4bc8-b647-aca837274e05",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/MusicPerformance"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-28T14:00:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/8948b475b9cfb3f2"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-28T15:10:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/silk-road/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Silk-Road-Music-1800x1000-2-1536x853.png"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/33f319d3c21bb9a2"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/f3da7e22dc436577"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/060330f05a0e9f9c"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/silk-road/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Silk Road Music: Lunar New Year Celebration"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "chinese folk music, classical music, fusion music "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Celebrate Lunar New Year with the award-winning Silk Road Music! Join us for a celebratory concert, blending the rich traditions of Asian and non-Asian music. For over two decades, Silk Road Music’s pioneering musical fusions have blended Chinese folk and classical music with jazz, blues, Brazilian, Celtic, Spanish, Arabic and Aboriginal music to create a unique sound. Don’t miss this unforgettable performance that promises to enchant, showcasing the harmonious fusion of East and West."
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "01:10:00"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/wildwoman/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Wildwoman"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Join us for Wildwoman at Gateway and step into a twisted historical world as we follow the story of Catherine de Medici and her life at court"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/events/wildwoman/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Gateway Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/GatewayThtr"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-04-06T16:23:09+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Wildwoman-600x400-3.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "600"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/wildwoman/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/wildwoman/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/wildwoman/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Wildwoman-600x400-3.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-13T02:04:26+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-06T16:23:09+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/517194ba7adaa0f7"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Wildwoman"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Join us for Wildwoman at Gateway and step into a twisted historical world as we follow the story of Catherine de Medici and her life at court"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/wildwoman/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Wildwoman-600x400-3.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Wildwoman-600x400-3.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "600"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "400"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/517194ba7adaa0f7",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.gatewaytheatre.com/events/wildwoman/"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/abc52dd25bfc50ec",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/tickets/?eid=wildwoman"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "37"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/ba043328a00c844d",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/wildwoman/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-22T00:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/temporary/3d589cee-7cc7-4cc1-a215-e3f22090dfb6",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/TheatrePerformance"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-26T19:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/8948b475b9cfb3f2"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-04T22:00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/wildwoman/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/Wildwoman-1800x1000-1-1536x853.png"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/33f319d3c21bb9a2"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/abc52dd25bfc50ec"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/ba043328a00c844d"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/wildwoman/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Wildwoman"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "regal, royal history, history drama, beauty and the beast"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Catherine de Medici, young newlywed to King Henry II, expects a life of politics—but court is a cruel world where her only role is to bear heirs. Surrounded by rivals, she finds unexpected kinship with a wild, imprisoned man who awakens her feral side. Once unleashed, no one is safe. Based on the true story that inspired Beauty and the Beast, Kat Sandler’s Wildwoman is a sexy, viciously funny thrill ride about what happens when we let the monster out."
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "02:30:00"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/the-flame/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "The Flame: Storytelling Showcase"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Join us at Gateway Theatre for a performance of Vancouver's popular storytelling series, The Flame, featuring stories after a 2-day workshop."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/events/the-flame/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Gateway Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/GatewayThtr"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-04-13T17:26:43+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/The-Flame-600x400-2.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "600"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/the-flame/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/the-flame/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/the-flame/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/The-Flame-600x400-2.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-13T02:24:32+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-13T17:26:43+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/7f7b5296be232ee3"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Flame: Storytelling Showcase"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Join us at Gateway Theatre for a performance of Vancouver's popular storytelling series, The Flame, featuring stories after a 2-day workshop."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/the-flame/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/The-Flame-600x400-2.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/The-Flame-600x400-2.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "600"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "400"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/7f7b5296be232ee3",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.gatewaytheatre.com/events/the-flame/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/she-shoots/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "She Shoots, She Scores! - Gateway Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "She Shoots, She Scores! tells the story of a determined girl who challenges expectations by pursuing her love of hockey."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/events/she-shoots/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Gateway Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/GatewayThtr"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-06-02T19:19:43+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/GT-Shows-Thumbs_She-Shoots.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "600"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/she-shoots/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/she-shoots/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/she-shoots/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/GT-Shows-Thumbs_She-Shoots.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-09T18:59:15+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-02T19:19:43+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/51a731db0cd59448"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "She Shoots, She Scores! - Gateway Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "She Shoots, She Scores! tells the story of a determined girl who challenges expectations by pursuing her love of hockey."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/she-shoots/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/GT-Shows-Thumbs_She-Shoots.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/GT-Shows-Thumbs_She-Shoots.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "600"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "400"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/51a731db0cd59448",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.gatewaytheatre.com/events/she-shoots/"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/ff94dd3bc69767cd",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/tickets/?eid=she-shoots"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "13.50"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/1808076eb3eb0a62",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/she-shoots/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-09T00:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/temporary/6206254d-5724-4989-89aa-833af33b2110",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/TheatrePerformance"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-02-15T10:00:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/8948b475b9cfb3f2"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-02-20T01:00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/she-shoots"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/She-Shoots-She-Scores-1800x1000-2.png"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/1270ba1445e0f761"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/ff94dd3bc69767cd"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/1808076eb3eb0a62"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/she-shoots/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "She Shoots, She Scores!"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "hockey, kids, book, women, girls, family, all ages"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "She Shoots, She Scores! tells the story of a determined girl who challenges expectations by pursuing her love of hockey. The play is inspired by a book by hockey legend Cammi Granato, and looks at teamwork, confidence, perseverance, and personal accountability. Featuring actors playing multiple roles, the production is physical, fast-paced, and inventive. She Shoots, She Scores! is an inspiring and joyful experience - not just for hockey fans, but for any young person finding the courage to try something new."
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "00:55:00"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/lunar-new-year/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Silk Road Music: Lunar New Year Celebration - Gateway Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Lunar New Year Celebration is a vibrant and celebratory event to welcome the new year with community, culture and shared moments of joy."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/events/lunar-new-year/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Gateway Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/GatewayThtr"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-06-24T16:41:55+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/Lunar-New-Year_Website-600x400-1.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "2500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1667"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/lunar-new-year/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/lunar-new-year/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/lunar-new-year/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/Lunar-New-Year_Website-600x400-1.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-10T18:44:14+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-24T16:41:55+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/999c47d671c38915"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Silk Road Music: Lunar New Year Celebration - Gateway Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Lunar New Year Celebration is a vibrant and celebratory event to welcome the new year with community, culture and shared moments of joy."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/lunar-new-year/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/Lunar-New-Year_Website-600x400-1.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/Lunar-New-Year_Website-600x400-1.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2500"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1667"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/999c47d671c38915",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.gatewaytheatre.com/events/lunar-new-year/"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/cbb474725f3ab4b6",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/tickets/?eid=lunar-new-year"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/ae743363ca19ad54",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/lunar-new-year/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-10T00:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/temporary/51878f9b-6cf3-4266-b477-94dd9465a285",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/TheatrePerformance"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-02-06T14:00:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/8948b475b9cfb3f2"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-02-06T16:00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/lunar-new-year"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/LNY-1800x1000-1.png"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/1270ba1445e0f761"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/cbb474725f3ab4b6"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/ae743363ca19ad54"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/lunar-new-year/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Lunar New Year Celebration"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "family, friendly, celebration, joy, festive, lunar new year"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Celebrate the Lunar New Year at Gateway Theatre as we welcome a new year with community, culture, and shared moments of joy. This special event will gather and mark the occasion together in a festive atmosphere inspired by the traditions of the season. More details to come!"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "02:00:00"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/new-world/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Songs for a New World - Gateway Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "An uplifting and moving song cycle about humanity. Songs for a New World is an intimate show of the first musical by Jason Robert Brown."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/events/new-world/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Gateway Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/GatewayThtr"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-07-14T16:31:36+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/GT-Shows-Thumbs_Songs.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "600"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/new-world/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/new-world/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/new-world/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/GT-Shows-Thumbs_Songs.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-09T18:06:33+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-14T16:31:36+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/2edf87b371d77480"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Songs for a New World - Gateway Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "An uplifting and moving song cycle about humanity. Songs for a New World is an intimate show of the first musical by Jason Robert Brown."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/new-world/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/GT-Shows-Thumbs_Songs.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/GT-Shows-Thumbs_Songs.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "600"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "400"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/2edf87b371d77480",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.gatewaytheatre.com/events/new-world/"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/d435dc60c00dc546",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/tickets/?eid=new-world"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "40"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/8b40690cdc25b4b8",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/new-world/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-09T00:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/temporary/7e2cadb4-97f6-4b6b-8ad1-88b6aed8d5fc",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/TheatrePerformance"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-13T19:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/8948b475b9cfb3f2"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-14T19:30:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/new-world"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/Songs-for-a-New-World-1800x1000-1.png"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/1270ba1445e0f761"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/d435dc60c00dc546"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/8b40690cdc25b4b8"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/new-world/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Songs for a New World"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "singing, concert, world, music, intimate"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Step into one of Richmond's most beloved heritage sites, the Minoru Chapel, and be transported into the exhilarating world of Songs for a New World, an intimate song cycle of the first musical by Tony Award winner Jason Robert Brown. This unique theatrical show weaves together a series of characters, each standing on the precipice of change, navigating the unknown with courage, fear and determination."
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "01:30:00"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/42nd-street/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "42nd Street - Gateway Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "A Tony Award-Winning, tap dancing musical spectacular! Watch Peggy Sawyer's journey to stardom in the glamorous hit musical, 42nd Street!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/events/42nd-street/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Gateway Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/GatewayThtr"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-07-16T15:50:37+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/GT-Shows-Thumbs_42-Street_v2.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "2284"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1523"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/42nd-street/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/42nd-street/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/42nd-street/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/GT-Shows-Thumbs_42-Street_v2.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-09T18:37:12+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-16T15:50:37+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/3d1c3b4b1301b78d"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "42nd Street - Gateway Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "A Tony Award-Winning, tap dancing musical spectacular! Watch Peggy Sawyer's journey to stardom in the glamorous hit musical, 42nd Street!"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/42nd-street/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/GT-Shows-Thumbs_42-Street_v2.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/GT-Shows-Thumbs_42-Street_v2.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2284"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1523"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/3d1c3b4b1301b78d",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.gatewaytheatre.com/events/42nd-street/"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/d400dc6fa1f0186e",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/tickets/?eid=42nd-street"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "45"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/95d549ee439e1db6",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/42nd-street/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-07T00:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/temporary/c201a09e-8d63-421c-800f-79e6ff7df4df",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/TheatrePerformance"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-10T19:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/8948b475b9cfb3f2"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-01-02T19:30:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/42nd-street"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/42nd-Street-1800x1000-2.png"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/1270ba1445e0f761"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/d400dc6fa1f0186e"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/95d549ee439e1db6"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/42nd-street/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "42nd Street"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "singing, dancing, tap, music, musical, family, all ages"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "A Tony Award-Winning, tap dancing musical spectacular. Peggy Sawyer is a small-town girl with big Broadway dreams. When she arrives in New York City, she lands her first role in a glitzy new musical on Broadway. When the show's leading lady breaks her ankle just before opening night, Peggy gets her chance in the spotlight and just watch her shine. With high-energy choreography, sensational tap numbers, and a dazzling story full of optimism and ambition, 42nd Street celebrates Broadway, Times Square and old-school showbiz charm with wit, humour and glamour."
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "02:30:00"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/the-flame-storytelling-showcase/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "The Flame: Storytelling Showcase"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Join us at Gateway Theatre for a performance of Vancouver's popular storytelling series, The Flame, featuring stories after a 2-day workshop."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/events/the-flame-storytelling-showcase/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Gateway Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/GatewayThtr"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-07-22T19:24:13+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/wp-content/uploads/2026/07/The-Flame_The-Flame-Showcase-600x400-1.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "2500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "1667"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/the-flame-storytelling-showcase/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/the-flame-storytelling-showcase/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/the-flame-storytelling-showcase/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/07/The-Flame_The-Flame-Showcase-600x400-1.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-21T20:52:21+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-22T19:24:13+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/46f4bdc55d8de948"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Flame: Storytelling Showcase"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Join us at Gateway Theatre for a performance of Vancouver's popular storytelling series, The Flame, featuring stories after a 2-day workshop."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/the-flame-storytelling-showcase/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/07/The-Flame_The-Flame-Showcase-600x400-1.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/07/The-Flame_The-Flame-Showcase-600x400-1.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2500"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1667"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/46f4bdc55d8de948",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.gatewaytheatre.com/events/the-flame-storytelling-showcase/"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/f895093e76866f8c",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/tickets/?eid=the-flame"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ":00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/e69fc920322ff618",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/the-flame/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-22T00:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/temporary/c2d8b685-a3b5-4274-9943-ca6757dfea40",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/StorytellingPerformance"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-12T19:00:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/8948b475b9cfb3f2"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-12T21:00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/the-flame/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2025/06/The-Flame-1800x1000-2-1536x853.png"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/33f319d3c21bb9a2"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/f895093e76866f8c"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/e69fc920322ff618"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/the-flame-storytelling-showcase/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Flame: Storytelling Showcase"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "the flame, storytelling, true stories"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Hosted by Deborah Williams, Award-winning actor and one of the creators of Mom’s the Word, Deborah Williams is bringing the hit storytelling event, The Flame, back to Gateway Theatre. The Flame is a storytelling series that features real people, sharing their personal true stories in front of a live audience. Since its inception in 2009, The Flame has flourished and grown into a wildly popular event that has packed venues in Vancouver and Victoria."
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "02:00:00"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/true-voices-2/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "True Voices: Pride Storytelling & Tea - Gateway Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "True Voices: Pride Storytelling Event is a celebration of Richmond Pride week. This storytelling event is intimate, heartfelt and powerful."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/events/true-voices-2/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Gateway Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/GatewayThtr"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-07-31T18:35:16+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/True-Voices_Website-600x400-1.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "600"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/true-voices-2/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/true-voices-2/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/true-voices-2/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/True-Voices_Website-600x400-1.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-10T17:47:35+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-31T18:35:16+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/97d46238e450cc3d"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "True Voices: Pride Storytelling &amp; Tea - Gateway Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "True Voices: Pride Storytelling Event is a celebration of Richmond Pride week. This storytelling event is intimate, heartfelt and powerful."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/true-voices-2/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/True-Voices_Website-600x400-1.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/True-Voices_Website-600x400-1.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "600"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "400"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/97d46238e450cc3d",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.gatewaytheatre.com/events/true-voices-2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/5c764c98f868ba17",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/tickets/?eid=true-voices"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/7efb6707fba67fd5",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/true-voices/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-10T00:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/temporary/97671b89-8219-4612-81b9-349b15a68d10",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/TheatrePerformance"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-30T19:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/8948b475b9cfb3f2"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-30T21:30:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/true-voices"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/True-Voices-1800x1000-1.png"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/1270ba1445e0f761"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/5c764c98f868ba17"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/7efb6707fba67fd5"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/true-voices-2/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "True Voices"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "storytelling, pride, celebration, stories, connection, intimate"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "In celebration of Richmond Pride week, Gateway Theatre presents True Voices, a free community event of live storytelling from members of the LGBTQ2S+ community. Gather together as storytellers share personal experiences filled with humour, honesty, and resilience, followed by a Q&A over tea."
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "02:00:00"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/secret-ingredients/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Secret Ingredients - Gateway Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Have your cake and eat it too! Secret Ingredients is an intimate and playful show where audiences explore the nuances and joys of being human."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/events/secret-ingredients/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Gateway Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/GatewayThtr"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-08-04T18:47:42+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/GT-Shows-Thumbs_Secert-Ingredients.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "600"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/secret-ingredients/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/secret-ingredients/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/secret-ingredients/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/GT-Shows-Thumbs_Secert-Ingredients.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-09T18:02:21+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-04T18:47:42+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/5f4d0836ef340a5a"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Secret Ingredients - Gateway Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Have your cake and eat it too! Secret Ingredients is an intimate and playful show where audiences explore the nuances and joys of being human."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/secret-ingredients/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/GT-Shows-Thumbs_Secert-Ingredients.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/GT-Shows-Thumbs_Secert-Ingredients.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "600"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "400"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/5f4d0836ef340a5a",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.gatewaytheatre.com/events/secret-ingredients/"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/9ca0274315fede19",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/tickets/?eid=secret-ingredients"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/f55bd5ba4ed7559a",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/secret-ingredients/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-09T00:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/temporary/b761c2c9-f41e-4e23-b72f-e6dee0926f30",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/TheatrePerformance"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-14T19:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/8948b475b9cfb3f2"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-17T01:30:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/secret-ingredients"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/Secret-Ingredients-1800x1000-2.png"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/1270ba1445e0f761"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/9ca0274315fede19"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/f55bd5ba4ed7559a"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/secret-ingredients/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Secret Ingredients"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "cake, ingredients, deliver, messages, comedy, intimate"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "A playful and experimental theatre performance that uses cake to explore the quirks, nuances, joy and heartache of human relationships. Like overhearing tantalizing gossip at a small cafe, this intimate show satisfies an itch to peek into relatable details of other people's lives while also inviting reflection on our own unspoken feelings."
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "01:10:00"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/woking-phoenix/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Woking Phoenix - Gateway Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "An exploration of two decades of a family's survival. Woking Phoenix is an intergenerational Chinese love story about creating community."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/events/woking-phoenix/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Gateway Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/GatewayThtr"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-08-05T22:34:58+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/GT-Shows-Thumbs_Woking-Phoenix.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "600"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/woking-phoenix/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/woking-phoenix/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/woking-phoenix/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/GT-Shows-Thumbs_Woking-Phoenix.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-09T18:45:55+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-05T22:34:58+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/e00033e174424e74"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Woking Phoenix - Gateway Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "An exploration of two decades of a family's survival. Woking Phoenix is an intergenerational Chinese love story about creating community."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/woking-phoenix/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/GT-Shows-Thumbs_Woking-Phoenix.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/GT-Shows-Thumbs_Woking-Phoenix.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "600"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "400"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/e00033e174424e74",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.gatewaytheatre.com/events/woking-phoenix/"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/e4285aafefcdd5a0",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/tickets/?eid=woking-phoenix"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "42"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/56cb595be2a89cfd",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/woking-phoenix/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-09T00:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/temporary/238c9898-8edc-4c1f-963b-382b522d694b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/TheatrePerformance"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-03-11T19:30:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/8948b475b9cfb3f2"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-03-20T19:30:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/woking-phoenix"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/Woking-Phoenix-1800x1000-3.png"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/1270ba1445e0f761"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/e4285aafefcdd5a0"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/56cb595be2a89cfd"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/woking-phoenix/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Woking Phoenix"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "intergenerational, chinese, food, restaurant, canadian, family, all ages"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "An epic exploration of two decades of a family's survival. Woking Phoenix tells the story of a single mother, raising three children while running a restaurant and seeking belonging within small-town Ontario. An intergenerational Chinese love story about creating community and the food that reminds us of home."
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "02:00:00"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/mid-autumn/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-ca",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-ca",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-ca",
+        "@value": "Mid-Autumn Melodies - Gateway Theatre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-ca",
+        "@value": "Mid-Autumn Festival Celebration is a festive event celebrating togetherness and family. This event is a concert and craft celebration."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/events/mid-autumn/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-ca",
+        "@value": "Gateway Theatre"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.facebook.com/GatewayThtr"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-ca",
+        "@value": "2026-08-06T23:09:41+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-ca",
+        "@value": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/Mid-Autumn-Melodies_Website-600x400-1.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-ca",
+        "@value": "600"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-ca",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-ca",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/mid-autumn/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.gatewaytheatre.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/mid-autumn/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/mid-autumn/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/Mid-Autumn-Melodies_Website-600x400-1.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-10T18:33:49+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-06T23:09:41+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/2ea9fd492a71ba72"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Mid-Autumn Melodies - Gateway Theatre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Mid-Autumn Festival Celebration is a festive event celebrating togetherness and family. This event is a concert and craft celebration."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.gatewaytheatre.com/events/mid-autumn/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/Mid-Autumn-Melodies_Website-600x400-1.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/Mid-Autumn-Melodies_Website-600x400-1.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "600"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "400"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/2ea9fd492a71ba72",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://www.gatewaytheatre.com/events/mid-autumn/"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/188816a3a31138bb",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/tickets/?eid=mid-autumn"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "en",
+        "@value": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/genid/5757ccdc05b0cc4c",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/mid-autumn/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-10T00:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en"
+      }
+    ]
+  },
+  {
+    "@id": "https://gatewaytheatre.com/temporary/c5611c3d-deae-4954-b5c4-4794cddbc945",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/TheatrePerformance"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-20T14:00:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/8948b475b9cfb3f2"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-20T16:00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/mid-autumn"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.gatewaytheatre.com/wp-content/uploads/2026/04/Mid-Autumn-1800x1000-1.png"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/1270ba1445e0f761"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/188816a3a31138bb"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://gatewaytheatre.com/genid/5757ccdc05b0cc4c"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.gatewaytheatre.com/events/mid-autumn/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Mid-Autumn Festival Celebration"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "family, friendly, celebration, concert, craft, gathering"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Celebrate the full moon at Gateway Theatre’s annual Mid-Autumn celebration. This family-friendly afternoon begins with a delightful concert in the historic Minoru Chapel featuring beloved local performers. Afterwards, continue the festivities with arts and crafts activities for all ages. Rooted in tradition and shared joy, this special gathering invites families and friends to come together and celebrate a holiday honoured across generations."
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "en",
+        "@value": "02:00:00"
       }
     ],
     "http://schema.org/eventStatus": [
