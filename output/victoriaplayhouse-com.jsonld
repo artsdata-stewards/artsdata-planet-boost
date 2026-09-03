@@ -1,0 +1,5492 @@
+[
+  {
+    "@id": "http://victoriaplayhouse.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://victoriaplayhouse.com/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://victoriaplayhouse.com/#organization"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Victoria Playhouse"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Prince Edward Island"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "http://victoriaplayhouse.com/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://victoriaplayhouse.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "http://victoriaplayhouse.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "http://victoriaplayhouse.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/profile.php?id=100057776524908"
+      },
+      {
+        "@id": "https://www.instagram.com/vicplayhouse/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Victoria Playhouse"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/08/The-Conversation-Poster-resized.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/08/The-Conversation-Poster-resized.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "450"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "http://victoriaplayhouse.com/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/cropped-transparent-logo-for-website.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/cropped-transparent-logo-for-website.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "240"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "59"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Victoria Playhouse"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/85533bf75fc2e833",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/61961df6f8b27563",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/5432d6dc03dc8dee",
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/catherine-rachel-lucy/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-07T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/catherine-rachel-lucy/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/catherine-rachel-lucy/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://victoriaplayhouse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/catherine-rachel-lucy/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/catherine-rachel-lucy/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Lucy-Cat-Rachael.jpeg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-31T21:50:32+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-19T18:46:18+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/db9295fc889e23f2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Catherine MacLellan, Rachel Kilgour & Lucy Farrell - Victoria Playhouse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Catherine MacLellan, Rachel Kilgour & Lucy Farrell - Victoria Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Catherine MacLellan is bringing together two of her favourite songwriters, Rachael Kilgour and Lucy Farrell,  for an evening of songs, stories, open hearts and laughter.   Catherine MacLellan is a JUNO award winner, ECMA songwriter of the year, and has released 7 albums over the past 20 years while touring around the world. She makes her …"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/events/catherine-rachel-lucy/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Victoria Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/profile.php?id=100057776524908"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-07-19T18:46:18+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Lucy-Cat-Rachael.jpeg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/1deff5e53b348d7c",
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-ross-family-ceilidh-20th-anniversary/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "40"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-08T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/the-ross-family-ceilidh-20th-anniversary/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "The Ross Family Ceilidh - 20th Anniversary! - Victoria Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "When quirky, personable siblings Stephanie, Johnny, and Danielle come together as a band, they are no longer just a family, no longer just Rosses. They are: the Ross Family. Big vocals, heartfelt nerdy stories, stylish fiddle sets, wicked piano, and fine step-dancing: the fruit of several generations of Ross and Arsenault values, talents, languages, and hardship."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/events/the-ross-family-ceilidh-20th-anniversary/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Victoria Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/profile.php?id=100057776524908"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-07-30T17:11:05+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/wp-content/uploads/2025/04/The-Ross-Family_Heather-Ogg-78EE-scaled.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "2560"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1709"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-ross-family-ceilidh-20th-anniversary/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://victoriaplayhouse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-ross-family-ceilidh-20th-anniversary/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-ross-family-ceilidh-20th-anniversary/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2025/04/The-Ross-Family_Heather-Ogg-78EE-scaled.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-20T16:06:42+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-30T17:11:05+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/6587b68782e338db"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Ross Family Ceilidh - 20th Anniversary! - Victoria Playhouse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/8a7e1dc82d318926",
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-conversation/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "30"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-12T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/the-conversation/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-conversation/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://victoriaplayhouse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-conversation/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-conversation/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/08/The-Conversation-Poster-resized.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-14T17:20:21+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-27T22:56:04+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/a2fdbd56d8435e67"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Conversation - Victoria Playhouse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "The Conversation - Victoria Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Has your mother ever driven you to distraction? Is she stubborn and not willing to change her ways though her health is failing? In The Conversation, a daughter navigates her strained relationship with her mother as they move towards their final chapter together. But no one can push your buttons like your mother and the result is as hilarious as it can be heartbreaking. Both women desire more from their relationship, but can they get past their longstanding patterns with each other and find a new way?"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/events/the-conversation/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Victoria Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/profile.php?id=100057776524908"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-08-27T22:56:04+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/wp-content/uploads/2026/08/The-Conversation-Poster-resized.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "800"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "450"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/png"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/9fd3d0ffc1869311",
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-conversation/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "30"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-13T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/7136a6c1685ce06a",
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-ross-family-ceilidh-20th-anniversary/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "40"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-15T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/cee0007c4cb8a1a9",
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-ross-family-ceilidh-20th-anniversary/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "40"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-19T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/3e334061d343afbb",
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/press-play-3-new-horizons/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "75"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-25T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/press-play-3-new-horizons/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/press-play-3-new-horizons/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://victoriaplayhouse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/press-play-3-new-horizons/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/press-play-3-new-horizons/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/07/Shane-Pendergast.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-19T19:17:29+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-01T20:33:44+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/82ba504f99b0106f"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Press Play 3 - New Horizons - Victoria Playhouse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Press Play 3 - New Horizons - Victoria Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Join us on Friday, September 25, 2026 for some sparkling Island entertainment including special guest Shane Pendergast and other well-loved Island and community performers such as the music ensemble Woodsmoke, singer-songwriter Megan Ellands, step dancer Emily Hughes accompanied by Morgan Wagner and more!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/events/press-play-3-new-horizons/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Victoria Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/profile.php?id=100057776524908"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-09-01T20:33:44+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/wp-content/uploads/2026/07/Shane-Pendergast.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "357"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "512"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/e763f17b8055fd71",
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/comedy-with-james-mullinger/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-03T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/comedy-with-james-mullinger/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/comedy-with-james-mullinger/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://victoriaplayhouse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/comedy-with-james-mullinger/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/comedy-with-james-mullinger/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/06/james-mullinger.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-19T19:01:58+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-01T22:06:30+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/590048aea36ea37a"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Comedy with James Mullinger - Victoria Playhouse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ],
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Comedy with James Mullinger - Victoria Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "THE BRITISH COMEDIAN TURNED CANADIAN, LIVE ON STAGE IN VICTORIA, PEI FOR THE VERY FIRST TIME! This is it! James Mullinger’s first ever live stand-up comedy show at the beautiful Victoria Playhouse. Come and see Atlantic Canada’s biggest cheerleader doing what he does best! Live stand-up comedy at the Playhouse. 90 mins of stand-up comedy …"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/events/comedy-with-james-mullinger/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Victoria Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/profile.php?id=100057776524908"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-09-01T22:06:30+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/wp-content/uploads/2026/06/james-mullinger.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1280"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "960"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/catherine-rachel-lucy/?occurrence=2026-09-07",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Catherine MacLellan, Rachel Kilgour & Lucy Farrell - Victoria Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Catherine MacLellan is bringing together two of her favourite songwriters, Rachael Kilgour and Lucy Farrell,  for an evening of songs, stories, open hearts and laughter.   Catherine MacLellan is a JUNO award winner, ECMA songwriter of the year, and has released 7 albums over the past 20 years while touring around the world. She makes her …"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/events/catherine-rachel-lucy/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Victoria Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/profile.php?id=100057776524908"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-07-19T18:46:18+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Lucy-Cat-Rachael.jpeg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/catherine-rachel-lucy/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Lucy-Cat-Rachael.jpeg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Lucy-Cat-Rachael.jpeg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/db9295fc889e23f2",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://victoriaplayhouse.com/events/catherine-rachel-lucy/"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/943abac37dc2f89a",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/catherine-rachel-lucy/?occurrence=2026-09-07"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/a85d2866ffcf9472",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/catherine-rachel-lucy/?occurrence=2026-09-07"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/the-conversation/?occurrence=2026-09-12&time=1789241400",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "The Conversation - Victoria Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Has your mother ever driven you to distraction? Is she stubborn and not willing to change her ways though her health is failing? In The Conversation, a daughter navigates her strained relationship with her mother as they move towards their final chapter together. But no one can push your buttons like your mother and the result is as hilarious as it can be heartbreaking. Both women desire more from their relationship, but can they get past their longstanding patterns with each other and find a new way?"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/events/the-conversation/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Victoria Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/profile.php?id=100057776524908"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-08-27T22:56:04+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/wp-content/uploads/2026/08/The-Conversation-Poster-resized.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "800"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "450"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/png"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/the-conversation/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/08/The-Conversation-Poster-resized.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/08/The-Conversation-Poster-resized.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "450"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/a2fdbd56d8435e67",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://victoriaplayhouse.com/events/the-conversation/"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/4ef64435c822684d",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-conversation/?occurrence=2026-09-12&time=1789241400"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/c0ec166aa92990f3",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-conversation/?occurrence=2026-09-12&time=1789241400"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/the-conversation/?occurrence=2026-09-13&time=1789308000",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "The Conversation - Victoria Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Has your mother ever driven you to distraction? Is she stubborn and not willing to change her ways though her health is failing? In The Conversation, a daughter navigates her strained relationship with her mother as they move towards their final chapter together. But no one can push your buttons like your mother and the result is as hilarious as it can be heartbreaking. Both women desire more from their relationship, but can they get past their longstanding patterns with each other and find a new way?"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/events/the-conversation/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Victoria Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/profile.php?id=100057776524908"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-08-27T22:56:04+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/wp-content/uploads/2026/08/The-Conversation-Poster-resized.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "800"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "450"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/png"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/a095fa3de3610cdc",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-conversation/?occurrence=2026-09-13&time=1789308000"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/265a37583af690de",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-conversation/?occurrence=2026-09-13&time=1789308000"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/press-play-3-new-horizons/?occurrence=2026-09-25",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Press Play 3 - New Horizons - Victoria Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Join us on Friday, September 25, 2026 for some sparkling Island entertainment including special guest Shane Pendergast and other well-loved Island and community performers such as the music ensemble Woodsmoke, singer-songwriter Megan Ellands, step dancer Emily Hughes accompanied by Morgan Wagner and more!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/events/press-play-3-new-horizons/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Victoria Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/profile.php?id=100057776524908"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-09-01T20:33:44+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/wp-content/uploads/2026/07/Shane-Pendergast.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "357"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "512"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/press-play-3-new-horizons/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/07/Shane-Pendergast.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/07/Shane-Pendergast.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "357"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "512"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Shane Pendergast"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/82ba504f99b0106f",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://victoriaplayhouse.com/events/press-play-3-new-horizons/"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/9695fa07c1997a41",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/press-play-3-new-horizons/?occurrence=2026-09-25"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/e370d1963474c6ac",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/press-play-3-new-horizons/?occurrence=2026-09-25"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/comedy-with-james-mullinger/?occurrence=2026-10-03",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Comedy with James Mullinger - Victoria Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "THE BRITISH COMEDIAN TURNED CANADIAN, LIVE ON STAGE IN VICTORIA, PEI FOR THE VERY FIRST TIME! This is it! James Mullinger’s first ever live stand-up comedy show at the beautiful Victoria Playhouse. Come and see Atlantic Canada’s biggest cheerleader doing what he does best! Live stand-up comedy at the Playhouse. 90 mins of stand-up comedy …"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/events/comedy-with-james-mullinger/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Victoria Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/profile.php?id=100057776524908"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-09-01T22:06:30+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/wp-content/uploads/2026/06/james-mullinger.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1280"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "960"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/comedy-with-james-mullinger/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/06/james-mullinger.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/06/james-mullinger.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1280"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "960"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/590048aea36ea37a",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://victoriaplayhouse.com/events/comedy-with-james-mullinger/"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/009a9b5d631c99ed",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/comedy-with-james-mullinger/?occurrence=2026-10-03"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/04820e0ebf4af4cd",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/comedy-with-james-mullinger/?occurrence=2026-10-03"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Victoria Playhouse - Music and Theatre by the Sea!"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "An unforgettable theatre experience. A charming, professional theatre housed in a 100 year-old hall, rooted in a unique seaside community."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Victoria Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/profile.php?id=100057776524908"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-05-26T16:46:20+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/wp-content/uploads/2026/04/2025-Cover-Photo.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1600"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1012"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://victoriaplayhouse.com/#website"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "http://victoriaplayhouse.com/#organization"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://victoriaplayhouse.com/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/04/2025-Cover-Photo.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-06-15T05:37:15+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-26T16:46:20+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/f9d51914a3a8e2b0"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Victoria Playhouse - Music and Theatre by the Sea!"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "An unforgettable theatre experience. A charming, professional theatre housed in a 100 year-old hall, rooted in a unique seaside community."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/04/2025-Cover-Photo.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/04/2025-Cover-Photo.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1600"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1012"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "en",
+        "@value": "Charming Theatre on Prince Edward Island."
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/f9d51914a3a8e2b0",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://victoriaplayhouse.com/"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/15585a9edda6b015",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/48f2893732f5fd40",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/shows/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "All Shows 2026 - Victoria Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/shows/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Victoria Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/profile.php?id=100057776524908"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-07-29T18:42:50+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/shows/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://victoriaplayhouse.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-04-13T16:46:35+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-29T18:42:50+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/d5322bb0dcc83cf1"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "All Shows 2026 - Victoria Playhouse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/d5322bb0dcc83cf1",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://victoriaplayhouse.com/shows/"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/2a21fba314d700f9",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/shows/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/89d5547d1863895d",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/shows/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/mass-for-shut-outs/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Mass for Shut-Outs by Tanya Davis - Victoria Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Mass for Shut-Outs is a shout out to anyone grappling with the complexity of faith, the inconsistency of awe, and the politics of organized religion. Loosely referencing the framework of a Catholic mass, it is a poetic take on Sunday service, exploring enduring questions through a joyful, critical, and comedic lens"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/events/mass-for-shut-outs/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Victoria Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/profile.php?id=100057776524908"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-05-21T16:22:14+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/MASS-400-x-250-px.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "250"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/mass-for-shut-outs/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://victoriaplayhouse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/mass-for-shut-outs/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/mass-for-shut-outs/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/MASS-400-x-250-px.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-13T13:49:52+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-21T16:22:14+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/9ab8b212c76ca86d"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Mass for Shut-Outs by Tanya Davis - Victoria Playhouse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/mass-for-shut-outs/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/MASS-400-x-250-px.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/MASS-400-x-250-px.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "400"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "250"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/9ab8b212c76ca86d",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://victoriaplayhouse.com/events/mass-for-shut-outs/"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/41fae3b4a4f0cdc4",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-16T11:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-16"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/e785bd04d218947b"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/49fb02c6de6d44c6"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/d607cd046abb4972"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/MASS-400-x-250-px.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/mass-for-shut-outs/?occurrence=2026-08-16"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/mass-for-shut-outs/"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "    Mass for Shut-Outs is a multidisciplinary performance that plays with the shape of a Catholic mass to ask new questions, challenge old stories, and dismantle the gatekeepers’ fortress. Written and performed by Tanya Davis, with musical support from Carlie Howell, Mass for Shut-Outs is a rousing and poetic take on Sunday service, with orature, music, and opportunities for play and communion. It features verse dressed as prayer, monologue mimicking homily, joyful singalong, and sombre reflection. It is designed for those of us on the spiritual fringes, who also seek meaning and connection, even while being historically shut out of—or disinterested in—traditional communities of faith, their liturgy, and their institutions. Mass for Shut-Outs is a shout out to anyone grappling with the complexity of faith, the inconsistency of awe, and the politics of organized religion. It is for atheists seeking connection, agnostics asking questions, and believers kindly curious about other people’s gods.    Content Advisory  Mass for Shut-Outs features mature content, brief mentions of sexuality, and some strong language. It explores queer and religious trauma and institutional harms while addressing faith, politics, and spirituality.  This show may inspire joy, nostalgia, contemplation, disconcertment, anger, laughter, sense of community, heartache, and/or reflection.    Content includes:  Colonization and Residential Schools  Homophobia/Transphobia  Catholic practices  Queer joy  Options for participation    Audience Notes  Audiences will be prompted to stand, kneel, sit, and sing along, but there is no pressure to participate which is communicated during the show. There may or may not be bouncy balls."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Mass for Shut-Outs by Tanya Davis"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/e785bd04d218947b",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/mass-for-shut-outs/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/49fb02c6de6d44c6",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/mass-for-shut-outs/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/d607cd046abb4972",
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/mass-for-shut-outs/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-16T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/mec-category/music/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Music Archives - Victoria Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "http://victoriaplayhouse.com/mec-category/music/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Victoria Playhouse"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "http://victoriaplayhouse.com/mec-category/music/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Inn-Echo.jpeg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Inn-Echo.jpeg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "334"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/bb8efc39ecfd1644",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/mec-category/music/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/c7b68cf325836402",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/mec-category/music/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/inn-echo/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Music Monday - Inn Echo - Victoria Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "The allure of a vibrant traditional music scene brought Karson McKeown (Ottawa, ON), Tuli Porcher (Victoria, BC) and Tom Gammons (Butte, MT) to Prince Edward Island. Despite attending the same music school in Charlottetown, they met in a more typical folky way: at a session in a local pub. Instantly, tunes, stories, and laughs were …"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/events/inn-echo/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Victoria Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/profile.php?id=100057776524908"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-05-22T19:01:20+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Inn-Echo.jpeg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "500"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "334"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/inn-echo/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://victoriaplayhouse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/inn-echo/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/inn-echo/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Inn-Echo.jpeg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-21T13:10:19+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-22T19:01:20+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/ce223e1e7d1626d5"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Music Monday - Inn Echo - Victoria Playhouse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/inn-echo/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Inn-Echo.jpeg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Inn-Echo.jpeg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "334"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/ce223e1e7d1626d5",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://victoriaplayhouse.com/events/inn-echo/"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/2b03b5c2cd4d5e81",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-17T16:30:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-17"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/ecdd33505ca4fc35"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/f4598bd40e6b15c7"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/3e95c8ee3c40d739"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Inn-Echo.jpeg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/inn-echo/?occurrence=2026-08-17"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/inn-echo/"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "https://youtu.be/fcNaJf7ImCQ?si=RC5Y1oMe3fAzKmHO    The allure of a vibrant traditional music scene brought Karson McKeown (Ottawa, ON), Tuli Porcher (Victoria, BC) and Tom Gammons (Butte, MT) to Prince Edward Island. Despite attending the same music school in Charlottetown, they met in a more typical folky way: at a session in a local pub. Instantly, tunes, stories, and laughs were being shared, and they felt a sense that their passions aligned. That’s how Inn Echo came together in 2019, but the tale continues with Music PEI awards, JUNO, ECMA and CFMA nominations, and tours spanning 3 continents.    Their 2023 release, Hemispheres, is a tribute to the places they’ve toured, carrying a piece of their home with them. Produced by Jake Charron and Donnie Richard, the album has the island at heart. But the tracks invoke a range of images: an Acadian kitchen party on Breton Tune, the night sky in Queensland on Jupiter and Mars, or Tuli’s childhood home on Vancouver Island on Big Blue.    Pull up a chair, but keep your dancing shoes on, Inn Echo have stories to share and the tunes to match them.    innechomusic.com    "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Music Monday &#8211; Inn Echo"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/ecdd33505ca4fc35",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/inn-echo/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/f4598bd40e6b15c7",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/inn-echo/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/3e95c8ee3c40d739",
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/inn-echo/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "40"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-17T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/music-monday-scott-parsons/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Music Monday - Scott Parsons - Victoria Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Scott Parsons is a multi-disciplined Island musician who has consistently utilized his accomplishments to enrich both himself and his community. His involvement with theatre, film, radio and television has sparked an artistic creativity that carries over to his work with disabled and high-priority youth. Scott’s body of work spans nearly five decades and he has …"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/events/music-monday-scott-parsons/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Victoria Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/profile.php?id=100057776524908"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-06-04T16:06:25+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Scott-Parsons-For-Website.jpeg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "700"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "467"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/music-monday-scott-parsons/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://victoriaplayhouse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/music-monday-scott-parsons/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/music-monday-scott-parsons/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Scott-Parsons-For-Website.jpeg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-31T19:52:15+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-04T16:06:25+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/45443810a6698aaa"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Music Monday - Scott Parsons - Victoria Playhouse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/music-monday-scott-parsons/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Scott-Parsons-For-Website.jpeg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Scott-Parsons-For-Website.jpeg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "700"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "467"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/45443810a6698aaa",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://victoriaplayhouse.com/events/music-monday-scott-parsons/"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/f66abbc01ec000cf",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-31T16:30:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-31T18:30:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/0cb61dc87e9909d6"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/144c7a7eddf08bb3"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/291344ec634c5541"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Scott-Parsons-For-Website.jpeg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/music-monday-scott-parsons/?occurrence=2026-08-31"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/music-monday-scott-parsons/"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "https://youtu.be/PdXxSk7oFuA?si=CrkdbTMVBc8McvXc    Scott Parsons is a multi-disciplined Island musician who has consistently utilized his accomplishments to enrich both himself and his community. His involvement with theatre, film, radio and television has sparked an artistic creativity that carries over to his work with disabled and high-priority youth.    Scott’s body of work spans nearly five decades and he has played too many benefits, bars and small venues to be named. His folk festival appearances have included the Mariposa Folk Festival (Toronto), Winnipeg Folk Festival, Calgary Folk Festival, Vancouver Folk Festival, the Islands Folk Festival (Vancouver Island), Lunenburg Folk Harbour Festival, Deep Roots Festival (Wolfville, NS), the Wymarsh Festival (Ontario), Seattle Folklife Fair, Montreal Celtic Festival, Gene MacLellan Song Festival (PEI), PEI Jazz and Blues Festival, and the Stan Rogers Festival.    He has done two extensive tours of Switzerland and has played across Canada, the U.S., England, Wales, Scotland and the Orkney Islands. He has opened for Blue Rodeo, Jesse Winchester, backed up the infamous Daisy Debolt and was bass player for Gene MacLellan. He was also honored to do a concert at Metro Detroit’s “Gilda’s Club,” dedicated to comedian Gilda Radner.    Awards and Honours      The Queen Elizabeth II Diamond Jubilee Medal, awarded to Islanders for service to their community and country (2012).    The Father Adrian Arsenault Senior Arts Award, Province of Prince Edward Island (2012).    Blues Recording of the Year for Live at Mahogany Hall, Music PEI (2011).    PEI Blues Artist of the Year for Nice To Wear, Music PEI (2003-4).    African-Canadian Recording of the Year for Nice To Wear, East Coast Music Awards (2003).    Best Soundtrack for a Short Film for Grimm, PEI Film Festival (2002).    “What I Am” (Jupiter Wise) selected as the theme song for the United Nations International Conference for the Rights of the Child (1993).    "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Music Monday &#8211; Scott Parsons"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/0cb61dc87e9909d6",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/music-monday-scott-parsons/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/144c7a7eddf08bb3",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/music-monday-scott-parsons/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/291344ec634c5541",
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/music-monday-scott-parsons/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "40"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-31T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/how-to-live-with-dread/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "How to Live with Dread - by Jane Wells - Victoria Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Wells wrote How to Live with Dread after losing her brother. She grapples in this work with how to find a way forward in life and in her work without him — so close was their connection as siblings and collaborators.  “A show about family, about death, and about the work of creation… But in a fun way!”"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/events/how-to-live-with-dread/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Victoria Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/profile.php?id=100057776524908"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-06-10T01:41:11+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Jane-Wells-at-the-Bus-Stop-Theatre-with-items-symbolizing-her-family-in-her-play-How-To-Live-With-Dread.jpeg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1620"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/how-to-live-with-dread/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://victoriaplayhouse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/how-to-live-with-dread/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/how-to-live-with-dread/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Jane-Wells-at-the-Bus-Stop-Theatre-with-items-symbolizing-her-family-in-her-play-How-To-Live-With-Dread.jpeg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-21T15:33:56+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-10T01:41:11+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/68bd72719ef68fa8"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "How to Live with Dread - by Jane Wells - Victoria Playhouse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/how-to-live-with-dread/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Jane-Wells-at-the-Bus-Stop-Theatre-with-items-symbolizing-her-family-in-her-play-How-To-Live-With-Dread.jpeg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Jane-Wells-at-the-Bus-Stop-Theatre-with-items-symbolizing-her-family-in-her-play-How-To-Live-With-Dread.jpeg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1620"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/68bd72719ef68fa8",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://victoriaplayhouse.com/events/how-to-live-with-dread/"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/3944b32819e30835",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-09T16:30:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-09"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/ef794081d61ed2dd"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/1477c7ecc8b7b8d1"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/667254a5969e9f96"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Jane-Wells-at-the-Bus-Stop-Theatre-with-items-symbolizing-her-family-in-her-play-How-To-Live-With-Dread.jpeg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/how-to-live-with-dread/"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "    Jane Wells grew up in Cascumpeque, PEI but has spent the past 20 years in Toronto working as a writer, actor and director. Since 2017, she has been leading drama workshops for children with The River Clyde Pageant in New Glasgow, PEI, of which she is the Co-Director. These sessions serve as a springboard for children to join the Pageant as performers; over the past three years, workshops have helped forge a youth ensemble with a powerful creative voice.    Wells wrote How to Live with Dread shortly after losing her brother Ker. She grapples in this work with how to find the way forward in life and in her work without him — so close was their connection as siblings and collaborators. The piece shines a gentle light on grief and one’s identity within, and after, loss.    Jane describes How to Live with Dread as “a show about family, about death, and about the work of creation… But in a fun way!”    &nbsp;"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "How to Live with Dread &#8211; by Jane Wells"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/how-to-live-with-dread/?occurrence=2026-08-09&time=1786303800"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/ef794081d61ed2dd",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/how-to-live-with-dread/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/1477c7ecc8b7b8d1",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/how-to-live-with-dread/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/667254a5969e9f96",
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/how-to-live-with-dread/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-09T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/music-monday-catherine-maclellan/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Music Monday - Catherine MacLellan - Victoria Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "Catherine MacLellan has been captivating audiences around the world with her music for over two decades. Born and raised in the idyllic province of Prince Edward Island, Catherine’s songs reflect her deep connection to the land and the people that call it home. Her passion for songwriting runs in the family; her father, Gene MacLellan, …"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/events/music-monday-catherine-maclellan/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Victoria Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/profile.php?id=100057776524908"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-07-18T16:12:43+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Cathy-Mac-For-Website.jpeg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "700"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "467"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/music-monday-catherine-maclellan/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://victoriaplayhouse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/music-monday-catherine-maclellan/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/music-monday-catherine-maclellan/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Cathy-Mac-For-Website.jpeg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-18T16:11:31+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-07-18T16:12:43+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/d71d28fd7b9bbb77"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Music Monday - Catherine MacLellan - Victoria Playhouse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/music-monday-catherine-maclellan/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Cathy-Mac-For-Website.jpeg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Cathy-Mac-For-Website.jpeg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "700"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "467"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/d71d28fd7b9bbb77",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://victoriaplayhouse.com/events/music-monday-catherine-maclellan/"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/6adaafeb981d02da",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-03T16:30:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-03T18:30:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/7d2469f6da8f0507"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/ad47a853a9f98a4e"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/121d15c5a6449cb8"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Cathy-Mac-For-Website.jpeg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/music-monday-catherine-maclellan/?occurrence=2026-08-03"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/music-monday-catherine-maclellan/"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "https://youtu.be/DbQ7l0LKCVQ?si=Tcurv3RfBhuTKcbR    Catherine MacLellan has been captivating audiences around the world with her music for over two decades. Born and raised in the idyllic province of Prince Edward Island, Catherine's songs reflect her deep connection to the land and the people that call it home. Her passion for songwriting runs in the family; her father, Gene MacLellan, wrote beloved hits like \"Snowbird\" and \"Put Your Hand in the Hand.\"    While Catherine's music is rooted in folk and roots, her sound has evolved to embrace a wider range of influences over the course of her 7 albums. From heart-wrenching ballads to uplifting anthems, her music has a universal appeal that speaks to the struggles, triumphs, and joys of life.    "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Music Monday &#8211; Catherine MacLellan"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/7d2469f6da8f0507",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/music-monday-catherine-maclellan/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/ad47a853a9f98a4e",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/music-monday-catherine-maclellan/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/121d15c5a6449cb8",
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/music-monday-catherine-maclellan/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-03T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/fb1f94c6d7804421",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/catherine-rachel-lucy/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/4c6472210643315a",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/catherine-rachel-lucy/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/the-ross-family-ceilidh-20th-anniversary/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2025/04/The-Ross-Family_Heather-Ogg-78EE-scaled.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2025/04/The-Ross-Family_Heather-Ogg-78EE-scaled.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1709"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/6587b68782e338db",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://victoriaplayhouse.com/events/the-ross-family-ceilidh-20th-anniversary/"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/524ad7e958c66282",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-ross-family-ceilidh-20th-anniversary/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/dc8f6af3d69bad8f",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-ross-family-ceilidh-20th-anniversary/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/the-wonder-of-it-all/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "The Wonder of it All - Victoria Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "After 25 years together, Kingsley and Charmaine find themselves questioning the future of their marriage when an unexpected surprise from the past disrupts their lives. Starring Stratford Festival veterans Mark Weatherley and his real-life wife, PEI native Monique Lund, The Wonder of it All is a witty, touching comedy about love and rediscovery."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/events/the-wonder-of-it-all/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Victoria Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/profile.php?id=100057776524908"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-08-23T13:00:53+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/wp-content/uploads/2026/04/TWOIA-400-x-250.png"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "400"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "250"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/png"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-wonder-of-it-all/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://victoriaplayhouse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-wonder-of-it-all/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-wonder-of-it-all/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/04/TWOIA-400-x-250.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-01T14:25:21+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-23T13:00:53+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/b7be37e1e6ae3d39"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Wonder of it All - Victoria Playhouse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/events/the-wonder-of-it-all/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/04/TWOIA-400-x-250.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/04/TWOIA-400-x-250.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "400"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "250"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/b7be37e1e6ae3d39",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://victoriaplayhouse.com/events/the-wonder-of-it-all/"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/02913584ac8757d5",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-30T16:30:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-30"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/b0cd18cd5991ac00"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/f1bd652e882d912f"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/327cc2250030764b"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/04/TWOIA-400-x-250.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-wonder-of-it-all/"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "https://youtu.be/jdQQkjFghKg?si=ut8ADAOAA3eLv2V4    Featuring playwright Mark Weatherley and his real-world spouse - PEI-native Monique Lund - as they depart on this journey together, sharing The Wonder of it All!    Kingsley considered convincing Charmaine to marry him the greatest achievement of his life. That is, until a surprise from their past meddles with the certainty of their future. After 25 years, is it too late for them to rediscover the redemptive power of love?    Full of humour and heart, the world premiere of the two-act version of The Wonder Of It All is a witty and touching comedy—a comic misadventure for modern lovers.    Review: The Wonder of it All in Stratford, Ontario from The Slotkin Letter  Mark Weatherley has written a funny, sweet play about communication, the rocky road to love and marriage, commitment and the importance of sitting beside someone you love, in the rain, getting soaked but stroking her hair to tell her it will be ok.    Weatherley also plays Kingsley in it with Monique Lund who plays Charmaine. Lund also happens to be Mark Weatherley’s wife. The two have a chemistry that is obvious. Their banter seems to have been honed to a sheen over years of bantering. They flip lines off each other as two people who are familiar with each other can and know the other’s timing.    As Charmaine, Lund is sophisticated, a bit exasperated by Kingsley, and frustrated by the stall in their marriage. As Kingsley, Weatherley brings a sweet goofiness to the part, as Kingsley was all those years ago. That goofiness is Kingsley’s protection. He knows there is trouble in the marriage. He so wants it to work but is at a loss about getting that feeling back. Love always finds a way.  "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Wonder of it All"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-wonder-of-it-all/?occurrence=2026-08-30&time=1788118200"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/b0cd18cd5991ac00",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-wonder-of-it-all/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/f1bd652e882d912f",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-wonder-of-it-all/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/327cc2250030764b",
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-wonder-of-it-all/"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "en",
+        "@value": "40"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "en",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-08-30T00:00:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/f7d5854a88e81a18",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-conversation/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/a3b87d0788bc0fa8",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-conversation/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/df55c388576b38ea",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/press-play-3-new-horizons/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/3eda899c10bc1fc6",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/press-play-3-new-horizons/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/ed5d36062610b4b6",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/comedy-with-james-mullinger/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/f4ca326a5829709f",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/comedy-with-james-mullinger/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/shows-2/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Shows - Victoria Playhouse"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/shows-2/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Victoria Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/profile.php?id=100057776524908"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-03-28T11:21:10+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/shows-2/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "http://victoriaplayhouse.com/#website"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-30T11:14:12+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-28T11:21:10+00:00"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/39b380dd18ecf80d"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Shows - Victoria Playhouse"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-US"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/39b380dd18ecf80d",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "en",
+        "@value": "https://victoriaplayhouse.com/shows-2/"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/da3de4a171353bfe",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/shows-2/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/66f0be40a55972b3",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/shows-2/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/?mai_template_part=footer",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "en-us",
+        "@value": "en_US"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-us",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-us",
+        "@value": "Victoria Playhouse - Music and Theatre by the Sea!"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-us",
+        "@value": "An unforgettable theatre experience. A charming, professional theatre housed in a 100 year-old hall, rooted in a unique seaside community."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "en-us",
+        "@value": "Victoria Playhouse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "en-us",
+        "@value": "https://www.facebook.com/profile.php?id=100057776524908"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "en-us",
+        "@value": "2026-05-26T16:46:20+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-us",
+        "@value": "https://victoriaplayhouse.com/wp-content/uploads/2026/04/2025-Cover-Photo.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "en-us",
+        "@value": "1600"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "en-us",
+        "@value": "1012"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "en-us",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/458848c5b0b6b39f",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-07T16:30:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-07T18:30:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/1ffa88cedf43d120"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/760ea7ac08eeeb35"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/5432d6dc03dc8dee"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/05/Lucy-Cat-Rachael.jpeg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/catherine-rachel-lucy/?occurrence=2026-09-07"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://victoriaplayhouse.com/?mai_template_part=footer"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "    Catherine MacLellan is bringing together two of her favourite songwriters, Rachael Kilgour and Lucy Farrell,  for an evening of songs, stories, open hearts and laughter.      Catherine MacLellan is a JUNO award winner, ECMA songwriter of the year, and has released 7 albums over the past 20 years while touring around the world. She makes her home in her beloved Prince Edward Island, her songs reflecting the landscape of the island. Her music takes you through struggles, triumphs and the joy of life. Catherine is dedicated to the craft of songwriting, her desire for connection is at the heart of her work.    Lucy Farrell - Odd, unconventional melodies, poetic, sophisticated song-writing and the bewitching clarity of Kent-born, Canada-based Lucy Farrell’s voice are made elegant with sparse, careful accompaniment on tenor guitar and occasionally viola, carving out a unique niche for an artist at the forefront of contemporary English folk music. Finding an international audience among artists like Julia Jacklin, Emily Portman, The Weather Station, The Unthanks and Eliza Carthy, the 2017 BBC Radio 2 Folk Award Winner Lucy Farrell is not only awarded as a renowned composer and singer, but also as viola/fiddle/tenor guitar-player.     Rachael Kilgour writes (and sings) in hopes of finding a truth she can live with. Her 2023 release \"My Father Loved Me\" was written in memory of her late, Canadian dad and was recorded with help from some of the nation's finest talent. In the spare and often gutting language for which she is known, Kilgour poses questions about belonging, inheritance and grief and triumphantly affirms the value of one ordinary working man’s life.     A dual-citizen born and raised in Minnesota, Kilgour has shared her heartfelt and surprisingly comedic performances across the U.S. and Canada. She earned a prestigious McKnight Music Fellowship in 2025, was an official showcasing artist at the FAI Conference (2025), and was the winner of both the Kerrville New Folk Contest (2017) and the Newsong Competition (2015). Her oft-noted “unapologetic lyrics” (Rolling Stone) and “master crafted indie folk” sensibilities (Billboard) are on full display in her most recent collection of delicately woven songs."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Catherine MacLellan, Rachel Kilgour &#038; Lucy Farrell"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/1ffa88cedf43d120",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/?mai_template_part=footer"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/760ea7ac08eeeb35",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/?mai_template_part=footer"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/97b7221a4e047300",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-08T16:30:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-08T18:30:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/1ffa88cedf43d120"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/760ea7ac08eeeb35"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/1deff5e53b348d7c"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2025/04/The-Ross-Family_Heather-Ogg-78EE-scaled.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://victoriaplayhouse.com/?mai_template_part=footer"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "    When quirky, personable siblings Stephanie, Johnny, and Danielle come together as a band, they are no longer just a family, no longer just Rosses. They are: the Ross Family. (Cue the cackles).    Big vocals, heartfelt nerdy stories, stylish fiddle sets, wicked piano, and fine step-dancing: The fruit of several generations of Ross and Arsenault values, talents, languages, and hardship.    The group desires to preserve and play with their centuries-old PEI heritage, as well as contemporary folk influences. Add in these music lovers' varied tastes and there lays the foundation for their original music. Songwriting that tends to reflect on how our roots, our home, our people shape us.    Even after twenty years of performance, the bright stage lights have not blinded the Ross Family from truly seeing those who support and connect with their art. Art that is often described as uplifting and emotionally stirring, full-circle and full-sounding, with sincere depth and goofiness. In other words, love.    https://youtu.be/bU-2C2W2K4M"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Ross Family Ceilidh &#8211; 20th Anniversary!"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-ross-family-ceilidh-20th-anniversary/?occurrence=2026-09-08&time=1788895800"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/34bdac61fe2cf2c0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-12T16:30:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-12T18:30:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/1ffa88cedf43d120"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/760ea7ac08eeeb35"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/8a7e1dc82d318926"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/08/The-Conversation-Poster-resized.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://victoriaplayhouse.com/?mai_template_part=footer"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "    Has your mother ever driven you to distraction? Is she stubborn and not willing to change her ways though her health is failing? In The Conversation, a daughter navigates her strained relationship with her mother as they move towards their final chapter together. But no one can push your buttons like your mother and the result is as hilarious as it can be heartbreaking. Both women desire more from their relationship, but can they get past their longstanding patterns with each other and find a new way?    Winner of the inaugural PEI Playwriting Competition in 2023, The Conversation by Marlene Campbell is a comedy that looks at the time when the parent/child relationship shifts and the challenges, frustrations, and humour that results as that new relationship is navigated and negotiated.    Acclaimed actor and director, Marlane O’Brien takes on the role of an independent and successful career woman and mother, who is not gracefully accepting the confinements of aging, and is given to taking out her frustrations on her primary caregiver. Mellisa Mullen, an accomplished Island actor and playwright, plays the caregiving daughter, a single parent dealing with a rebellious child, a stressful job and a distant mother who pushes her buttons. When these two strong and determined women clash, it is as hilarious as it can be heartbreaking, as we relate to each one’s frustrations and fears. Both women desire more from their relationship as the mother moves towards her final chapter, but can they get past their longstanding patterns with each other and find a new way?      Pamela Halstead of Halifax’s DMVTheatre who is directing and producing the play says, “The dynamic between Marlane O’Brien and Melissa Mullen onstage as mother and daughter is truly magical and the audience will find themselves immediately drawn in to their witty and volatile relationship. These are two of the finest actors on the Island and they bring their combined talent and heart together to create a powerhouse performance.”    "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Conversation"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-conversation/?occurrence=2026-09-12&time=1789241400"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/0c214d8fa64f39d8",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-13T11:00:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-13T13:00:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/1ffa88cedf43d120"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/760ea7ac08eeeb35"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/9fd3d0ffc1869311"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/08/The-Conversation-Poster-resized.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://victoriaplayhouse.com/?mai_template_part=footer"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "    Has your mother ever driven you to distraction? Is she stubborn and not willing to change her ways though her health is failing? In The Conversation, a daughter navigates her strained relationship with her mother as they move towards their final chapter together. But no one can push your buttons like your mother and the result is as hilarious as it can be heartbreaking. Both women desire more from their relationship, but can they get past their longstanding patterns with each other and find a new way?    Winner of the inaugural PEI Playwriting Competition in 2023, The Conversation by Marlene Campbell is a comedy that looks at the time when the parent/child relationship shifts and the challenges, frustrations, and humour that results as that new relationship is navigated and negotiated.    Acclaimed actor and director, Marlane O’Brien takes on the role of an independent and successful career woman and mother, who is not gracefully accepting the confinements of aging, and is given to taking out her frustrations on her primary caregiver. Mellisa Mullen, an accomplished Island actor and playwright, plays the caregiving daughter, a single parent dealing with a rebellious child, a stressful job and a distant mother who pushes her buttons. When these two strong and determined women clash, it is as hilarious as it can be heartbreaking, as we relate to each one’s frustrations and fears. Both women desire more from their relationship as the mother moves towards her final chapter, but can they get past their longstanding patterns with each other and find a new way?      Pamela Halstead of Halifax’s DMVTheatre who is directing and producing the play says, “The dynamic between Marlane O’Brien and Melissa Mullen onstage as mother and daughter is truly magical and the audience will find themselves immediately drawn in to their witty and volatile relationship. These are two of the finest actors on the Island and they bring their combined talent and heart together to create a powerhouse performance.”    "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Conversation"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-conversation/?occurrence=2026-09-13&time=1789308000"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/05e58aab6b546ce6",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-15T16:30:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-15T18:30:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/1ffa88cedf43d120"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/760ea7ac08eeeb35"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/7136a6c1685ce06a"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2025/04/The-Ross-Family_Heather-Ogg-78EE-scaled.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://victoriaplayhouse.com/?mai_template_part=footer"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "    When quirky, personable siblings Stephanie, Johnny, and Danielle come together as a band, they are no longer just a family, no longer just Rosses. They are: the Ross Family. (Cue the cackles).    Big vocals, heartfelt nerdy stories, stylish fiddle sets, wicked piano, and fine step-dancing: The fruit of several generations of Ross and Arsenault values, talents, languages, and hardship.    The group desires to preserve and play with their centuries-old PEI heritage, as well as contemporary folk influences. Add in these music lovers' varied tastes and there lays the foundation for their original music. Songwriting that tends to reflect on how our roots, our home, our people shape us.    Even after twenty years of performance, the bright stage lights have not blinded the Ross Family from truly seeing those who support and connect with their art. Art that is often described as uplifting and emotionally stirring, full-circle and full-sounding, with sincere depth and goofiness. In other words, love.    https://youtu.be/bU-2C2W2K4M"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Ross Family Ceilidh &#8211; 20th Anniversary!"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-ross-family-ceilidh-20th-anniversary/?occurrence=2026-09-15&time=1789500600"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/b67b715c1bf91d7c",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-19T16:30:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-19T18:30:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/1ffa88cedf43d120"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/760ea7ac08eeeb35"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/cee0007c4cb8a1a9"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2025/04/The-Ross-Family_Heather-Ogg-78EE-scaled.jpg"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://victoriaplayhouse.com/?mai_template_part=footer"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "    When quirky, personable siblings Stephanie, Johnny, and Danielle come together as a band, they are no longer just a family, no longer just Rosses. They are: the Ross Family. (Cue the cackles).    Big vocals, heartfelt nerdy stories, stylish fiddle sets, wicked piano, and fine step-dancing: The fruit of several generations of Ross and Arsenault values, talents, languages, and hardship.    The group desires to preserve and play with their centuries-old PEI heritage, as well as contemporary folk influences. Add in these music lovers' varied tastes and there lays the foundation for their original music. Songwriting that tends to reflect on how our roots, our home, our people shape us.    Even after twenty years of performance, the bright stage lights have not blinded the Ross Family from truly seeing those who support and connect with their art. Art that is often described as uplifting and emotionally stirring, full-circle and full-sounding, with sincere depth and goofiness. In other words, love.    https://youtu.be/bU-2C2W2K4M"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Ross Family Ceilidh &#8211; 20th Anniversary!"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/the-ross-family-ceilidh-20th-anniversary/?occurrence=2026-09-19&time=1789846200"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/6d862c114388f11a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-25T16:30:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-25T18:30:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/1ffa88cedf43d120"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/760ea7ac08eeeb35"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/3e334061d343afbb"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/07/Shane-Pendergast.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/press-play-3-new-horizons/?occurrence=2026-09-25"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://victoriaplayhouse.com/?mai_template_part=footer"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "[gallery columns=\"4\" link=\"file\" ids=\"5422,5420,5421,5419\"]    &nbsp;    [gallery columns=\"4\" link=\"file\" ids=\"5459,5460,5461,5429\"]    Join us for our third annual fundraising concert. The evening will celebrate 44 years of theatre in Victoria-by-the-Sea while looking toward an exciting new chapter.    The concert features an eclectic lineup of Island talent, including special guest Shane Pendergast, acoustic ensemble Woodsmoke, singer-songwriter Megan Ellands, step dancer Emily Hughes accompanied by Morgan Wagner, songwriter Peter Richards, and Reequal Smith and Oshun Dance Studios. The evening will also highlight the work of Victoria Playhouse Theatre School, with fun surprises and plenty of community spirit.    Pendergast, one of Atlantic Canada’s acclaimed folk troubadours, won Contemporary Roots Album of the Year at the 2022 Music PEI Awards for Second Wind and released his fourth album, Winter Grace, in 2025. Woodsmoke brings five longtime friends together for an eclectic acoustic repertoire spanning five decades. Westmoreland singer-songwriter Megan Ellands has performed everywhere from kitchen parties to the Festival of Small Halls and CBMF. Cornwall step dancer Emily Hughes recently graduated from Bluefield High School and begins the Bachelor of Music Education program at UPEI this fall.    The event will also celebrate the future of the Playhouse. After 44 years as a Summer-only Theatre and Music Festival, Victoria Playhouse Inc. is moving toward year-round stewardship and programming at the historic Victoria Community Hall. Programming will gradually expand into the Spring and Fall seasons, creating new opportunities for Island artists and community members to create, learn, connect and experience the performing arts.    Funds raised will support the expansion and development of new and diverse theatre programming, as well as Theatre School classes and workshops for children and adults. The Theatre School’s recent productions include Charlotte’s Web, A Christmas Carol and The Secret Garden, with The Lion, the Witch and the Wardrobe planned for December.    TICKET INFORMATION    Friday, September 25, 2026 | 7:30 p.m.  Tickets: $75    Each ticket includes a $45 charitable tax receipt, one free drink ticket, and one free Art Raffle ticket.    Join Victoria Playhouse as we honour the past, celebrate Island talent and Press Play on NEW HORIZONS.    -30-"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Press Play 3 &#8211; New Horizons"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  },
+  {
+    "@id": "https://victoriaplayhouse.com/genid/1e129b5d578a9d9e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-03T16:30:00-03:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-03T18:30:00-03:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/1ffa88cedf43d120"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/760ea7ac08eeeb35"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://victoriaplayhouse.com/genid/e763f17b8055fd71"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://victoriaplayhouse.com/wp-content/uploads/2026/06/james-mullinger.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://victoriaplayhouse.com/events/comedy-with-james-mullinger/?occurrence=2026-10-03"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://victoriaplayhouse.com/?mai_template_part=footer"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "https://youtu.be/drgmH5MBfPQ?si=tqusUbu3EKLcLf8_  THE BRITISH COMEDIAN TURNED CANADIAN, LIVE ON STAGE IN VICTORIA, PEI FOR THE VERY FIRST TIME!  This is it! James Mullinger’s first ever live stand-up comedy show at the beautiful Victoria Playhouse. Come and see Atlantic Canada’s biggest cheerleader doing what he does best! Live stand-up comedy at the Playhouse. 90 mins of stand-up comedy featuring James Mullinger at his very best!  12+ Recommended as there may be some strong language.  James Mullinger was one of the UK’s hardest working comedians and the Comedy Editor for GQ magazine when he moved to New Brunswick in 2014. Since his arrival, he has taken the country by storm. He has sold out shows across the country, made appearances on CBC’s The Debaters, movies, television shows, festivals, award shows and stand-up specials… he’s done it all. In May 2022, James Mullinger’s autobiography Brit Happens – Living the Canadian Dream was released to rave reviews and quickly topped the Amazon Comedy Book Charts! He was recently named one of the Most Inspiring Immigrants in Atlantic Canada and earlier this year released New Brunswick’s first ever national sitcom about, you guessed it, a British comedian who accidentally moves to New Brunswick! He loves living in the Maritimes so much that he founded the national magazine [EDIT] to celebrate and highlight the east coast to the rest of Canada: www.maritimeedit.com        “A great stand up.” Jimmy Carr  “James Mullinger masterfully straddles the line between the objective and inclusive, culturally and geographically. He gently pokes us with a stick while being one of us.” Jonathan Torrens  “James Mullinger is Britain’s greatest gift to Canadian comedy.” Stuart Nulman, Montreal Times  Book now, this will sell out!  "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Comedy with James Mullinger"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ]
+  }
+]
